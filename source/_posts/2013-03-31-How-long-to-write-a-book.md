@@ -4,6 +4,7 @@ title:  "How long to write a book?"
 date:   2013-03-31
 tags: [writing]
 categories: [Mix]
+permalink: How-long-to-write-a-book
 ---
 
 How long to write a book? No correct answer to this question. My sensibility always admire people who can write the book as quickly as possible because the speed implies that they have high productivity and other abilities. My intellects know my sensibility is wrong. How to marry intellects and sensibility? I do not have answer to this question, either. One thing can be confirmed that good books take time. How long? Several years. <!-- more -->

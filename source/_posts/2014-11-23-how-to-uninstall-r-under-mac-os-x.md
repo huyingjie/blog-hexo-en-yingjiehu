@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "How to Uninstall R underMac OS X"
-date:   2014-11-23
+date: 2014-11-23
 tags: [R]
 categories: [Programming Language, R]
+permalink: how-to-uninstall-r-under-mac-os-x
 ---
 
 When updating R on Mac,  we can uninstall the old version and install the new version. Uninstalling R is very easy on Mac. <!-- more -->

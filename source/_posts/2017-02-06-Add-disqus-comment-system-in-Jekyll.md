@@ -4,6 +4,7 @@ title:  "Add disqus comment system in Jekyll"
 date:   2017-02-06
 tags: [Jekyll]
 categories: [Mix]
+permalink: Add-disqus-comment-system-in-Jekyll
 ---
 
 The following steps are to add disqus comment system in all posts. It requires global setting in the `_config.yml` file. In comparison, the official disqus tutorial adds front matter to each post to indicate whether comments are shown or not. <!-- more -->

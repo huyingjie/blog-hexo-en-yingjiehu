@@ -15,7 +15,8 @@ timezone:
 url: http://huyingjie.github.io/blog-hexo-en-yingjiehu
 #url: http://yoursite.com
 root: /
-permalink: :year/:month/:day/:title/
+#permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 
 # Directory
