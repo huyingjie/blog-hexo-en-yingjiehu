@@ -27,4 +27,4 @@ branches:
     - master
 env:
  global:
-   - GH_REF: github.com/huyingjie/blog-hexo-en-yingjiehu.git
+   - GH_REF: github.com/huyingjie/huyingjie.github.io.git
