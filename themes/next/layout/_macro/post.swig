@@ -308,8 +308,23 @@
         {% endif %}
       {% else %}
         {{ post.content }}
+        {% set related_post =  list_related_posts(post, {maxCount: 10, orderBy: 'date'}) %}
+        {% if related_post.length > 0 %}
+          <h3 class="article-title" style="border-radius:10px 10px 0 0; display: block; margin: 0; font-size: 1em; cursor: pointert;">Related posts:</h3>
+          <ul class="related-posts">
+          {% for rl_post in related_post %}
+              <li class="related-posts-item"><a href="{{ url_for(rl_post.path) }}">{{ rl_post.title }}</a></li>
+          {% endfor %}
+          </ul>
+        {% endif %}  
+
+          <p style="box-shadow: 0 0 2px rgba(0,0,0,0.25) inset; clear: both; padding: 0.5em; border-top: solid 1px #ddd; boder-bottom: solid 1px #ddd; background: rgba(240,220,220,0.25); color: #777; text-align: center"> 
+          Follow the author on <a href = "https://twitter.com/yingjieYJH" target = blank>Twitter</a>.<br>
+          This content is <a href = "https://www.patreon.com/yingjiehu" target = blank> supported by readers like you.</a>
+         </p>
       {% endif  %}
     </div>
+
     {#####################}
     {### END POST BODY ###}
     {#####################}

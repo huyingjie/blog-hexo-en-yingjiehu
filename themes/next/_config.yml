@@ -89,6 +89,7 @@ menu:
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
+  Advanced Search: https://cse.google.com/cse/publicurl?cx=009753806236764620511:ocgyk6aw21q || search
 
 # Enable/Disable menu icons.
 menu_icons:
@@ -233,7 +234,7 @@ post_wordcount:
   #description: ex. subscribe to my blog by scanning my public wechat account
 
 # Reward
-#reward_comment: Donate comment here
+#reward_comment: This content is supported by readers like you.
 #wechatpay: /images/wechatpay.jpg
 #alipay: /images/alipay.jpg
 #bitcoin: /images/bitcoin.png
@@ -398,17 +399,17 @@ valine:
 # Warning: JiaThis does not support https.
 #jiathis:
   ##uid: Get this uid from http://www.jiathis.com/
-#add_this_id:
+add_this_id: ra-5272bc2a7b3c1ddc
 
 # Share
 #duoshuo_share: true
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-#google_site_verification:
+google_site_verification: g5BseDGQ1hWwdbBPJLKNfbC6xNOaM3X4LnKEMAvx_tI
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-41389351-1
 
 # Bing Webmaster tools verification setting
 # See: https://www.bing.com/webmaster/
@@ -474,9 +475,9 @@ rating:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  app_id: MnyNAQwt5HRHeBG9zFl0WeHI-gzGzoHsz
+  app_key: iIrJFPKYedXDW2OscPNpGzvz
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
@@ -537,7 +538,7 @@ algolia_search:
 # Local search
 # Dependencies: https://github.com/flashlab/hexo-generator-search
 local_search:
-  enable: false
+  enable: true
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
