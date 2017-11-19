@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Add disqus comment system in Jekyll]]></title>
+    <url>%2FAdd-disqus-comment-system-in-Jekyll%2F</url>
+    <content type="text"><![CDATA[The following steps are to add disqus comment system in all posts. It requires global setting in the _config.yml file. In comparison, the official disqus tutorial adds front matter to each post to indicate whether comments are shown or not. Add following codes to the _config.yml file: 1234# Disqus settingsdisqus_username: DISQUSNAMElayout: defaultcomments: true Click the Universal Embeded Code text in the Jekyll install instructions page in disqus website. Copy codes in the first step on the page. Open and edit post.html below the _layouts folder. Find the place where you will put comments. Paste codes from Step 3.]]></content>
+      <categories>
+        <category>Mix</category>
+      </categories>
+      <tags>
+        <tag>Jekyll</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[How to show math formula in Jekyll]]></title>
+    <url>%2FShow-math-formula-in-Jekyll%2F</url>
+    <content type="text"><![CDATA[There are only two steps to add functionality of showing math formular in Jekyll. MathJax is the engine to achive it. open the file default.html in the folder _layouts add the following codes before ` 12345&lt;script type="text/x-mathjax-config"&gt;MathJax.Hub.Config(&#123;tex2jax: &#123;inlineMath: [['$','$'], ['\\(','\\)']]&#125;&#125;);&lt;/script&gt;&lt;script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"&gt;&lt;/script&gt;&lt;link href="/assets/css/syntax.css" rel="stylesheet" &gt; Test:Add the following codes to your posts to test whether MathJax is working. the inline mode Code: 12 In physics, the mass-energy equivalence is statedby the equation $E=mc^2$, discovered in 1905 by Albert Einstein. Desired result: In physics, the mass-energy equivalence is statedby the equation $E=mc^2$, discovered in 1905 by Albert Einstein. the display mode Code: 12345678910The mass-energy equivalence is described by the famous equation$$E=mc^2$$discovered in 1905 by Albert Einstein.In natural units ($c$ = 1), the formula expresses the identity\begin&#123;equation&#125;E=m\end&#123;equation&#125; Desired result: The mass-energy equivalence is described by the famous equation $$E=mc^2$$ discovered in 1905 by Albert Einstein. In natural units ($c$ = 1), the formula expresses the identity \begin{equation} E=m \end{equation}]]></content>
+      <categories>
+        <category>Mix</category>
+      </categories>
+      <tags>
+        <tag>Jekyll</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[How to Uninstall R underMac OS X]]></title>
+    <url>%2Fhow-to-uninstall-r-under-mac-os-x%2F</url>
+    <content type="text"><![CDATA[When updating R on Mac, we can uninstall the old version and install the new version. Uninstalling R is very easy on Mac. During installation of R, at least 2 folders are involved. /Applications/R.app folder: contains GUI /Library/Frameworks/R.framework folder: contains R framework (unkown) /usr/bin : contains some linksWhen uninstalling, R under Mac OS X will delete all of them. Uninstallation steps as follows: open terminal in Mac OS X run rm -rf /Library/Frameworks/R.framework /Applications/R.app \ /usr/bin/R /usr/bin/RscriptDone! Reference: http://cran.r-project.org/doc/manuals/r-release/R-admin.html#Uninstalling-under-OS-X]]></content>
+      <categories>
+        <category>Programming Language</category>
+        <category>R</category>
+      </categories>
+      <tags>
+        <tag>R</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[It is a correct choice to buy Mac Pro!]]></title>
+    <url>%2Fits-a-correct-choice-to-buy-mac-pro%2F</url>
+    <content type="text"><![CDATA[I usually saw some tutorials in youtube about how to use softwares. There is a high probability that people in the video used Mac to teach how to program. In the past, I feel doubt that why it happened. Last year, in the thanksgiving’s shopping season ($150 off), I decided to buy 13 inch, not too big and heavy, not too small. In the store, it was easy for me to confuse which one to buy, Mac Pro or Mac Air. The employee in the NYU Mac store said price performance ratio was better. She recommended that it was better to buy Mac Air if Mac was my secondary computer. Finally, I made the decision to buy Mac Pro 13 inch because its CPU was better than Mac Air and storage was bigger. Last week, my experience told me that it is one of the most valuable items purchased last year. I did one problem about kernel smoothing method and used guassian kernel. The training data set was big with over 7000 observations and 56 predictors. All the predictors had to be used to generate guassian kernals for each observation in test data. Then I programmed the process to create guassian kernals. For each test data, it took about 3 minutes to generate the wights. I felt it was too slow then run the same program in Lenovo Thinkpad T420. It cost third times time. One of my classmates used Mac Air to program, she could not know when the program would stop but the same program was run in Mac Pro in several seconds. Big difference! A computer with faster CPU is very important. It recalled me the time last semester. A lot of programming were required for bayesian class. Some programs were slow. If I used Mac Pro at that time, less time would be put in my homework and I did not need to stay up every week!]]></content>
+      <categories>
+        <category>Mix</category>
+      </categories>
+      <tags>
+        <tag>Mac</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[How long to write a book?]]></title>
+    <url>%2FHow-long-to-write-a-book%2F</url>
+    <content type="text"><![CDATA[How long to write a book? No correct answer to this question. My sensibility always admire people who can write the book as quickly as possible because the speed implies that they have high productivity and other abilities. My intellects know my sensibility is wrong. How to marry intellects and sensibility? I do not have answer to this question, either. One thing can be confirmed that good books take time. How long? Several years. Eric Novik planned to write a book recently, 8 chapter and over 300 pages. He asked Prof. Gelman: The work seems overwhelming. I always wondered how you manage to produce such high volume of high quality content. What’s the secret?Prof. Gelman replied in his blog:The first secret is, I wouldn’t try to write a book in 6 to 8 months. The first edition of Bayesian Data Analysis took several years. Each new edition took awhile too. So if “long and arduous” to you means “6 to 8 months,” I think your time management skills are already much better than mine!]]></content>
+      <categories>
+        <category>Mix</category>
+      </categories>
+      <tags>
+        <tag>writing</tag>
+      </tags>
+  </entry>
+</search>

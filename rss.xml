@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Insanely Reasonable, Reasonably Insane</title>
+    <link>http://huyingjie.github.io/blog-hexo-en-yingjiehu/</link>
+    <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>statistics / data science / data analysis / math / stock / life</description>
+    <pubDate>Sun, 19 Nov 2017 01:03:12 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Add disqus comment system in Jekyll</title>
+      <link>http://huyingjie.github.io/blog-hexo-en-yingjiehu/Add-disqus-comment-system-in-Jekyll/</link>
+      <guid>http://huyingjie.github.io/blog-hexo-en-yingjiehu/Add-disqus-comment-system-in-Jekyll/</guid>
+      <pubDate>Mon, 06 Feb 2017 05:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;The following steps are to add disqus comment system in all posts. It requires global setting in the &lt;code&gt;_config.yml&lt;/code&gt; file. In comparison, the official disqus tutorial adds front matter to each post to indicate whether comments are shown or not.
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>The following steps are to add disqus comment system in all posts. It requires global setting in the <code>_config.yml</code> file. In comparison, the official disqus tutorial adds front matter to each post to indicate whether comments are shown or not. <a id="more"></a></p><ol><li><p>Add following codes to the <code>_config.yml</code> file:</p> <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"># Disqus settings</span><br><span class="line">disqus_username: DISQUSNAME</span><br><span class="line">layout: default</span><br><span class="line">comments: true</span><br></pre></td></tr></table></figure></li><li><p>Click the  <code>Universal Embeded Code</code> text in the <code>Jekyll install instructions</code> page in disqus website.</p></li><li><p>Copy codes in the first step on the page.</p></li><li>Open and edit <code>post.html</code> below the <code>_layouts</code> folder.</li><li>Find the place where you will put comments.</li><li>Paste codes from Step 3.</li></ol>]]></content:encoded>
+      
+      <comments>http://huyingjie.github.io/blog-hexo-en-yingjiehu/Add-disqus-comment-system-in-Jekyll/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>How to show math formula in Jekyll</title>
+      <link>http://huyingjie.github.io/blog-hexo-en-yingjiehu/Show-math-formula-in-Jekyll/</link>
+      <guid>http://huyingjie.github.io/blog-hexo-en-yingjiehu/Show-math-formula-in-Jekyll/</guid>
+      <pubDate>Sun, 05 Feb 2017 05:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;There are only two steps to add functionality of showing math formular in Jekyll. MathJax is the engine to achive it.
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>There are only two steps to add functionality of showing math formular in Jekyll. MathJax is the engine to achive it. <a id="more"></a></p><ol><li>open the file <code>default.html</code> in the folder <code>_layouts</code></li><li>add the following codes before `</li></ol><pre><code><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&lt;script type=<span class="string">"text/x-mathjax-config"</span>&gt;</span><br><span class="line">MathJax.Hub.Config(&#123;<span class="attr">tex2jax</span>: &#123;<span class="attr">inlineMath</span>: [[<span class="string">'$'</span>,<span class="string">'$'</span>], [<span class="string">'\\('</span>,<span class="string">'\\)'</span>]]&#125;&#125;);</span><br><span class="line">&lt;<span class="regexp">/script&gt;</span></span><br><span class="line"><span class="regexp">&lt;script type="text/</span>javascript<span class="string">" src="</span>http:<span class="comment">//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"&gt;&lt;/script&gt;</span></span><br><span class="line">&lt;link href=<span class="string">"/assets/css/syntax.css"</span> rel=<span class="string">"stylesheet"</span> &gt;</span><br></pre></td></tr></table></figure></code></pre><h2 id="Test"><a href="#Test" class="headerlink" title="Test:"></a>Test:</h2><p>Add the following codes to your posts to test whether MathJax is working.</p><ol><li><p>the <strong>inline</strong> mode</p><p> <strong>Code:</strong></p> <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">In physics, the mass-energy equivalence is stated</span><br><span class="line">by the equation $E=mc^2$, discovered in 1905 by Albert Einstein.</span><br></pre></td></tr></table></figure><p> <strong>Desired result:</strong></p><p> In physics, the mass-energy equivalence is stated<br>by the equation $E=mc^2$, discovered in 1905 by Albert Einstein.</p></li><li><p>the <strong>display</strong> mode</p><p> <strong>Code:</strong></p> <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">The mass-energy equivalence is described by the famous equation</span><br><span class="line"></span><br><span class="line">$$E=mc^2$$</span><br><span class="line"></span><br><span class="line">discovered in 1905 by Albert Einstein.</span><br><span class="line">In natural units ($c$ = 1), the formula expresses the identity</span><br><span class="line"></span><br><span class="line">\begin&#123;equation&#125;</span><br><span class="line">E=m</span><br><span class="line">\end&#123;equation&#125;</span><br></pre></td></tr></table></figure><p> <strong>Desired result:</strong></p><p> The mass-energy equivalence is described by the famous equation</p><p> $$E=mc^2$$</p><p> discovered in 1905 by Albert Einstein.<br> In natural units ($c$ = 1), the formula expresses the identity</p><p> \begin{equation}<br> E=m<br> \end{equation}</p></li></ol>]]></content:encoded>
+      
+      <comments>http://huyingjie.github.io/blog-hexo-en-yingjiehu/Show-math-formula-in-Jekyll/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>How to Uninstall R underMac OS X</title>
+      <link>http://huyingjie.github.io/blog-hexo-en-yingjiehu/how-to-uninstall-r-under-mac-os-x/</link>
+      <guid>http://huyingjie.github.io/blog-hexo-en-yingjiehu/how-to-uninstall-r-under-mac-os-x/</guid>
+      <pubDate>Sun, 23 Nov 2014 05:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;When updating R on Mac,  we can uninstall the old version and install the new version. Uninstalling R is very easy on Mac.
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>When updating R on Mac,  we can uninstall the old version and install the new version. Uninstalling R is very easy on Mac. <a id="more"></a></p><p>During installation of R,  at least 2 folders are involved.</p><p><ol><br>    <li><code>/Applications/R.app</code> folder: contains GUI</li><br>    <li> <code><span class="lang:r decode:true crayon-inline">/Library/Frameworks/R.framework</span></code> folder: contains R framework</li><br>    <li> <code>(unkown) <span class="lang:default decode:true crayon-inline ">/usr/bin</span></code> : contains some links</li><br></ol><br>When uninstalling, R under Mac OS X will delete all of them.</p><p>Uninstallation steps as follows:</p><p><ol><br>    <li>open terminal in Mac OS X</li><br>    <li>run <code>rm -rf /Library/Frameworks/R.framework /Applications/R.app \ /usr/bin/R /usr/bin/Rscript</code></li><br></ol><br>Done!</p><p>Reference: <a href="http://cran.r-project.org/doc/manuals/r-release/R-admin.html#Uninstalling-under-OS-X" target="_blank" rel="noopener">http://cran.r-project.org/doc/manuals/r-release/R-admin.html#Uninstalling-under-OS-X</a></p>]]></content:encoded>
+      
+      <comments>http://huyingjie.github.io/blog-hexo-en-yingjiehu/how-to-uninstall-r-under-mac-os-x/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>It is a correct choice to buy Mac Pro!</title>
+      <link>http://huyingjie.github.io/blog-hexo-en-yingjiehu/its-a-correct-choice-to-buy-mac-pro/</link>
+      <guid>http://huyingjie.github.io/blog-hexo-en-yingjiehu/its-a-correct-choice-to-buy-mac-pro/</guid>
+      <pubDate>Wed, 03 Apr 2013 04:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;I usually saw some tutorials in youtube about how to use softwares. There is a high probability that people in the video used Mac to teach how to program. In the past, I feel doubt that why it happened. Last year, in the thanksgiving’s shopping season ($150 off), I decided to buy 13 inch,  not too big and heavy, not too small. In the store, it was easy for me to confuse which one to buy, Mac Pro or Mac Air. The employee in the NYU Mac store said price performance ratio was better. She recommended that  it was better to buy Mac Air if Mac was my secondary computer. Finally, I made the decision to buy &lt;a title=&quot;Mac pro 13 inch&quot; href=&quot;http://links.yingjiehu.com/Apple13pro&quot; target=&quot;_blank&quot;&gt;Mac Pro 13 inch&lt;/a&gt; because its CPU was better than Mac Air and storage was bigger.
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>I usually saw some tutorials in youtube about how to use softwares. There is a high probability that people in the video used Mac to teach how to program. In the past, I feel doubt that why it happened. Last year, in the thanksgiving’s shopping season ($150 off), I decided to buy 13 inch,  not too big and heavy, not too small. In the store, it was easy for me to confuse which one to buy, Mac Pro or Mac Air. The employee in the NYU Mac store said price performance ratio was better. She recommended that  it was better to buy Mac Air if Mac was my secondary computer. Finally, I made the decision to buy <a title="Mac pro 13 inch" href="http://links.yingjiehu.com/Apple13pro" target="_blank">Mac Pro 13 inch</a> because its CPU was better than Mac Air and storage was bigger. <a id="more"></a></p><p>Last week, my experience told me that it is one of the most valuable items purchased last year. I did one problem about kernel smoothing method and used guassian kernel. The training data set was big with over 7000 observations and 56 predictors. All the predictors had to be used to generate guassian kernals for each observation in test data. Then I programmed the process to create guassian kernals. For each test data, it took about 3 minutes to generate the wights. I felt it was too slow then run the same program in Lenovo Thinkpad T420. It cost third times time. One of my classmates used Mac Air to program, she could not know when the program would stop but the same program was run in Mac Pro in several seconds. Big difference!</p><p>A computer with faster CPU is very important.</p><p>It recalled me the time last semester. A lot of programming were required for bayesian class. Some programs were slow. If I used Mac Pro at that time, less time would be put in my homework and I did not need to stay up every week!</p>]]></content:encoded>
+      
+      <comments>http://huyingjie.github.io/blog-hexo-en-yingjiehu/its-a-correct-choice-to-buy-mac-pro/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>How long to write a book?</title>
+      <link>http://huyingjie.github.io/blog-hexo-en-yingjiehu/How-long-to-write-a-book/</link>
+      <guid>http://huyingjie.github.io/blog-hexo-en-yingjiehu/How-long-to-write-a-book/</guid>
+      <pubDate>Sun, 31 Mar 2013 04:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;How long to write a book? No correct answer to this question. My sensibility always admire people who can write the book as quickly as possible because the speed implies that they have high productivity and other abilities. My intellects know my sensibility is wrong. How to marry intellects and sensibility? I do not have answer to this question, either. One thing can be confirmed that good books take time. How long? Several years.
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>How long to write a book? No correct answer to this question. My sensibility always admire people who can write the book as quickly as possible because the speed implies that they have high productivity and other abilities. My intellects know my sensibility is wrong. How to marry intellects and sensibility? I do not have answer to this question, either. One thing can be confirmed that good books take time. How long? Several years. <a id="more"></a></p><p><a href="http://blog.ericnovik.com/2013/03/28/getting-ready-to-write-a-book/" target="_blank">Eric Novik planned to write a book recently</a>, 8 chapter and over 300 pages. He asked Prof. Gelman:</p><blockquote>The work seems overwhelming. I always wondered how you manage to produce such high volume of high quality content. What’s the secret?</blockquote><br><a href="http://andrewgelman.com/2013/03/31/hes-getting-ready-to-write-a-book/" target="_blank">Prof. Gelman replied in his blog:</a><br><blockquote>The first secret is, I wouldn’t try to write a book in 6 to 8 months. The first edition of Bayesian Data Analysis took several years. Each new edition took awhile too. So if “long and arduous” to you means “6 to 8 months,” I think your time management skills are already much better than mine!</blockquote>]]></content:encoded>
+      
+      <comments>http://huyingjie.github.io/blog-hexo-en-yingjiehu/How-long-to-write-a-book/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
