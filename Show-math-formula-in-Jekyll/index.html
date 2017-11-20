@@ -91,7 +91,7 @@
 <meta property="og:site_name" content="Insanely Reasonable, Reasonably Insane">
 <meta property="og:description" content="There are only two steps to add functionality of showing math formular in Jekyll. MathJax is the engine to achive it.">
 <meta property="og:locale" content="en">
-<meta property="og:updated_time" content="2017-11-19T01:03:12.000Z">
+<meta property="og:updated_time" content="2017-11-19T18:36:01.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="How to show math formula in Jekyll">
 <meta name="twitter:description" content="There are only two steps to add functionality of showing math formular in Jekyll. MathJax is the engine to achive it.">
@@ -250,6 +250,26 @@
               <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
             
             Tags
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-wall-of thanks">
+          <a href="/wall-of-thanks" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-thumbs-up"></i> <br />
+            
+            Wall of Thanks
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-become-a patreon">
+          <a href="https://www.patreon.com/yingjiehu" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-beer"></i> <br />
+            
+            Become a Patreon
           </a>
         </li>
       
@@ -463,24 +483,31 @@
 </ol>
 <pre><code><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&lt;script type=<span class="string">"text/x-mathjax-config"</span>&gt;</span><br><span class="line">MathJax.Hub.Config(&#123;<span class="attr">tex2jax</span>: &#123;<span class="attr">inlineMath</span>: [[<span class="string">'$'</span>,<span class="string">'$'</span>], [<span class="string">'\\('</span>,<span class="string">'\\)'</span>]]&#125;&#125;);</span><br><span class="line">&lt;<span class="regexp">/script&gt;</span></span><br><span class="line"><span class="regexp">&lt;script type="text/</span>javascript<span class="string">" src="</span>http:<span class="comment">//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"&gt;&lt;/script&gt;</span></span><br><span class="line">&lt;link href=<span class="string">"/assets/css/syntax.css"</span> rel=<span class="string">"stylesheet"</span> &gt;</span><br></pre></td></tr></table></figure>
 </code></pre><h2 id="Test"><a href="#Test" class="headerlink" title="Test:"></a>Test:</h2><p>Add the following codes to your posts to test whether MathJax is working.</p>
-<ol>
-<li><p>the <strong>inline</strong> mode</p>
-<p> <strong>Code:</strong></p>
- <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">	In physics, the mass-energy equivalence is stated</span><br><span class="line">by the equation $E=mc^2$, discovered in 1905 by Albert Einstein.</span><br></pre></td></tr></table></figure>
-<p> <strong>Desired result:</strong></p>
-<p> In physics, the mass-energy equivalence is stated<br>by the equation $E=mc^2$, discovered in 1905 by Albert Einstein.</p>
-</li>
-<li><p>the <strong>display</strong> mode</p>
-<p> <strong>Code:</strong></p>
- <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">The mass-energy equivalence is described by the famous equation</span><br><span class="line"></span><br><span class="line">$$E=mc^2$$</span><br><span class="line"></span><br><span class="line">discovered in 1905 by Albert Einstein.</span><br><span class="line">In natural units ($c$ = 1), the formula expresses the identity</span><br><span class="line"></span><br><span class="line">\begin&#123;equation&#125;</span><br><span class="line">E=m</span><br><span class="line">\end&#123;equation&#125;</span><br></pre></td></tr></table></figure>
-<p> <strong>Desired result:</strong></p>
-<p> The mass-energy equivalence is described by the famous equation</p>
-<p> $$E=mc^2$$</p>
-<p> discovered in 1905 by Albert Einstein.<br> In natural units ($c$ = 1), the formula expresses the identity</p>
-<p> \begin{equation}<br> E=m<br> \end{equation}</p>
-</li>
-</ol>
+<h3 id="1-the-inline-mode"><a href="#1-the-inline-mode" class="headerlink" title="1. the inline mode"></a>1. the <strong>inline</strong> mode</h3><pre><code>**Code:**
 
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">	In physics, the mass-energy equivalence is stated</span><br><span class="line">by the equation $E=mc^2$, discovered in 1905 by Albert Einstein.</span><br></pre></td></tr></table></figure>
+
+**Desired result:**
+
+In physics, the mass-energy equivalence is stated
+</code></pre><p>by the equation $E=mc^2$, discovered in 1905 by Albert Einstein.</p>
+<h3 id="2-the-display-mode"><a href="#2-the-display-mode" class="headerlink" title="2. the display mode"></a>2. the <strong>display</strong> mode</h3><pre><code>**Code:**
+
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">The mass-energy equivalence is described by the famous equation</span><br><span class="line"></span><br><span class="line">$$E=mc^2$$</span><br><span class="line"></span><br><span class="line">discovered in 1905 by Albert Einstein.</span><br><span class="line">In natural units ($c$ = 1), the formula expresses the identity</span><br><span class="line"></span><br><span class="line">\begin&#123;equation&#125;</span><br><span class="line">E=m</span><br><span class="line">\end&#123;equation&#125;</span><br></pre></td></tr></table></figure>
+
+**Desired result:**
+
+The mass-energy equivalence is described by the famous equation
+
+$$E=mc^2$$
+
+discovered in 1905 by Albert Einstein.
+In natural units ($c$ = 1), the formula expresses the identity
+
+\begin{equation}
+E=m
+\end{equation}
+</code></pre>
         
         
           <h3 class="article-title" style="border-radius:10px 10px 0 0; display: block; margin: 0; font-size: 1em; cursor: pointert;">Related posts:</h3>
@@ -617,7 +644,7 @@
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
             
               <p class="site-author-name" itemprop="name">Yingjie Hu</p>
-              <p class="site-description motion-element" itemprop="description">statistics / data science / data analysis / math / stock / life</p>
+              <p class="site-description motion-element" itemprop="description">statistics / data science / data analysis / data science / big data</p>
           </div>
 
           <nav class="site-state motion-element">
@@ -717,7 +744,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Test"><span class="nav-number">1.</span> <span class="nav-text">Test:</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Test"><span class="nav-number">1.</span> <span class="nav-text">Test:</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-the-inline-mode"><span class="nav-number">1.1.</span> <span class="nav-text">1. the inline mode</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-the-display-mode"><span class="nav-number">1.2.</span> <span class="nav-text">2. the display mode</span></a></li></ol></li></ol></div>
             
 
           </div>

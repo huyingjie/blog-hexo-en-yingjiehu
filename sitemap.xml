@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/about/index.html</loc>
+    
+    <lastmod>2017-11-20T04:30:41.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/wall-of-thanks/index.html</loc>
+    
+    <lastmod>2017-11-20T04:30:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/resources/index.html</loc>
+    
+    <lastmod>2017-11-20T04:17:49.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/Show-math-formula-in-Jekyll/</loc>
+    
+    <lastmod>2017-11-19T18:36:01.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/How-long-to-write-a-book/</loc>
     
     <lastmod>2017-11-19T01:03:12.000Z</lastmod>
@@ -30,13 +58,6 @@
   </url>
   
   <url>
-    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/Show-math-formula-in-Jekyll/</loc>
-    
-    <lastmod>2017-11-19T01:03:12.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/categories/index.html</loc>
     
     <lastmod>2017-11-19T01:03:12.000Z</lastmod>
@@ -44,21 +65,7 @@
   </url>
   
   <url>
-    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/about/index.html</loc>
-    
-    <lastmod>2017-11-19T01:03:12.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/tags/index.html</loc>
-    
-    <lastmod>2017-11-19T01:03:12.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/resources/index.html</loc>
     
     <lastmod>2017-11-19T01:03:12.000Z</lastmod>
     
