@@ -11,4 +11,4 @@ Below are some resources that are helpful in learning.
 : The book which is most frequently recommended to learn statistical learning
 
 [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ "An Introduction to Statistical Learning")
-: Less technical book than The Elements of Statistical Learning. It gives a lot of useful R code and is suitable for introduction to statistical learning.
+: Less technical book than The Elements of Statistical Learning. It gives a lot of useful R codes and is suitable for introduction to statistical learning.

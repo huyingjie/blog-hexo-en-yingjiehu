@@ -23,7 +23,7 @@ favicon:
   #ms_browserconfig: /images/browserconfig.xml
 
 # Set default keywords (Use a comma to separate)
-keywords: "data analysis, machine learning"
+keywords: "data analysis, machine learning, statistics, data science, big data"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -89,6 +89,8 @@ menu:
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
+  Wall of Thanks: /wall-of-thanks || thumbs-up
+  Become a Patreon: https://www.patreon.com/yingjiehu || beer
   Advanced Search: https://cse.google.com/cse/publicurl?cx=009753806236764620511:ocgyk6aw21q || search
 
 # Enable/Disable menu icons.

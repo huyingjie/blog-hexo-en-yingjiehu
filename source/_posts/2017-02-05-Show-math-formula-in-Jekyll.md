@@ -25,7 +25,7 @@ There are only two steps to add functionality of showing math formular in Jekyll
 
 Add the following codes to your posts to test whether MathJax is working.
 
-1. the **inline** mode
+### 1. the **inline** mode
 
 	**Code:**
 
@@ -39,7 +39,7 @@ by the equation $E=mc^2$, discovered in 1905 by Albert Einstein.
 	In physics, the mass-energy equivalence is stated
 by the equation $E=mc^2$, discovered in 1905 by Albert Einstein.
 
-2. the **display** mode
+### 2. the **display** mode
 
 	**Code:**
 
