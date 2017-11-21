@@ -83,7 +83,7 @@ menu:
   home: / || home
   about: /about/ || user
   categories: /categories/ || th
-  resources: /resources ||heart
+  Resources: /resources ||heart
   archives: /archives/ || archive
   tags: /tags/ || tags
   #schedule: /schedule/ || calendar
