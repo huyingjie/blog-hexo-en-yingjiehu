@@ -307,7 +307,52 @@
           {% endif %}
         {% endif %}
       {% else %}
+
+
+        {% if post.ispapersummary %}
+
+            {### YouTube link ###} 
+            {% if post.youtubelink %}
+            <iframe width="560" height="315" src=https://www.youtube.com/embed/{{ post.youtubelink}} frameborder="0" allowfullscreen></iframe>
+            {% endif%} 
+            
+          <div style = "text-align: center">
+            {% if post.earlydraftlink %}
+              <a href = {{ post.earlydraftlink }} target = blank> Early Draft </a>
+            {% else %} Early Draft
+            {% endif%} 
+
+              &nbsp&nbsp→&nbsp&nbsp  
+            
+            {% if post.postdraftlink %}
+              <a href = {{ post.postdraftlink }} target = blank>Post Draft</a>
+            {% else %} Post Draft
+            {% endif%} 
+             
+              &nbsp&nbsp →&nbsp&nbsp 
+
+            {% if post.youtubelink %}
+              <a href = https://www.youtube.com/watch?v={{ post.youtubelink}} target = blank>Video</a>
+              {% else %} Video
+            {% endif%} 
+              
+              &nbsp&nbsp→&nbsp&nbsp 
+
+            {% if post.redditlink %}
+              <a href = {{ post.redditlink }} target = blank>Reddit</a>
+              {% else %} Reddit
+            {% endif%} 
+             
+
+              &nbsp&nbsp→&nbsp&nbsp 
+
+              <a href = {{ post.link }}#comments>Comments</a>
+          </div>
+        {% endif %}
+
         {{ post.content }}
+
+        {### related post ###}       
         {% set related_post =  list_related_posts(post, {maxCount: 10, orderBy: 'date'}) %}
         {% if related_post.length > 0 %}
           <h3 class="article-title" style="border-radius:10px 10px 0 0; display: block; margin: 0; font-size: 1em; cursor: pointert;">Related posts:</h3>
@@ -318,10 +363,57 @@
           </ul>
         {% endif %}  
 
-          <p style="box-shadow: 0 0 2px rgba(0,0,0,0.25) inset; clear: both; padding: 0.5em; border-top: solid 1px #ddd; boder-bottom: solid 1px #ddd; background: rgba(240,220,220,0.25); color: #777; text-align: center"> 
-          Follow the author on <a href = "https://twitter.com/yingjieYJH" target = blank>Twitter</a>.<br>
+
+
+
+        <div style="box-shadow: 0 0 2px rgba(0,0,0,0.25) inset; clear: both; padding: 0.5em; border-top: solid 1px #ddd; boder-bottom: solid 1px #ddd; background: rgba(240,220,220,0.25); color: #777; text-align: center">  
           This content is <a href = "https://www.patreon.com/yingjiehu" target = blank> supported by readers like you.</a>
-         </p>
+        </div>
+
+        {% if post.supporters %}
+          <div style = "padding-top: 1em">
+            This video is kindly supported by:
+            <div style = "font-size: 13px; text-indent: 3em">
+              {{ post.supporters }}
+            </div>
+        </div>
+        {% endif %}
+
+
+        {### Join to get weekly updates by email ###}  
+        <br>
+             <!-- Begin MailChimp Signup Form -->
+              <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+                <div style="box-shadow: 0 0 2px rgba(0,0,0,0.25) inset; clear: both; padding: 0.5em; border-top: solid 1px #ddd; boder-bottom: solid 1px #ddd; background: rgba(240,220,220,0.25); color: #777; text-align: center">  
+                  <style type="text/css">
+                    #mc_embed_signup{clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+                    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+                       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+                  </style>
+                  <div id="mc_embed_signup">
+                    <form action="https://yingjiehu.us17.list-manage.com/subscribe/post?u=3fe3112157572128dc2da2663&amp;id=67a941359e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                      <div id="mc_embed_signup_scroll">
+
+                        <label for="mce-EMAIL">Join to get weekly updates by email</label>
+                        
+                        <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+                        
+                        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                        <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                          <input type="text" name="b_3fe3112157572128dc2da2663_67a941359e" tabindex="-1" value="">
+                        </div>
+                        <div class="clear">
+                          <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+                        </div>
+                      </div>
+                    </form>
+                  </div> 
+                </div>
+
+              <!--End mc_embed_signup-->
+
+
+
       {% endif  %}
     </div>
 
