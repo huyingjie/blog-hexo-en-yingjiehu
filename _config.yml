@@ -86,6 +86,7 @@ search:
     - python/
 
 gitHub_post_link: https://github.com/huyingjie/blog-hexo-en-yingjiehu/tree/master/source/_posts
+quiz_tutorial: Tutorials-to-add-edit-problems-in-quiz
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:

@@ -14,6 +14,91 @@
   {##################}
   {### POST BLOCK ###}
   {##################}
+
+  {### begin customed header ###}
+  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Josefin+Sans|Alike' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="../css/customized.css" type="text/css" />
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+          processEscapes: true
+        }
+      });
+    </script>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML.js"></script>
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.2/styles/default.min.css">
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.2/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+  <script>hljs.initHighlightingOnLoad();</script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        //close all the content divs on page load
+        $('.answer').hide();
+
+        // toggle slide
+        $('.clickanswer').click(function(){
+          // by calling sibling, we can use same div for all demos
+          $(this).siblings('.answer').slideToggle('fast');
+          $(this).text(function(i, v){
+              return v === 'Show Answer' ? 'Hide Answer' : 'Show Answer'
+          })
+        });
+
+      });
+    </script>
+
+
+  <script>hljs.initHighlightingOnLoad();</script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        //close all the content divs on page load
+        $('.response').hide();
+
+        // toggle slide
+        $('.selection').click(function(){
+          // by calling sibling, we can use same div for all demos
+          $(this).siblings('.response').slideToggle('fast');
+        });
+
+        $('button').click(function(event){
+          var $target = $(event.target);
+          var $checkboxes = $target.parent('.mcq').find('input');
+          for (var i = 0; i < $checkboxes.length; i++) {
+            var $checkbox = $checkboxes.eq(i);
+            a = $checkbox;
+            if ($checkbox[0].checked && $checkbox.nextAll('.response').hasClass('right')) {
+              $checkbox.nextAll('.correct-checkbox').show();
+            } else if ($checkbox[0].checked &&
+                $checkbox.nextAll('.response').hasClass('wrong')) {
+              $checkbox.nextAll('.incorrect-checkbox').show();
+            } else if (!$checkbox[0].checked &&
+                $checkbox.nextAll('.response').hasClass('right')) {
+              $checkbox.nextAll('.incorrect-checkbox').show();
+            } else {
+              $checkbox.nextAll('.correct-checkbox').show();
+            }
+          }
+          $target.parent('.mcq').find('.response').slideToggle('fast');
+          if ($target.text() == 'Submit') {
+            $target.text('Hide');
+          } else {
+            $checkboxes.nextAll('.incorrect-checkbox').hide();
+            $checkboxes.nextAll('.correct-checkbox').hide();
+            $target.text('Submit');
+          }
+        });
+      });
+      </script>
+
+  {### end customed header ###}
+
   <div class="post-block">
     <link itemprop="mainEntityOfPage" href="{{ config.url }}{{ url_for(post.path) }}">
 
@@ -71,6 +156,8 @@
               {% endif %}
               <time title="{{ __('post.created') }}" itemprop="dateCreated datePublished" datetime="{{ moment(post.date).format() }}">
                 {{ date(post.date, config.date_format) }}
+                Updated on 
+                {{ date(post.updated, config.date_format) }}              
               </time>
             {% endif %}
 
@@ -86,7 +173,7 @@
                 <span class="post-meta-item-text">{{ __('post.modified') }}&#58;</span>
               {% endif %}
               <time title="{{ __('post.modified') }}" itemprop="dateModified" datetime="{{ moment(post.updated).format() }}">
-                {{ date(post.updated, config.date_format) }}
+
               </time>
             {% endif %}
           </span>
@@ -307,11 +394,21 @@
           {% endif %}
         {% endif %}
       {% else %}
+        {#################}
+        {### quiz ###}
+        {#################}
+        {% if post.isquiz %}
+           {% if post.papersummaryurl %}
+            <a href = {{ url_for(post.papersummaryurl) }}> Back to paper summary </a> &nbsp|&nbsp <a href = {{config.gitHub_post_link}}/{{post.filename}}.md target = blank>Add/Edit Questions </a> | <a target = blank href = {{ url_for(config.quiz_tutorial)}} >Tutorial</a>
+            {% endif %}
+        {% endif %}
 
-
+        {#################}
+        {### paper summary ###}
+        {#################}
         {% if post.ispapersummary %}
 
-            {### YouTube link ###} 
+            
             {% if post.youtubelink %}
             <iframe width="560" height="315" src=https://www.youtube.com/embed/{{ post.youtubelink}} frameborder="0" allowfullscreen></iframe>
             {% endif%} 
@@ -347,10 +444,26 @@
               &nbsp&nbsp→&nbsp&nbsp 
 
               <a href = {{ post.link }}#comments>Comments</a>
+
+              &nbsp&nbsp→&nbsp&nbsp 
+
+              {% if post.quizlink %}
+              <a href = {{ url_for(post.quizlink) }} target = blank>Quiz</a>
+              {% else %} Quiz
+            {% endif%} 
           </div>
         {% endif %}
 
         {{ post.content }}
+
+        {#################}
+        {### quiz ###}
+        {#################}
+        {% if post.isquiz %}
+           {% if post.papersummaryurl %}
+            <a href = {{ url_for(post.papersummaryurl) }}> Back to paper summary </a> &nbsp|&nbsp <a href = {{config.gitHub_post_link}}/{{post.filename}}.md target = blank>Add/Edit Questions </a> | <a target = blank href = {{ url_for(config.quiz_tutorial)}} >Tutorial</a>
+            {% endif %}
+        {% endif %}
 
         {### related post ###}       
         {% set related_post =  list_related_posts(post, {maxCount: 10, orderBy: 'date'}) %}
@@ -378,7 +491,6 @@
             </div>
         </div>
         {% endif %}
-
 
         {### Join to get weekly updates by email ###}  
         <br>
