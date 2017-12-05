@@ -26,15 +26,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Attention in Delay of Gratification]]></title>
-    <url>%2FAttention-in-Delay-of-Gratification%2F</url>
-    <content type="text"><![CDATA[voluntary delayed rewards/delayed gratification voluntary delay of reward, one form of self-control自愿也可能是被逼的. 被big reward逼的 determinant =&gt; voluntary delay of reward =&gt; reward (真的是有因果关系嘛？还有其他因素？ 各占多少比重？) achievement orientationsocial responsibilityagesocioculturalrearing conditions severity of psychological disturbances]]></content>
-      <categories>
-        <category>Paper Summary</category>
-        <category>_Topic</category>
-      </categories>
-  </entry>
-  <entry>
     <title><![CDATA[Add disqus comment system in Jekyll]]></title>
     <url>%2FAdd-disqus-comment-system-in-Jekyll%2F</url>
     <content type="text"><![CDATA[The following steps are to add disqus comment system in all posts. It requires global setting in the _config.yml file. In comparison, the official disqus tutorial adds front matter to each post to indicate whether comments are shown or not. Add following codes to the _config.yml file: 1234# Disqus settingsdisqus_username: DISQUSNAMElayout: defaultcomments: true Click the Universal Embeded Code text in the Jekyll install instructions page in disqus website. Copy codes in the first step on the page. Open and edit post.html below the _layouts folder. Find the place where you will put comments. Paste codes from Step 3.]]></content>
