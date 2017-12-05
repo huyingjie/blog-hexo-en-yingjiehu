@@ -83,16 +83,16 @@
 
 
 
-<meta name="description" content="statistics / data science / data analysis / data science / big data">
+<meta name="description" content="statistics / data science / data analysis / big data">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Insanely Reasonable, Reasonably Insane">
 <meta property="og:url" content="http://huyingjie.github.io/blog-hexo-en-yingjiehu/index.html">
 <meta property="og:site_name" content="Insanely Reasonable, Reasonably Insane">
-<meta property="og:description" content="statistics / data science / data analysis / data science / big data">
+<meta property="og:description" content="statistics / data science / data analysis / big data">
 <meta property="og:locale" content="en">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Insanely Reasonable, Reasonably Insane">
-<meta name="twitter:description" content="statistics / data science / data analysis / data science / big data">
+<meta name="twitter:description" content="statistics / data science / data analysis / big data">
 
 
 
@@ -173,7 +173,7 @@
       </a>
     </div>
       
-        <p class="site-subtitle"></p>
+        <h1 class="site-subtitle" itemprop="description"></h1>
       
   </div>
 
@@ -228,7 +228,7 @@
             
               <i class="menu-item-icon fa fa-fw fa-heart"></i> <br />
             
-            resources
+            Resources
           </a>
         </li>
       
@@ -249,6 +249,16 @@
               <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
             
             Tags
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-projects">
+          <a href="/projects/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-line-chart"></i> <br />
+            
+            projects
           </a>
         </li>
       
@@ -363,6 +373,885 @@
   
   
   
+
+  
+  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Josefin+Sans|Alike' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="../css/customized.css" type="text/css" />
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+          processEscapes: true
+        }
+      });
+    </script>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML.js"></script>
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.2/styles/default.min.css">
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.2/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+  <script>hljs.initHighlightingOnLoad();</script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        //close all the content divs on page load
+        $('.answer').hide();
+
+        // toggle slide
+        $('.clickanswer').click(function(){
+          // by calling sibling, we can use same div for all demos
+          $(this).siblings('.answer').slideToggle('fast');
+          $(this).text(function(i, v){
+              return v === 'Show Answer' ? 'Hide Answer' : 'Show Answer'
+          })
+        });
+
+      });
+    </script>
+
+
+  <script>hljs.initHighlightingOnLoad();</script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        //close all the content divs on page load
+        $('.response').hide();
+
+        // toggle slide
+        $('.selection').click(function(){
+          // by calling sibling, we can use same div for all demos
+          $(this).siblings('.response').slideToggle('fast');
+        });
+
+        $('button').click(function(event){
+          var $target = $(event.target);
+          var $checkboxes = $target.parent('.mcq').find('input');
+          for (var i = 0; i < $checkboxes.length; i++) {
+            var $checkbox = $checkboxes.eq(i);
+            a = $checkbox;
+            if ($checkbox[0].checked && $checkbox.nextAll('.response').hasClass('right')) {
+              $checkbox.nextAll('.correct-checkbox').show();
+            } else if ($checkbox[0].checked &&
+                $checkbox.nextAll('.response').hasClass('wrong')) {
+              $checkbox.nextAll('.incorrect-checkbox').show();
+            } else if (!$checkbox[0].checked &&
+                $checkbox.nextAll('.response').hasClass('right')) {
+              $checkbox.nextAll('.incorrect-checkbox').show();
+            } else {
+              $checkbox.nextAll('.correct-checkbox').show();
+            }
+          }
+          $target.parent('.mcq').find('.response').slideToggle('fast');
+          if ($target.text() == 'Submit') {
+            $target.text('Hide');
+          } else {
+            $checkboxes.nextAll('.incorrect-checkbox').hide();
+            $checkboxes.nextAll('.correct-checkbox').hide();
+            $target.text('Submit');
+          }
+        });
+      });
+      </script>
+
+  
+
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Code-Round-1-R-data-analysis/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Yingjie Hu">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Insanely Reasonable, Reasonably Insane">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h2 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/100-Days-Of-Code-Round-1-R-data-analysis/" itemprop="url">100 Days Of Code Round 1 (R, data analysis)</a></h2>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">Posted on</span>
+              
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2017-12-04T17:09:09-05:00">
+                2017-12-04
+                Updated on 
+                2017-12-04              
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">In</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/100-Days-Challenge/" itemprop="url" rel="index">
+                    <span itemprop="name">100 Days Challenge</span>
+                  </a>
+                </span>
+
+                
+                
+                  , 
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/100-Days-Challenge/R/" itemprop="url" rel="index">
+                    <span itemprop="name">R</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/100-Days-Of-Code-Round-1-R-data-analysis/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count disqus-comment-count"
+                        data-disqus-identifier="100-Days-Of-Code-Round-1-R-data-analysis/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+          
+             <span id="/100-Days-Of-Code-Round-1-R-data-analysis/" class="leancloud_visitors" data-flag-title="100 Days Of Code Round 1 (R, data analysis)">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">Visitors&#58;</span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <p>A companion project to <a href="100-Days-Of-Reading-Paper-Round-1">100 Days of Reading Paper</a>.</p>
+<p>Main Commitment: I will code to do data analysis for at least an hour every day for the next 100 days.</p>
+<p>Start Date: 2017-12-05<br>
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/100-Days-Of-Code-Round-1-R-data-analysis/#more" rel="contents">
+              Read more &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+
+  
+  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Josefin+Sans|Alike' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="../css/customized.css" type="text/css" />
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+          processEscapes: true
+        }
+      });
+    </script>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML.js"></script>
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.2/styles/default.min.css">
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.2/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+  <script>hljs.initHighlightingOnLoad();</script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        //close all the content divs on page load
+        $('.answer').hide();
+
+        // toggle slide
+        $('.clickanswer').click(function(){
+          // by calling sibling, we can use same div for all demos
+          $(this).siblings('.answer').slideToggle('fast');
+          $(this).text(function(i, v){
+              return v === 'Show Answer' ? 'Hide Answer' : 'Show Answer'
+          })
+        });
+
+      });
+    </script>
+
+
+  <script>hljs.initHighlightingOnLoad();</script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        //close all the content divs on page load
+        $('.response').hide();
+
+        // toggle slide
+        $('.selection').click(function(){
+          // by calling sibling, we can use same div for all demos
+          $(this).siblings('.response').slideToggle('fast');
+        });
+
+        $('button').click(function(event){
+          var $target = $(event.target);
+          var $checkboxes = $target.parent('.mcq').find('input');
+          for (var i = 0; i < $checkboxes.length; i++) {
+            var $checkbox = $checkboxes.eq(i);
+            a = $checkbox;
+            if ($checkbox[0].checked && $checkbox.nextAll('.response').hasClass('right')) {
+              $checkbox.nextAll('.correct-checkbox').show();
+            } else if ($checkbox[0].checked &&
+                $checkbox.nextAll('.response').hasClass('wrong')) {
+              $checkbox.nextAll('.incorrect-checkbox').show();
+            } else if (!$checkbox[0].checked &&
+                $checkbox.nextAll('.response').hasClass('right')) {
+              $checkbox.nextAll('.incorrect-checkbox').show();
+            } else {
+              $checkbox.nextAll('.correct-checkbox').show();
+            }
+          }
+          $target.parent('.mcq').find('.response').slideToggle('fast');
+          if ($target.text() == 'Submit') {
+            $target.text('Hide');
+          } else {
+            $checkboxes.nextAll('.incorrect-checkbox').hide();
+            $checkboxes.nextAll('.correct-checkbox').hide();
+            $target.text('Submit');
+          }
+        });
+      });
+      </script>
+
+  
+
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Reading-Paper-Round-1/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Yingjie Hu">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Insanely Reasonable, Reasonably Insane">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h2 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/100-Days-Of-Reading-Paper-Round-1/" itemprop="url">100 Days Of Reading Paper Round 1</a></h2>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">Posted on</span>
+              
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2017-12-04T00:00:00-05:00">
+                2017-12-04
+                Updated on 
+                2017-12-04              
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">In</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/100-Days-Challenge/" itemprop="url" rel="index">
+                    <span itemprop="name">100 Days Challenge</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/100-Days-Of-Reading-Paper-Round-1/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count disqus-comment-count"
+                        data-disqus-identifier="100-Days-Of-Reading-Paper-Round-1/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+          
+             <span id="/100-Days-Of-Reading-Paper-Round-1/" class="leancloud_visitors" data-flag-title="100 Days Of Reading Paper Round 1">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">Visitors&#58;</span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <p>The supporting project is <a href="100-Days-Of-Code-Round-1-R-data-analysis">100 Days Of Code Round 1 (R, data analysis)</a></p>
+<p>Main Commitment: I will read paper for at least an hour every day for the next 100 days.</p>
+<p>Start Date: 2017-12-05<br>
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/100-Days-Of-Reading-Paper-Round-1/#more" rel="contents">
+              Read more &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+
+  
+  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Josefin+Sans|Alike' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="../css/customized.css" type="text/css" />
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+          processEscapes: true
+        }
+      });
+    </script>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML.js"></script>
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.2/styles/default.min.css">
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.2/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+  <script>hljs.initHighlightingOnLoad();</script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        //close all the content divs on page load
+        $('.answer').hide();
+
+        // toggle slide
+        $('.clickanswer').click(function(){
+          // by calling sibling, we can use same div for all demos
+          $(this).siblings('.answer').slideToggle('fast');
+          $(this).text(function(i, v){
+              return v === 'Show Answer' ? 'Hide Answer' : 'Show Answer'
+          })
+        });
+
+      });
+    </script>
+
+
+  <script>hljs.initHighlightingOnLoad();</script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        //close all the content divs on page load
+        $('.response').hide();
+
+        // toggle slide
+        $('.selection').click(function(){
+          // by calling sibling, we can use same div for all demos
+          $(this).siblings('.response').slideToggle('fast');
+        });
+
+        $('button').click(function(event){
+          var $target = $(event.target);
+          var $checkboxes = $target.parent('.mcq').find('input');
+          for (var i = 0; i < $checkboxes.length; i++) {
+            var $checkbox = $checkboxes.eq(i);
+            a = $checkbox;
+            if ($checkbox[0].checked && $checkbox.nextAll('.response').hasClass('right')) {
+              $checkbox.nextAll('.correct-checkbox').show();
+            } else if ($checkbox[0].checked &&
+                $checkbox.nextAll('.response').hasClass('wrong')) {
+              $checkbox.nextAll('.incorrect-checkbox').show();
+            } else if (!$checkbox[0].checked &&
+                $checkbox.nextAll('.response').hasClass('right')) {
+              $checkbox.nextAll('.incorrect-checkbox').show();
+            } else {
+              $checkbox.nextAll('.correct-checkbox').show();
+            }
+          }
+          $target.parent('.mcq').find('.response').slideToggle('fast');
+          if ($target.text() == 'Submit') {
+            $target.text('Hide');
+          } else {
+            $checkboxes.nextAll('.incorrect-checkbox').hide();
+            $checkboxes.nextAll('.correct-checkbox').hide();
+            $target.text('Submit');
+          }
+        });
+      });
+      </script>
+
+  
+
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://huyingjie.github.io/blog-hexo-en-yingjiehu/Attention-in-Delay-of-Gratification/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Yingjie Hu">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Insanely Reasonable, Reasonably Insane">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h2 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/Attention-in-Delay-of-Gratification/" itemprop="url">Attention in Delay of Gratification</a></h2>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">Posted on</span>
+              
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2017-11-29T14:50:24-05:00">
+                2017-11-29
+                Updated on 
+                2017-11-29              
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">In</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Paper-Summary/" itemprop="url" rel="index">
+                    <span itemprop="name">Paper Summary</span>
+                  </a>
+                </span>
+
+                
+                
+                  , 
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Topic/" itemprop="url" rel="index">
+                    <span itemprop="name">_Topic</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/Attention-in-Delay-of-Gratification/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count disqus-comment-count"
+                        data-disqus-identifier="Attention-in-Delay-of-Gratification/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+          
+             <span id="/Attention-in-Delay-of-Gratification/" class="leancloud_visitors" data-flag-title="Attention in Delay of Gratification">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">Visitors&#58;</span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          MISCHEL, W., & EBBESEN, E. B. (1970). Attention in Delay of Gratification. Journal of Personality and Social Psychology, 16(2), 329-337.
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/Attention-in-Delay-of-Gratification/">
+              Read more &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+
+  
+  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Josefin+Sans|Alike' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="../css/customized.css" type="text/css" />
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+          processEscapes: true
+        }
+      });
+    </script>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML.js"></script>
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.2/styles/default.min.css">
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.2/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+  <script>hljs.initHighlightingOnLoad();</script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        //close all the content divs on page load
+        $('.answer').hide();
+
+        // toggle slide
+        $('.clickanswer').click(function(){
+          // by calling sibling, we can use same div for all demos
+          $(this).siblings('.answer').slideToggle('fast');
+          $(this).text(function(i, v){
+              return v === 'Show Answer' ? 'Hide Answer' : 'Show Answer'
+          })
+        });
+
+      });
+    </script>
+
+
+  <script>hljs.initHighlightingOnLoad();</script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        //close all the content divs on page load
+        $('.response').hide();
+
+        // toggle slide
+        $('.selection').click(function(){
+          // by calling sibling, we can use same div for all demos
+          $(this).siblings('.response').slideToggle('fast');
+        });
+
+        $('button').click(function(event){
+          var $target = $(event.target);
+          var $checkboxes = $target.parent('.mcq').find('input');
+          for (var i = 0; i < $checkboxes.length; i++) {
+            var $checkbox = $checkboxes.eq(i);
+            a = $checkbox;
+            if ($checkbox[0].checked && $checkbox.nextAll('.response').hasClass('right')) {
+              $checkbox.nextAll('.correct-checkbox').show();
+            } else if ($checkbox[0].checked &&
+                $checkbox.nextAll('.response').hasClass('wrong')) {
+              $checkbox.nextAll('.incorrect-checkbox').show();
+            } else if (!$checkbox[0].checked &&
+                $checkbox.nextAll('.response').hasClass('right')) {
+              $checkbox.nextAll('.incorrect-checkbox').show();
+            } else {
+              $checkbox.nextAll('.correct-checkbox').show();
+            }
+          }
+          $target.parent('.mcq').find('.response').slideToggle('fast');
+          if ($target.text() == 'Submit') {
+            $target.text('Hide');
+          } else {
+            $checkboxes.nextAll('.incorrect-checkbox').hide();
+            $checkboxes.nextAll('.correct-checkbox').hide();
+            $target.text('Submit');
+          }
+        });
+      });
+      </script>
+
+  
+
   <div class="post-block">
     <link itemprop="mainEntityOfPage" href="http://huyingjie.github.io/blog-hexo-en-yingjiehu/Add-disqus-comment-system-in-Jekyll/">
 
@@ -381,9 +1270,9 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">
+          <h2 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/Add-disqus-comment-system-in-Jekyll/" itemprop="url">Add disqus comment system in Jekyll</a></h1>
+                <a class="post-title-link" href="/Add-disqus-comment-system-in-Jekyll/" itemprop="url">Add disqus comment system in Jekyll</a></h2>
         
 
         <div class="post-meta">
@@ -397,6 +1286,8 @@
               
               <time title="Post created" itemprop="dateCreated datePublished" datetime="2017-02-06T00:00:00-05:00">
                 2017-02-06
+                Updated on 
+                2017-11-22              
               </time>
             
 
@@ -532,6 +1423,91 @@
   
   
   
+
+  
+  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Josefin+Sans|Alike' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="../css/customized.css" type="text/css" />
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+          processEscapes: true
+        }
+      });
+    </script>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML.js"></script>
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.2/styles/default.min.css">
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.2/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+  <script>hljs.initHighlightingOnLoad();</script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        //close all the content divs on page load
+        $('.answer').hide();
+
+        // toggle slide
+        $('.clickanswer').click(function(){
+          // by calling sibling, we can use same div for all demos
+          $(this).siblings('.answer').slideToggle('fast');
+          $(this).text(function(i, v){
+              return v === 'Show Answer' ? 'Hide Answer' : 'Show Answer'
+          })
+        });
+
+      });
+    </script>
+
+
+  <script>hljs.initHighlightingOnLoad();</script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        //close all the content divs on page load
+        $('.response').hide();
+
+        // toggle slide
+        $('.selection').click(function(){
+          // by calling sibling, we can use same div for all demos
+          $(this).siblings('.response').slideToggle('fast');
+        });
+
+        $('button').click(function(event){
+          var $target = $(event.target);
+          var $checkboxes = $target.parent('.mcq').find('input');
+          for (var i = 0; i < $checkboxes.length; i++) {
+            var $checkbox = $checkboxes.eq(i);
+            a = $checkbox;
+            if ($checkbox[0].checked && $checkbox.nextAll('.response').hasClass('right')) {
+              $checkbox.nextAll('.correct-checkbox').show();
+            } else if ($checkbox[0].checked &&
+                $checkbox.nextAll('.response').hasClass('wrong')) {
+              $checkbox.nextAll('.incorrect-checkbox').show();
+            } else if (!$checkbox[0].checked &&
+                $checkbox.nextAll('.response').hasClass('right')) {
+              $checkbox.nextAll('.incorrect-checkbox').show();
+            } else {
+              $checkbox.nextAll('.correct-checkbox').show();
+            }
+          }
+          $target.parent('.mcq').find('.response').slideToggle('fast');
+          if ($target.text() == 'Submit') {
+            $target.text('Hide');
+          } else {
+            $checkboxes.nextAll('.incorrect-checkbox').hide();
+            $checkboxes.nextAll('.correct-checkbox').hide();
+            $target.text('Submit');
+          }
+        });
+      });
+      </script>
+
+  
+
   <div class="post-block">
     <link itemprop="mainEntityOfPage" href="http://huyingjie.github.io/blog-hexo-en-yingjiehu/Show-math-formula-in-Jekyll/">
 
@@ -550,9 +1526,9 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">
+          <h2 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/Show-math-formula-in-Jekyll/" itemprop="url">How to show math formula in Jekyll</a></h1>
+                <a class="post-title-link" href="/Show-math-formula-in-Jekyll/" itemprop="url">How to show math formula in Jekyll</a></h2>
         
 
         <div class="post-meta">
@@ -566,6 +1542,8 @@
               
               <time title="Post created" itemprop="dateCreated datePublished" datetime="2017-02-05T00:00:00-05:00">
                 2017-02-05
+                Updated on 
+                2017-11-21              
               </time>
             
 
@@ -701,6 +1679,91 @@
   
   
   
+
+  
+  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Josefin+Sans|Alike' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="../css/customized.css" type="text/css" />
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+          processEscapes: true
+        }
+      });
+    </script>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML.js"></script>
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.2/styles/default.min.css">
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.2/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+  <script>hljs.initHighlightingOnLoad();</script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        //close all the content divs on page load
+        $('.answer').hide();
+
+        // toggle slide
+        $('.clickanswer').click(function(){
+          // by calling sibling, we can use same div for all demos
+          $(this).siblings('.answer').slideToggle('fast');
+          $(this).text(function(i, v){
+              return v === 'Show Answer' ? 'Hide Answer' : 'Show Answer'
+          })
+        });
+
+      });
+    </script>
+
+
+  <script>hljs.initHighlightingOnLoad();</script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        //close all the content divs on page load
+        $('.response').hide();
+
+        // toggle slide
+        $('.selection').click(function(){
+          // by calling sibling, we can use same div for all demos
+          $(this).siblings('.response').slideToggle('fast');
+        });
+
+        $('button').click(function(event){
+          var $target = $(event.target);
+          var $checkboxes = $target.parent('.mcq').find('input');
+          for (var i = 0; i < $checkboxes.length; i++) {
+            var $checkbox = $checkboxes.eq(i);
+            a = $checkbox;
+            if ($checkbox[0].checked && $checkbox.nextAll('.response').hasClass('right')) {
+              $checkbox.nextAll('.correct-checkbox').show();
+            } else if ($checkbox[0].checked &&
+                $checkbox.nextAll('.response').hasClass('wrong')) {
+              $checkbox.nextAll('.incorrect-checkbox').show();
+            } else if (!$checkbox[0].checked &&
+                $checkbox.nextAll('.response').hasClass('right')) {
+              $checkbox.nextAll('.incorrect-checkbox').show();
+            } else {
+              $checkbox.nextAll('.correct-checkbox').show();
+            }
+          }
+          $target.parent('.mcq').find('.response').slideToggle('fast');
+          if ($target.text() == 'Submit') {
+            $target.text('Hide');
+          } else {
+            $checkboxes.nextAll('.incorrect-checkbox').hide();
+            $checkboxes.nextAll('.correct-checkbox').hide();
+            $target.text('Submit');
+          }
+        });
+      });
+      </script>
+
+  
+
   <div class="post-block">
     <link itemprop="mainEntityOfPage" href="http://huyingjie.github.io/blog-hexo-en-yingjiehu/how-to-uninstall-r-under-mac-os-x/">
 
@@ -719,9 +1782,9 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">
+          <h2 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/how-to-uninstall-r-under-mac-os-x/" itemprop="url">How to Uninstall R underMac OS X</a></h1>
+                <a class="post-title-link" href="/how-to-uninstall-r-under-mac-os-x/" itemprop="url">How to Uninstall R underMac OS X</a></h2>
         
 
         <div class="post-meta">
@@ -735,6 +1798,8 @@
               
               <time title="Post created" itemprop="dateCreated datePublished" datetime="2014-11-23T00:00:00-05:00">
                 2014-11-23
+                Updated on 
+                2017-11-18              
               </time>
             
 
@@ -881,6 +1946,91 @@
   
   
   
+
+  
+  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Josefin+Sans|Alike' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="../css/customized.css" type="text/css" />
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+          processEscapes: true
+        }
+      });
+    </script>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML.js"></script>
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.2/styles/default.min.css">
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.2/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+  <script>hljs.initHighlightingOnLoad();</script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        //close all the content divs on page load
+        $('.answer').hide();
+
+        // toggle slide
+        $('.clickanswer').click(function(){
+          // by calling sibling, we can use same div for all demos
+          $(this).siblings('.answer').slideToggle('fast');
+          $(this).text(function(i, v){
+              return v === 'Show Answer' ? 'Hide Answer' : 'Show Answer'
+          })
+        });
+
+      });
+    </script>
+
+
+  <script>hljs.initHighlightingOnLoad();</script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        //close all the content divs on page load
+        $('.response').hide();
+
+        // toggle slide
+        $('.selection').click(function(){
+          // by calling sibling, we can use same div for all demos
+          $(this).siblings('.response').slideToggle('fast');
+        });
+
+        $('button').click(function(event){
+          var $target = $(event.target);
+          var $checkboxes = $target.parent('.mcq').find('input');
+          for (var i = 0; i < $checkboxes.length; i++) {
+            var $checkbox = $checkboxes.eq(i);
+            a = $checkbox;
+            if ($checkbox[0].checked && $checkbox.nextAll('.response').hasClass('right')) {
+              $checkbox.nextAll('.correct-checkbox').show();
+            } else if ($checkbox[0].checked &&
+                $checkbox.nextAll('.response').hasClass('wrong')) {
+              $checkbox.nextAll('.incorrect-checkbox').show();
+            } else if (!$checkbox[0].checked &&
+                $checkbox.nextAll('.response').hasClass('right')) {
+              $checkbox.nextAll('.incorrect-checkbox').show();
+            } else {
+              $checkbox.nextAll('.correct-checkbox').show();
+            }
+          }
+          $target.parent('.mcq').find('.response').slideToggle('fast');
+          if ($target.text() == 'Submit') {
+            $target.text('Hide');
+          } else {
+            $checkboxes.nextAll('.incorrect-checkbox').hide();
+            $checkboxes.nextAll('.correct-checkbox').hide();
+            $target.text('Submit');
+          }
+        });
+      });
+      </script>
+
+  
+
   <div class="post-block">
     <link itemprop="mainEntityOfPage" href="http://huyingjie.github.io/blog-hexo-en-yingjiehu/its-a-correct-choice-to-buy-mac-pro/">
 
@@ -899,9 +2049,9 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">
+          <h2 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/its-a-correct-choice-to-buy-mac-pro/" itemprop="url">It is a correct choice to buy Mac Pro!</a></h1>
+                <a class="post-title-link" href="/its-a-correct-choice-to-buy-mac-pro/" itemprop="url">It is a correct choice to buy Mac Pro!</a></h2>
         
 
         <div class="post-meta">
@@ -915,6 +2065,8 @@
               
               <time title="Post created" itemprop="dateCreated datePublished" datetime="2013-04-03T00:00:00-04:00">
                 2013-04-03
+                Updated on 
+                2017-11-18              
               </time>
             
 
@@ -1050,6 +2202,91 @@
   
   
   
+
+  
+  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Josefin+Sans|Alike' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="../css/customized.css" type="text/css" />
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+          processEscapes: true
+        }
+      });
+    </script>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML.js"></script>
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.2/styles/default.min.css">
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.2/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+  <script>hljs.initHighlightingOnLoad();</script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        //close all the content divs on page load
+        $('.answer').hide();
+
+        // toggle slide
+        $('.clickanswer').click(function(){
+          // by calling sibling, we can use same div for all demos
+          $(this).siblings('.answer').slideToggle('fast');
+          $(this).text(function(i, v){
+              return v === 'Show Answer' ? 'Hide Answer' : 'Show Answer'
+          })
+        });
+
+      });
+    </script>
+
+
+  <script>hljs.initHighlightingOnLoad();</script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        //close all the content divs on page load
+        $('.response').hide();
+
+        // toggle slide
+        $('.selection').click(function(){
+          // by calling sibling, we can use same div for all demos
+          $(this).siblings('.response').slideToggle('fast');
+        });
+
+        $('button').click(function(event){
+          var $target = $(event.target);
+          var $checkboxes = $target.parent('.mcq').find('input');
+          for (var i = 0; i < $checkboxes.length; i++) {
+            var $checkbox = $checkboxes.eq(i);
+            a = $checkbox;
+            if ($checkbox[0].checked && $checkbox.nextAll('.response').hasClass('right')) {
+              $checkbox.nextAll('.correct-checkbox').show();
+            } else if ($checkbox[0].checked &&
+                $checkbox.nextAll('.response').hasClass('wrong')) {
+              $checkbox.nextAll('.incorrect-checkbox').show();
+            } else if (!$checkbox[0].checked &&
+                $checkbox.nextAll('.response').hasClass('right')) {
+              $checkbox.nextAll('.incorrect-checkbox').show();
+            } else {
+              $checkbox.nextAll('.correct-checkbox').show();
+            }
+          }
+          $target.parent('.mcq').find('.response').slideToggle('fast');
+          if ($target.text() == 'Submit') {
+            $target.text('Hide');
+          } else {
+            $checkboxes.nextAll('.incorrect-checkbox').hide();
+            $checkboxes.nextAll('.correct-checkbox').hide();
+            $target.text('Submit');
+          }
+        });
+      });
+      </script>
+
+  
+
   <div class="post-block">
     <link itemprop="mainEntityOfPage" href="http://huyingjie.github.io/blog-hexo-en-yingjiehu/How-long-to-write-a-book/">
 
@@ -1068,9 +2305,9 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">
+          <h2 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/How-long-to-write-a-book/" itemprop="url">How long to write a book?</a></h1>
+                <a class="post-title-link" href="/How-long-to-write-a-book/" itemprop="url">How long to write a book?</a></h2>
         
 
         <div class="post-meta">
@@ -1084,6 +2321,8 @@
               
               <time title="Post created" itemprop="dateCreated datePublished" datetime="2013-03-31T00:00:00-04:00">
                 2013-03-31
+                Updated on 
+                2017-11-18              
               </time>
             
 
@@ -1243,7 +2482,7 @@
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
             
               <p class="site-author-name" itemprop="name">Yingjie Hu</p>
-              <p class="site-description motion-element" itemprop="description">statistics / data science / data analysis / data science / big data</p>
+              <p class="site-description motion-element" itemprop="description"></p>
           </div>
 
           <nav class="site-state motion-element">
@@ -1253,7 +2492,7 @@
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">5</span>
+                  <span class="site-state-item-count">8</span>
                   <span class="site-state-item-name">posts</span>
                 </a>
               </div>
@@ -1264,7 +2503,7 @@
               
               <div class="site-state-item site-state-categories">
                 <a href="/categories/index.html">
-                  <span class="site-state-item-count">3</span>
+                  <span class="site-state-item-count">9</span>
                   <span class="site-state-item-name">categories</span>
                 </a>
               </div>
@@ -1275,7 +2514,7 @@
               
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
-                  <span class="site-state-item-count">4</span>
+                  <span class="site-state-item-count">8</span>
                   <span class="site-state-item-name">tags</span>
                 </a>
               </div>
@@ -1311,6 +2550,12 @@
                   <a href="https://www.youtube.com/channel/UCocshpKgA46Wn5lksgrX0xg" target="_blank" title="YouTube">
                     
                       <i class="fa fa-fw fa-youtube"></i>YouTube</a>
+                </span>
+              
+                <span class="links-of-author-item">
+                  <a href="https://www.reddit.com/r/YingjieHu" target="_blank" title="Reddit">
+                    
+                      <i class="fa fa-fw fa-reddit"></i>Reddit</a>
                 </span>
               
                 <span class="links-of-author-item">

@@ -91,7 +91,7 @@
 <meta property="og:site_name" content="Insanely Reasonable, Reasonably Insane">
 <meta property="og:description" content="There are only two steps to add functionality of showing math formular in Jekyll. MathJax is the engine to achive it.">
 <meta property="og:locale" content="en">
-<meta property="og:updated_time" content="2017-11-19T18:36:01.000Z">
+<meta property="og:updated_time" content="2017-11-21T19:09:10.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="How to show math formula in Jekyll">
 <meta name="twitter:description" content="There are only two steps to add functionality of showing math formular in Jekyll. MathJax is the engine to achive it.">
@@ -174,7 +174,7 @@
       </a>
     </div>
       
-        <p class="site-subtitle"></p>
+        <h1 class="site-subtitle" itemprop="description"></h1>
       
   </div>
 
@@ -229,7 +229,7 @@
             
               <i class="menu-item-icon fa fa-fw fa-heart"></i> <br />
             
-            resources
+            Resources
           </a>
         </li>
       
@@ -250,6 +250,16 @@
               <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
             
             Tags
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-projects">
+          <a href="/projects/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-line-chart"></i> <br />
+            
+            projects
           </a>
         </li>
       
@@ -364,6 +374,91 @@
   
   
   
+
+  
+  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Josefin+Sans|Alike' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="../css/customized.css" type="text/css" />
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+          processEscapes: true
+        }
+      });
+    </script>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML.js"></script>
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.2/styles/default.min.css">
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.2/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+  <script>hljs.initHighlightingOnLoad();</script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        //close all the content divs on page load
+        $('.answer').hide();
+
+        // toggle slide
+        $('.clickanswer').click(function(){
+          // by calling sibling, we can use same div for all demos
+          $(this).siblings('.answer').slideToggle('fast');
+          $(this).text(function(i, v){
+              return v === 'Show Answer' ? 'Hide Answer' : 'Show Answer'
+          })
+        });
+
+      });
+    </script>
+
+
+  <script>hljs.initHighlightingOnLoad();</script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        //close all the content divs on page load
+        $('.response').hide();
+
+        // toggle slide
+        $('.selection').click(function(){
+          // by calling sibling, we can use same div for all demos
+          $(this).siblings('.response').slideToggle('fast');
+        });
+
+        $('button').click(function(event){
+          var $target = $(event.target);
+          var $checkboxes = $target.parent('.mcq').find('input');
+          for (var i = 0; i < $checkboxes.length; i++) {
+            var $checkbox = $checkboxes.eq(i);
+            a = $checkbox;
+            if ($checkbox[0].checked && $checkbox.nextAll('.response').hasClass('right')) {
+              $checkbox.nextAll('.correct-checkbox').show();
+            } else if ($checkbox[0].checked &&
+                $checkbox.nextAll('.response').hasClass('wrong')) {
+              $checkbox.nextAll('.incorrect-checkbox').show();
+            } else if (!$checkbox[0].checked &&
+                $checkbox.nextAll('.response').hasClass('right')) {
+              $checkbox.nextAll('.incorrect-checkbox').show();
+            } else {
+              $checkbox.nextAll('.correct-checkbox').show();
+            }
+          }
+          $target.parent('.mcq').find('.response').slideToggle('fast');
+          if ($target.text() == 'Submit') {
+            $target.text('Hide');
+          } else {
+            $checkboxes.nextAll('.incorrect-checkbox').hide();
+            $checkboxes.nextAll('.correct-checkbox').hide();
+            $target.text('Submit');
+          }
+        });
+      });
+      </script>
+
+  
+
   <div class="post-block">
     <link itemprop="mainEntityOfPage" href="http://huyingjie.github.io/blog-hexo-en-yingjiehu/Show-math-formula-in-Jekyll/">
 
@@ -382,7 +477,7 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">How to show math formula in Jekyll</h1>
+          <h2 class="post-title" itemprop="name headline">How to show math formula in Jekyll</h2>
         
 
         <div class="post-meta">
@@ -396,6 +491,8 @@
               
               <time title="Post created" itemprop="dateCreated datePublished" datetime="2017-02-05T00:00:00-05:00">
                 2017-02-05
+                Updated on 
+                2017-11-21              
               </time>
             
 
@@ -476,6 +573,16 @@
       
 
       
+        
+        
+        
+        
+
+        
+        
+        
+        
+
         <p>There are only two steps to add functionality of showing math formular in Jekyll. MathJax is the engine to achive it. <a id="more"></a></p>
 <ol>
 <li>open the file <code>default.html</code> in the folder <code>_layouts</code></li>
@@ -483,31 +590,31 @@
 </ol>
 <pre><code><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&lt;script type=<span class="string">"text/x-mathjax-config"</span>&gt;</span><br><span class="line">MathJax.Hub.Config(&#123;<span class="attr">tex2jax</span>: &#123;<span class="attr">inlineMath</span>: [[<span class="string">'$'</span>,<span class="string">'$'</span>], [<span class="string">'\\('</span>,<span class="string">'\\)'</span>]]&#125;&#125;);</span><br><span class="line">&lt;<span class="regexp">/script&gt;</span></span><br><span class="line"><span class="regexp">&lt;script type="text/</span>javascript<span class="string">" src="</span>http:<span class="comment">//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"&gt;&lt;/script&gt;</span></span><br><span class="line">&lt;link href=<span class="string">"/assets/css/syntax.css"</span> rel=<span class="string">"stylesheet"</span> &gt;</span><br></pre></td></tr></table></figure>
 </code></pre><h2 id="Test"><a href="#Test" class="headerlink" title="Test:"></a>Test:</h2><p>Add the following codes to your posts to test whether MathJax is working.</p>
-<h3 id="1-the-inline-mode"><a href="#1-the-inline-mode" class="headerlink" title="1. the inline mode"></a>1. the <strong>inline</strong> mode</h3><pre><code>**Code:**
+<ol>
+<li><p>the <strong>inline</strong> mode</p>
+<p> <strong>Code:</strong></p>
+ <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">	In physics, the mass-energy equivalence is stated</span><br><span class="line">by the equation $E=mc^2$, discovered in 1905 by Albert Einstein.</span><br></pre></td></tr></table></figure>
+<p> <strong>Desired result:</strong></p>
+<p> In physics, the mass-energy equivalence is stated<br>by the equation $E=mc^2$, discovered in 1905 by Albert Einstein.</p>
+</li>
+<li><p>the <strong>display</strong> mode</p>
+<p> <strong>Code:</strong></p>
+ <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">The mass-energy equivalence is described by the famous equation</span><br><span class="line"></span><br><span class="line">$$E=mc^2$$</span><br><span class="line"></span><br><span class="line">discovered in 1905 by Albert Einstein.</span><br><span class="line">In natural units ($c$ = 1), the formula expresses the identity</span><br><span class="line"></span><br><span class="line">\begin&#123;equation&#125;</span><br><span class="line">E=m</span><br><span class="line">\end&#123;equation&#125;</span><br></pre></td></tr></table></figure>
+<p> <strong>Desired result:</strong></p>
+<p> The mass-energy equivalence is described by the famous equation</p>
+<p> $$E=mc^2$$</p>
+<p> discovered in 1905 by Albert Einstein.<br> In natural units ($c$ = 1), the formula expresses the identity</p>
+<p> \begin{equation}<br> E=m<br> \end{equation}</p>
+</li>
+</ol>
 
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">	In physics, the mass-energy equivalence is stated</span><br><span class="line">by the equation $E=mc^2$, discovered in 1905 by Albert Einstein.</span><br></pre></td></tr></table></figure>
 
-**Desired result:**
+        
+        
+        
+        
 
-In physics, the mass-energy equivalence is stated
-</code></pre><p>by the equation $E=mc^2$, discovered in 1905 by Albert Einstein.</p>
-<h3 id="2-the-display-mode"><a href="#2-the-display-mode" class="headerlink" title="2. the display mode"></a>2. the <strong>display</strong> mode</h3><pre><code>**Code:**
-
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">The mass-energy equivalence is described by the famous equation</span><br><span class="line"></span><br><span class="line">$$E=mc^2$$</span><br><span class="line"></span><br><span class="line">discovered in 1905 by Albert Einstein.</span><br><span class="line">In natural units ($c$ = 1), the formula expresses the identity</span><br><span class="line"></span><br><span class="line">\begin&#123;equation&#125;</span><br><span class="line">E=m</span><br><span class="line">\end&#123;equation&#125;</span><br></pre></td></tr></table></figure>
-
-**Desired result:**
-
-The mass-energy equivalence is described by the famous equation
-
-$$E=mc^2$$
-
-discovered in 1905 by Albert Einstein.
-In natural units ($c$ = 1), the formula expresses the identity
-
-\begin{equation}
-E=m
-\end{equation}
-</code></pre>
+               
         
         
           <h3 class="article-title" style="border-radius:10px 10px 0 0; display: block; margin: 0; font-size: 1em; cursor: pointert;">Related posts:</h3>
@@ -518,10 +625,49 @@ E=m
           </ul>
           
 
-          <p style="box-shadow: 0 0 2px rgba(0,0,0,0.25) inset; clear: both; padding: 0.5em; border-top: solid 1px #ddd; boder-bottom: solid 1px #ddd; background: rgba(240,220,220,0.25); color: #777; text-align: center"> 
-          Follow the author on <a href = "https://twitter.com/yingjieYJH" target = blank>Twitter</a>.<br>
+
+
+
+        <div style="box-shadow: 0 0 2px rgba(0,0,0,0.25) inset; clear: both; padding: 0.5em; border-top: solid 1px #ddd; boder-bottom: solid 1px #ddd; background: rgba(240,220,220,0.25); color: #777; text-align: center">  
           This content is <a href = "https://www.patreon.com/yingjiehu" target = blank> supported by readers like you.</a>
-         </p>
+        </div>
+
+        
+
+          
+        <br>
+             <!-- Begin MailChimp Signup Form -->
+              <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+                <div style="box-shadow: 0 0 2px rgba(0,0,0,0.25) inset; clear: both; padding: 0.5em; border-top: solid 1px #ddd; boder-bottom: solid 1px #ddd; background: rgba(240,220,220,0.25); color: #777; text-align: center">  
+                  <style type="text/css">
+                    #mc_embed_signup{clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+                    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+                       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+                  </style>
+                  <div id="mc_embed_signup">
+                    <form action="https://yingjiehu.us17.list-manage.com/subscribe/post?u=3fe3112157572128dc2da2663&amp;id=67a941359e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                      <div id="mc_embed_signup_scroll">
+
+                        <label for="mce-EMAIL">Join to get weekly updates by email</label>
+                        
+                        <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+                        
+                        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                        <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                          <input type="text" name="b_3fe3112157572128dc2da2663_67a941359e" tabindex="-1" value="">
+                        </div>
+                        <div class="clear">
+                          <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+                        </div>
+                      </div>
+                    </form>
+                  </div> 
+                </div>
+
+              <!--End mc_embed_signup-->
+
+
+
       
     </div>
 
@@ -644,7 +790,7 @@ E=m
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
             
               <p class="site-author-name" itemprop="name">Yingjie Hu</p>
-              <p class="site-description motion-element" itemprop="description">statistics / data science / data analysis / data science / big data</p>
+              <p class="site-description motion-element" itemprop="description"></p>
           </div>
 
           <nav class="site-state motion-element">
@@ -654,7 +800,7 @@ E=m
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">5</span>
+                  <span class="site-state-item-count">8</span>
                   <span class="site-state-item-name">posts</span>
                 </a>
               </div>
@@ -665,7 +811,7 @@ E=m
               
               <div class="site-state-item site-state-categories">
                 <a href="/categories/index.html">
-                  <span class="site-state-item-count">3</span>
+                  <span class="site-state-item-count">9</span>
                   <span class="site-state-item-name">categories</span>
                 </a>
               </div>
@@ -676,7 +822,7 @@ E=m
               
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
-                  <span class="site-state-item-count">4</span>
+                  <span class="site-state-item-count">8</span>
                   <span class="site-state-item-name">tags</span>
                 </a>
               </div>
@@ -715,6 +861,12 @@ E=m
                 </span>
               
                 <span class="links-of-author-item">
+                  <a href="https://www.reddit.com/r/YingjieHu" target="_blank" title="Reddit">
+                    
+                      <i class="fa fa-fw fa-reddit"></i>Reddit</a>
+                </span>
+              
+                <span class="links-of-author-item">
                   <a href="https://www.patreon.com/yingjiehu" target="_blank" title="Patreon">
                     
                       <i class="fa fa-fw fa-beer"></i>Patreon</a>
@@ -744,7 +896,7 @@ E=m
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Test"><span class="nav-number">1.</span> <span class="nav-text">Test:</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-the-inline-mode"><span class="nav-number">1.1.</span> <span class="nav-text">1. the inline mode</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-the-display-mode"><span class="nav-number">1.2.</span> <span class="nav-text">2. the display mode</span></a></li></ol></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Test"><span class="nav-number">1.</span> <span class="nav-text">Test:</span></a></li></ol></div>
             
 
           </div>

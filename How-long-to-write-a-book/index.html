@@ -174,7 +174,7 @@
       </a>
     </div>
       
-        <p class="site-subtitle"></p>
+        <h1 class="site-subtitle" itemprop="description"></h1>
       
   </div>
 
@@ -229,7 +229,7 @@
             
               <i class="menu-item-icon fa fa-fw fa-heart"></i> <br />
             
-            resources
+            Resources
           </a>
         </li>
       
@@ -250,6 +250,16 @@
               <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
             
             Tags
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-projects">
+          <a href="/projects/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-line-chart"></i> <br />
+            
+            projects
           </a>
         </li>
       
@@ -364,6 +374,91 @@
   
   
   
+
+  
+  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Josefin+Sans|Alike' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="../css/customized.css" type="text/css" />
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+          processEscapes: true
+        }
+      });
+    </script>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML.js"></script>
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.2/styles/default.min.css">
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.2/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+  <script>hljs.initHighlightingOnLoad();</script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        //close all the content divs on page load
+        $('.answer').hide();
+
+        // toggle slide
+        $('.clickanswer').click(function(){
+          // by calling sibling, we can use same div for all demos
+          $(this).siblings('.answer').slideToggle('fast');
+          $(this).text(function(i, v){
+              return v === 'Show Answer' ? 'Hide Answer' : 'Show Answer'
+          })
+        });
+
+      });
+    </script>
+
+
+  <script>hljs.initHighlightingOnLoad();</script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        //close all the content divs on page load
+        $('.response').hide();
+
+        // toggle slide
+        $('.selection').click(function(){
+          // by calling sibling, we can use same div for all demos
+          $(this).siblings('.response').slideToggle('fast');
+        });
+
+        $('button').click(function(event){
+          var $target = $(event.target);
+          var $checkboxes = $target.parent('.mcq').find('input');
+          for (var i = 0; i < $checkboxes.length; i++) {
+            var $checkbox = $checkboxes.eq(i);
+            a = $checkbox;
+            if ($checkbox[0].checked && $checkbox.nextAll('.response').hasClass('right')) {
+              $checkbox.nextAll('.correct-checkbox').show();
+            } else if ($checkbox[0].checked &&
+                $checkbox.nextAll('.response').hasClass('wrong')) {
+              $checkbox.nextAll('.incorrect-checkbox').show();
+            } else if (!$checkbox[0].checked &&
+                $checkbox.nextAll('.response').hasClass('right')) {
+              $checkbox.nextAll('.incorrect-checkbox').show();
+            } else {
+              $checkbox.nextAll('.correct-checkbox').show();
+            }
+          }
+          $target.parent('.mcq').find('.response').slideToggle('fast');
+          if ($target.text() == 'Submit') {
+            $target.text('Hide');
+          } else {
+            $checkboxes.nextAll('.incorrect-checkbox').hide();
+            $checkboxes.nextAll('.correct-checkbox').hide();
+            $target.text('Submit');
+          }
+        });
+      });
+      </script>
+
+  
+
   <div class="post-block">
     <link itemprop="mainEntityOfPage" href="http://huyingjie.github.io/blog-hexo-en-yingjiehu/How-long-to-write-a-book/">
 
@@ -382,7 +477,7 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">How long to write a book?</h1>
+          <h2 class="post-title" itemprop="name headline">How long to write a book?</h2>
         
 
         <div class="post-meta">
@@ -396,6 +491,8 @@
               
               <time title="Post created" itemprop="dateCreated datePublished" datetime="2013-03-31T00:00:00-04:00">
                 2013-03-31
+                Updated on 
+                2017-11-18              
               </time>
             
 
@@ -476,17 +573,73 @@
       
 
       
+        
+        
+        
+        
+
+        
+        
+        
+        
+
         <p>How long to write a book? No correct answer to this question. My sensibility always admire people who can write the book as quickly as possible because the speed implies that they have high productivity and other abilities. My intellects know my sensibility is wrong. How to marry intellects and sensibility? I do not have answer to this question, either. One thing can be confirmed that good books take time. How long? Several years. <a id="more"></a></p>
 <p><a href="http://blog.ericnovik.com/2013/03/28/getting-ready-to-write-a-book/" target="_blank">Eric Novik planned to write a book recently</a>, 8 chapter and over 300 pages. He asked Prof. Gelman:</p>
 <blockquote>The work seems overwhelming. I always wondered how you manage to produce such high volume of high quality content. What’s the secret?</blockquote><br><a href="http://andrewgelman.com/2013/03/31/hes-getting-ready-to-write-a-book/" target="_blank">Prof. Gelman replied in his blog:</a><br><blockquote>The first secret is, I wouldn’t try to write a book in 6 to 8 months. The first edition of Bayesian Data Analysis took several years. Each new edition took awhile too. So if “long and arduous” to you means “6 to 8 months,” I think your time management skills are already much better than mine!</blockquote>
 
+
+        
+        
+        
+        
+
+               
         
           
 
-          <p style="box-shadow: 0 0 2px rgba(0,0,0,0.25) inset; clear: both; padding: 0.5em; border-top: solid 1px #ddd; boder-bottom: solid 1px #ddd; background: rgba(240,220,220,0.25); color: #777; text-align: center"> 
-          Follow the author on <a href = "https://twitter.com/yingjieYJH" target = blank>Twitter</a>.<br>
+
+
+
+        <div style="box-shadow: 0 0 2px rgba(0,0,0,0.25) inset; clear: both; padding: 0.5em; border-top: solid 1px #ddd; boder-bottom: solid 1px #ddd; background: rgba(240,220,220,0.25); color: #777; text-align: center">  
           This content is <a href = "https://www.patreon.com/yingjiehu" target = blank> supported by readers like you.</a>
-         </p>
+        </div>
+
+        
+
+          
+        <br>
+             <!-- Begin MailChimp Signup Form -->
+              <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+                <div style="box-shadow: 0 0 2px rgba(0,0,0,0.25) inset; clear: both; padding: 0.5em; border-top: solid 1px #ddd; boder-bottom: solid 1px #ddd; background: rgba(240,220,220,0.25); color: #777; text-align: center">  
+                  <style type="text/css">
+                    #mc_embed_signup{clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+                    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+                       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+                  </style>
+                  <div id="mc_embed_signup">
+                    <form action="https://yingjiehu.us17.list-manage.com/subscribe/post?u=3fe3112157572128dc2da2663&amp;id=67a941359e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                      <div id="mc_embed_signup_scroll">
+
+                        <label for="mce-EMAIL">Join to get weekly updates by email</label>
+                        
+                        <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+                        
+                        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                        <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                          <input type="text" name="b_3fe3112157572128dc2da2663_67a941359e" tabindex="-1" value="">
+                        </div>
+                        <div class="clear">
+                          <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+                        </div>
+                      </div>
+                    </form>
+                  </div> 
+                </div>
+
+              <!--End mc_embed_signup-->
+
+
+
       
     </div>
 
@@ -596,7 +749,7 @@
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
             
               <p class="site-author-name" itemprop="name">Yingjie Hu</p>
-              <p class="site-description motion-element" itemprop="description">statistics / data science / data analysis / data science / big data</p>
+              <p class="site-description motion-element" itemprop="description"></p>
           </div>
 
           <nav class="site-state motion-element">
@@ -606,7 +759,7 @@
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">5</span>
+                  <span class="site-state-item-count">8</span>
                   <span class="site-state-item-name">posts</span>
                 </a>
               </div>
@@ -617,7 +770,7 @@
               
               <div class="site-state-item site-state-categories">
                 <a href="/categories/index.html">
-                  <span class="site-state-item-count">3</span>
+                  <span class="site-state-item-count">9</span>
                   <span class="site-state-item-name">categories</span>
                 </a>
               </div>
@@ -628,7 +781,7 @@
               
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
-                  <span class="site-state-item-count">4</span>
+                  <span class="site-state-item-count">8</span>
                   <span class="site-state-item-name">tags</span>
                 </a>
               </div>
@@ -664,6 +817,12 @@
                   <a href="https://www.youtube.com/channel/UCocshpKgA46Wn5lksgrX0xg" target="_blank" title="YouTube">
                     
                       <i class="fa fa-fw fa-youtube"></i>YouTube</a>
+                </span>
+              
+                <span class="links-of-author-item">
+                  <a href="https://www.reddit.com/r/YingjieHu" target="_blank" title="Reddit">
+                    
+                      <i class="fa fa-fw fa-reddit"></i>Reddit</a>
                 </span>
               
                 <span class="links-of-author-item">

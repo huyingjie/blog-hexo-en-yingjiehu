@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/projects/index.html</loc>
+    
+    <lastmod>2017-12-05T02:21:57.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Reading-Paper-Round-1/</loc>
+    
+    <lastmod>2017-12-05T02:19:49.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Code-Round-1-R-data-analysis/</loc>
+    
+    <lastmod>2017-12-05T02:19:35.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/Attention-in-Delay-of-Gratification/</loc>
+    
+    <lastmod>2017-11-29T21:42:54.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/Add-disqus-comment-system-in-Jekyll/</loc>
+    
+    <lastmod>2017-11-22T19:42:21.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/Show-math-formula-in-Jekyll/</loc>
+    
+    <lastmod>2017-11-21T19:09:10.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/about/index.html</loc>
     
     <lastmod>2017-11-20T04:30:41.000Z</lastmod>
@@ -23,14 +65,7 @@
   </url>
   
   <url>
-    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/Show-math-formula-in-Jekyll/</loc>
-    
-    <lastmod>2017-11-19T18:36:01.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/How-long-to-write-a-book/</loc>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/categories/index.html</loc>
     
     <lastmod>2017-11-19T01:03:12.000Z</lastmod>
     
@@ -51,21 +86,14 @@
   </url>
   
   <url>
-    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/Add-disqus-comment-system-in-Jekyll/</loc>
-    
-    <lastmod>2017-11-19T01:03:12.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/categories/index.html</loc>
-    
-    <lastmod>2017-11-19T01:03:12.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/tags/index.html</loc>
+    
+    <lastmod>2017-11-19T01:03:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/How-long-to-write-a-book/</loc>
     
     <lastmod>2017-11-19T01:03:12.000Z</lastmod>
     
