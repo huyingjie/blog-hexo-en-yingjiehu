@@ -51,7 +51,7 @@
       <title>Add disqus comment system in Jekyll</title>
       <link>http://huyingjie.github.io/blog-hexo-en-yingjiehu/Add-disqus-comment-system-in-Jekyll/</link>
       <guid>http://huyingjie.github.io/blog-hexo-en-yingjiehu/Add-disqus-comment-system-in-Jekyll/</guid>
-      <pubDate>Mon, 06 Feb 2017 05:00:00 GMT</pubDate>
+      <pubDate>Wed, 22 Nov 2017 05:00:00 GMT</pubDate>
       <description>
       
         &lt;p&gt;The following steps are to add disqus comment system in all posts. It requires global setting in the &lt;code&gt;_config.yml&lt;/code&gt; file. In comparison, the official disqus tutorial adds front matter to each post to indicate whether comments are shown or not.

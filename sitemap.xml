@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/Add-disqus-comment-system-in-Jekyll/</loc>
+    
+    <lastmod>2017-12-05T02:50:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/projects/index.html</loc>
     
     <lastmod>2017-12-05T02:21:57.000Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Code-Round-1-R-data-analysis/</loc>
     
     <lastmod>2017-12-05T02:19:35.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/Add-disqus-comment-system-in-Jekyll/</loc>
-    
-    <lastmod>2017-11-22T19:42:21.000Z</lastmod>
     
   </url>
   
