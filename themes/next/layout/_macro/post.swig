@@ -156,8 +156,7 @@
               {% endif %}
               <time title="{{ __('post.created') }}" itemprop="dateCreated datePublished" datetime="{{ moment(post.date).format() }}">
                 {{ date(post.date, config.date_format) }}
-                Updated on 
-                {{ date(post.updated, config.date_format) }}              
+            
               </time>
             {% endif %}
 
@@ -322,6 +321,9 @@
             </div>
           {% endif %}
 
+          <br>
+          Updated on 
+                {{ date(post.updated, config.date_format) }}  
           {% if post.description and (not theme.excerpt_description or not is_index) %}
               <div class="post-description">
                   {{ post.description }}

@@ -4,8 +4,15 @@ title: 100 Days Of Web Development (Round 1)
 date: 2017-12-06
 tags: 
 	- 100 Days Challenge
+	- Web Development
+	- HTML
+	- CSS
+	- jQuery
+	- Bootstrap
+	- JavaScript
 categories: 
 	- 100 Days Challenge
+	- Web Development
 permalink: 100-Days-Of-Web-Development-Round-1
 ---
 The supporting project is [100 Days Of Code Round 1 (R, data analysis)](100-Days-Of-Code-Round-1-R-data-analysis)
@@ -30,14 +37,16 @@ Start Date: 2017-12-07
 ## Template for Log
 ```
 ### Day : 
+**Link**: [Github Repo]() | [Website]()
 **Today's Progress (achievements and frustrations)**: 
 **Thoughts and Emotions:**
-**Link**: [Github Repo]() | [Website]()
 ```
 
 <hr>
 ## LOG
 ### Day 1: 2017-12-06 Wednesday 
+**Link**: [Github Repo](https://github.com/huyingjie/tribute-zhugeliang) | [Website](http://zhugeliang.yingjiehu.com/)
+
 **Today's Progress (achievements and frustrations)**: 
 
 * finished the first project "Build a Tribute Page".
@@ -53,11 +62,13 @@ Today is the first time I use Bootstrap though I heard it a lot in the past. Thi
 
 It's an intense work. Luckily, all questions along the way were solved by myself. It took around 3 hours. 
 
-**Link**: [Github Repo](https://github.com/huyingjie/tribute-zhugeliang) | [Website](http://zhugeliang.yingjiehu.com/)
+
 
 <hr>
 
 ### Day 2: 2017-12-07 Thursday
+**Link**: [Github Repo](https://github.com/huyingjie/projects-page) | [Website](http://projects.yingjiehu.com/)
+
 **Today's Progress (achievements and frustrations)**: 
 
 * Started the second project "Personal Portfolio".
@@ -80,4 +91,3 @@ Reference:
 * [Scroll @Bootstrap 4 beta](https://v4-alpha.getbootstrap.com/components/scrollspy/)
 * [Navbar togglers](http://getbootstrap.com/docs/4.0/components/navbar/#toggler)
 
-**Link**: [Github Repo](https://github.com/huyingjie/projects-page) | [Website](http://projects.yingjiehu.com/)
