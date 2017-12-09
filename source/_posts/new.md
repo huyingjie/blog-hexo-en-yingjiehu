@@ -9,7 +9,7 @@ title: test
 <a class="button" href="https://gum.co/XETBY">Buy Now</a>
 
 
-<script src="https://gumroad.com/js/gumroad-embed.js"></script>
+
 <div class="gumroad-product-embed" data-gumroad-product-id="XETBY"><a href="https://gumroad.com/l/XETBY">Loading...</a></div>
 
 
