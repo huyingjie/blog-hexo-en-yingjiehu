@@ -2,6 +2,8 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 <meta name="theme-color" content="{{ theme.android_chrome_color }}">
+<script src="https://gumroad.com/js/gumroad.js"></script>
+<script src="https://gumroad.com/js/gumroad-embed.js"></script>
 
 
 {% if theme.pace %}

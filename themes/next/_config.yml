@@ -302,7 +302,7 @@ font:
   # Global font settings used on <body> element.
   global:
     external: true
-    family: 
+    family:
     size:
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6).
@@ -593,7 +593,7 @@ tabs:
 # Use velocity to animate everything.
 motion:
   enable: true
-  async: false
+  async: true
   transition:
     # Transition variants:
     # fadeIn | fadeOut | flipXIn | flipXOut | flipYIn | flipYOut | flipBounceXIn | flipBounceXOut | flipBounceYIn | flipBounceYOut
