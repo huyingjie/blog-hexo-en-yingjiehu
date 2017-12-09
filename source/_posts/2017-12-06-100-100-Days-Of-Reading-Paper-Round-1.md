@@ -45,7 +45,7 @@ Start Date: 2017-12-07
 <hr>
 ## LOG
 ### Day 1: 2017-12-06 Wednesday 
-**Link**: [Github Repo](https://github.com/huyingjie/tribute-zhugeliang) | [Website](http://zhugeliang.yingjiehu.com/)
+**Link**: [Github Repo](https://github.com/huyingjie/tribute-zhugeliang) | [Project 1: Tribue](http://zhugeliang.yingjiehu.com/)
 
 **Today's Progress (achievements and frustrations)**: 
 
@@ -67,7 +67,7 @@ It's an intense work. Luckily, all questions along the way were solved by myself
 <hr>
 
 ### Day 2: 2017-12-07 Thursday
-**Link**: [Github Repo](https://github.com/huyingjie/projects-page) | [Website](http://projects.yingjiehu.com/)
+**Link**: [Github Repo](https://github.com/huyingjie/projects-page) | [Project 2: Personal Portfolio](http://projects.yingjiehu.com/)
 
 **Today's Progress (achievements and frustrations)**: 
 
@@ -90,4 +90,26 @@ Reference:
 * [Scroll @Bootstrap 4](https://getbootstrap.com/docs/4.0/components/scrollspy/)
 * [Scroll @Bootstrap 4 beta](https://v4-alpha.getbootstrap.com/components/scrollspy/)
 * [Navbar togglers](http://getbootstrap.com/docs/4.0/components/navbar/#toggler)
+
+### Day 3: 2017-12-08 Friday
+**Link**: [Github Repo](https://github.com/huyingjie/projects-page/commit/08734db9d46a8fb6d1fa654a2fa30b363ffbc24d
+) | [Project 2: Personal Portfolio](http://projects.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* edit the first section
+* add `100-DAY CHALLENGES` section
+* change Awsome Font Icon from 4 to 5
+
+**Thoughts and Emotions:**
+
+I am a little bit depressed today. The whole day I searched one content on iPad lying in bed. At night I got up, had dinner, took a shower, and did laundry. And then I started resuming doing the yesterday's work.
+
+Even if I made big progress yesterday, I spent almost all day to work the project. It is very bad. Other important things are pushed away, and this will increase my stress level. The result is that I will burn out more easily and the probability of quitting the 100-day challenge will increase.
+
+I promised myself at around 6 that I would do the project for one hour. To make it work, I set a timer. Sadly, I broke the promise and worked until 3a.m..
+
+Today I almost finished the 2nd project Personal Portfolio except for one problem: collapsable menu. This is [an example from w3 school](https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_js_scrollspy&stacked=h). When the screen is small, the menu is collapsed. When I open the menu, the menu is overlapped with the content below.
+
+I posted the question in the gitter of FreeCodeCamp. I will go to sleep and hope that the answer will appear tomorrow.
 
