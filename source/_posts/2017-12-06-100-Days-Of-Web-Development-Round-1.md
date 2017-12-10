@@ -91,15 +91,15 @@ Reference:
 * [Scroll @Bootstrap 4 beta](https://v4-alpha.getbootstrap.com/components/scrollspy/)
 * [Navbar togglers](http://getbootstrap.com/docs/4.0/components/navbar/#toggler)
 
+<hr>
 ### Day 3: 2017-12-08 Friday
-**Link**: [Github Repo](https://github.com/huyingjie/projects-page/commit/08734db9d46a8fb6d1fa654a2fa30b363ffbc24d
-) | [Project 2: Personal Portfolio](http://projects.yingjiehu.com/)
+**Link**: [Github Repo](https://github.com/huyingjie/projects-page) | [Project 2: Personal Portfolio](http://projects.yingjiehu.com/)
 
 **Today's Progress (achievements and frustrations)**: 
 
 * edit the first section
 * add `100-DAY CHALLENGES` section
-* change Awsome Font Icon from 4 to 5
+* change Awesome Font Icon from 4 to 5
 
 **Thoughts and Emotions:**
 
@@ -107,9 +107,30 @@ I am a little bit depressed today. The whole day I searched one content on iPad 
 
 Even if I made big progress yesterday, I spent almost all day to work the project. It is very bad. Other important things are pushed away, and this will increase my stress level. The result is that I will burn out more easily and the probability of quitting the 100-day challenge will increase.
 
-I promised myself at around 6 that I would do the project for one hour. To make it work, I set a timer. Sadly, I broke the promise and worked until 3a.m..
+I promised myself at around 6 that I would do the project for one hour. To make it work, I set a timer. Sadly, I broke the promise and worked much longer than I promised. It is 3 a.m. now.
 
 Today I almost finished the 2nd project Personal Portfolio except for one problem: collapsable menu. This is [an example from w3 school](https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_js_scrollspy&stacked=h). When the screen is small, the menu is collapsed. When I open the menu, the menu is overlapped with the content below.
 
 I posted the question in the gitter of FreeCodeCamp. I will go to sleep and hope that the answer will appear tomorrow.
+
+<hr>
+
+### Day 4: 2017-12-09 Saturday
+**Link**: [Github Repo](https://github.com/huyingjie/projects-page) | [Project 2: Personal Portfolio](http://projects.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* changed color scheme
+* added jump to top button
+* asked yesterday's question in FreeCodeCamp forum because I got no answer in the gitter
+* Finished Project 2: Personal Portfolio
+
+**Thoughts and Emotions:**
+
+I started coding at 12 a.m. because I spent a lot of time during the day in freeing up space for Mac Air to install Mac OS High Sierra. 
+
+Initially, I planned to finish project 2 in one hour and spend two hours in fact. The final color scheme of the website still looks strange. After I learn following courses in FreeCodeCamp in the future, I can polish the website. Finishing one not-perfect product is better than a never-finish product.
+
+
+
 
