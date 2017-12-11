@@ -37,7 +37,7 @@ Start Date: 2017-12-07
 ## Template for Log
 ```
 ### Day : 
-**Link**: [Github Repo]() | [Website]()
+**Link**: [Github Repo]() | [Project :]()
 **Today's Progress (achievements and frustrations)**: 
 **Thoughts and Emotions:**
 ```
@@ -131,6 +131,52 @@ I started coding at 12 a.m. because I spent a lot of time during the day in free
 
 Initially, I planned to finish project 2 in one hour and spend two hours in fact. The final color scheme of the website still looks strange. After I learn following courses in FreeCodeCamp in the future, I can polish the website. Finishing one not-perfect product is better than a never-finish product.
 
+<hr>
+### Day 5: 2017-12-10 Sunday 
+**Link**: [Github Repo](https://github.com/huyingjie/randomquotemachine) | [Project 3: Random Quote Machine](http://randomquotemachine.yingjiehu.com/)
 
+**Today's Progress (achievements and frustrations)**: 
+
+* Project 2 "Personal Portfolio" amendment
+	* added padding to the right of icons
+	* added icons in front of titles of sections
+* Started Project 3 "Random Quote Machine"
+
+**Thoughts and Emotions:**
+
+There are lots of JavaScript tutorials before project 3 in freeCodeCamp. If I start projects until finishing tutorials, I will forget much knowledge I have learned so far, and it will be harder to continue 100DaysCoder challenge. I plan to complete `CSS` part of projects and started `Javascript` part until I studied all `JavaScript` tutorials.
+
+Today's plan was 2-hour tutorial and 1-hour coding. Studying tutorials for 2 hours was as planned. However, I spent much more time in coding than one hour. It is hard to start and harder to stop. It happens to all aspects of my life. I do not know how to solve it. Happiness was generated when one-hour coding was completed. Stress increased as time came by after one hour.
+
+I am happy that I found a useful Atom plugin `Auto-live-server` . It refreshed the local webpage when web development related files are saved.
+
+There is one problem I asked in the gitter. 
+
+Button's border style is not consistent with different browsers. Here is my code.
+
+```css
+button {
+  color: white;
+  background-color: pink;
+  box-shadow: 0;
+  border:none;
+}
+	
+button:focus {
+  border:none;
+}
+	
+```
+
+* Chrome has a border around the button after I click it.
+* Safari and codepen do not have the border.
+
+
+tomorrow's plan
+
+* move CSS to `main.css`
+* rethink how to structure `css` file
+* adjust the width of border of quotes
+* adjust the size of social media icons
 
 
