@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 100 Days Of Reading Paper Round 1
+title: 100 Days Of Reading Paper (Round 1)
 date: 2017-12-04
 tags: 
 	- 100 Days Challenge

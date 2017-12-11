@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 100 Days Of Web Development (Round 1)
+title: "100 Days Of Code: Web Development (Round 1)"
 date: 2017-12-06
 tags: 
 	- 100 Days Challenge
@@ -27,7 +27,14 @@ Start Date: 2017-12-07
 2. I will tweet my progress every day, with the hashtag `#100DaysOfCode` and note which day of the challenge I’m on.
 3. I will track my progress here and push to GitHub.
 4. My daily job is not related to front-end development. All time spent on working on web development will count towards the challenge.
-7. I will only skip a day if something important comes up. And when I resume, I won’t count the day I skipped as one of my 100 days.
+5. I will only skip a day if something important comes up. And when I resume, I won’t count the day I skipped as one of my 100 days.
+5. I will encourage and support at least two people each day in the `#100DaysOfCode` challenge on Twitter. I can read at most 5 tweets about `#100DaysOfCode` each day. Less is more. Don't spend more than enough time on the social networking website.
+
+	3 Options
+	
+	* Like tweets
+	* Leave a comment
+	* (optional) Looking at their projects and giving them feedback (no more than 10 minutes per day)
 
 ## Some important additional considerations
 
