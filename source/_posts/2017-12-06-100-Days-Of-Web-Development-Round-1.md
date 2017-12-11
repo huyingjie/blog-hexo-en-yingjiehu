@@ -15,11 +15,10 @@ categories:
 	- Web Development
 permalink: 100-Days-Of-Web-Development-Round-1
 ---
-The supporting project is [100 Days Of Code Round 1 (R, data analysis)](100-Days-Of-Code-Round-1-R-data-analysis)
-
 Main Commitment: I will make projects to develope front-end develoment skill.
 
 Start Date: 2017-12-07
+
 <!-- more -->
 
 ## Rules
@@ -40,6 +39,7 @@ Start Date: 2017-12-07
 **Link**: [Github Repo]() | [Project :]()
 **Today's Progress (achievements and frustrations)**: 
 **Thoughts and Emotions:**
+**Tomorrow's plan**
 ```
 
 <hr>
@@ -172,11 +172,17 @@ button:focus {
 * Safari and codepen do not have the border.
 
 
-tomorrow's plan
-
-* move CSS to `main.css`
-* rethink how to structure `css` file
-* adjust the width of border of quotes
-* adjust the size of social media icons
-
+**Tomorrow's plan**
+* [ ]study tutorial for 1 hour (not count 
+* [ ]Project 3 Random Quotes Machine
+	* [ ]move CSS to `main.css`
+	* [ ]rethink how to structure `css` file
+	* [ ]adjust the width of border of quotes
+	* [ ]adjust the size of social media icons
+	* [ ]study tutorial for 1 hour (not count towards the chanllenge)
+* [ ]Project 2 Project Portolio
+	* [ ]look for a picture for Project 2
+	* [ ]change Project 2 status from `Ongoing` to `Complete`
+	* [ ]add Project 3 and set it `Ongoing`
+	* [ ]create a new challenge
 

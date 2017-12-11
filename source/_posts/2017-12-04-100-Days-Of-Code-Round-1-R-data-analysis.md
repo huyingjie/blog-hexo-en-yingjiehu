@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 100 Days Of Code Round 1 (R, data analysis)
-date: 2017-12-04 17:09:09
+date: 2017-12-11
 tags: 
 	- 100 Days Challenge
 	- R
@@ -15,16 +15,16 @@ A companion project to [100 Days of Reading Paper](100-Days-Of-Reading-Paper-Rou
 
 Main Commitment: I will code to do data analysis for at least an hour every day for the next 100 days.
 
-Start Date: 2017-12-05
+Start Date: 2017-12-11
 <!-- more -->
 
 Reference: [How to effectively scope your software projects from planning to execution](https://medium.freecodecamp.org/how-to-effectively-scope-your-software-projects-from-planning-to-execution-e96cbcac54b9)
 ## Rules
 
-1. I will code using R or do data analysis using other software for at least an hour every day.
+1. I will code using R or do data analysis with other software (such as Python) for at least an hour every day.
 2. I will tweet my progress every day, with the hashtag `#100DaysOfCode` and `#100DaysOfDataScience` and note which day of the challenge I’m on.
 3. I will track my progress here and push to GitHub.
-4. If I code as part of my job, I will not count that time towards the challenge.
+4. If I code as part of my job, I will still count that time towards the challenge.
 5. I will only count the days where I spend at least some of my time building projects — not the days where I spend all my coding time working through lessons and tutorials. (If you’re new to coding, Free Code Camp’s curriculum quickly ramps up to building projects, and you will have built dozens of projects by the time you finish it).
 6. I will encourage and support at least first two people each day in the `#100DaysOfCode` challenge on Twitter. I can read at most 5 tweets about `#100DaysOfCode` each day. Less is more. Don't spend more than enough time on the social networking website.
 
