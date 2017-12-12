@@ -50,6 +50,7 @@ Since August, I have been using Anki to recite Japanese words. Hence, the 100-da
 ```
 
 <hr>
+## Log
 ### Day 1: 2017-12-10 
 **No. of Anki Cards**: 292
 
@@ -64,3 +65,11 @@ There are only 4 tweets under `#100DaysOfJapanese`. Too few people. Then I searc
 It is a little bit discouraging. I am not sure whether I should incorporate social media during the challenge.
 
 <hr>
+### Day 2: 2017-12-11
+**No. of Anki Cards**: 313
+
+**Time spent**: 36 minutes
+
+**Thoughts and Emotions:**
+
+I am happy that I found the community in the twitter. `#100DaysOfJapanese` is not a right hashtag. People use `#Anki #Japanese` to indicate they use Anki to learn Japanese. 
