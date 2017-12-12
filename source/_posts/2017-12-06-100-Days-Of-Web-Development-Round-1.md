@@ -180,16 +180,48 @@ button:focus {
 
 
 **Tomorrow's plan**
-* [ ]study tutorial for 1 hour (not count 
-* [ ]Project 3 Random Quotes Machine
-	* [ ]move CSS to `main.css`
-	* [ ]rethink how to structure `css` file
-	* [ ]adjust the width of border of quotes
-	* [ ]adjust the size of social media icons
-	* [ ]study tutorial for 1 hour (not count towards the chanllenge)
-* [ ]Project 2 Project Portolio
-	* [ ]look for a picture for Project 2
-	* [ ]change Project 2 status from `Ongoing` to `Complete`
-	* [ ]add Project 3 and set it `Ongoing`
-	* [ ]create a new challenge
+
+* [x]study tutorial for 1 hour (not count towards the challenge)
+* [x]Project 3 Random Quotes Machine
+	* [x]move CSS to `main.css`
+	* [x]rethink how to structure `css` file
+	* [x]adjust the width of border of quotes
+	* [x]adjust the size of social media icons
+* [x]Project 2 Project Portolio
+	* [x]look for a picture for Project 2
+	* [x]change Project 2 status from `Ongoing` to `Complete`
+	* [x]add Project 3 and set it `Ongoing`
+	* [x]create a new challenge
+
+<hr>
+
+### Day 6: 2017-12-11 Monday
+
+**Link**: 
+
+* [Github Repo](https://github.com/huyingjie/projects-page) | [Project 2: Personal Portfolio](http://projects.yingjiehu.com/)
+* [Github Repo](https://github.com/huyingjie/randomquotemachine) | [Project 3: Random Quote Machine](http://randomquotemachine.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* completed the plan set yesterday!!
+* Project 2 Project Portolio
+
+	* [x] move CSS to `main.css`
+	* [x] move JavaScript to `/scripts`
+
+Styling using pure CSS takes a lot of time. Adding a graph is simpler and more beautiful.
+
+**Thoughts and Emotions:**
+
+Before learning in freecodecamp, I thought front-end development incorporated designing websites. I like coding part but not designing. Two parts are knitted together during the process of learning. Projects showing from other students in freecodecamp are more beautiful than my page. This made me feel bad.
+
+It is satisfying to change project status from "ongoing" to "complete" and add new projects to my project portfolio page.
+
+Again, when I started doing projects, it is hard to stop. Now is 12 a.m. 
+
+**Tomorrow's plan**
+
+* [ ]study tutorial for 1 hour (not count towards the challenge)
+* [ ]Start to do the html part of Project 4: the Local Weather for one hour only. Don't overdo.
 
