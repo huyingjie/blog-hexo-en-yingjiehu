@@ -24,11 +24,11 @@ Start Date: 2017-12-07
 ## Rules
 
 1. I will code to make projects from [FreeCodeCamp](https://www.freecodecamp.org/) for at least an hour every day.
-2. I will tweet my progress every day, with the hashtag `#100DaysOfCode` and note which day of the challenge I’m on.
+2. I will tweet my progress every day, with the hashtag `#100DaysOfCode #freecodecamp` and note which day of the challenge I’m on.
 3. I will track my progress here and push to GitHub.
 4. My daily job is not related to front-end development. All time spent on working on web development will count towards the challenge.
 5. I will only skip a day if something important comes up. And when I resume, I won’t count the day I skipped as one of my 100 days.
-5. I will encourage and support at least two people each day in the `#100DaysOfCode` challenge on Twitter. I can read at most 5 tweets about `#100DaysOfCode` each day. Less is more. Don't spend more than enough time on the social networking website.
+5. I will encourage and support at least two people each day in the `#100DaysOfCode #freecodecamp ` challenge on Twitter. I can read at most 5 tweets about `#100DaysOfCode #freecodecamp` each day. Less is more. Don't spend more than enough time on the social networking website.
 
 	3 Options
 	
@@ -237,7 +237,7 @@ Again, when I started doing projects, it is hard to stop. Now is 12 a.m.
 
 <hr>
 
-### Day 7: 2017-12-12 Monday
+### Day 7: 2017-12-12 Tuesday
 **Link**: [Github Repo](https://github.com/huyingjie/theLocalWeather) | [Project 4: the Local Weather](http://localweather.yingjiehu.com/)
 
 **Today's Progress (achievements and frustrations)**: 
@@ -256,8 +256,8 @@ One hour per day is devoted to learning tutorials in FreeCodeCamp. The progress 
 
 **Tomorrow's plan**
 
-* [ ]Study tutorial for 1 hour (not count towards the challenge)
-* [ ]Work on suggestion from gitter
+* [x]Study tutorial for 1 hour (not count towards the challenge)
+* [x]Work on suggestion from gitter
 * [ ]Start to do the `HTML` part of Project 5: Build a Wikipedia Viewer for one hour only. Don't overdo.
 
 ```
@@ -270,3 +270,27 @@ Sorin Ruse @sorinr 22:12
 @huyingjie you may also look into positioning the background and apply the one that fits your needs <https://developer.mozilla.org/en-US/docs/Web/CSS/background-position>
 ```
 <hr>
+
+
+### Day 8: 2017-12-13 Wednesday
+**Link**: [Github Repo](https://github.com/huyingjie/projects-page) | [Project 2: Personal Portfolio](http://projects.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* [x]Study tutorial for 1 hour (not count towards the challenge)
+* [x]Work on suggestion from gitter
+* [ ]Start to do the `HTML` part of Project 5: Build a Wikipedia Viewer for one hour only. Don't overdo.
+* [x]Add Project 4 to [project page](http://projects.yingjiehu.com)
+
+**Thoughts and Emotions:**
+
+The time spent on adding new projects to [project page](http://projects.yingjiehu.com) was longer than I expected. The list of projects is formatted by decks with Bootstrap 4. I feel the design is a little bit uncomfortable but don't know why. At the end of today's task, I asked  [the question in FreeCodeCamp forum](https://forum.freecodecamp.org/t/ask-for-styling-advice-of-project-portfolio/163627). 
+
+There is no time to touch project 5 today. It will be tomorrow's task.
+
+Basic algorithm scripting based on FreeCodeCamp can require around 50 hours. This makes me feel nervous. The best way to remove the negative emotion is to have a try. I did one algorithm and learned the format of algorithm scripting. The problems in the section are to use `JavaScript` array methods learned in the last section. Array methods are similar to `Swift` I learned 2 years ago. Even though I forgot the details of `Swift`, familiarity can help me learn counterparts in `JavaScript`.
+
+**Tomorrow's plan**
+
+* [ ]Start to do the `HTML` part of Project 5: Build a Wikipedia Viewer for one hour only. Don't overdo.
+* [ ]Read answers in [FreeCodeCamp forum](https://forum.freecodecamp.org/t/ask-for-styling-advice-of-project-portfolio/163627). 
