@@ -73,3 +73,13 @@ It is a little bit discouraging. I am not sure whether I should incorporate soci
 **Thoughts and Emotions:**
 
 I am happy that I found the community in the twitter. `#100DaysOfJapanese` is not a right hashtag. People use `#Anki #Japanese` to indicate they use Anki to learn Japanese. 
+
+<hr>
+### Day 3: 2017-12-12
+**No. of Anki Cards**: 525
+
+**Time spent**: 62 minutes
+
+**Thoughts and Emotions:**
+
+There are over 600 cards in the backlog. In recent days, I focus on reviewing old cards; no new cards.
