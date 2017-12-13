@@ -40,6 +40,16 @@ Start Date: 2017-12-07
 
 * Don't skip two days in a row, and try not to skip more than 1 day in 2 weeks.
 
+## Milestones
+
+1. [1 Day (Day 1: 2017-12-06 Wednesday)](#Day-1-2017-12-06-Wednesday)
+2. [7 Days (Day 7: 2017-12-12 Monday)](#Day-7-2017-12-12-Monday)
+3. 30 Days
+4. 60 Days
+5. 90 Days
+6. 100 Days
+
+
 ## Template for Log
 ```
 ### Day : 
@@ -183,7 +193,7 @@ button:focus {
 
 * [x]study tutorial for 1 hour (not count towards the challenge)
 * [x]Project 3 Random Quotes Machine
-	* [x]move CSS to `main.css`
+	* [x]move `CSS` to `main.css`
 	* [x]rethink how to structure `css` file
 	* [x]adjust the width of border of quotes
 	* [x]adjust the size of social media icons
@@ -207,10 +217,10 @@ button:focus {
 * completed the plan set yesterday!!
 * Project 2 Project Portolio
 
-	* [x] move CSS to `main.css`
+	* [x] move `CSS` to `main.css`
 	* [x] move JavaScript to `/scripts`
 
-Styling using pure CSS takes a lot of time. Adding a graph is simpler and more beautiful.
+Styling using pure `CSS` takes a lot of time. Adding a graph is simpler and more beautiful.
 
 **Thoughts and Emotions:**
 
@@ -222,6 +232,41 @@ Again, when I started doing projects, it is hard to stop. Now is 12 a.m.
 
 **Tomorrow's plan**
 
-* [ ]study tutorial for 1 hour (not count towards the challenge)
-* [ ]Start to do the html part of Project 4: the Local Weather for one hour only. Don't overdo.
+* [x]study tutorial for 1 hour (not count towards the challenge)
+* [x]Start to do the html part of Project 4: the Local Weather for one hour only. Don't overdo.
 
+<hr>
+
+### Day 7: 2017-12-12 Monday
+**Link**: [Github Repo](https://github.com/huyingjie/theLocalWeather) | [Project 4: the Local Weather](http://localweather.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**: 
+
+I finished all items on the todo list created  yesterday.
+
+**Thoughts and Emotions:**
+
+It is the 7th day!! I have been doing this challenge for one week. It is the 2nd [milestone](#Milestones) 😃
+
+Though HTML part of [Project 4](http://localweather.yingjiehu.com/) is simpler than that of [Project 3](http://randomquotemachine.yingjiehu.com/), I was amazed that I finished building it in one and half an hour including time of seeking help in gitter. The files of `HTML` and `CSS` are clean, and the logic of codes are clear. I am satisfied with what have been done today.
+ 
+I will start to code `HTML` part of Project 5 tomorrow. The project is cool because of both functionality and design. 
+
+One hour per day is devoted to learning tutorials in FreeCodeCamp. The progress will be slow. I am overwhelmed by the number of lessons needed to learn before I can touch `JavaScript` part of Project 3-5. Basic algorithm scripting based on FreeCodeCamp can require around 50 hours!!!
+
+**Tomorrow's plan**
+
+* [ ]Study tutorial for 1 hour (not count towards the challenge)
+* [ ]Work on suggestion from gitter
+* [ ]Start to do the `HTML` part of Project 5: Build a Wikipedia Viewer for one hour only. Don't overdo.
+
+```
+Sorin Ruse @sorinr 22:05
+@huyingjie add also in css background-repeat: no-repeat; to the body selector
+	
+@huyingjie and also background-attachment: fixed; to make the img full width/height even when you resize the screen
+	
+Sorin Ruse @sorinr 22:12
+@huyingjie you may also look into positioning the background and apply the one that fits your needs <https://developer.mozilla.org/en-US/docs/Web/CSS/background-position>
+```
+<hr>
