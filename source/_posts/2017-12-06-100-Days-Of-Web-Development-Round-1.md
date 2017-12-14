@@ -293,4 +293,64 @@ Basic algorithm scripting based on FreeCodeCamp can require around 50 hours. Thi
 **Tomorrow's plan**
 
 * [ ]Start to do the `HTML` part of Project 5: Build a Wikipedia Viewer for one hour only. Don't overdo.
-* [ ]Read answers in [FreeCodeCamp forum](https://forum.freecodecamp.org/t/ask-for-styling-advice-of-project-portfolio/163627). 
+* [x]Read answers in [FreeCodeCamp forum](https://forum.freecodecamp.org/t/ask-for-styling-advice-of-project-portfolio/163627). 
+
+### Day 9: 2017-12-14 Thursday 
+**Link**: [Github Repo](https://github.com/huyingjie/projects-page) | [Project 2: Personal Portfolio](http://projects.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**: 
+
+I read the reply to Personal Portfolio site feedback in [FreeCodeCamp forum](https://forum.freecodecamp.org/t/ask-for-styling-advice-of-project-portfolio/163627). 
+
+The reply gave 6 points needed to improve.
+
+* 5 points I solved today
+	
+	* Make sure the items have a bit of space around them on smaller screens. On a mobile they go right to the edge of the screen, which looks a bit cramped.
+
+		Solution: add `padding: 80px` to `.section`
+		```css
+		section {
+		  border-style: solid;
+		  border-width: 0px 0px 0px 0px;
+		  box-shadow: 0px 2px rgb(160,160,160);
+		  padding: 80px;
+		}
+		```
+	* Make sure the images align - the ‘Ongoing’ header seems to push the image down a bit further than the ones on completed projects.
+	
+		Originally, I used `<span class="fa-layers fa-fw fa-2x">`. After deleting `fa-2x`, it became `<span class="fa-layers fa-fw">` and the problem solved.
+		
+		```html
+		<span class="fa-layers fa-fw">
+			<div class="fa-3x">
+				<i class="fas fa-certificate text-danger"></i>
+				<span class="fa-layers-text fa-inverse text-warning" data-fa-transform="shrink-11.5 rotate--30 right-5">NEW</span>
+			</div>
+		</span>
+		```
+	* The sections could do with a bit more vertical spacing at the bottom
+		Solution: add `padding: 80px` to `.section`
+	
+		The same with the first one.
+		
+	* It’s Code not Codes
+
+		Solution: replace `Codes` with `Code`
+	* There’s a broken link to style.css
+
+		Solution: delete the link
+
+* 1 point I did not solve
+
+	* On intermediate screen sizes the items get very narrow - maybe reduce the number of items per row sooner
+
+**Thoughts and Emotions:**
+
+Making small adjustments or improvements to the website can take as much time as making one. I spent over 1 hour in correcting Project 2: Personal Portfolio only.
+
+It is a little bit discouraging because I have included starting Project 5 in tomorrow's plan for two days, but there is no time left for this project.
+
+**Tomorrow's plan**
+
+* [ ]Start to do the `HTML` part of Project 5: Build a Wikipedia Viewer for one hour only. Don't overdo.
