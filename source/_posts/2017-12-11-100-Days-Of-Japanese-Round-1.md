@@ -102,3 +102,15 @@ There are over 600 cards in the backlog. In recent days, I focus on reviewing ol
 
 **Thoughts and Emotions:**
 I cleared the backlog. What a relief! Tomorrow I can recite new words.
+
+
+<hr>
+### Day 5: 2017-12-14 Thursday
+**No. of Anki Cards**: 576 (100 new cards)
+
+**Time spent**: 72 minutes
+
+**Thoughts and Emotions:**
+
+100 new cards
+
