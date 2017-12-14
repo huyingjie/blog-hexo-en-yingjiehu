@@ -91,7 +91,7 @@
 <meta property="og:site_name" content="Insanely Reasonable, Reasonably Insane">
 <meta property="og:description" content="Main Commitment: I will make projects to develope front-end develoment skill. Start Date: 2017-12-07">
 <meta property="og:locale" content="en">
-<meta property="og:updated_time" content="2017-12-13T21:04:44.236Z">
+<meta property="og:updated_time" content="2017-12-14T20:30:15.263Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="100 Days Of Code: Web Development (Round 1)">
 <meta name="twitter:description" content="Main Commitment: I will make projects to develope front-end develoment skill. Start Date: 2017-12-07">
@@ -570,7 +570,7 @@
 
           <br>
           Updated on 
-                2017-12-13  
+                2017-12-14  
           
 
         </div>
@@ -785,7 +785,46 @@
 <p><strong>Tomorrow’s plan</strong></p>
 <ul>
 <li style="list-style: none"><input type="checkbox"> Start to do the <code>HTML</code> part of Project 5: Build a Wikipedia Viewer for one hour only. Don’t overdo.</li>
-<li style="list-style: none"><input type="checkbox"> Read answers in <a href="https://forum.freecodecamp.org/t/ask-for-styling-advice-of-project-portfolio/163627" target="_blank" rel="noopener">FreeCodeCamp forum</a>. </li>
+<li style="list-style: none"><input type="checkbox" checked> Read answers in <a href="https://forum.freecodecamp.org/t/ask-for-styling-advice-of-project-portfolio/163627" target="_blank" rel="noopener">FreeCodeCamp forum</a>. </li>
+</ul>
+<h3 id="Day-9-2017-12-14-Thursday"><a href="#Day-9-2017-12-14-Thursday" class="headerlink" title="Day 9: 2017-12-14 Thursday"></a>Day 9: 2017-12-14 Thursday</h3><p><strong>Link</strong>: <a href="https://github.com/huyingjie/projects-page" target="_blank" rel="noopener">Github Repo</a> | <a href="http://projects.yingjiehu.com/" target="_blank" rel="noopener">Project 2: Personal Portfolio</a></p>
+<p><strong>Today’s Progress (achievements and frustrations)</strong>: </p>
+<p>I read the reply to Personal Portfolio site feedback in <a href="https://forum.freecodecamp.org/t/ask-for-styling-advice-of-project-portfolio/163627" target="_blank" rel="noopener">FreeCodeCamp forum</a>. </p>
+<p>The reply gave 6 points needed to improve.</p>
+<ul>
+<li><p>5 points I solved today</p>
+<ul>
+<li><p>Make sure the items have a bit of space around them on smaller screens. On a mobile they go right to the edge of the screen, which looks a bit cramped.</p>
+<p>  Solution: add <code>padding: 80px</code> to <code>.section</code></p>
+  <figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">section</span> &#123;</span><br><span class="line">  <span class="attribute">border-style</span>: solid;</span><br><span class="line">  <span class="attribute">border-width</span>: <span class="number">0px</span> <span class="number">0px</span> <span class="number">0px</span> <span class="number">0px</span>;</span><br><span class="line">  <span class="attribute">box-shadow</span>: <span class="number">0px</span> <span class="number">2px</span> <span class="built_in">rgb</span>(160,160,160);</span><br><span class="line">  <span class="attribute">padding</span>: <span class="number">80px</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>Make sure the images align - the ‘Ongoing’ header seems to push the image down a bit further than the ones on completed projects.</p>
+<p>  Originally, I used <code>&lt;span class=&quot;fa-layers fa-fw fa-2x&quot;&gt;</code>. After deleting <code>fa-2x</code>, it became <code>&lt;span class=&quot;fa-layers fa-fw&quot;&gt;</code> and the problem solved.</p>
+  <figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">span</span> <span class="attr">class</span>=<span class="string">"fa-layers fa-fw"</span>&gt;</span></span><br><span class="line">	<span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">"fa-3x"</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;<span class="name">i</span> <span class="attr">class</span>=<span class="string">"fas fa-certificate text-danger"</span>&gt;</span><span class="tag">&lt;/<span class="name">i</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;<span class="name">span</span> <span class="attr">class</span>=<span class="string">"fa-layers-text fa-inverse text-warning"</span> <span class="attr">data-fa-transform</span>=<span class="string">"shrink-11.5 rotate--30 right-5"</span>&gt;</span>NEW<span class="tag">&lt;/<span class="name">span</span>&gt;</span></span><br><span class="line">	<span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">span</span>&gt;</span></span><br></pre></td></tr></table></figure>
+</li>
+<li><p>The sections could do with a bit more vertical spacing at the bottom<br>  Solution: add <code>padding: 80px</code> to <code>.section</code></p>
+<p>  The same with the first one.</p>
+</li>
+<li><p>It’s Code not Codes</p>
+<p>  Solution: replace <code>Codes</code> with <code>Code</code></p>
+</li>
+<li><p>There’s a broken link to style.css</p>
+<p>  Solution: delete the link</p>
+</li>
+</ul>
+</li>
+<li><p>1 point I did not solve</p>
+<ul>
+<li>On intermediate screen sizes the items get very narrow - maybe reduce the number of items per row sooner</li>
+</ul>
+</li>
+</ul>
+<p><strong>Thoughts and Emotions:</strong></p>
+<p>Making small adjustments or improvements to the website can take as much time as making one. I spent over 1 hour in correcting Project 2: Personal Portfolio only.</p>
+<p>It is a little bit discouraging because I have included starting Project 5 in tomorrow’s plan for two days, but there is no time left for this project.</p>
+<p><strong>Tomorrow’s plan</strong></p>
+<ul>
+<li style="list-style: none"><input type="checkbox"> Start to do the <code>HTML</code> part of Project 5: Build a Wikipedia Viewer for one hour only. Don’t overdo.</li>
 </ul>
 
 
@@ -1092,7 +1131,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Rules"><span class="nav-number">1.</span> <span class="nav-text">Rules</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Some-important-additional-considerations"><span class="nav-number">2.</span> <span class="nav-text">Some important additional considerations</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Milestones"><span class="nav-number">3.</span> <span class="nav-text">Milestones</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Template-for-Log"><span class="nav-number">4.</span> <span class="nav-text">Template for Log</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#LOG"><span class="nav-number">5.</span> <span class="nav-text">LOG</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-1-2017-12-06-Wednesday"><span class="nav-number">5.1.</span> <span class="nav-text">Day 1: 2017-12-06 Wednesday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-2-2017-12-07-Thursday"><span class="nav-number">5.2.</span> <span class="nav-text">Day 2: 2017-12-07 Thursday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-3-2017-12-08-Friday"><span class="nav-number">5.3.</span> <span class="nav-text">Day 3: 2017-12-08 Friday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-4-2017-12-09-Saturday"><span class="nav-number">5.4.</span> <span class="nav-text">Day 4: 2017-12-09 Saturday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-5-2017-12-10-Sunday"><span class="nav-number">5.5.</span> <span class="nav-text">Day 5: 2017-12-10 Sunday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-6-2017-12-11-Monday"><span class="nav-number">5.6.</span> <span class="nav-text">Day 6: 2017-12-11 Monday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-7-2017-12-12-Tuesday"><span class="nav-number">5.7.</span> <span class="nav-text">Day 7: 2017-12-12 Tuesday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-8-2017-12-13-Wednesday"><span class="nav-number">5.8.</span> <span class="nav-text">Day 8: 2017-12-13 Wednesday</span></a></li></ol></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Rules"><span class="nav-number">1.</span> <span class="nav-text">Rules</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Some-important-additional-considerations"><span class="nav-number">2.</span> <span class="nav-text">Some important additional considerations</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Milestones"><span class="nav-number">3.</span> <span class="nav-text">Milestones</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Template-for-Log"><span class="nav-number">4.</span> <span class="nav-text">Template for Log</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#LOG"><span class="nav-number">5.</span> <span class="nav-text">LOG</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-1-2017-12-06-Wednesday"><span class="nav-number">5.1.</span> <span class="nav-text">Day 1: 2017-12-06 Wednesday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-2-2017-12-07-Thursday"><span class="nav-number">5.2.</span> <span class="nav-text">Day 2: 2017-12-07 Thursday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-3-2017-12-08-Friday"><span class="nav-number">5.3.</span> <span class="nav-text">Day 3: 2017-12-08 Friday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-4-2017-12-09-Saturday"><span class="nav-number">5.4.</span> <span class="nav-text">Day 4: 2017-12-09 Saturday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-5-2017-12-10-Sunday"><span class="nav-number">5.5.</span> <span class="nav-text">Day 5: 2017-12-10 Sunday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-6-2017-12-11-Monday"><span class="nav-number">5.6.</span> <span class="nav-text">Day 6: 2017-12-11 Monday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-7-2017-12-12-Tuesday"><span class="nav-number">5.7.</span> <span class="nav-text">Day 7: 2017-12-12 Tuesday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-8-2017-12-13-Wednesday"><span class="nav-number">5.8.</span> <span class="nav-text">Day 8: 2017-12-13 Wednesday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-9-2017-12-14-Thursday"><span class="nav-number">5.9.</span> <span class="nav-text">Day 9: 2017-12-14 Thursday</span></a></li></ol></li></ol></div>
             
 
           </div>
