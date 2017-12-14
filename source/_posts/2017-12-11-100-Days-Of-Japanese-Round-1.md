@@ -41,6 +41,15 @@ Since August, I have been using Anki to recite Japanese words. Hence, the 100-da
 
 * Don't skip two days in a row, and try not to skip more than 1 day in 2 weeks.
 
+## Milestones
+
+1. [1 Day (Day 1: 2017-12-10 Sunday)](#Day-1-2017-12-10-Sunday)
+2. 7 Days
+3. 30 Days
+4. 60 Days
+5. 90 Days
+6. 100 Days
+7. 
 ## Template for Log
 ```
 ### Day : 
@@ -51,7 +60,7 @@ Since August, I have been using Anki to recite Japanese words. Hence, the 100-da
 
 <hr>
 ## Log
-### Day 1: 2017-12-10 
+### Day 1: 2017-12-10 Sunday
 **No. of Anki Cards**: 292
 
 **Time spent**: 34 minutes
@@ -65,7 +74,8 @@ There are only 4 tweets under `#100DaysOfJapanese`. Too few people. Then I searc
 It is a little bit discouraging. I am not sure whether I should incorporate social media during the challenge.
 
 <hr>
-### Day 2: 2017-12-11
+### Day 2: 2017-12-11 Monday
+
 **No. of Anki Cards**: 313
 
 **Time spent**: 36 minutes
@@ -75,7 +85,7 @@ It is a little bit discouraging. I am not sure whether I should incorporate soci
 I am happy that I found the community in the twitter. `#100DaysOfJapanese` is not a right hashtag. People use `#Anki #Japanese` to indicate they use Anki to learn Japanese. 
 
 <hr>
-### Day 3: 2017-12-12
+### Day 3: 2017-12-12 Tuesday
 **No. of Anki Cards**: 525
 
 **Time spent**: 62 minutes
@@ -83,3 +93,12 @@ I am happy that I found the community in the twitter. `#100DaysOfJapanese` is no
 **Thoughts and Emotions:**
 
 There are over 600 cards in the backlog. In recent days, I focus on reviewing old cards; no new cards.
+
+<hr>
+### Day 4: 2017-12-13 Wednesday
+**No. of Anki Cards**: 886
+
+**Time spent**: 104 minutes
+
+**Thoughts and Emotions:**
+I cleared the backlog. What a relief! Tomorrow I can recite new words.
