@@ -78,3 +78,12 @@ clinique打75折满65送full size的一个产品. 下了2单. 收到两封邮件
 中国人学习有汉字的教科书会更快. 如果学第一本书， 在输入anki之前，所有的词汇都需要重新查online字典， 确定汉字。
 anki里别人根据这本书制作的deck都是hiragana， 这让我觉得很scary。若真的有人把hiragana的单词全部背下来， 就真的只能说， 而不能读。 只会说不会读，那是文盲。
 
+## 2017/12/13
+
+**Japanese**
+
+私は 最近 100日のWeb開発 チャレンジを はじめました。毎日<font color="red">は(no particles after everyday, today, tomorrow)</font>  <font color="red">個人(if it's your own, it's 自分</font>のブログに ログを書いて ツイッターへ 投稿し<font color="red">い(remove)</font>ています。今日は 八日です。たくさん 時間を使[つか]っているから、日本語の勉強が 減少し<font color="red">(てい）</font>ます。
+
+**Chinese**
+
+最近开始做100Daysof web development Challenge, 每天在个人的blog上记录, 然后发到twitter上. 今天是第8天. 因为这个原因, 每天花在日语上的时间减少.
