@@ -353,4 +353,25 @@ It is a little bit discouraging because I have included starting Project 5 in to
 
 **Tomorrow's plan**
 
-* [ ]Start to do the `HTML` part of Project 5: Build a Wikipedia Viewer for one hour only. Don't overdo.
+* [x]Start to do the `HTML` part of Project 5: Build a Wikipedia Viewer for one hour only. Don't overdo.
+
+### Day 10: 2017-12-15 Friday  
+**Link**: [Github Repo](https://github.com/huyingjie/wikipediaViewer) | [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Started project 5
+
+**Thoughts and Emotions:**
+
+I finally started Project 5. Among the first 5 projects, this is the first project which uses `jQuery`. I am excited to see the page has animation; if a user clicks the search icon, the search bar will appear and the search icon will disappear. It is fun.  
+
+**Tomorrow's plan**
+
+* [ ]Project 5: A Wikipedia Viewer
+	* [ ]Adjust the style of search bar
+	* [ ]Make the search icon and the search bar the same height
+	* [ ]Change action field to search button
+	* [ ]Adjust animation
+		* [ ]If search bar is empty, click search button, the search bar will disappear and the search icon will appear.
+		* [ ]If search bar is not empty, searching action is activated
