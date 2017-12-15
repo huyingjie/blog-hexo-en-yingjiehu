@@ -16,6 +16,8 @@
   {##################}
 
   {### begin customed header ###}
+
+  {% if post.isquiz %}
   <script src="http://code.jquery.com/jquery-latest.min.js"></script>
   <link href='http://fonts.googleapis.com/css?family=Josefin+Sans|Alike' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="../css/customized.css" type="text/css" />
@@ -96,6 +98,7 @@
         });
       });
       </script>
+      {% endif %}
 
   {### end customed header ###}
 
