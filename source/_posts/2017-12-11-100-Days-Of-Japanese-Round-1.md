@@ -114,3 +114,23 @@ I cleared the backlog. What a relief! Tomorrow I can recite new words.
 
 100 new cards
 
+<hr>
+
+### Day 6: 2017-12-15 Friday
+**No. of Anki Cards**: 447
+
+**Time spent**: 51 minutes
+
+**Thoughts and Emotions:**
+Unhappy
+
+<hr>
+### Day 7: 2017-12-16 Saturday
+**No. of Anki Cards**: 335 
+
+**Time spent**: 40 minutes
+
+**Thoughts and Emotions:**
+I am stressed out recently.
+
+<hr>
