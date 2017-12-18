@@ -125,8 +125,14 @@ A companion project to [100 Days of Reading Paper](100-Days-Of-Reading-Paper-Rou
 ```
 
 ## LOG
-### Day 1: 2017-12-11 
+### Day 1: 2017-12-17
 **Today's Progress (achievements and frustrations)**: 
-**Thoughts and Emotions**
-**Github Repo**: 
 
+* import data into R
+
+
+**Thoughts and Emotions**
+
+The column name is messy after the data was imported into R. Thinking of the idea that I have to rename all columns one by one, I feel scared.
+
+Today I learned parts of `tidyverse` package in Lynda.com. I thought it was a good package. When I start using it, I missed the old method. But when I saw base R converted all character variables into factor variable after import, I missed `tidyverse`. I had mixed feelings about both base R and `tidyverse`.
