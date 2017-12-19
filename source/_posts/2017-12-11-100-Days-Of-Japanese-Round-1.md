@@ -44,12 +44,12 @@ Since August, I have been using Anki to recite Japanese words. Hence, the 100-da
 ## Milestones
 
 1. [1 Day (Day 1: 2017-12-10 Sunday)](#Day-1-2017-12-10-Sunday)
-2. 7 Days
+2. [7 Days (Day 7: 2017-12-16 Saturday)](#Day-7-2017-12-16-Saturday)
 3. 30 Days
 4. 60 Days
 5. 90 Days
 6. 100 Days
-7. 
+
 ## Template for Log
 ```
 ### Day : 
@@ -132,5 +132,17 @@ Unhappy
 
 **Thoughts and Emotions:**
 I am stressed out recently.
+
+<hr>
+
+### Day 8: 2017-12-18 Monday
+**No. of Anki Cards**: 407 
+
+**Time spent**: 41 minutes
+
+**Thoughts and Emotions:**
+I skipped yesterday. 😢
+
+But I reviewed faster during commute today. 😊
 
 <hr>
