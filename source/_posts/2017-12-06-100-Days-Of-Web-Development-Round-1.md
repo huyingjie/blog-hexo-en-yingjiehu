@@ -433,7 +433,7 @@ I guess writing pseudocode before programming will help.
 <hr>
 
 ### Day 12: 2017-12-19 Tuesday 
-**Link**: [Project 3: Random Quote Machine](http://randomquotemachine.yingjiehu.com/)
+**Link**: [Github Repo](https://github.com/huyingjie/randomquotemachine) | [Project 3: Random Quote Machine](http://randomquotemachine.yingjiehu.com/)
 
 **Today's Progress (achievements and frustrations)**: 
 
@@ -448,21 +448,53 @@ Project 3
 **Thoughts and Emotions:**
 
 * I skipped two days because I prepared a presentation for today's seminar.
-* I did not follow the plan created on 2017-12-16 because I finished "Basic Algorithm Scripting" part and started learning "JSON APIs and Ajax". I want to apply the knowledge learned today to today's work.
+* I did not follow the plan created on 2017-12-16 because I finished "Basic Algorithm Scripting" part (accumlatively around 7 hours) and started learning "JSON APIs and Ajax". I want to apply the knowledge learned today to today's work.
 * I finished 5 things under Project 3 in Today's progress. Each thing requires me searching online. They are not easy tasks for a newbie. Hence, they created a lot of frustration. 
 
 I am a little bit discouraged by the slow process. When I thought of the fact that they were done in 1 hour, it created more hope. 
 
 **Tomorrow's plan**
 
-* [ ]Studied tutorial for 1 hour (not count towards the challenge)
+* [x]Studied tutorial for 1 hour (not count towards the challenge)
 * Do Project 3 for 1 hour:
-	* Make each element in JSON data appear in HTML
-	* Click button to change the quote
+	* [x]Make each element in JSON data appear in HTML
+	* [x]Click button to change the quote
 
 If there is time left, 
 
-* Create a JSON file of colors
-* Generate random number for colors
-* Edit HTML to change color
+* [x]Create a JSON file of colors
+* [x]Generate random number for colors
+* [x]Edit HTML to change color
+<hr>
+
+### Day 13: 2017-12-20 Wednesday 
+**Link**: [Github Repo](https://github.com/huyingjie/randomquotemachine) | [Project 3: Random Quote Machine](http://randomquotemachine.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Finished "JSON APIs and Ajax" section.
+* Started "Intermediate Algorithm Scripting" section.
+* Within one hour, I finished items on the yesterday's plan and addition plan.
+
+
+**Thoughts and Emotions:**
+
+It is fun. 
+
+I like animation very much. Learning Making animation using Adobe Animator requires a lot of energy and time. Animation provided by JavaScript gives me enough joy, and its complexity is not overwhelming. In the future, I want to learn more.
+
+I like to create interactive graphs of data. It is also related to my major. Tomorrow I will start learning data visualization on the beta website and suspend "Intermediate Algorithm Scripting" part until projects from data visualization are completed. After finishing Project 3, I will start data visualization projects.
+
+**Tomorrow's plan**
+
+* [ ]Studied tutorial for 1 hour (not count towards the challenge)
+* [ ]Project 3: Random Quote Machine
+	* [ ] Enlarge quote icon
+	* [ ]Add facebook share action
+	* [ ]Add twitter share action
+	* [ ]Add quote: animation
+		1. show quote icon
+		2. wait for 1 second
+		3. show the quote
+
 <hr>
