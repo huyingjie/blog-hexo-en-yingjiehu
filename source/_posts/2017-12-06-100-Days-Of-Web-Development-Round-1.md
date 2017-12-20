@@ -53,10 +53,15 @@ Start Date: 2017-12-07
 ## Template for Log
 ```
 ### Day : 
+
 **Link**: [Github Repo]() | [Project :]()
+
 **Today's Progress (achievements and frustrations)**: 
+
 **Thoughts and Emotions:**
+
 **Tomorrow's plan**
+
 <hr>
 ```
 
@@ -425,4 +430,39 @@ I guess writing pseudocode before programming will help.
 		* [ ]If search bar is empty, click search button, the search bar will disappear and the search icon will appear.
 		* [ ]If search bar is not empty, searching action is activated
 
+<hr>
+
+### Day 12: 2017-12-19 Tuesday 
+**Link**: [Project 3: Random Quote Machine](http://randomquotemachine.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Studied tutorial for 1 hour (not count towards the challenge)
+Project 3
+* Created a JSON file containing ancient Chinese sayings
+	1. Generate a random integer to select which sayings to show
+	1. Get JSON data from the JSON file
+	1. Calculate length of the JSON data
+	1. Get the first element of the first element in the JSON data
+	
+**Thoughts and Emotions:**
+
+* I skipped two days because I prepared a presentation for today's seminar.
+* I did not follow the plan created on 2017-12-16 because I finished "Basic Algorithm Scripting" part and started learning "JSON APIs and Ajax". I want to apply the knowledge learned today to today's work.
+* I finished 5 things under Project 3 in Today's progress. Each thing requires me searching online. They are not easy tasks for a newbie. Hence, they created a lot of frustration. 
+
+I am a little bit discouraged by the slow process. When I thought of the fact that they were done in 1 hour, it created more hope. 
+
+**Tomorrow's plan**
+
+* [ ]Studied tutorial for 1 hour (not count towards the challenge)
+* Do Project 3 for 1 hour:
+	* Make each element in JSON data appear in HTML
+	* Click button to change the quote
+
+If there is time left, 
+
+* Create a JSON file of colors
+* Generate random number for colors
+* Edit HTML to change color
 <hr>
