@@ -141,8 +141,20 @@ I am stressed out recently.
 **Time spent**: 41 minutes
 
 **Thoughts and Emotions:**
+
 I skipped yesterday. 😢
 
 But I reviewed faster during commute today. 😊
+
+<hr>
+
+### Day 8: 2017-12-19 Tuesday
+**No. of Anki Cards**: 379
+
+**Time spent**: 42 minutes
+
+**Thoughts and Emotions:**
+
+ I am worry about grammar. I should spend more time on it.
 
 <hr>
