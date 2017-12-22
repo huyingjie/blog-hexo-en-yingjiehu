@@ -148,7 +148,7 @@ But I reviewed faster during commute today. 😊
 
 <hr>
 
-### Day 8: 2017-12-19 Tuesday
+### Day 9: 2017-12-19 Tuesday
 **No. of Anki Cards**: 379
 
 **Time spent**: 42 minutes
@@ -156,5 +156,27 @@ But I reviewed faster during commute today. 😊
 **Thoughts and Emotions:**
 
  I am worry about grammar. I should spend more time on it.
+
+<hr>
+
+### Day 10: 2017-12-20 Wednesday
+**No. of Anki Cards**: 250
+
+**Time spent**: 25 minutes
+
+**Thoughts and Emotions:**
+
+Reviewing during commuting.
+
+<hr>
+
+### Day 11: 2017-12-21 Thursday
+**No. of Anki Cards**: 120
+
+**Time spent**: 12 minutes
+
+**Thoughts and Emotions:**
+
+I forced myself to review at least 100 cards.
 
 <hr>
