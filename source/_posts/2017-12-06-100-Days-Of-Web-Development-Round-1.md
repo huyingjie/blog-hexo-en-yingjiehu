@@ -487,11 +487,40 @@ I like to create interactive graphs of data. It is also related to my major. Tom
 
 **Tomorrow's plan**
 
+* [x]Studied tutorial for 1 hour (not count towards the challenge)
+* [ ]Project 3: Random Quote Machine
+	* [x]Enlarge quote icon
+	* [ ]Add tumblr share action
+	* [x]Add twitter share action
+	* [ ]Add quote: animation
+		1. show quote icon
+		2. wait for 1 second
+		3. show the quote
+
+<hr>
+
+### Day 14: 2017-12-22 Thursday
+
+**Link**: [Github Repo](https://github.com/huyingjie/randomquotemachine) | [Project 3: Random Quote Machine](http://randomquotemachine.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Started learning `D3.js`
+* Added Twitter share action
+
+**Thoughts and Emotions:**
+
+Adding Twitter share action took more time than I expected. I like to read examples in the process of reading. Twitter share API website has few examples.
+
+I am depressed today. I don't know why. 
+
+I spent a lot of time trying how to change the style of outputs from R notebook made by RStudio. A lot of time was spent on editing existing CSS file. At last, I found I did not need to touch any existing stylesheet. It is enough to create a new sheet and to include it after existing sheet. This is the fastest way to change the style from other people's CSS.
+
+**Tomorrow's plan**
+
 * [ ]Studied tutorial for 1 hour (not count towards the challenge)
 * [ ]Project 3: Random Quote Machine
-	* [ ] Enlarge quote icon
-	* [ ]Add facebook share action
-	* [ ]Add twitter share action
+	* [ ]Add tumblr share action
 	* [ ]Add quote: animation
 		1. show quote icon
 		2. wait for 1 second
