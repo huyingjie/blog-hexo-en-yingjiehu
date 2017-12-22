@@ -1,0 +1,25 @@
+body {
+  background: transparent;
+}
+
+a {
+	font: #555 ;
+	border-bottom: 1px solid #999;
+}
+a:hover {
+	font:  #222;
+	border-bottom: 1px solid #222;
+	text-decoration: none;
+}
+
+#rmd-hide-all-code {
+	border-bottom: 0px;
+}
+
+#rmd-show-all-code {
+	border-bottom: 0px;
+}
+
+#rmd-download-source {
+	border-bottom: 0px;
+}
