@@ -437,7 +437,7 @@ I guess writing pseudocode before programming will help.
 
 **Today's Progress (achievements and frustrations)**: 
 
-* Studied tutorial for 1 hour (not count towards the challenge)
+* Study tutorial for 1 hour (not count towards the challenge)
 Project 3
 * Created a JSON file containing ancient Chinese sayings
 	1. Generate a random integer to select which sayings to show
@@ -455,7 +455,7 @@ I am a little bit discouraged by the slow process. When I thought of the fact th
 
 **Tomorrow's plan**
 
-* [x]Studied tutorial for 1 hour (not count towards the challenge)
+* [x]Study tutorial for 1 hour (not count towards the challenge)
 * Do Project 3 for 1 hour:
 	* [x]Make each element in JSON data appear in HTML
 	* [x]Click button to change the quote
@@ -487,7 +487,7 @@ I like to create interactive graphs of data. It is also related to my major. Tom
 
 **Tomorrow's plan**
 
-* [x]Studied tutorial for 1 hour (not count towards the challenge)
+* [x]Study tutorial for 1 hour (not count towards the challenge)
 * [ ]Project 3: Random Quote Machine
 	* [x]Enlarge quote icon
 	* [ ]Add tumblr share action
@@ -510,7 +510,9 @@ I like to create interactive graphs of data. It is also related to my major. Tom
 
 **Thoughts and Emotions:**
 
-Adding Twitter share action took more time than I expected. I like to read examples in the process of reading. Twitter share API website has few examples.
+Adding Twitter share action took more time than I expected. I like to read examples in the process of learning but Twitter API website has few examples.
+
+![](share-twitter.png)
 
 I am depressed today. I don't know why. 
 
@@ -518,12 +520,49 @@ I spent a lot of time trying how to change the style of outputs from R notebook 
 
 **Tomorrow's plan**
 
-* [ ]Studied tutorial for 1 hour (not count towards the challenge)
-* [ ]Project 3: Random Quote Machine
-	* [ ]Add tumblr share action
-	* [ ]Add quote: animation
+* [x]Studied tutorial for 1 hour (not count towards the challenge)
+* [x]Project 3: Random Quote Machine
+	* [x]Add tumblr share action
+	* [x]Add quote: animation
 		1. show quote icon
 		2. wait for 1 second
 		3. show the quote
+
+<hr>
+
+### Day 15: 2017-12-22 Friday 
+
+**Link**: [Github Repo](https://github.com/huyingjie/randomquotemachine) | [Project 3: Random Quote Machine](http://randomquotemachine.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Learned Data Visualization on Freecodecamp Beta website
+* Opened and closed an issue in GitHub
+* Completed Project 3: Random Quote Machine
+
+**Thoughts and Emotions:**
+
+* I met a lot of arrow functions in the Data Visualization tutorials. Arrow functions from ES6 are taught in the Beta, not on the main website. I did not know the name of the function. When I searched closure function, tutorials online gave the normal functions. 
+
+	Then I asked this question in gitter. One person kindly answered it. 
+	
+	I will learn arrow functions tomorrow first.
+
+	
+* I opened one issue on freecodecamp GitHub
+
+	![](issue about arrow function.png)
+	
+	I used Chrome to do challenges. When the test did not pass, initially I thought the reason was that I did not know arrow functions. 
+	
+	Then the code was copied to [an empty HTML file](test.html). The bar plot was correctly shown. I guessed it was a browser issue and used Safari to run the same challenge. Safari passed my code. This made me confirmed that some code on the page on the website behaved differently between browsers.
+	
+	**Update:** After restarting the computer, chrome works, and then I closed the GitHub issue. My Mac Air was connected to an external monitor. After several days usage, it has some problems, such as Chrome. Restarting the laptop can solve them.
+	
+	
+**Tomorrow's plan**
+
+* [ ]Study tutorial for 1 hour (not count towards the challenge)
+* [ ]Start data visualization project
 
 <hr>
