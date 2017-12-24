@@ -562,7 +562,34 @@ I spent a lot of time trying how to change the style of outputs from R notebook 
 	
 **Tomorrow's plan**
 
-* [ ]Study tutorial for 1 hour (not count towards the challenge)
-* [ ]Start data visualization project
+* [x]Study tutorial for 1 hour (not count towards the challenge)
+* [x]Start data visualization project
 
+<hr>
+
+### Day 16: 2017-12-23 Thursday
+
+**Link**: [Project 6: Visualize Data with a Bar Chart](https://codepen.io/yingjiehu/pen/Mrbmom)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Started doing Project 6: Visualize Data with a Bar Chart
+
+frustration
+
+* The footer cannot be centered at the bottom
+* The location of d3 graph is not adjusted with HTML.
+* The height of bar plot should be adjusted
+
+**Thoughts and Emotions:**
+
+Styling is more difficult than visualization for me.
+
+I used Bootstrap 4 and footer cannot be centered at the bottom. It is annoying.
+
+
+**Tomorrow's plan**
+
+* [ ]Study tutorial for 1 hour (not count towards the challenge)
+* [ ]Project 6: Visualize Data with a Bar Chart
 <hr>
