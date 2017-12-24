@@ -15,16 +15,21 @@ categories:
 	- Web Development
 permalink: 100-Days-Of-Web-Development-Round-1
 ---
-Main Commitment: I will make projects to develope front-end develoment skill.
+
+<img src = "/img/100DaysWebDevelopmentBanner.png" style="border:0" >
+
+
+Main Commitment: I will make projects to develope front-end develoment skill. 
 
 Start Date: 2017-12-07
+
 
 <!-- more -->
 
 ## Rules
 
 1. I will code to make projects from [FreeCodeCamp](https://www.freecodecamp.org/) for at least an hour every day.
-2. I will tweet my progress every day, with the hashtag `#100DaysOfCode #freecodecamp` and note which day of the challenge I’m on.
+2. I will [tweet my progress every day](https://twitter.com/yingjieYJH), with the hashtag `#100DaysOfCode #freecodecamp` and note which day of the challenge I’m on.
 3. I will track my progress here and push to GitHub.
 4. My daily job is not related to front-end development. All time spent on working on web development will count towards the challenge.
 5. I will only skip a day if something important comes up. And when I resume, I won’t count the day I skipped as one of my 100 days.
@@ -485,6 +490,14 @@ I like animation very much. Learning Making animation using Adobe Animator requi
 
 I like to create interactive graphs of data. It is also related to my major. Tomorrow I will start learning data visualization on the beta website and suspend "Intermediate Algorithm Scripting" part until projects from data visualization are completed. After finishing Project 3, I will start data visualization projects.
 
+
+Joe Warren wrote a post on freeCodeCamp medium, [How to Transform Your #100DaysOfCode Log Into a Visual Experience](https://medium.freecodecamp.org/how-to-transform-your-100daysofcode-log-into-a-visual-experience-d048334af8d9). He gave a lot of good advice on how to create a good log of 100 days challenge. He used [his log](https://github.com/MightyJoeW/100-Days-of-Code/blob/master/log.md) as an example. In the comment, I asked whether he could give some advice on my log. He kindly gave me a long reply.
+
+![](reply-from-Joe-Warren.png)
+
+
+
+
 **Tomorrow's plan**
 
 * [x]Study tutorial for 1 hour (not count towards the challenge)
@@ -499,7 +512,7 @@ I like to create interactive graphs of data. It is also related to my major. Tom
 
 <hr>
 
-### Day 14: 2017-12-22 Thursday
+### Day 14: 2017-12-21 Thursday
 
 **Link**: [Github Repo](https://github.com/huyingjie/randomquotemachine) | [Project 3: Random Quote Machine](http://randomquotemachine.yingjiehu.com/)
 
@@ -604,6 +617,7 @@ I used Bootstrap 4 and footer cannot be centered at the bottom. It is annoying.
 * Did Project 6: Visualize Data with a Bar Chart
 * Did Project 7: visualize Data with a Scatterplot Graph
 * Did Project 8: Visualize Data with a Heat Map
+* Created a banner for the challenge
 
 Based on the knowledge I learned from FreeCodeCamp, I cannot finish any of them then I started a new one. After learning all tutorials of data visualization, I will search online for the things not taught in FreeCodeCamp.
 
@@ -614,5 +628,7 @@ Learning data visualization is more boring than I expected. It seems more diffic
 **Tomorrow's plan**
 
 * [ ]Study tutorial for 1 hour (not count towards the challenge)
+* [ ]Change project status
+* [ ]Add new projects
 * [ ]Project 6: Visualize Data with a Bar Chart
 <hr>
