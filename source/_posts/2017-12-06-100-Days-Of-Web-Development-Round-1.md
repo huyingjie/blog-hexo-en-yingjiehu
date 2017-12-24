@@ -567,7 +567,7 @@ I spent a lot of time trying how to change the style of outputs from R notebook 
 
 <hr>
 
-### Day 16: 2017-12-23 Thursday
+### Day 16: 2017-12-23 Saturday
 
 **Link**: [Project 6: Visualize Data with a Bar Chart](https://codepen.io/yingjiehu/pen/Mrbmom)
 
@@ -587,6 +587,29 @@ Styling is more difficult than visualization for me.
 
 I used Bootstrap 4 and footer cannot be centered at the bottom. It is annoying.
 
+
+**Tomorrow's plan**
+
+* [x]Study tutorial for 1 hour (not count towards the challenge)
+* [x]Project 6: Visualize Data with a Bar Chart
+
+<hr>
+
+### Day 17: 2017-12-24  Sunday
+
+**Link**: [Project 6: Visualize Data with a Bar Chart](https://codepen.io/yingjiehu/pen/Mrbmom)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Did Project 6: Visualize Data with a Bar Chart
+* Did Project 7: visualize Data with a Scatterplot Graph
+* Did Project 8: Visualize Data with a Heat Map
+
+Based on the knowledge I learned from FreeCodeCamp, I cannot finish any of them then I started a new one. After learning all tutorials of data visualization, I will search online for the things not taught in FreeCodeCamp.
+
+**Thoughts and Emotions:**
+
+Learning data visualization is more boring than I expected. It seems more difficult than `JavaScript` because all functions are self-defined and sometimes do not conform standard `JavaScript` function construction rule.
 
 **Tomorrow's plan**
 
