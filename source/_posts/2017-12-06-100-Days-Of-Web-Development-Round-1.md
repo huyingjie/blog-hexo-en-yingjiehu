@@ -10,6 +10,8 @@ tags:
 	- jQuery
 	- Bootstrap
 	- JavaScript
+	- Data Visualization
+	- 3D.js∆
 categories: 
 	- 100 Days Challenge
 	- Web Development
@@ -21,7 +23,7 @@ permalink: 100-Days-Of-Web-Development-Round-1
 
 Main Commitment: I will make projects to develope front-end develoment skill. 
 
-Start Date: 2017-12-07
+Start Date: 2017-12-06
 
 
 <!-- more -->
@@ -53,6 +55,19 @@ Start Date: 2017-12-07
 4. 60 Days
 5. 90 Days
 6. 100 Days
+
+## Project list
+
+* [Github Repo](https://github.com/huyingjie/tribute-zhugeliang) | [Project 1: Tribue](http://zhugeliang.yingjiehu.com/)
+* [Github Repo](https://github.com/huyingjie/projects-page) | [Project 2: Personal Portfolio](http://projects.yingjiehu.com/)
+* [Github Repo](https://github.com/huyingjie/randomquotemachine) | [Project 3: Random Quote Machine](http://randomquotemachine.yingjiehu.com/)
+* [Github Repo](https://github.com/huyingjie/theLocalWeather) | [Project 4: the Local Weather](http://localweather.yingjiehu.com/)
+* [Github Repo](https://github.com/huyingjie/wikipediaViewer) | [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
+* [Project 6: Visualize Data with a Bar Chart](https://codepen.io/yingjiehu/pen/Mrbmom)
+* Project 7: visualize Data with a Scatterplot Graph
+* Project 8: Visualize Data with a Heat Map
+* [Github Repo](https://github.com/huyingjie/Awesome-shiny-apps-for-statistics) | [Project 9: Awesome Shiny Apps for Statistics](http://asas.yingjiehu.com/)
+
 
 
 ## Template for Log
@@ -631,4 +646,39 @@ Learning data visualization is more boring than I expected. It seems more diffic
 * [ ]Change project status
 * [ ]Add new projects
 * [ ]Project 6: Visualize Data with a Bar Chart
+<hr>
+
+### Day 18: 2017-12-25 Monday 
+
+**Link**: 
+
+* [Github Repo](https://github.com/huyingjie/Awesome-shiny-apps-for-statistics) | [Project 9: Awesome Shiny Apps for Statistics](http://asas.yingjiehu.com/)
+* [Github Repo](https://github.com/huyingjie/randomquotemachine) | [Project 3: Random Quote Machine](http://randomquotemachine.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Changed colors in the [Project 3: Random Quote Machine](http://randomquotemachine.yingjiehu.com/).
+* Finished [Project 9: Awesome Shiny Apps for Statistics](http://asas.yingjiehu.com/)
+
+**Thoughts and Emotions:**
+
+`@crossey` on the gitter told me that colors in the [Project 3: Random Quote Machine](http://randomquotemachine.yingjiehu.com/) were not good. I guessed that colors were too vivid and eyes did not feel comfortable when seeing them. I found that most of the colors that had color names and beganb with "light" were suitable for eyes. 
+
+Yesterday's night, I suddenly had an idea to make a GitHub awesome list of Shiny Apps. The apps are specific for learning statistics, not showing results from data analysis. It is better if there will be a website automatically generated from `README.md` file from the GitHub repo, then the effort to keep the website and `README.md` being same will be zero. Usually, people contribute to an awesome list by editing `README.md`. It is the  owner's responsibility of the GitHub repo to sync between GitHub and the website. 
+
+How to sync automatically is the most difficult part for me. My blog is using Netlify to automatically deploy. I need to learn one templating engine to combine data in `README.md` and templates created by a templating engine by Netlify. I started to learning `Go` on the YouTube. I realized that `Go` was a completely new language and if I wanted to use it, I had to learn a lof things. Then I recalled [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist#table-of-contents) using `gulp`. Initially, I thought `gulp` was a template engine. After reading one tutorial, I knew it was not and can use it to create a web page without styling through `gulp-markdown`. `gulp-rename` is used to change the filename from `README.md` to `index.md`, then `gulp-markdown` generated `index.html`. The HTML codes inside `index.html` do not contain `head` and `body` elements. It turns out to be an advantage. `gulp-wrapper` adds `head` and `body` elements before and after the codes. The resulting website was successfully deployed by Nelify. I achieved to sync between `README.md` and the website.
+
+Today, I spent time in changing the website style and gathered Shiny apps.
+
+I worked more than 10 hours today. I am satisfied with the result. One thing needed to improve in the future is the styling of the site.
+
+![](img/Awesome-Shiny-Apps-for-Statistics.png)
+**Tomorrow's plan**
+
+* [ ]Study tutorial for 1 hour (not count towards the challenge)
+* [ ]Change project status
+* [ ]Add new projects
+* [ ][Github Repo](https://github.com/huyingjie/theLocalWeather) | [Project 4: the Local Weather](http://localweather.yingjiehu.com/)
+
+
 <hr>
