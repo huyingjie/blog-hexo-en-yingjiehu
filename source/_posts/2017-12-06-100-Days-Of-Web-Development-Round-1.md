@@ -51,6 +51,7 @@ Start Date: 2017-12-06
 
 1. [1 Day (Day 1: 2017-12-06 Wednesday)](#Day-1-2017-12-06-Wednesday)
 2. [7 Days (Day 7: 2017-12-12 Monday)](#Day-7-2017-12-12-Monday)
+3. Day 18: 2017-12-25 Monday: Make the first personal project [Project 9: Awesome Shiny Apps for Statistics](http://asas.yingjiehu.com/) and get over 10 stars on GitHub within one day
 3. 30 Days
 4. 60 Days
 5. 90 Days
@@ -66,9 +67,9 @@ Start Date: 2017-12-06
 * [Project 6: Visualize Data with a Bar Chart](https://codepen.io/yingjiehu/pen/Mrbmom)
 * Project 7: visualize Data with a Scatterplot Graph
 * Project 8: Visualize Data with a Heat Map
-* [Github Repo](https://github.com/huyingjie/Awesome-shiny-apps-for-statistics) | [Project 9: Awesome Shiny Apps for Statistics](http://asas.yingjiehu.com/)
-
-
+* 2017-12-25 [Github Repo](https://github.com/huyingjie/Awesome-shiny-apps-for-statistics) | [Project 9: Awesome Shiny Apps for Statistics](http://asas.yingjiehu.com/)
+* 2017-12-26 [Github Repo](https://github.com/huyingjie/must-watch-must-watch) | [Project 10: Must-Watch Must-Watch List](http://mustwatch.yingjiehu.com/)
+* 2017-12-26 [Github Repo](https://github.com/huyingjie/Checklist-Checklist) | [Project 11: Awesome Checklist Checklist](http://checklist.yingjiehu.com/)
 
 ## Template for Log
 ```
@@ -646,6 +647,7 @@ Learning data visualization is more boring than I expected. It seems more diffic
 * [ ]Change project status
 * [ ]Add new projects
 * [ ]Project 6: Visualize Data with a Bar Chart
+
 <hr>
 
 ### Day 18: 2017-12-25 Monday 
@@ -659,6 +661,7 @@ Learning data visualization is more boring than I expected. It seems more diffic
 
 * Changed colors in the [Project 3: Random Quote Machine](http://randomquotemachine.yingjiehu.com/).
 * Finished [Project 9: Awesome Shiny Apps for Statistics](http://asas.yingjiehu.com/)
+* [Github Repo](https://github.com/huyingjie/must-watch-must-watch) | Project 10: Must-Watch Must-Watch List
 
 **Thoughts and Emotions:**
 
@@ -672,13 +675,51 @@ Today, I spent time in changing the website style and gathered Shiny apps.
 
 I worked more than 10 hours today. I am satisfied with the result. One thing needed to improve in the future is the styling of the site.
 
-![](img/Awesome-Shiny-Apps-for-Statistics.png)
+![](/img/Awesome-Shiny-Apps-for-Statistics.png)
+
+
+[Project 10: Must-Watch Must-Watch List](https://github.com/huyingjie/must-watch-must-watch) was a mardown README.md file. I will add `gulp` to create a website syncing with `README.md`. 
+
 **Tomorrow's plan**
 
 * [ ]Study tutorial for 1 hour (not count towards the challenge)
 * [ ]Change project status
 * [ ]Add new projects
+* [x][Github Repo](https://github.com/huyingjie/must-watch-must-watch) | Project 10: Must-Watch Must-Watch List
+	* [x]Add a website
 * [ ][Github Repo](https://github.com/huyingjie/theLocalWeather) | [Project 4: the Local Weather](http://localweather.yingjiehu.com/)
+	* Start `JavaScript` part
 
+<hr>
+
+### Day 19: 2017-12-26 Tuesday
+
+**Link**: 
+
+* [Github Repo](https://github.com/huyingjie/must-watch-must-watch) | [Project 10: Must-Watch Must-Watch List](http://mustwatch.yingjiehu.com/)
+* [Github Repo](https://github.com/huyingjie/Checklist-Checklist) | [Project 11: Awesome Checklist Checklist](http://checklist.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Created a website for [Project 10: Must-Watch Must-Watch List
+](http://mustwatch.yingjiehu.com/)
+* Created and completed [Github Repo](https://github.com/huyingjie/Checklist-Checklist) | [Project 11: Awesome Checklist Checklist](http://checklist.yingjiehu.com/)
+
+**Thoughts and Emotions:**
+
+Project 10 and 11 are similar to Project 9. The most time consuming part was to search GitHub, and to found the repos. There are 100 pages on GitHub about checklists. I used at least 5 hours to finish 100 pages. The process was boring. I am satisfied with Project 11. 
+
+![](checklist-mustwatch.jpg)
+
+I will add styles after learning website design.
+
+**Tomorrow's plan**
+
+* [ ]Study tutorial for 1 hour (not count towards the challenge)
+* Project portolio
+	* [ ]Change project status
+	* [ ]Add new projects
+* [ ][Github Repo](https://github.com/huyingjie/theLocalWeather) | [Project 4: the Local Weather](http://localweather.yingjiehu.com/)
+	* [ ]Start `JavaScript` part
 
 <hr>
