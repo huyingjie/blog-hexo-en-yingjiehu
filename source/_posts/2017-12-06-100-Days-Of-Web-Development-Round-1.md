@@ -715,11 +715,96 @@ I will add styles after learning website design.
 
 **Tomorrow's plan**
 
-* [ ]Study tutorial for 1 hour (not count towards the challenge)
+* [x]Study tutorial for 1 hour (not count towards the challenge)
 * Project portolio
-	* [ ]Change project status
-	* [ ]Add new projects
-* [ ][Github Repo](https://github.com/huyingjie/theLocalWeather) | [Project 4: the Local Weather](http://localweather.yingjiehu.com/)
-	* [ ]Start `JavaScript` part
+	* [x]Change project status
+	* [x]Add new projects
+* [x][Github Repo](https://github.com/huyingjie/theLocalWeather) | [Project 4: the Local Weather](http://localweather.yingjiehu.com/)
+	* [x]Start `JavaScript` part
 
 <hr>
+
+### Day 20: 2017-12-28 Thursday
+
+**Link**: [Github Repo](https://github.com/huyingjie/theLocalWeather) | [Project 4: the Local Weather](http://localweather.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**: 
+
+I finished all items on todo list designed the day before yesterday in one hour.
+
+**Thoughts and Emotions:**
+
+I did not use JavaScript for several days because I studied Data Visualization and did personal projects. Hard recall can lead to better memorization after several days.
+
+I am discouraged by the websites on my wishlist. They seem complicated. A lot of decisions should be made. Example:
+
+* Which Front-End framework should be used?
+* Static website or dynamic website?
+* If I choose dynamic websites, which Back-End framework should I use?
+* Where to save the photos? Photos and the website will be saved in different locations.
+* If I choose static websites
+
+    * Which git website to use, GitLab or BitBucket?
+    * which deploy website should I use?
+
+In addition, I have to wait until I learn Back-End knowledge. 
+
+Filling mind with undecided stuff is not a comfortable experience.
+
+Besides, even if I did projects for several days, they were not FreeCodeCamp project and then I need more willpower to initiate today's work.
+
+**Tomorrow's plan**
+
+* [x]Study tutorial for 1 hour (not count towards the challenge)
+* [ ][Github Repo](https://github.com/huyingjie/theLocalWeather) | [Project 4: the Local Weather](http://localweather.yingjiehu.com/)
+	* [x]Obtain data from weather API
+	* [x]Add CSS `id` so that the weather info will be added
+	* [x]Connect data with HTML codes
+
+<hr>
+
+### Day 21: 2017-12-29 Friday
+
+
+**Link**: [Github Repo](https://github.com/huyingjie/theLocalWeather) | [Project 4: the Local Weather](http://localweather.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Project 4: Parts of CSS `id` were connected to data in API
+* [x]Add a function to transform between F and C
+
+**Thoughts and Emotions:**
+
+The weather channel does not show information from the weather API. There is one error
+
+```
+[Deprecation] getCurrentPosition() and watchPosition() no longer work on insecure origins. To use this feature, you should consider switching your application to a secure origin, such as HTTPS. See https://goo.gl/rStTGz for more details.
+```
+The corresponding code is following.
+
+```
+if (navigator.geolocation) {
+      navigator.geolocation.getCurrentPosition(function(position) {
+      }
+}
+```
+
+In fact, the code was shown in the tutorial on FreeCodeCamp.
+
+I will search it tomorrow.
+
+Because I started doing projects from FreeCodeCamp yesterday, I started learning and programming much more easily today.
+
+**Tomorrow's plan**
+
+* [ ]Study tutorial for 1 hour (not count towards the challenge)
+* [ ][Github Repo](https://github.com/huyingjie/theLocalWeather) | [Project 4: the Local Weather](http://localweather.yingjiehu.com/)
+	* [ ]Get the location from Google
+	* [ ]Look for images of each weather condition
+	* [ ]Add codes to show different weather picture based on weather condition
+	* [ ]Add button in home page to change between F and C
+	* [ ]Connect the function and the button
+
+<hr>
+
+**Future plan**
