@@ -1,33 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Awesome Shiny Apps for Statistics]]></title>
-    <url>%2FAwesome-Shiny-Apps-for-Statistics%2F</url>
-    <content type="text"><![CDATA[This project was done in the middle of 100 Days of Web Develpoment challenge. Github Repo | Project 9: Awesome Shiny Apps for Statistics Yesterday’s night, I suddenly had an idea to make a GitHub awesome list of Shiny Apps. The apps are specific for learning statistics, not showing results from data analysis. It is better if there will be a website automatically generated from README.md file from the GitHub repo, then the effort to keep the website and README.md being same will be zero. Usually, people contribute to an awesome list by editing README.md. It is the owner’s responsibility of the GitHub repo to sync between GitHub and the website. How to sync automatically is the most difficult part for me. My blog is using Netlify to automatically deploy. I need to learn one templating engine to combine data in README.md and templates created by a templating engine by Netlify. I started to learning Go on the YouTube. I realized that Go was a completely new language and if I wanted to use it, I had to learn a lof things. Then I recalled Front-End-Checklist using gulp. Initially, I thought gulp was a template engine. After reading one tutorial, I knew it was not and can use it to create a web page without styling through gulp-markdown. gulp-rename is used to change the filename from README.md to index.md, then gulp-markdown generated index.html. The HTML codes inside index.html do not contain head and body elements. It turns out to be an advantage. gulp-wrapper adds head and body elements before and after the codes. The resulting website was successfully deployed by Nelify. I achieved to sync between README.md and the website. Today, I spent time in changing the website style and gathered Shiny apps. I worked more than 10 hours today. I am satisfied with the result. One thing needed to improve in the future is the styling of the site. Update 2017/12/26 Tuesday After one day of publishing, some numbers GitHub 16 stars 3 forks 3 watchers Twitter 31 ReTweeted 77 likes This is the first for me to get over 10 stars on GitHub and the first to get over 10 likes and retweets on Twitter. I am happy that people like the idea of the project.]]></content>
+    <title><![CDATA[Project: Awesome Checklist Checklist]]></title>
+    <url>%2Fawesome-checklist-checklist%2F</url>
+    <content type="text"><![CDATA[This project was done in the middle of 100 Days of Web Develpoment challenge. Github Repo | Project 11: Awesome Checklist Checklist The site is auto-deployed. Changing README.md will change the site.]]></content>
       <categories>
         <category>Projects</category>
       </categories>
       <tags>
-        <tag>R</tag>
-        <tag>Shiny</tag>
         <tag>gulp</tag>
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Awesome Shiny Apps for Statistics]]></title>
-    <url>%2FAwesome-Shiny-Apps-for-Statistics%2F</url>
-    <content type="text"><![CDATA[This project was done in the middle of 100 Days of Web Develpoment challenge. Github Repo | Project 9: Awesome Shiny Apps for Statistics Yesterday’s night, I suddenly had an idea to make a GitHub awesome list of Shiny Apps. The apps are specific for learning statistics, not showing results from data analysis. It is better if there will be a website automatically generated from README.md file from the GitHub repo, then the effort to keep the website and README.md being same will be zero. Usually, people contribute to an awesome list by editing README.md. It is the owner’s responsibility of the GitHub repo to sync between GitHub and the website. How to sync automatically is the most difficult part for me. My blog is using Netlify to automatically deploy. I need to learn one templating engine to combine data in README.md and templates created by a templating engine by Netlify. I started to learning Go on the YouTube. I realized that Go was a completely new language and if I wanted to use it, I had to learn a lof things. Then I recalled Front-End-Checklist using gulp. Initially, I thought gulp was a template engine. After reading one tutorial, I knew it was not and can use it to create a web page without styling through gulp-markdown. gulp-rename is used to change the filename from README.md to index.md, then gulp-markdown generated index.html. The HTML codes inside index.html do not contain head and body elements. It turns out to be an advantage. gulp-wrapper adds head and body elements before and after the codes. The resulting website was successfully deployed by Nelify. I achieved to sync between README.md and the website. Today, I spent time in changing the website style and gathered Shiny apps. I worked more than 10 hours today. I am satisfied with the result. One thing needed to improve in the future is the styling of the site. Update 2017/12/26 Tuesday After one day of publishing, some numbers GitHub 16 stars 3 forks 3 watchers Twitter 31 ReTweeted 77 likes This is the first for me to get over 10 stars on GitHub and the first to get over 10 likes and retweets on Twitter. I am happy that people like the idea of the project.]]></content>
+    <title><![CDATA[Project: Must-watch Must-Watch]]></title>
+    <url>%2Fmust-watch-must-watch%2F</url>
+    <content type="text"><![CDATA[This project was done in the middle of 100 Days of Web Develpoment challenge. Github Repo | Project 10: Must-Watch Must-Watch List The site is auto-deployed. Changing README.md will change the site.]]></content>
       <categories>
         <category>Projects</category>
       </categories>
       <tags>
-        <tag>R</tag>
-        <tag>Shiny</tag>
         <tag>gulp</tag>
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Awesome Shiny Apps for Statistics]]></title>
+    <title><![CDATA[Project: Awesome Shiny Apps for Statistics]]></title>
     <url>%2FAwesome-Shiny-Apps-for-Statistics%2F</url>
     <content type="text"><![CDATA[This project was done in the middle of 100 Days of Web Develpoment challenge. Github Repo | Project 9: Awesome Shiny Apps for Statistics Yesterday’s night, I suddenly had an idea to make a GitHub awesome list of Shiny Apps. The apps are specific for learning statistics, not showing results from data analysis. It is better if there will be a website automatically generated from README.md file from the GitHub repo, then the effort to keep the website and README.md being same will be zero. Usually, people contribute to an awesome list by editing README.md. It is the owner’s responsibility of the GitHub repo to sync between GitHub and the website. How to sync automatically is the most difficult part for me. My blog is using Netlify to automatically deploy. I need to learn one templating engine to combine data in README.md and templates created by a templating engine by Netlify. I started to learning Go on the YouTube. I realized that Go was a completely new language and if I wanted to use it, I had to learn a lof things. Then I recalled Front-End-Checklist using gulp. Initially, I thought gulp was a template engine. After reading one tutorial, I knew it was not and can use it to create a web page without styling through gulp-markdown. gulp-rename is used to change the filename from README.md to index.md, then gulp-markdown generated index.html. The HTML codes inside index.html do not contain head and body elements. It turns out to be an advantage. gulp-wrapper adds head and body elements before and after the codes. The resulting website was successfully deployed by Nelify. I achieved to sync between README.md and the website. Today, I spent time in changing the website style and gathered Shiny apps. I worked more than 10 hours today. I am satisfied with the result. One thing needed to improve in the future is the styling of the site. Update 2017/12/26 Tuesday After one day of publishing, some numbers GitHub 16 stars 3 forks 3 watchers Twitter 31 ReTweeted 77 likes This is the first for me to get over 10 stars on GitHub and the first to get over 10 likes and retweets on Twitter. I am happy that people like the idea of the project.]]></content>
       <categories>
@@ -35,8 +31,8 @@
       </categories>
       <tags>
         <tag>R</tag>
-        <tag>Shiny</tag>
         <tag>gulp</tag>
+        <tag>Shiny</tag>
       </tags>
   </entry>
   <entry>

@@ -39,10 +39,6 @@
 
 
 
-  
-  
-  <link href="/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
-
 
 
 
@@ -69,7 +65,7 @@
 
 
 
-  <meta name="keywords" content="R,Shiny,gulp," />
+  <meta name="keywords" content="R,gulp,Shiny," />
 
 
 
@@ -83,21 +79,21 @@
 
 
 <meta name="description" content="">
-<meta name="keywords" content="R,Shiny,gulp">
+<meta name="keywords" content="R,gulp,Shiny">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Awesome Shiny Apps for Statistics">
+<meta property="og:title" content="Project: Awesome Shiny Apps for Statistics">
 <meta property="og:url" content="http://huyingjie.github.io/blog-hexo-en-yingjiehu/Awesome-Shiny-Apps-for-Statistics/index.html">
 <meta property="og:site_name" content="Insanely Reasonable, Reasonably Insane">
 <meta property="og:description" content="">
 <meta property="og:locale" content="en">
-<meta property="og:image" content="http://huyingjie.github.io/img/Awesome-Shiny-Apps-for-Statistics.png">
+<meta property="og:image" content="http://huyingjie.github.io/img/project-Awesome-Shiny-Apps-for-Statistics.png">
 <meta property="og:image" content="http://huyingjie.github.io/blog-hexo-en-yingjiehu/Awesome-Shiny-Apps-for-Statistics/2017-12-26-GitHub-Data.png">
 <meta property="og:image" content="http://huyingjie.github.io/blog-hexo-en-yingjiehu/Awesome-Shiny-Apps-for-Statistics/2017-12-26-Twitter-Data.png">
-<meta property="og:updated_time" content="2017-12-27T06:16:48.782Z">
+<meta property="og:updated_time" content="2017-12-30T03:45:12.814Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Awesome Shiny Apps for Statistics">
+<meta name="twitter:title" content="Project: Awesome Shiny Apps for Statistics">
 <meta name="twitter:description" content="">
-<meta name="twitter:image" content="http://huyingjie.github.io/img/Awesome-Shiny-Apps-for-Statistics.png">
+<meta name="twitter:image" content="http://huyingjie.github.io/img/project-Awesome-Shiny-Apps-for-Statistics.png">
 
 
 
@@ -108,7 +104,7 @@
     scheme: 'Pisces',
     version: '5.1.3',
     sidebar: {"position":"right","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
-    fancybox: true,
+    fancybox: false,
     tabs: true,
     motion: {"enable":true,"async":true,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
     duoshuo: {
@@ -133,7 +129,7 @@
 
 
 
-  <title>Awesome Shiny Apps for Statistics | Insanely Reasonable, Reasonably Insane</title>
+  <title>Project: Awesome Shiny Apps for Statistics | Insanely Reasonable, Reasonably Insane</title>
   
 
 
@@ -403,7 +399,7 @@
 
         
         
-          <h2 class="post-title" itemprop="name headline">Awesome Shiny Apps for Statistics</h2>
+          <h2 class="post-title" itemprop="name headline">Project: Awesome Shiny Apps for Statistics</h2>
         
 
         <div class="post-meta">
@@ -467,7 +463,7 @@
 
           
           
-             <span id="/Awesome-Shiny-Apps-for-Statistics/" class="leancloud_visitors" data-flag-title="Awesome Shiny Apps for Statistics">
+             <span id="/Awesome-Shiny-Apps-for-Statistics/" class="leancloud_visitors" data-flag-title="Project: Awesome Shiny Apps for Statistics">
                <span class="post-meta-divider">|</span>
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
@@ -485,7 +481,7 @@
 
           <br>
           Updated on 
-                2017-12-27  
+                2017-12-29  
           
 
         </div>
@@ -511,7 +507,7 @@
         
         
 
-        <p><img src="/img/Awesome-Shiny-Apps-for-Statistics.png" alt=""><br><a id="more"></a><br>This project was done in the middle of <a href="/100-Days-Of-Web-Development-Round-1/">100 Days of Web Develpoment challenge</a>.</p>
+        <p><img src="/img/project-Awesome-Shiny-Apps-for-Statistics.png" alt=""><br><a id="more"></a><br>This project was done in the middle of <a href="/100-Days-Of-Web-Development-Round-1/">100 Days of Web Develpoment challenge</a>.</p>
 <p><a href="https://github.com/huyingjie/Awesome-shiny-apps-for-statistics" target="_blank" rel="noopener">Github Repo</a> | <a href="http://asas.yingjiehu.com/" target="_blank" rel="noopener">Project 9: Awesome Shiny Apps for Statistics</a></p>
 <p>Yesterday’s night, I suddenly had an idea to make a GitHub awesome list of Shiny Apps. The apps are specific for learning statistics, not showing results from data analysis. It is better if there will be a website automatically generated from <code>README.md</code> file from the GitHub repo, then the effort to keep the website and <code>README.md</code> being same will be zero. Usually, people contribute to an awesome list by editing <code>README.md</code>. It is the  owner’s responsibility of the GitHub repo to sync between GitHub and the website. </p>
 <p>How to sync automatically is the most difficult part for me. My blog is using Netlify to automatically deploy. I need to learn one templating engine to combine data in <code>README.md</code> and templates created by a templating engine by Netlify. I started to learning <code>Go</code> on the YouTube. I realized that <code>Go</code> was a completely new language and if I wanted to use it, I had to learn a lof things. Then I recalled <a href="https://github.com/thedaviddias/Front-End-Checklist#table-of-contents" target="_blank" rel="noopener">Front-End-Checklist</a> using <code>gulp</code>. Initially, I thought <code>gulp</code> was a template engine. After reading one tutorial, I knew it was not and can use it to create a web page without styling through <code>gulp-markdown</code>. <code>gulp-rename</code> is used to change the filename from <code>README.md</code> to <code>index.md</code>, then <code>gulp-markdown</code> generated <code>index.html</code>. The HTML codes inside <code>index.html</code> do not contain <code>head</code> and <code>body</code> elements. It turns out to be an advantage. <code>gulp-wrapper</code> adds <code>head</code> and <code>body</code> elements before and after the codes. The resulting website was successfully deployed by Nelify. I achieved to sync between <code>README.md</code> and the website.</p>
@@ -549,9 +545,9 @@
           <h3 class="article-title" style="border-radius:10px 10px 0 0; display: block; margin: 0; font-size: 1em; cursor: pointert;">Related posts:</h3>
           <ul class="related-posts">
           
-              <li class="related-posts-item"><a href="/Awesome-Shiny-Apps-for-Statistics/">Awesome Shiny Apps for Statistics</a></li>
+              <li class="related-posts-item"><a href="/awesome-checklist-checklist/">Project: Awesome Checklist Checklist</a></li>
           
-              <li class="related-posts-item"><a href="/Awesome-Shiny-Apps-for-Statistics/">Awesome Shiny Apps for Statistics</a></li>
+              <li class="related-posts-item"><a href="/must-watch-must-watch/">Project: Must-watch Must-Watch</a></li>
           
               <li class="related-posts-item"><a href="/100-Days-Of-Code-R-data-analysis-Round-1/">100 Days Of Code: Data Analysis with R (Round 1)</a></li>
           
@@ -622,9 +618,9 @@
           
             <a href="/tags/R/" rel="tag"># R</a>
           
-            <a href="/tags/Shiny/" rel="tag"># Shiny</a>
-          
             <a href="/tags/gulp/" rel="tag"># gulp</a>
+          
+            <a href="/tags/Shiny/" rel="tag"># Shiny</a>
           
         </div>
       
@@ -647,8 +643,8 @@
 
           <div class="post-nav-prev post-nav-item">
             
-              <a href="/Awesome-Shiny-Apps-for-Statistics/" rel="prev" title="Awesome Shiny Apps for Statistics">
-                Awesome Shiny Apps for Statistics <i class="fa fa-chevron-right"></i>
+              <a href="/must-watch-must-watch/" rel="prev" title="Project: Must-watch Must-Watch">
+                Project: Must-watch Must-Watch <i class="fa fa-chevron-right"></i>
               </a>
             
           </div>
@@ -915,8 +911,6 @@
 
 
 
-  
-
 
 
 
@@ -942,9 +936,6 @@
 
   
   <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
-
-  
-  <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
 
 
   
@@ -993,7 +984,7 @@
         var disqus_config = function () {
           this.page.url = 'http://huyingjie.github.io/blog-hexo-en-yingjiehu/Awesome-Shiny-Apps-for-Statistics/';
           this.page.identifier = 'Awesome-Shiny-Apps-for-Statistics/';
-          this.page.title = 'Awesome Shiny Apps for Statistics';
+          this.page.title = 'Project: Awesome Shiny Apps for Statistics';
         };
         var d = document, s = d.createElement('script');
         s.src = 'https://yingjiehu.disqus.com/embed.js';
