@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Awesome Shiny Apps for Statistics
+title: "Project: Awesome Shiny Apps for Statistics"
 date: 2017-12-25
 tags: 
 	- Shiny
@@ -11,7 +11,7 @@ categories:
 permalink: Awesome-Shiny-Apps-for-Statistics
 
 ---
-![](/img/Awesome-Shiny-Apps-for-Statistics.png)
+![](/img/project-Awesome-Shiny-Apps-for-Statistics.png)
 <!-- more -->
 This project was done in the middle of [100 Days of Web Develpoment challenge](/100-Days-Of-Web-Development-Round-1/).
 
@@ -25,7 +25,17 @@ Today, I spent time in changing the website style and gathered Shiny apps.
 
 I worked more than 10 hours today. I am satisfied with the result. One thing needed to improve in the future is the styling of the site.
 
-## Update 2017/12/26 Tuesday
+## Milestone
+
+* The list is published to internet. (2017-12-25 Monday)
+* Receiving the first feedback that a teacher plans to use the list in his class ([2017/12/28 Thursday](#2017-12-28-Thursday))
+* Receiving the first feedback that a teacher is using/used the list in his 
+
+## Support open source projects
+
+<a href="https://www.patreon.com/bePatron?u=9003086" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
+## 2017-12-26 Tuesday
 
 ![](2017-12-26-GitHub-Data.png)
 
@@ -40,7 +50,17 @@ After one day of publishing, some numbers
 	* 3 watchers
 
 * Twitter
-	* 31 Tweeted
+	* 31 ReTweeted
 	* 77 likes
 
-This is the first for me to get over 10 stars on GitHub and the first to get over 10 likes on Twitter. I am happy that people like the idea of the project.
+This is the first for me to get over 10 stars on GitHub and the first to get over 10 likes and retweets on Twitter. I am happy that people like the idea of the project.
+
+## 2017-12-28 Thursday
+
+I got positive feedback from `mo_feezy` on Reddit:
+
+> Hi, cool resource. I won't be teaching stats until next fall, but this will be handy.
+
+One milestone is achieved: Receiving the first feedback that a teacher plans to use the list in his class
+
+My initial goal is to have a mature list before next Spring semester when teachers can use it as a reference. But the majority of basic statistics are not covered by Shiny Apps in the list. I hope it will mature before next fall.
