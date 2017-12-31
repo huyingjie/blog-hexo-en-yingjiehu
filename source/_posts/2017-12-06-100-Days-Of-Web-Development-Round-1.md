@@ -797,13 +797,40 @@ Because I started doing projects from FreeCodeCamp yesterday, I started learning
 
 **Tomorrow's plan**
 
-* [ ]Study tutorial for 1 hour (not count towards the challenge)
+* [x]Study tutorial for 1 hour (not count towards the challenge)
 * [ ][Github Repo](https://github.com/huyingjie/theLocalWeather) | [Project 4: the Local Weather](http://localweather.yingjiehu.com/)
-	* [ ]Get the location from Google
-	* [ ]Look for images of each weather condition
+	* [x]Get the location from Google
+	* [x]Look for images of each weather condition
 	* [ ]Add codes to show different weather picture based on weather condition
 	* [ ]Add button in home page to change between F and C
 	* [ ]Connect the function and the button
+	* [ ]Check the replacement for `navigator.geolocation.getCurrentPosition()` function
+	* [ ]Look for icons
+
+<hr>
+
+### Day 22: 2017-12-31 Saturday 
+
+**Link**: [Github Repo](https://github.com/huyingjie/theLocalWeather) | [Project 4: the Local Weather](http://localweather.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Continued to do Project 4.
+
+**Thoughts and Emotions:**
+
+I lost interest in Project 4.
+
+**Tomorrow's plan**
+
+* [ ]Study tutorial for 1 hour (not count towards the challenge)
+* [ ][Github Repo](https://github.com/huyingjie/theLocalWeather) | [Project 4: the Local Weather](http://localweather.yingjiehu.com/)
+	* [ ]Add codes to show different weather picture based on weather condition
+	* [ ]Add button in home page to change between F and C
+	* [ ]Connect the function and the button
+	* [ ]Check the replacement for `navigator.geolocation.getCurrentPosition()` function
+	* [ ]Look for icons
+
 
 <hr>
 
