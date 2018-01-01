@@ -22,19 +22,20 @@ The site is auto-deployed. Changing README.md will change the site.
 
 ## Milestone
 
-* The list is published to internet. (2017-12-27 Wednesday)
-* First pull (2017-12-31 Saturday)
+* The list is published to internet. ([2017-12-27 Wednesday](#2017-12-29-Friday))
+* First pull ([2017-12-31 Saturday](#2017-12-31-Saturday))
+* The GitHub repo ranks the 3rd on the GitHub Trend ([2017-12-31 Sunday](#2017-12-31-Sunday))
 
 ## Support open source projects
 
 <a href="https://www.patreon.com/bePatron?u=9003086" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-## 2017-12-30 Friday
+## 2017-12-29 Friday
 
 * Submit the GitHub link to [Hacker News](https://news.ycombinator.com/)
 * Announce on Twitter
 
-## 2017-12-31 Saturday
+## 2017-12-30 Saturday
 
 ![](2017-12-31-over-500-stars.png)
 
@@ -46,6 +47,10 @@ Around midnight, there are over 500 people who have starred the projects.
 
 I am satisfied: 500 stars in one day.
 
+## 2017-12-31 Sunday
 
+Awesome Checklist Checklist is ranking No.3 on the GitHub trend today!
+
+![](2017-12-31-github-trends.png)
 
 
