@@ -16,7 +16,7 @@ permalink: 100-Days-Of-Practicing-Makeup-Round-1
 
 Main Commitment: I will practice makeup. 
 
-Start Date: 2017-12-06
+Start Date: 2017-12-31
 
 
 <!-- more -->
@@ -69,17 +69,33 @@ This is a very personal project. Making up is a required skill for women. I thou
 
 * Practice based on [Makeup for acne skin (Chinese)](https://www.bilibili.com/video/av11757660/)
 
-My skin color is darker than the host and I have a dark circles. The eye color she used does not have effect on my skin.
+My skin color is darker than the host and I have dark circles. The eye color she used does not have an effect on my skin.
 
 **Thoughts and Emotions:**
 
-* I like the tutorial [Makeup for acne skin (Chinese)](https://www.bilibili.com/video/av11757660/) very much. Because it is suitable for acne skin. Most of hosts have good skin (or they adjust color) and do not emphasize on how to conceal red spots.
+* I like the tutorial [Makeup for acne skin (Chinese)](https://www.bilibili.com/video/av11757660/) very much. Because it is suitable for acne skin. Most of the hosts have good skin (or they adjust color) and do not emphasize on how to conceal red spots.
 
 My roommate said the foundation is much lighter than my skin. I will try different foundation tomorrow.
 
 **Tomorrow's plan**
 
-* [ ]Try a different foundation
+* [x]Try a different foundation
+
+<hr>
+
+### Day 2: 2018-01-01 Monday
+
+**Today's Progress (achievements and frustrations)**: 
+
+I made up before going out. 
+
+**Thoughts and Emotions:**
+
+I applied both the new foundation and old foundation. I looked whiter. Tomorrow, the only new foundation will be used.
+
+**Tomorrow's plan**
+
+* [ ]Use the new foundation only
 
 <hr>
 **Future plan**
