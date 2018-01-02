@@ -11,7 +11,7 @@ tags:
 	- Bootstrap
 	- JavaScript
 	- Data Visualization
-	- 3D.js∆
+	- 3D.js
 categories: 
 	- 100 Days Challenge
 	- Web Development
@@ -809,7 +809,7 @@ Because I started doing projects from FreeCodeCamp yesterday, I started learning
 
 <hr>
 
-### Day 22: 2017-12-31 Saturday 
+### Day 22: 2017-12-30 Saturday 
 
 **Link**: [Github Repo](https://github.com/huyingjie/theLocalWeather) | [Project 4: the Local Weather](http://localweather.yingjiehu.com/)
 
@@ -823,13 +823,64 @@ I lost interest in Project 4.
 
 **Tomorrow's plan**
 
-* [ ]Study tutorial for 1 hour (not count towards the challenge)
+* [x]Study tutorial for 1 hour (not count towards the challenge)
 * [ ][Github Repo](https://github.com/huyingjie/theLocalWeather) | [Project 4: the Local Weather](http://localweather.yingjiehu.com/)
-	* [ ]Add codes to show different weather picture based on weather condition
+	* [x]Add codes to show different weather picture based on weather condition
 	* [ ]Add button in home page to change between F and C
 	* [ ]Connect the function and the button
 	* [ ]Check the replacement for `navigator.geolocation.getCurrentPosition()` function
-	* [ ]Look for icons
+
+
+<hr>
+
+### Day 23: 2017-12-31 Sunday
+
+**Link**: [Github Repo](https://github.com/huyingjie/theLocalWeather) | [Project 4: the Local Weather](http://localweather.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**: 
+
+Frustrated with how to write jQuery to change between F and C.
+
+**Thoughts and Emotions:**
+
+I met two problems and can solve neither of them within of one hour. I suddenly felt depressed in the middle of the coding.
+
+**Tomorrow's plan**
+
+* [x]Study tutorial for 1 hour (not count towards the challenge)
+* [ ][Github Repo](https://github.com/huyingjie/theLocalWeather) | [Project 4: the Local Weather](http://localweather.yingjiehu.com/)
+	* [x]Add button in home page to change between F and C
+	* [x]Connect the function and the button
+	* [x]Check the replacement for `navigator.geolocation.getCurrentPosition()` function
+
+<hr>
+
+
+### Day 24: 2018-01-01 Monday 
+
+**Link**: [Github Repo](https://github.com/huyingjie/theLocalWeather) | [Project 4: the Local Weather](http://localweather.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Finished all items on the yesterday's plan.
+
+**Thoughts and Emotions:**
+
+Yesterday, I did not know how to toggle between Fahrenheit and Celsius for the coding project and had a hard time to find the least common multiple of two numbers for the algorithm on FreeCodeCamp. They made me worry about today's study. 
+
+Writing my logic on paper help me finishing algorithm part. Writing the actions of clicking texts gave me a clear vision of how to toggle.
+
+Happily, I finished both of them.
+
+`navigator.geolocation.getCurrentPosition` is deprecated. Few answers on FreeCodeCamp forum mention it because websites hosted on a personal server or GitHub can meet the problem and most of the people put the project on CodePen.
+
+The solution is to use a free geo API from <http://freegeoip.net/json/> instead of Google API. Tomorrow I will rewrite related codes.
+
+**Tomorrow's plan**
+
+* [ ]Study tutorial for 1 hour (not count towards the challenge)
+* [ ][Github Repo](https://github.com/huyingjie/theLocalWeather) | [Project 4: the Local Weather](http://localweather.yingjiehu.com/)
+	* [ ]Use geo api from <http://freegeoip.net/json/>
 
 
 <hr>
