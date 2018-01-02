@@ -68,7 +68,33 @@ I bought a [color me weekly desk pad](http://links.yingjiehu.com/ColorMeWeeklyDe
 **Thoughts and Emotions:**
 
 Color systems helps to choose colors quickly.
+<hr>
 
+### Day 2: 2018-01-02 Tuesday
+
+![](2018-01-01-triadic-purple-green-orange.png)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Colored one page using triadic color scheme: purple+orange+green
+	* Purple is the main color.
+
+**Thoughts and Emotions:**
+
+I decided to practice triadic color system for two days. Today is the second day. 
+
+I do not like to use orange and green together and dislike the combination of today's three colors: purple, green, and orange.
+
+To my surprise, colors of the final graph are harmony and comfortable to view.
+
+**Tomorrow's plan**
+
+* [ ]Compound Color Scheme
 
 <hr>
+
 **Future plan**
+
+* [ ]Analogous Color Scheme
+* [ ]Combine color schemes with black and white
+
