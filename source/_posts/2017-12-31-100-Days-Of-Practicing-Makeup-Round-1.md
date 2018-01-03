@@ -111,7 +111,26 @@ I am not sure whether the foundation stick not well or my technique is not good.
 
 **Tomorrow's plan**
 
-* [ ]Concealer with liquid lighter foundation + Foundation Stick
+* [x]Concealer with liquid lighter foundation + Foundation Stick
+
+<hr>
+
+
+### Day 4: 2018-01-03 Wednesday
+
+**Today's Progress (achievements and frustrations)**: 
+
+Makeup before going to work. This is the first I did it.
+
+**Thoughts and Emotions:**
+
+Forget about how much time would be spent time on makeup. Just do it. Then I did it.
+
+Little liquid foundation cannot cover dark spot. I think it is ok to have dark spot which makes me look not fake. I fogot applying the concealer which is close to my skin color.
+
+**Tomorrow's plan**
+
+* [ ]Don't forget to apply the concealer which is close to my skin color.
 
 <hr>
 **Future plan**
