@@ -858,6 +858,8 @@ I met two problems and can solve neither of them within of one hour. I suddenly 
 
 ### Day 24: 2018-01-01 Monday 
 
+<div style="font-size:24px;" align="center">Happy New Year</div>
+
 **Link**: [Github Repo](https://github.com/huyingjie/theLocalWeather) | [Project 4: the Local Weather](http://localweather.yingjiehu.com/)
 
 **Today's Progress (achievements and frustrations)**: 
@@ -876,12 +878,40 @@ Happily, I finished both of them.
 
 The solution is to use a free geo API from <http://freegeoip.net/json/> instead of Google API. Tomorrow I will rewrite related codes.
 
+When reading Twitter `#100DaysOfCode #freecodecamp`, I found a lot of people started 100 Day Challenge today. It's the first day of the year!!!
+
+**Tomorrow's plan**
+
+* [x]Study tutorial for 1 hour (not count towards the challenge)
+* [x][Github Repo](https://github.com/huyingjie/theLocalWeather) | [Project 4: the Local Weather](http://localweather.yingjiehu.com/)
+	* [x]Use geo api from <http://freegeoip.net/json/>
+* [ ]Write README.md for projects
+
+<hr>
+
+### Day 25: 2018-01-02 Tuesday 
+
+![](localweatherapp.png)
+
+**Link**: [Github Repo](https://github.com/huyingjie/theLocalWeather) | [Project 4: the Local Weather](http://localweather.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**: 
+
+Finished [Project 4: the Local Weather](http://localweather.yingjiehu.com/)!!!
+
+**Thoughts and Emotions:**
+
+I used 1 day to finish HTML part and 6 days to complete JavaScript part of [Project 4: the Local Weather](http://localweather.yingjiehu.com/). Each day one hour was spent on the project.
+
+Six days are too long and lost some interests. Thank myself for persisting working for one hour every day. Finally, the project is done.
+
 **Tomorrow's plan**
 
 * [ ]Study tutorial for 1 hour (not count towards the challenge)
-* [ ][Github Repo](https://github.com/huyingjie/theLocalWeather) | [Project 4: the Local Weather](http://localweather.yingjiehu.com/)
-	* [ ]Use geo api from <http://freegeoip.net/json/>
-
+* [ ]Write README.md for projects
+	* [Github Repo](https://github.com/huyingjie/randomquotemachine) | [Project 3: Random Quote Machine](http://randomquotemachine.yingjiehu.com/)
+	* [Github Repo](https://github.com/huyingjie/projects-page) | [Project 2: Personal Portfolio](http://projects.yingjiehu.com/)
+* [ ]Start JavaScript part of [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
 
 <hr>
 
