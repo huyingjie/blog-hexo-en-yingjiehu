@@ -9,7 +9,7 @@ tags:
 categories: 
 	- [100 Days Challenge, Data Science]
 	- [Programming Language, R]
-permalink: 100-Days-Of-Code-Round-1-R-data-analysis
+permalink: 100-Days-Of-Code-R-data-analysis-Round-1
 ---
 Main Commitment: I will code to do data analysis for at least an hour every day for the next 100 days.
 
@@ -119,9 +119,16 @@ A companion project to [100 Days of Reading Paper](100-Days-Of-Reading-Paper-Rou
 ## Template for Log
 ```
 ### Day : 
+
+**Link**: [Github Repo]() | [Project :]()
+
 **Today's Progress (achievements and frustrations)**: 
+
 **Thoughts and Emotions**
-**Github Repo**: 
+
+**Tomorrow's plan**
+
+<hr>
 ```
 
 ## LOG
@@ -136,3 +143,34 @@ A companion project to [100 Days of Reading Paper](100-Days-Of-Reading-Paper-Rou
 The column name is messy after the data was imported into R. Thinking of the idea that I have to rename all columns one by one, I feel scared.
 
 Today I learned parts of `tidyverse` package in Lynda.com. I thought it was a good package. When I start using it, I missed the old method. But when I saw base R converted all character variables into factor variable after import, I missed `tidyverse`. I had mixed feelings about both base R and `tidyverse`.
+
+<hr>
+
+### Day 2: 2018-01-03
+**Today's Progress (achievements and frustrations)**: 
+
+One hour work
+
+* Cleaned the dataset column by column 
+* Wrote a Markdown table to record
+
+**Thoughts and Emotions**
+
+I did not finish the cleaning. I know cleaning is faster if I use SAS. 
+
+I know the one hour work is not productive. But it gave me less pressure.
+
+I set a one-clock timer. I can feel that when it was approaching one hour, the stress level increased.
+
+Every time I work long hour until burning out, it will make it harder to start work next time. My goal is not the speed/productivity but consistency.
+
+**Tomorrow's plan**
+
+* [ ]Clean data
+* [ ]Make descriptive data of variables left in the cleaned data
+* [ ]Write report
+* [ ]Run simple logistic analysis of batch effect and `Reasons`
+
+<hr>
+
+**Future's plan**
