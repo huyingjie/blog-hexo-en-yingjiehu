@@ -95,7 +95,23 @@ I applied both the new foundation and old foundation. I looked whiter. Tomorrow,
 
 **Tomorrow's plan**
 
-* [ ]Use the new foundation only
+* [x]Use the new foundation only
+
+<hr>
+
+### Day 3: 2018-01-02 Tuesday
+
+**Today's Progress (achievements and frustrations)**: 
+
+I used the foundation stick only. It does not cover dark spot well. 
+
+**Thoughts and Emotions:**
+
+I am not sure whether the foundation stick not well or my technique is not good. I got the foundation sticks from Clinique's Black Friday sales one month ago. There is no foundation stick from other brand as a control group. 
+
+**Tomorrow's plan**
+
+* [ ]Concealer with liquid lighter foundation + Foundation Stick
 
 <hr>
 **Future plan**
