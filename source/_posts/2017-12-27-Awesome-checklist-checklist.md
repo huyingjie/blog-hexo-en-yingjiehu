@@ -25,6 +25,7 @@ The site is auto-deployed. Changing README.md will change the site.
 * The list is published to internet. ([2017-12-27 Wednesday](#2017-12-29-Friday))
 * First pull ([2017-12-31 Saturday](#2017-12-31-Saturday))
 * The GitHub repo ranks the 3rd on the GitHub Trend ([2017-12-31 Sunday](#2017-12-31-Sunday))
+* Over 1000 stars ([2018-01-02 Tuesday](#2018-01-02-Tuesday))
 
 ## Support open source projects
 
@@ -54,3 +55,8 @@ Awesome Checklist Checklist is ranking No.3 on the GitHub trend today!
 ![](2017-12-31-github-trends.png)
 
 
+## 2018-01-02 Tuesday
+
+Over 1000 stars!!
+
+![](2018-01-02-over-1000-stars.png)
