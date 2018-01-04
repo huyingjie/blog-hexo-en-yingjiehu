@@ -907,12 +907,41 @@ Six days are too long and lost some interests. Thank myself for persisting worki
 
 **Tomorrow's plan**
 
-* [ ]Study tutorial for 1 hour (not count towards the challenge)
-* [ ]Write README.md for projects
+* [x]Study tutorial for 1 hour (not count towards the challenge)
+* [x]Write README.md for projects
 	* [Github Repo](https://github.com/huyingjie/randomquotemachine) | [Project 3: Random Quote Machine](http://randomquotemachine.yingjiehu.com/)
 	* [Github Repo](https://github.com/huyingjie/projects-page) | [Project 2: Personal Portfolio](http://projects.yingjiehu.com/)
+* [ ]Add [GitHub button](https://buttons.github.io/) to each projects on project page
+* [ ]Create JSON and JavaScript to save each project information
+* [ ]Start JavaScript part of [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
+
+<hr>
+
+### Day 26: 2018-01-04 Wednesday
+
+**Link**: [Github Repo](https://github.com/huyingjie/projects-page) | [Project 2: Personal Portfolio](http://projects.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Input 100-day Challenge projects in the [Personal Portfolio](http://projects.yingjiehu.com/) into a JSON files
+* Write jQuery code to show projects in the JSON.
+
+**Thoughts and Emotions:**
+
+I spent several hours in the past to change HTML file if a project's status was changed or a new project was added. I planned to put information of projects in a JSON file. Next time, if a project information should be updated or added, what I do is to change the JSON file.
+
+There are two JSON files, one for the projects and the other for 100-day challenges.
+
+Today I finished the 2nd part.
+
+**Tomorrow's plan**
+
+* [ ]Study tutorial for 1 hour (not count towards the challenge)
+* [ ]Add [GitHub button](https://buttons.github.io/) to each projects on project page
+* [ ]Create JSON and JavaScript to save each project information
 * [ ]Start JavaScript part of [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
 
 <hr>
 
 **Future plan**
+
