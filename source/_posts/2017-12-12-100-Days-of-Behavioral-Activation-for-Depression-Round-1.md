@@ -36,7 +36,7 @@ The method is easily incorporated into my thinking style but it is not a habit. 
 ## Milestones
 
 1. 1 Day 1 ([2017-12-12 Tuesday](#Day-1-2017-12-12-Tuesday))
-2. 7 Days
+2. 7 Days ([2018-01-04 Thursday](#Day-7-2018-01-04-Thursday))
 3. 30 Days
 4. 60 Days
 5. 90 Days
@@ -125,5 +125,73 @@ I resumed recording anti-depressant behavior activation for depression. Though t
 * Afternoon
 	* Around 3:40 p.m., I felt anxious and wanted to open music as a background noise. I told myself it would increase depression if I did that. Then I opened the Markdown file of the challenge and started writing introduction, rules, and goals, and formatting the challenge.  
 * Evening
+	* Bath
+	* Mask
+
+<hr>
+
+### Day 6: 2018-01-03 Wednesday
+
+**Time, Events, Thoughts and Emotions:**
+
+* Morning
+	* I haven't been to the office for two weeks. 
+
+		If I do not go to the office, it will increase depression
+		
+		If I go to the office, not doing data analysis will increase depression.
+		
+		The conclusion: whether I go to the office or not will increase depression 😢
+		
+		Outcome: I chose a different walking path to the office. Depression hit me several times during walking. Because the roads are not clean or organized.
+		
+		I did one-hour data analysis. My emotion is ok. Working long hours will increase depression.
+		
+* Afternoon
+	* I brought KitKat to the office. If I eat KitKat as lunch, depression will increase.
+* Evening
+	* I did not use the technique. All activities at night have been done for several days. I can activate them without much willpower.
+
+<hr>
+
+### Day 7: 2018-01-04 Thursday
+
+**Time, Events, Thoughts and Emotions:**
+
+* Morning: 
+	* The therapist's assistant left a voice mail to me at 8 a.m. and cancelled the today's session. I did not listen to it until the subway started. The chain on the left boot was broken. I decided to return home and go to Macy's to buy one pair.
+		
+		After one hour, I felt depression and wanted to go home. But there was one mall left. I asked myself whether I felt bad about myself if I skipped the mall. The answer was yes. Even if I did not feel happy, I pushed myself to do it.
+		
+* Afternoon
+	* Depression remained in the afternoon. I was working on freecodecamp 100 days challenge of coding accompanied by depression. Occasionally I asked my roommates which [graph](/100-Days-Of-Coloring-Round-1/) she like. It improved my mood.
+
+* Evening
+	* I used the whole night to read Hugo tutorials and started to make a Hugo theme. 
+
+		I did not finish some 100-day challenges and had mixed feeling. On the one hand, solving one of the most concerned technology problems I have recently gave me joy. On the other hand, not doing 100-day challenges increased the stress level.
+
+<hr>
+
+### Day 8: 2018-01-05 Friday
+
+**Time, Events, Thoughts and Emotions:**
+
+* Morning
+	* Lying in bed.
+	* I decided to make a website about projects for beginners even if I know that not doing 100-day challenges would increase the stress level.
+
+		But if I proposponed making the website, the stress level would increased, too. 
+		
+		I cannot forget the ideas.
+		
+		There is no solution for the situation.
+* Afternoon
+	* I thought of Behavioral Activation for Depression, but no decision was decided based on it.
+
+* Evening
+	* I thought about it intensely when I bathed. I have several things that I am reluctant to do. If I do not do them, then depression will increase. 
+
+	  If I order the tasks on to-do lists from the least resistance to the highest resistance, then I do it in reverse order. Will it a good method to solve the situation?
 
 <hr>
