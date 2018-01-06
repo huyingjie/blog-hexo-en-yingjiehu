@@ -70,6 +70,7 @@ Start Date: 2017-12-06
 * 2017-12-25 [Github Repo](https://github.com/huyingjie/Awesome-shiny-apps-for-statistics) | [Project 9: Awesome Shiny Apps for Statistics](http://asas.yingjiehu.com/)
 * 2017-12-26 [Github Repo](https://github.com/huyingjie/must-watch-must-watch) | [Project 10: Must-Watch Must-Watch List](http://mustwatch.yingjiehu.com/)
 * 2017-12-26 [Github Repo](https://github.com/huyingjie/Checklist-Checklist) | [Project 11: Awesome Checklist Checklist](http://checklist.yingjiehu.com/)
+* 2018-01-05 [Github Repo](https://github.com/huyingjie/rsnippets) | [Project 12: RSnippets.com](http://rsnippets.com/)
 
 ## Template for Log
 ```
@@ -917,7 +918,9 @@ Six days are too long and lost some interests. Thank myself for persisting worki
 
 <hr>
 
-### Day 26: 2018-01-04 Wednesday
+### Day 26: 2018-01-03 Wednesday
+
+![](2018-01-03-challenge-javascript.png)
 
 **Link**: [Github Repo](https://github.com/huyingjie/projects-page) | [Project 2: Personal Portfolio](http://projects.yingjiehu.com/)
 
@@ -936,9 +939,58 @@ Today I finished the 2nd part.
 
 **Tomorrow's plan**
 
+* [x]Study tutorial for 1 hour (not count towards the challenge)
+* [ ]Add [GitHub button](https://buttons.github.io/) to each projects on project page
+* [x]Create JSON and JavaScript to save each project information
+* [ ]Start JavaScript part of [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
+
+<hr>
+
+### Day 27: 2018-01-04 Thursday 
+
+**Link**: [Github Repo](https://github.com/huyingjie/projects-page) | [Project 2: Personal Portfolio](http://projects.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**: 
+
+Dynamic information on the page is completely saved in the JSON files in [Project 2: Personal Portfolio](http://projects.yingjiehu.com/).
+
+**Thoughts and Emotions:**
+
+> To cover 90 percent of one's destined distance brings the traveler no farther than the midway point -- the last part of an endeavor is the hardest to finish.
+> 行百里者半九十
+
+**Tomorrow's plan**
+
 * [ ]Study tutorial for 1 hour (not count towards the challenge)
 * [ ]Add [GitHub button](https://buttons.github.io/) to each projects on project page
-* [ ]Create JSON and JavaScript to save each project information
+* [ ]Start JavaScript part of [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
+
+
+<hr>
+
+### Day 28: 2018-01-05 Friday 
+
+![](../img/rsnippets.png)
+**Link**: [Github Repo](https://github.com/huyingjie/rsnippets) | [Project 12: RSnippets.com](http://rsnippets.com/)
+
+**Today's Progress (achievements and frustrations)**: 
+
+I finished [RSnippets.com](http://rsnippets.com). 
+
+**Thoughts and Emotions:**
+
+It is a relief. I can record projects that are suitable for beginners in the [RSnippets.com](http://rsnippets.com). If I learn something new in the future, I can actively think what small projects I can do to practice the knowledge just learned. The idea I have and the projects I made will not be "once then never see it again". They will benefit people who have frustration during learning like me.
+
+FreeCodeCamp inspired me to do so.
+
+I made the project with Hugo. Though I did not code a lot for the project, I can more easily understand some concepts because of studying on FreeCodeCamp.
+
+Sometimes, the success of projects are not based on latest and shiny technologies but good ideas, using simple tools to achieve them, and marketing them.
+
+**Tomorrow's plan**
+
+* [ ]Study tutorial for 1 hour (not count towards the challenge)
+* [ ]Add [GitHub button](https://buttons.github.io/) to each projects on project page
 * [ ]Start JavaScript part of [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
 
 <hr>
