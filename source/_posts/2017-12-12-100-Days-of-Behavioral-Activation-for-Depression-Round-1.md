@@ -190,8 +190,38 @@ I resumed recording anti-depressant behavior activation for depression. Though t
 	* I thought of Behavioral Activation for Depression, but no decision was decided based on it.
 
 * Evening
-	* I thought about it intensely when I bathed. I have several things that I am reluctant to do. If I do not do them, then depression will increase. 
+	* I thought about it intensely when I bathed. I have several things that I am reluctant to do. If I do not do them, then depression ≥will increase. 
 
 	  If I order the tasks on to-do lists from the least resistance to the highest resistance, then I do it in reverse order. Will it a good method to solve the situation?
+
+<hr>
+
+### Day 9: 2018-01-06 Saturday
+
+**Time, Events, Thoughts and Emotions:**
+
+* Morning
+    * Lying in bed to use iPad to search online. Even if I regret, the ideas/contents I searched online remain in my mind if I did not do that.
+* Afternoon
+    * I started to implement ideas from yesterday's night. 
+
+        I listed todos from I want to do most to least willing to do.
+        
+        Then the items were reversed by order.
+        
+        I started to do from the top.
+        
+        I procrastinated to start doing until 5 p.m.. If I start from the items I enjoy most, I will start around noon.
+        
+        After doing them, I enjoyed the process and worried about the slow progress.
+        
+* Evening
+
+    * I am happy I made [small toy examples](/100-Days-Of-Code-R-data-analysis-Round-1/#Day-4-2018-01-06-Saturday). 
+
+        When considering there are more things needed to be done, I stressed out.
+        
+        Behavioral Activation for Depression does not help in the situation.
+        
 
 <hr>
