@@ -90,10 +90,15 @@
 <meta property="og:site_name" content="Insanely Reasonable, Reasonably Insane">
 <meta property="og:description" content="Main Commitment: I will code to do data analysis for at least an hour every day for the next 100 days. Start Date: 2017-12-11 A companion project to 100 Days of Reading Paper.">
 <meta property="og:locale" content="en">
-<meta property="og:updated_time" content="2018-01-06T01:24:09.016Z">
+<meta property="og:image" content="http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Code-R-data-analysis-Round-1/location%20affects%20coefficients%20linear.png">
+<meta property="og:image" content="http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Code-R-data-analysis-Round-1/location%20affects%20coefficients%20linear2.png">
+<meta property="og:image" content="http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Code-R-data-analysis-Round-1/location%20affects%20coefficients%20quadratic.png">
+<meta property="og:image" content="http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Code-R-data-analysis-Round-1/location%20affects%20coefficients%20quadratic2.png">
+<meta property="og:updated_time" content="2018-01-07T02:50:38.236Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="100 Days Of Data Challenge (Round 1)">
 <meta name="twitter:description" content="Main Commitment: I will code to do data analysis for at least an hour every day for the next 100 days. Start Date: 2017-12-11 A companion project to 100 Days of Reading Paper.">
+<meta name="twitter:image" content="http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Code-R-data-analysis-Round-1/location%20affects%20coefficients%20linear.png">
 
 
 
@@ -514,7 +519,7 @@
 
           <br>
           Updated on 
-                2018-01-05  
+                2018-01-06  
           
 
         </div>
@@ -672,9 +677,56 @@
 <li style="list-style: none"><input type="checkbox"> Write report</li>
 <li style="list-style: none"><input type="checkbox"> Run simple logistic analysis of batch effect and <code>Reasons</code></li>
 </ul>
-<h3 id="Day"><a href="#Day" class="headerlink" title="Day :"></a>Day :</h3><p><strong>Link</strong>: <a href="">Github Repo</a> | <a href="">Project :</a></p>
-<p><strong>Today’s Progress (achievements and frustrations)</strong>: </p>
+<h3 id="Day-3-2018-01-05"><a href="#Day-3-2018-01-05" class="headerlink" title="Day 3: 2018-01-05"></a>Day 3: 2018-01-05</h3><p><strong>Today’s Progress (achievements and frustrations)</strong>: </p>
+<p>I created <a href="http://rsnippets.com/r/create-a-package-of-personal-toolbox/" target="_blank" rel="noopener">a R package project for beginners</a> on RSnippets.com. It is to build a utility package for personal usage.</p>
+<p>I started to make one.</p>
 <p><strong>Thoughts and Emotions</strong></p>
+<p>I did not do this challenge again. The small project can get me started. This is the reason I did a project for beginners, not a big project.</p>
+<p>I feel good at the end of one-hour session. </p>
+<p><strong>Tomorrow’s plan</strong></p>
+<ul>
+<li style="list-style: none"><input type="checkbox"> Clean data</li>
+<li style="list-style: none"><input type="checkbox"> Make descriptive data of variables left in the cleaned data</li>
+<li style="list-style: none"><input type="checkbox"> Write report</li>
+<li style="list-style: none"><input type="checkbox"> Run simple logistic analysis of batch effect and <code>Reasons</code></li>
+</ul>
+<hr>
+
+<h3 id="Day-4-2018-01-06"><a href="#Day-4-2018-01-06" class="headerlink" title="Day 4: 2018-01-06"></a>Day 4: 2018-01-06</h3><p><strong>Today’s Progress (achievements and frustrations)</strong>: </p>
+<ul>
+<li>Read the post about how changing location will affect the linear regression result.</li>
+<li>Reproduce the example from <code>Sean</code></li>
+</ul>
+<p>I created 2 toy examples: </p>
+<ol>
+<li>$y = 0.2x$</li>
+<li>$y = 0.2x+x^2$</li>
+</ol>
+<p>$x$ is uniform(-0.5,0.5). $x$ in the program means uniform(0,1).</p>
+<ul>
+<li><p>If the true model is linear<br>  <img src="location affects coefficients linear.png" alt=""></p>
+<p>  The above graph shows fitted models look almost the same when the location of $x$ is changed.</p>
+<p>  <img src="location affects coefficients linear2.png" alt=""></p>
+<p>  The above graph shows the intercept will decrease when the location of $x$ becomes bigger. This conforms to the mathematical proof.</p>
+<p>  $$y = 0.2x = (0.2-0.2a) + (x+0.2a)$$ </p>
+<p>  $0.2-0.2a$ is the intercepts after $x$ moves. It has the linear relationship with $a$. </p>
+<p>  However, in theory, the coefficient of $x$ remains the same. In fact, it changes a little bit.</p>
+</li>
+<li><p>If the true model is non-linear<br>  <img src="location affects coefficients quadratic.png" alt=""></p>
+<p>  <img src="location affects coefficients quadratic2.png" alt=""></p>
+<p>  The above two graphs show that location has big effects on cofficients for non-linear models.</p>
+<ol>
+<li>Around 800 and -800, <code>lm</code> fails to estimate a coefficient for the quadratic term, &amp; gives a warning about a singular design matrix. </li>
+<li>The relationship between intercept and location is not linear anymore.</li>
+</ol>
+</li>
+</ul>
+<p>In summary, if the scale of predictors is big, such as over 800, it is a good choice to center them first before performing any data analysis.</p>
+<p>R code</p>
+<figure class="highlight r"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br></pre></td><td class="code"><pre><span class="line">set.seed(<span class="number">1</span>)</span><br><span class="line">n &lt;- <span class="number">100</span></span><br><span class="line">x &lt;- sort(runif(n))</span><br><span class="line">y &lt;- <span class="number">.2</span>*(x-<span class="number">.5</span>)+(x-<span class="number">.5</span>)^<span class="number">2</span> + rnorm(n)*<span class="number">.1</span></span><br><span class="line">y_linear &lt;- <span class="number">.2</span>*(x-<span class="number">0.5</span>) + rnorm(n)*<span class="number">.1</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># x100 &lt;- x+100</span></span><br><span class="line"><span class="comment"># b100 &lt;- lm(y ~ x100 + I(x100^2))</span></span><br><span class="line"><span class="comment"># plot(x100,y)</span></span><br><span class="line"><span class="comment"># lines(x100, predict(b100), col='red')</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># x is gerenated outside function</span></span><br><span class="line">locale &lt;- <span class="keyword">function</span>(x, y, a, is_graph = <span class="literal">TRUE</span>)&#123;</span><br><span class="line">  x_locale &lt;- x+a</span><br><span class="line">  b &lt;- lm(y ~ x_locale + I(x_locale^<span class="number">2</span>))</span><br><span class="line">  <span class="keyword">if</span>(is_graph)&#123;</span><br><span class="line">    plot(x_locale,y, main = paste(<span class="string">"locale = "</span>, a))</span><br><span class="line">    lines(x_locale, predict(b), col=<span class="string">'red'</span>)</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="keyword">return</span>(b)</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">par(mfrow = c(<span class="number">2</span>,<span class="number">2</span>))</span><br><span class="line">locale(x, y, <span class="number">0</span>)</span><br><span class="line">locale(x, y, <span class="number">100</span>)</span><br><span class="line">locale(x, y, <span class="number">500</span>)</span><br><span class="line">locale(x, y, <span class="number">1000</span>)</span><br><span class="line"></span><br><span class="line">b_vector &lt;- matrix(nrow=<span class="number">0</span>, ncol=<span class="number">3</span>)</span><br><span class="line"><span class="keyword">for</span> (i <span class="keyword">in</span> -<span class="number">1000</span>:<span class="number">1000</span>)&#123;</span><br><span class="line">  b_vector &lt;- rbind(b_vector, locale(x, y, i, is_graph = <span class="literal">FALSE</span>)$coefficient)</span><br><span class="line">&#125;</span><br><span class="line">rm(i)</span><br><span class="line">colnames(b_vector) &lt;- c(<span class="string">"intercept"</span>, <span class="string">"x"</span>, <span class="string">"x^2"</span>)</span><br><span class="line">par(mfrow = c(<span class="number">3</span>,<span class="number">1</span>))</span><br><span class="line">plot(-<span class="number">1000</span>:<span class="number">1000</span>, b_vector[,<span class="string">"intercept"</span>], ylab = <span class="string">"intercept"</span>)</span><br><span class="line">plot(-<span class="number">1000</span>:<span class="number">1000</span>, b_vector[,<span class="string">"x"</span>], ylab = expression(beta[<span class="number">1</span>]))</span><br><span class="line">plot(-<span class="number">1000</span>:<span class="number">1000</span>, b_vector[,<span class="string">"x^2"</span>], ylab = expression(beta[<span class="number">2</span>]))</span><br><span class="line"></span><br><span class="line"><span class="comment">############################</span></span><br><span class="line"></span><br><span class="line">locale_linear &lt;- <span class="keyword">function</span>(x, y, a, is_graph = <span class="literal">TRUE</span>)&#123;</span><br><span class="line">  x_locale &lt;- x+a</span><br><span class="line">  b &lt;- lm(y ~ x_locale)</span><br><span class="line">  <span class="keyword">if</span>(is_graph)&#123;</span><br><span class="line">    plot(x_locale,y, main = paste(<span class="string">"locale = "</span>, a))</span><br><span class="line">    lines(x_locale, predict(b), col=<span class="string">'red'</span>)</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="keyword">return</span>(b)</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">par(mfrow = c(<span class="number">2</span>,<span class="number">2</span>))</span><br><span class="line">locale_linear(x, y_linear, <span class="number">0</span>)</span><br><span class="line">locale_linear(x, y_linear, <span class="number">100</span>)</span><br><span class="line">locale_linear(x, y_linear, <span class="number">500</span>)</span><br><span class="line">locale_linear(x, y_linear, <span class="number">1000</span>)</span><br><span class="line"></span><br><span class="line">b_vector_linear &lt;- matrix(nrow=<span class="number">0</span>, ncol=<span class="number">2</span>)</span><br><span class="line"><span class="keyword">for</span> (i <span class="keyword">in</span> -<span class="number">1000</span>:<span class="number">1000</span>)&#123;</span><br><span class="line">  b_vector_linear &lt;- rbind(b_vector_linear, locale_linear(x, y_linear, i, is_graph = <span class="literal">FALSE</span>)$coefficient)</span><br><span class="line">&#125;</span><br><span class="line">rm(i)</span><br><span class="line">colnames(b_vector_linear) &lt;- c(<span class="string">"intercept"</span>, <span class="string">"x"</span>)</span><br><span class="line">par(mfrow = c(<span class="number">2</span>,<span class="number">1</span>))</span><br><span class="line">plot(-<span class="number">1000</span>:<span class="number">1000</span>, b_vector_linear[,<span class="string">"intercept"</span>], ylab = <span class="string">"intercept"</span>)</span><br><span class="line">plot(-<span class="number">1000</span>:<span class="number">1000</span>, b_vector_linear[,<span class="string">"x"</span>], ylab = expression(beta[<span class="number">1</span>]))</span><br></pre></td></tr></table></figure>
+<p><strong>Thoughts and Emotions</strong></p>
+<p>I feel good that I finished the toy examples.</p>
+<p>I feel bad that they were supposed to take less time.</p>
 <p><strong>Tomorrow’s plan</strong></p>
 <hr>
 
@@ -990,7 +1042,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Rules"><span class="nav-number">1.</span> <span class="nav-text">Rules</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Some-important-additional-considerations"><span class="nav-number">2.</span> <span class="nav-text">Some important additional considerations</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Reference"><span class="nav-number">3.</span> <span class="nav-text">Reference</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#The-planning-phase"><span class="nav-number">3.1.</span> <span class="nav-text">The planning phase</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#The-scoping-phase"><span class="nav-number">3.2.</span> <span class="nav-text">The scoping phase</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#The-execution-phase"><span class="nav-number">3.3.</span> <span class="nav-text">The execution phase</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Template-for-Log"><span class="nav-number">4.</span> <span class="nav-text">Template for Log</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#LOG"><span class="nav-number">5.</span> <span class="nav-text">LOG</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-1-2017-12-17"><span class="nav-number">5.1.</span> <span class="nav-text">Day 1: 2017-12-17</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-2-2018-01-03"><span class="nav-number">5.2.</span> <span class="nav-text">Day 2: 2018-01-03</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day"><span class="nav-number">5.3.</span> <span class="nav-text">Day :</span></a></li></ol></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Rules"><span class="nav-number">1.</span> <span class="nav-text">Rules</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Some-important-additional-considerations"><span class="nav-number">2.</span> <span class="nav-text">Some important additional considerations</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Reference"><span class="nav-number">3.</span> <span class="nav-text">Reference</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#The-planning-phase"><span class="nav-number">3.1.</span> <span class="nav-text">The planning phase</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#The-scoping-phase"><span class="nav-number">3.2.</span> <span class="nav-text">The scoping phase</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#The-execution-phase"><span class="nav-number">3.3.</span> <span class="nav-text">The execution phase</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Template-for-Log"><span class="nav-number">4.</span> <span class="nav-text">Template for Log</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#LOG"><span class="nav-number">5.</span> <span class="nav-text">LOG</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-1-2017-12-17"><span class="nav-number">5.1.</span> <span class="nav-text">Day 1: 2017-12-17</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-2-2018-01-03"><span class="nav-number">5.2.</span> <span class="nav-text">Day 2: 2018-01-03</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-3-2018-01-05"><span class="nav-number">5.3.</span> <span class="nav-text">Day 3: 2018-01-05</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-4-2018-01-06"><span class="nav-number">5.4.</span> <span class="nav-text">Day 4: 2018-01-06</span></a></li></ol></li></ol></div>
             
 
           </div>
