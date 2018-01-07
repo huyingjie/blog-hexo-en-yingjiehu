@@ -4,8 +4,11 @@ title: 100 Days Of Reading Paper (Round 1)
 date: 2017-12-04
 tags: 
 	- 100 Days Challenge
+	- Data Science
+	- academic
 categories: 
 	- 100 Days Challenge
+	- Data Science
 permalink: 100-Days-Of-Reading-Paper-Round-1
 ---
 The supporting project is [100 Days Of Code Round 1 (R, data analysis)](100-Days-Of-Code-Round-1-R-data-analysis)
@@ -36,11 +39,15 @@ Reference: [How to effectively scope your software projects from planning to exe
 **Today's Progress (achievements and frustrations)**: 
 
 **Thoughts and Emotions**
+
+**Tomorrow's plan**
+
+<hr>
 ```
 ## Milestones
 
 1. [1 Day (Day 1: 2017-12-18 Monday )](#Day-1-2017-12-18-Monday)
-2. 7 Days
+2. 7 Days 
 3. 30 Days
 4. 60 Days
 5. 90 Days
@@ -70,3 +77,20 @@ Thank you for 100 Days Challenge project. I found the way to use the blog with j
 Back to paper, it is a pain to read paper. However, I found myself enjoy creating powerpoints. Better, I copied the small section of paper into note part of slides then read it. This decreases stress to read a paper over 10 pages.
  
 <hr>
+
+### Day 2: 2018-01-06 
+**Paper: [Relaxed Lasso](http://stat.ethz.ch/~nicolai/relaxo.pdf)** by Nicolai Meinshausen
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Started to read paper again. 😂
+
+**Thoughts and Emotions**
+
+I did an experiment. If I begin to do things that have the highest resistance, will I achieve more? Will the stress level go down? Will I be happier?
+
+Reading paper is on the top list. Then I did it. I feel a little bit relief. But I postponed it to 5 p.m., and this means I will achieve less than yesterday. Completing less can increase stress level, too. Is there a balance.
+
+**Tomorrow's plan**
+
+* [ ] Read "Relaxed Lasso"
