@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "100 Days Of Code: Data Analysis with R (Round 1)"
+title: "100 Days Of Data Challenge (Round 1)"
 date: 2017-12-11
 tags: 
 	- 100 Days Challenge
@@ -21,6 +21,9 @@ A companion project to [100 Days of Reading Paper](100-Days-Of-Reading-Paper-Rou
 
 ## Rules
 
+**Modification** (2018-01-05): I found `The 5-Day Data Challenge
+` in Kaggle today . I like `Data Challenge` better than `Data Analysis with R`. The title of the post was changed from `100 Days Of Code: Data Analysis with R (Round 1)` to `100 Days Of Data Challenge (Round 1)`. Even though no one tweets `#100daysOfData`, I want to use it.
+
 1. I will code using R or do data analysis with other software (such as Python) for at least an hour every day.
 2. Projects are counted towards the challenge:
 	* statistical analysis projects in my work
@@ -39,7 +42,7 @@ A companion project to [100 Days of Reading Paper](100-Days-Of-Reading-Paper-Rou
 	* write emails to clients
 	* meet with clients/supervisors
 
-5. I will tweet my progress every day, with the hashtag `#100DaysOfCode` and `#100DaysOfDataScience` and note which day of the challenge I’m on.
+5. I will tweet my progress every day, with the hashtag `#100DaysOfCode`, `#100daysOfData` and `#100DaysOfDataScience` and note which day of the challenge I’m on.
 6. I will encourage and support at least two people each day in the `#100DaysOfDataScience` challenge on Twitter. I can read at most 5 tweets about `#100DaysOfDataScience` every day. Less is more. Don't spend more than enough time on the social networking website.
 
     3 Options
@@ -132,7 +135,7 @@ A companion project to [100 Days of Reading Paper](100-Days-Of-Reading-Paper-Rou
 ```
 
 ## LOG
-### Day 1: 2017-12-17
+### Day 1: 2017-12-17 Sunday
 **Today's Progress (achievements and frustrations)**: 
 
 * import data into R
@@ -146,7 +149,7 @@ Today I learned parts of `tidyverse` package in Lynda.com. I thought it was a go
 
 <hr>
 
-### Day 2: 2018-01-03
+### Day 2: 2018-01-03 Wednesday
 **Today's Progress (achievements and frustrations)**: 
 
 One hour work
@@ -162,7 +165,7 @@ I know the one hour work is not productive. But it gave me less pressure.
 
 I set a one-clock timer. I can feel that when it was approaching one hour, the stress level increased.
 
-Every time I work long hour until burning out, it will make it harder to start work next time. My goal is not the speed/productivity but consistency.
+Every time I work long hour until burning out, it will make it harder to start work next time. My goal is not the speed or productivity but consistency.
 
 **Tomorrow's plan**
 
@@ -171,6 +174,159 @@ Every time I work long hour until burning out, it will make it harder to start w
 * [ ]Write report
 * [ ]Run simple logistic analysis of batch effect and `Reasons`
 
+### Day 3: 2018-01-05 Friday
+
+**Today's Progress (achievements and frustrations)**: 
+
+I created [a R package project for beginners](http://rsnippets.com/r/create-a-package-of-personal-toolbox/) on RSnippets.com. It is to build a utility package for personal usage.
+
+I started to make one.
+
+**Thoughts and Emotions**
+
+I did not do this challenge again. The small project can get me started. This is the reason I did a project for beginners, not a big project.
+
+I feel good at the end of one-hour session. 
+
+**Tomorrow's plan**
+
+* [x]Clean data
+* [ ]Make descriptive data of variables left in the cleaned data
+* [ ]Write report
+* [ ]Run simple logistic analysis of batch effect and `Reasons`
+
+
 <hr>
 
+### Day 4: 2018-01-06 Saturday
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Read the post about how changing location will affect the linear regression result.
+* Reproduce the example from `Sean`
+
+I created 2 toy examples: 
+
+1. $y = 0.2x$
+1. $y = 0.2x+x^2$
+
+$x$ is uniform(-0.5,0.5). $x$ in the program means uniform(0,1).
+
+* If the true model is linear
+	![](location affects coefficients linear.png)
+		
+	The above graph shows fitted models look almost the same when the location of $x$ is changed.
+	
+	![](location affects coefficients linear2.png)
+	
+	The above graph shows the intercept will decrease when the location of $x$ becomes bigger. This conforms to the mathematical proof.
+	
+	$$y = 0.2x = (0.2-0.2a) + (x+0.2a)$$ 
+	
+	$0.2-0.2a$ is the intercepts after $x$ moves. It has the linear relationship with $a$. 
+	
+	However, in theory, the coefficient of $x$ remains the same. In fact, it changes a little bit.
+
+* If the true model is non-linear
+	![](location affects coefficients quadratic.png)
+
+	![](location affects coefficients quadratic2.png)
+	
+	The above two graphs show that the location has big impact on cofficients for non-linear models.
+	
+	1. Around 800 and -800, `lm` fails to estimate a coefficient for the quadratic term, & gives a warning about a singular design matrix. 
+	2. The relationship between intercept and location is not linear anymore.
+
+In summary, if the scale of predictors is big, such as over 800, it is a good choice to center them first before performing any data analysis.
+
+R code
+
+```r
+set.seed(1)
+n <- 100
+x <- sort(runif(n))
+y <- .2*(x-.5)+(x-.5)^2 + rnorm(n)*.1
+y_linear <- .2*(x-0.5) + rnorm(n)*.1
+
+# x100 <- x+100
+# b100 <- lm(y ~ x100 + I(x100^2))
+# plot(x100,y)
+# lines(x100, predict(b100), col='red')
+
+# x is gerenated outside function
+locale <- function(x, y, a, is_graph = TRUE){
+  x_locale <- x+a
+  b <- lm(y ~ x_locale + I(x_locale^2))
+  if(is_graph){
+    plot(x_locale,y, main = paste("locale = ", a))
+    lines(x_locale, predict(b), col='red')
+  }
+  return(b)
+}
+
+par(mfrow = c(2,2))
+locale(x, y, 0)
+locale(x, y, 100)
+locale(x, y, 500)
+locale(x, y, 1000)
+
+b_vector <- matrix(nrow=0, ncol=3)
+for (i in -1000:1000){
+  b_vector <- rbind(b_vector, locale(x, y, i, is_graph = FALSE)$coefficient)
+}
+rm(i)
+colnames(b_vector) <- c("intercept", "x", "x^2")
+par(mfrow = c(3,1))
+plot(-1000:1000, b_vector[,"intercept"], ylab = "intercept")
+plot(-1000:1000, b_vector[,"x"], ylab = expression(beta[1]))
+plot(-1000:1000, b_vector[,"x^2"], ylab = expression(beta[2]))
+
+############################
+
+locale_linear <- function(x, y, a, is_graph = TRUE){
+  x_locale <- x+a
+  b <- lm(y ~ x_locale)
+  if(is_graph){
+    plot(x_locale,y, main = paste("locale = ", a))
+    lines(x_locale, predict(b), col='red')
+  }
+  return(b)
+}
+
+par(mfrow = c(2,2))
+locale_linear(x, y_linear, 0)
+locale_linear(x, y_linear, 100)
+locale_linear(x, y_linear, 500)
+locale_linear(x, y_linear, 1000)
+
+b_vector_linear <- matrix(nrow=0, ncol=2)
+for (i in -1000:1000){
+  b_vector_linear <- rbind(b_vector_linear, locale_linear(x, y_linear, i, is_graph = FALSE)$coefficient)
+}
+rm(i)
+colnames(b_vector_linear) <- c("intercept", "x")
+par(mfrow = c(2,1))
+plot(-1000:1000, b_vector_linear[,"intercept"], ylab = "intercept")
+plot(-1000:1000, b_vector_linear[,"x"], ylab = expression(beta[1]))
+
+```
+
+**Thoughts and Emotions**
+
+I feel good that I finished the toy examples.
+
+I feel bad that they were supposed to take less time.
+
+**Tomorrow's plan**
+
+* [ ]Read online posts about normalized data
+* [ ]Make descriptive data of variables left in the cleaned data
+* [ ]Write report
+* [ ]Run simple logistic analysis of batch effect and `Reasons`
+
+<hr>
+
+
 **Future's plan**
+
+* [ ]Read source code of Relaxed Lasso's R package

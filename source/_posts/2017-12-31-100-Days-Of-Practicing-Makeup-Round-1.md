@@ -120,7 +120,7 @@ I am not sure whether the foundation stick not well or my technique is not good.
 
 **Today's Progress (achievements and frustrations)**: 
 
-Makeup before going to work. This is the first I did it.
+Makeup before going to work. This is the first time I did it.
 
 **Thoughts and Emotions:**
 
@@ -130,7 +130,25 @@ Little liquid foundation cannot cover dark spot. I think it is ok to have dark s
 
 **Tomorrow's plan**
 
-* [ ]Don't forget to apply the concealer which is close to my skin color.
+* [x]Don't forget to apply the concealer which is close to my skin color.
+
+<hr>
+
+### Day 5: 2018-01-08 Monday
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Applied makeup before going to the department
+
+**Thoughts and Emotions:**
+
+I missed 4 days in a row. On Wednesday, I did not have time for makeup in the morning. Then the next few days, I chose to stay at home, and the motivation to makeup was near 0.
+
+I am happy to resume the challenge.
+
+**Tomorrow's plan**
+
+No plan. If I continue to do it tomorrow, it will be great.
 
 <hr>
 **Future plan**

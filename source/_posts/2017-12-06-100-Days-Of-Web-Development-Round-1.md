@@ -51,8 +51,8 @@ Start Date: 2017-12-06
 
 1. [1 Day (Day 1: 2017-12-06 Wednesday)](#Day-1-2017-12-06-Wednesday)
 2. [7 Days (Day 7: 2017-12-12 Monday)](#Day-7-2017-12-12-Monday)
-3. Day 18: 2017-12-25 Monday: Make the first personal project [Project 9: Awesome Shiny Apps for Statistics](http://asas.yingjiehu.com/) and get over 10 stars on GitHub within one day
-3. 30 Days
+3. [Day 18 (2017-12-25 Monday)](#Day-18-2017-12-25-Monday): Make the first personal project [Project 9: Awesome Shiny Apps for Statistics](http://asas.yingjiehu.com/) and get over 10 stars on GitHub within one day
+3. [30 Days (2018-01-07 Sunday)](#Day-30-2018-01-07-Sunday)
 4. 60 Days
 5. 90 Days
 6. 100 Days
@@ -71,6 +71,8 @@ Start Date: 2017-12-06
 * 2017-12-26 [Github Repo](https://github.com/huyingjie/must-watch-must-watch) | [Project 10: Must-Watch Must-Watch List](http://mustwatch.yingjiehu.com/)
 * 2017-12-26 [Github Repo](https://github.com/huyingjie/Checklist-Checklist) | [Project 11: Awesome Checklist Checklist](http://checklist.yingjiehu.com/)
 * 2018-01-05 [Github Repo](https://github.com/huyingjie/rsnippets) | [Project 12: RSnippets.com](http://rsnippets.com/)
+* 2018-01-08 [Github Repo](https://github.com/huyingjie/gumroad-plan-calculator) | [Project 13: Gumroad Plan Calculator](http://gumroadplancalculator.yingjiehu.com/)
+* 2018-01-09 [Github Repo](https://github.com/huyingjie/awesome-lifehack-calculators) | [Project 14: Awesome Lifehack Calculators](http://lifehackcalculators.yingjiehu.com/)
 
 ## Template for Log
 ```
@@ -990,10 +992,122 @@ Sometimes, the success of projects are not based on latest and shiny technologie
 **Tomorrow's plan**
 
 * [ ]Study tutorial for 1 hour (not count towards the challenge)
-* [ ]Add [GitHub button](https://buttons.github.io/) to each projects on project page
-* [ ]Start JavaScript part of [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
+* [x]Add [GitHub button](https://buttons.github.io/) to each projects on project page
+* [x]Start JavaScript part of [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
+
+<hr>
+
+### Day 29: 2018-01-06 Saturday 
+
+**Link**: [Github Repo](https://github.com/huyingjie/wikipediaViewer) | [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Add GitHub button to the project page. In the safari, star button with the number shows correctly while the text "star" appears in the chrome. I do not know why.
+* Start JavaScript part of Project 5
+
+**Thoughts and Emotions:**
+
+I am frustrated with styling for HTML forms for a long time. 
+
+**Tomorrow's plan**
+
+* [x]Study tutorial for 1 hour (not count towards the challenge)
+* [x]Do JavaScript part of [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
+
+
+<hr>
+
+### Day 30: 2018-01-07 Sunday 
+
+**Link**: [Github Repo](https://github.com/huyingjie/wikipediaViewer) | [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
+
+**Today's Progress (achievements and frustrations)**: 
+
+I did [Symmetric Difference](https://www.freecodecamp.org/challenges/symmetric-difference) for one hour. At the end of one hour, I found I made a mistake. This mistake will be fixed in the next session.
+
+Project 5 is the most difficult one so far.
+
+* The form is not centered. I don't know why.
+* The json file from Wikipedia has an error.
+
+	```
+	Failed to load https://en.wikipedia.org/w/api.php?action=query&titles=Main%20Page&prop=revisions&rvprop=content&format=jsonfm&formatversion=2: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'http://127.0.0.1:3000' is therefore not allowed access.
+	```
+	
+I searched on the FreeCodeForum. Students all face this problem. I will read it in tomorrow's session
+
+
+**Thoughts and Emotions:**
+
+Very difficult. There are 2 parts of my study, one for doing algorithm on FreeCodeCamp, the other for making projects.
+
+Both parts are stuck today. 
+
+According to my previous experience, I need to touch the problems every day and eventually they will be solved. Maybe 1 day, 2 days, or one week. 
+
+**Tomorrow's plan**
+
+* [x]Study tutorial for 1 hour (not count towards the challenge)
+	* [ ]Read css styling for forms
+* [ ]Do JavaScript part of [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
+	* Read on the forum how to solve the error.
+
+
+<hr>
+
+### Day 31: 2018-01-08 Monday
+
+![](../img/Gumroad-Plan-Calculator.png)
+
+**Link**: [Github Repo](https://github.com/huyingjie/gumroad-plan-calculator) | [Project 13: Gumroad Plan Calculator](http://gumroadplancalculator.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Finished the website [Gumroad Plan Calculator](http://gumroadplancalculator.yingjiehu.com/)
+
+**Thoughts and Emotions:**
+
+I feel reluctant to do [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com). One of the reason is that I do not know how data in the form is transferred to JavaScript functions and how to style the forms.
+
+To achieve the goal, I spent 3 hours on a side project, [Project 13: Gumroad Plan Calculator](http://gumroadplancalculator.yingjiehu.com/). I planned to do it for one hour, but cannot stop coding. 🤣
+
+**Tomorrow's plan**
+
+* [ ]Study tutorial for 1 hour (not count towards the challenge)
+* [x]Add Project 13 to the project page
+* [x]Write a post for Project 13
+* [x]Add Project 13 to [Rsnippets.com](http://rsnippets.com)
+* [ ]Do JavaScript part of [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
+	* Read on the forum how to solve the error.
+
+<hr>
+
+### Day 32: 2018-01-09 Tuesday 
+
+![](../img/Awesome-Lifehack-Calculators.png)
+
+**Link**: [Github Repo](https://github.com/huyingjie/awesome-lifehack-calculators) | [Project 14: Awesome Lifehack Calculators](http://lifehackcalculators.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Completed [Github Repo](https://github.com/huyingjie/awesome-lifehack-calculators) | [Project 14: Awesome Lifehack Calculators](http://lifehackcalculators.yingjiehu.com/)
+* Wrote [a post of a JavaScript project for beginners](http://rsnippets.com/front-end/build-a-lifehack-calculator/)
+
+**Thoughts and Emotions:**
+
+100 Days Of Codes only count the coding time. In fact, time is also needed to be spent on marketing, publishing to GitHub, writing good README.md files, adding subdomains and so on. 
+
+If the project I did is suitable for beginners, I will write a post. Writing requires time and energy. 
+
+This is the reason I feel the time is very limited and I did not work on FreeCodeCamp tutorials and projects.
+
+**Tomorrow's plan**
+
+* [ ]Study tutorial for 1 hour (not count towards the challenge)
+* [ ]Do JavaScript part of [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
+	* Read on the forum how to solve the error.
 
 <hr>
 
 **Future plan**
-

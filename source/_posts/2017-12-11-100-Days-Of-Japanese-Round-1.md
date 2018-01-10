@@ -54,8 +54,12 @@ Since August, I have been using Anki to recite Japanese words. Hence, the 100-da
 ```
 ### Day : 
 **No. of Anki Cards**:
+
 **Time spent**:
+
 **Thoughts and Emotions:**
+
+<hr>
 ```
 
 <hr>
@@ -180,3 +184,12 @@ Reviewing during commuting.
 I forced myself to review at least 100 cards.
 
 <hr>
+
+### Day 12: 2018-01-08 Monday 
+**No. of Anki Cards**: 216
+
+**Time spent**: 21 minutes
+
+**Thoughts and Emotions:**
+
+I missed 17 days in a row because my Japanese class was over and motivation disappeared. My friend and I decided to take private Japanese class. Yesterday I said the class could begin next week and my motivation is back 😂

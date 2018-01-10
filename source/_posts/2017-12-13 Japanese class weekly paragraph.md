@@ -87,3 +87,10 @@ anki里别人根据这本书制作的deck都是hiragana， 这让我觉得很sca
 **Chinese**
 
 最近开始做100Daysof web development Challenge, 每天在个人的blog上记录, 然后发到twitter上. 今天是第8天. 因为这个原因, 每天花在日语上的时间减少.
+
+## 2017/12/20 Describe a trip
+
+Seattleに　一人で　行きました。
+space needle と　観覧车[かんらんしゃ] と　水族館[すいぞくかん] と　博物館[はくぶつかん] に　訪れました。
+space needleに　Revolving restaurantが　ありました。
+誰かが　ピアノで　中国の歌を弾きました。

@@ -225,3 +225,47 @@ I resumed recording anti-depressant behavior activation for depression. Though t
         
 
 <hr>
+
+### Day 10: 2018-01-07 Sunday
+
+**Time, Events, Thoughts and Emotions:**
+
+* Morning
+	* I searched some stuff lying in bed.
+* Afternoon
+	* I did not use the method. 
+* Evening
+	* I pushed myself to do challenge.
+
+<hr>
+
+### Day 11: 2018-01-08 Monday
+
+**Time, Events, Thoughts and Emotions:**
+
+* Morning
+	* It happens.
+* Afternoon
+	* It does not happen.
+* Evening
+	* I planned to write codes for one hour. But I overdid it and spent 3 hours. I went to sleep after 3 a.m.. 
+
+		I should not continue to do it even if the projects gave me fulfillment at that time. 
+		
+		福祸相依. Blessings and misfortunes are next-door neighbors. 
+
+<hr>
+
+### Day 12: 2018-01-09 Tuesday
+
+**Time, Events, Thoughts and Emotions:**
+
+* Morning
+	* regret and stress
+* Afternoon
+	* I did the projects in my mind. But I still feel stressful.
+* Evening
+	* I pushed myself to be on track of doing challenges. Otherwise I will feel bad tomorrow.
+	* I spent several minutes on watching music. Even if I enjoyed the process, I regretted.
+
+<hr>
