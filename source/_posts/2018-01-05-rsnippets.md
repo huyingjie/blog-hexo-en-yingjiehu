@@ -22,7 +22,7 @@ The site is auto-deployed.
 
 ## Milestone
 
-1. The website is published to internet. ([2018-01-05 Friday](#2018-01-05-Friday))
+1. The website was published to internet. ([2018-01-05 Friday](#2018-01-05-Friday))
 2. First pull 
 3. Over 100 stars
 

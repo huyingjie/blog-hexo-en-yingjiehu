@@ -51,7 +51,7 @@ P.S.: The other solution: You can create two Gumroad accounts, one for free stuf
 
 ## Milestone
 
-1. The list is published to internet. ([2018-01-08 Monday](#2018-01-08-Monday))
+1. The website was published to internet. ([2018-01-08 Monday](#2018-01-08-Monday))
 
 ## Support open source projects
 

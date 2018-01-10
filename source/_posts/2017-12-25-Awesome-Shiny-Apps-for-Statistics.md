@@ -27,7 +27,7 @@ I worked more than 10 hours today. I am satisfied with the result. One thing nee
 
 ## Milestone
 
-* The list is published to internet. (2017-12-25 Monday)
+* The website was published to internet. (2017-12-25 Monday)
 * Receiving the first feedback that a teacher plans to use the list in his class ([2017/12/28 Thursday](#2017-12-28-Thursday))
 * Receiving the first feedback that a teacher is using/used the list in his 
 

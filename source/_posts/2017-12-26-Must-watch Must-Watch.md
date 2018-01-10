@@ -22,7 +22,7 @@ The site is auto-deployed. Changing README.md will change the site.
 
 ## Milestone
 
-* The list is published to internet. (2017-12-26 Tuesday)
+* The website was published to internet. (2017-12-26 Tuesday)
 * First pull
 
 ## Support open source projects

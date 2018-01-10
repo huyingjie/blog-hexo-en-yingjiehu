@@ -22,7 +22,7 @@ The site is auto-deployed. Changing README.md will change the site.
 
 ## Milestone
 
-1. The list is published to internet. ([2017-12-27 Wednesday](#2017-12-29-Friday))
+1. The website was published to internet. ([2017-12-27 Wednesday](#2017-12-29-Friday))
 2. First pull ([2017-12-31 Saturday](#2017-12-31-Saturday))
 3. The GitHub repo ranks the 3rd on the GitHub Trend ([2017-12-31 Sunday](#2017-12-31-Sunday))
 4. Over 1000 stars ([2018-01-02 Tuesday](#2018-01-02-Tuesday))
