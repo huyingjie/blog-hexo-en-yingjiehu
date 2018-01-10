@@ -7,24 +7,26 @@ tags:
 categories: 
 	- [Projects]
 permalink: rsnippets
-
 ---
 
-<!-- more -->
 ![](../img/rsnippets.png)
+<!-- more -->
+
 This project was done in the middle of [100 Days of Web Develpoment challenge](/100-Days-Of-Web-Development-Round-1/).
 
 [Github Repo](https://github.com/huyingjie/rsnippets) | [Project 12: RSnippets.com](http://rsnippets.com/)
+
+Link: [RSnippets.com](http://rsnippets.com/) 
 
 The site is auto-deployed. 
 
 ## Milestone
 
-* The list is published to internet. ([2018-01-05 Friday](#2018-01-05-Friday))
-* First pull 
-* Over 100 stars
+1. The website is published to internet. ([2018-01-05 Friday](#2018-01-05-Friday))
+2. First pull 
+3. Over 100 stars
 
-## Support the website
+## Support open source projects
 
 <a href="https://www.patreon.com/bePatron?u=8604867" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
