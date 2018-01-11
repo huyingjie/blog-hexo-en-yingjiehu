@@ -269,3 +269,21 @@ I resumed recording anti-depressant behavior activation for depression. Though t
 	* I spent several minutes on watching music. Even if I enjoyed the process, I regretted.
 
 <hr>
+
+### Day 13: 2018-01-10 Wednesday
+
+**Time, Events, Thoughts and Emotions:**
+
+* Morning
+	* Getting up
+
+		Thinking "if I do not get up, it will increase depression" does not help me get up but increase stress. If I think the most next action of getting up, it works.
+* Afternoon
+
+	* I did not use the technique but wrote the notes for the morning
+* Evening
+	* I planned to make a project related 100 days of challenge. I did not feel good about it. Every time I thought of it, the stress increased.
+
+		I finally decided to give up. This is an extremely good decision.
+
+<hr>

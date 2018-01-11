@@ -151,4 +151,18 @@ I am happy to resume the challenge.
 No plan. If I continue to do it tomorrow, it will be great.
 
 <hr>
+
+### Day 6: 2018-01-10 Wednesday
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Applied makeup around 3:30 p.m.
+
+**Thoughts and Emotions:**
+
+My lamp color is yellow. I cannot see the true effect from the mirrow if I makeup at night.
+
+The sky becomes darker around 3:30 p.m.. It motivated to makeup today.
+
+<hr>
 **Future plan**

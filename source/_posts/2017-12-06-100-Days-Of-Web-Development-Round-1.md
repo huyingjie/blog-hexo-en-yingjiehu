@@ -31,17 +31,21 @@ Start Date: 2017-12-06
 ## Rules
 
 1. I will code to make projects from [FreeCodeCamp](https://www.freecodecamp.org/) for at least an hour every day.
-2. I will [tweet my progress every day](https://twitter.com/yingjieYJH), with the hashtag `#100DaysOfCode #freecodecamp` and note which day of the challenge I’m on.
+2. I will [tweet my progress every day](https://twitter.com/yingjieYJH), with the hashtag `#100DaysOfCode #GoogleUdacityScholars #GrowWithGoogle #freecodecamp` and note which day of the challenge I’m on.
 3. I will track my progress here and push to GitHub.
 4. My daily job is not related to front-end development. All time spent on working on web development will count towards the challenge.
 5. I will only skip a day if something important comes up. And when I resume, I won’t count the day I skipped as one of my 100 days.
-5. I will encourage and support at least two people each day in the `#100DaysOfCode #freecodecamp ` challenge on Twitter. I can read at most 5 tweets about `#100DaysOfCode #freecodecamp` each day. Less is more. Don't spend more than enough time on the social networking website.
+5. I will encourage and support at least two people each day in the `#100DaysOfCode #GoogleUdacityScholars #GrowWithGoogle` and `#100DaysOfCode #freecodecamp` challenge on Twitter. I can read at most 5 tweets about `#100DaysOfCode #GoogleUdacityScholars #GrowWithGoogle #freecodecamp` each day. Less is more. Don't spend more than enough time on the social networking website.
 
 	3 Options
 	
 	* Like tweets
 	* Leave a comment
 	* (optional) Looking at their projects and giving them feedback (no more than 10 minutes per day)
+
+## Rule Updates
+
+* 2018-01-11: I got `Grow with Google Challenge Scholarship` today. Hence, I added `#GoogleUdacityScholars #GrowWithGoogle` to the hashtag list. 
 
 ## Some important additional considerations
 
@@ -1104,10 +1108,37 @@ This is the reason I feel the time is very limited and I did not work on FreeCod
 
 **Tomorrow's plan**
 
-* [ ]Study tutorial for 1 hour (not count towards the challenge)
+* [x]Study tutorial for 1 hour (not count towards the challenge)
 * [ ]Do JavaScript part of [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
 	* Read on the forum how to solve the error.
 
+<hr>
+
+### Day 33: 2018-01-10 Wednesday
+
+**Link**: [Github Repo](https://github.com/huyingjie/wikipediaViewer) | [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* read tutorials
+	* [Using JavaScript and forms](https://www.javaworld.com/article/2077176/scripting-jvm-languages/using-javascript-and-forms.html)
+	* [Bring Your Forms Up to Date With CSS3 and HTML5 Validation](https://webdesign.tutsplus.com/tutorials/bring-your-forms-up-to-date-with-css3-and-html5-validation--webdesign-4738)
+
+**Thoughts and Emotions:**
+
+Because I did a project about forms the day before yesterday, I am more confident to do Project 5. 
+
+Today I adjusted the content and style and am strugling the url of Wikipedia's API. I found one opensearch API but the search result from the API is not the same as that when searching on the Wikpedia page. 
+
+**Tomorrow's plan**
+
+* [ ]Study tutorial for 1 hour (not count towards the challenge)
+	* [Understanding Flexbox: Everything you need to know](https://medium.freecodecamp.org/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af)
+	* <http://flexboxfroggy.com/>
+	* <http://cssgridgarden.com/>
+* [ ]Do JavaScript part of [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
+	* [ ]Look for API
+	* [ ]Read on the forum how to solve the error.
 <hr>
 
 **Future plan**

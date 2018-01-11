@@ -136,10 +136,32 @@ I did not like the output today. My roommate liked it, then I thought it was nic
 
 **Tomorrow's plan**
 
-* [ ]Analogous Color Scheme
+* [x]Analogous Color Scheme
 
 <hr>
 
+
+### Day 5: 2018-01-10 Wednesday
+
+![](2018-01-10-analogous-blue-purple-pink.png)
+
+![](2018-01-10-analogous-blue-purple-pink-coloring.png)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Analogous Color Scheme
+	* 2 purple
+	* 2 pink
+	* 1 blue
+**Thoughts and Emotions:**
+
+I took on too many challenges and had no time to conitnue the challenge every day.
+
+Colored pencils do not have the blue color shown in the palletes.
+
+**Tomorrow's plan**
+
+<hr>
 
 **Future plan**
 
