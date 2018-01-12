@@ -38,7 +38,7 @@ This is a very personal project. Making up is a required skill for women. I thou
 ## Milestones
 
 1. 1 Day ([Day 1: 2017-12-31 Sunday](#Day-1-2017-12-31-Sunday))
-2. 7 Days
+2. 7 Days ([Day 7: 2018-01-11 Thursday](#Day-7-2018-01-11-Thursday))
 3. 30 Days
 4. 60 Days
 5. 90 Days
@@ -163,6 +163,18 @@ No plan. If I continue to do it tomorrow, it will be great.
 My lamp color is yellow. I cannot see the true effect from the mirrow if I makeup at night.
 
 The sky becomes darker around 3:30 p.m.. It motivated to makeup today.
+
+<hr>
+
+### Day 7: 2018-01-11 Thursday
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Applied makeup around 3 p.m.
+
+**Thoughts and Emotions:**
+
+After reading tutorials on Udacity (Grow with Google Challenge scholarship), I used makeup as a rest. Then I will do excercise on Udacity.
 
 <hr>
 **Future plan**

@@ -12,6 +12,8 @@ tags:
 	- JavaScript
 	- Data Visualization
 	- 3D.js
+	- freecodecamp
+	- udacity
 categories: 
 	- 100 Days Challenge
 	- Web Development
@@ -1139,6 +1141,73 @@ Today I adjusted the content and style and am strugling the url of Wikipedia's A
 * [ ]Do JavaScript part of [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
 	* [ ]Look for API
 	* [ ]Read on the forum how to solve the error.
+
 <hr>
 
+### Day 34: 2018-01-11 Thursday 
+
+<del>**Link**: Github Repo| Project</del>
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Udacity: Grow with Google Challenge Scholarship: Front-End Web Dev
+	* Tutorial (1 hour)
+
+		* HTML Syntax
+		* HTML Syntax Problem Set
+		* part of "CSS Syntax"
+
+	* Project (1 hour): 
+		* Project: Mockup to Article
+
+**Thoughts and Emotions:**
+
+The excitement to receive Grow with Google Challenge Scholarship disappears!
+
+There is a big difference between Udacity and FreeCodeCamp: projects.
+
+Projects on FreeCodeCamp requires students to finish complete websites. In the future, you can show your websites to other people. Here are the first two FreeCodeCamp projects made by me: 
+
+* [Github Repo](https://github.com/huyingjie/tribute-zhugeliang) | [Project 1: Tribue](http://zhugeliang.yingjiehu.com/)
+* [Github Repo](https://github.com/huyingjie/projects-page) | [Project 2: Personal Portfolio](http://projects.yingjiehu.com/)
+
+Each project took several hours to finish. It was hard but doable. (This is the essence of learning.)
+
+In the process of doing projects, I learned how to read official documents of Bootstrap and jQuery without effort. FreeCodeCamp did not teach this. I think almost all students will learn it naturally when working on FreeCodeCamp projects.
+
+The first two projects on Udacity
+
+1. Project: Mockup to Article
+2. Project: Animal Trading Cards (20 minutes)
+
+From the title and time suggested, you can see that the projects are a duplicate of other people's work. Hence, you definitely cannot show them to your friends, coworkers, or future employers.
+
+Udacity's projects are a mix of tutorials and exercise. It will teach students what students will use in the "projects" first, and then ask students to reproduce the example. Do you know that every tutorial on FreeCodeCamp is a mix of tutorials and exercise? But FreeCodeCamp does not treat them as a project. They are just tutorials.
+
+With the same amount time spent, you will learn more from FreeCodeCamp than from Udacity.
+
+This is the reason I used the strikethrough: <del>**Link**: Github Repo| Project</del>. No more project will be produced during the study on Udacity.
+
+**I feel guilty of counting the Udacity project into the challenge.**
+
+Usually, I study tutorials for an hour and code for an hour every day. 
+
+Solution: 
+
+* Count anything on Udacity into the tutorial part.
+* Continue to do FreeCodeCamp projects.
+
+**Tomorrow's plan**
+
+* [ ]Study tutorials on Udacity for 1 hour (not count towards the challenge)
+* [ ]Do JavaScript part of [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
+	* [ ]Look for API
+	* [ ]Read on the forum how to solve the error.
+
+<hr>
 **Future plan**
+
+* Read tutorials
+	* [Understanding Flexbox: Everything you need to know](https://medium.freecodecamp.org/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af)
+	* <http://flexboxfroggy.com/>
+	* <http://cssgridgarden.com/>

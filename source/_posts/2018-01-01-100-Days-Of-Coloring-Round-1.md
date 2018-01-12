@@ -161,6 +161,29 @@ Colored pencils do not have the blue color shown in the palletes.
 
 **Tomorrow's plan**
 
+* [x]Analogous Color Scheme
+
+<hr>
+
+### Day 6: 2018-01-11 Thursday
+
+![](2018-01-11-analogous-blue-green.png)
+![](2018-01-11-analogous-blue-green-coloring.png)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Analogous Color SCheme
+	* 2 blue
+	* 3 green
+
+**Thoughts and Emotions:**
+
+A color Scheme made me feel Calm.
+
+**Tomorrow's plan**
+
+* [ ] Analogous Color Scheme + white
+
 <hr>
 
 **Future plan**

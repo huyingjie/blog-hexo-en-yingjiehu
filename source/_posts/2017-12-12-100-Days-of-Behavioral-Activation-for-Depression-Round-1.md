@@ -287,3 +287,24 @@ I resumed recording anti-depressant behavior activation for depression. Though t
 		I finally decided to give up. This is an extremely good decision.
 
 <hr>
+
+### Day 14: 2018-01-11 Thursday
+
+**Time, Events, Thoughts and Emotions:**
+
+* Morning
+	* Yeserday I was too excited to get Grow with Google Challenge scholarship. I slept more than usual.
+* Afternoon
+	* My roommate helps me made the decision.
+
+		I do not like to be judged based on how active I am in the forum. But it is the onlhy way to get Google round 2 scholarship.
+		
+		If I push myself to reply at least 5 posts everyday, it will increase my stress and depression level every day. 
+		
+		It is hard to give up, but I did it.
+		
+* Evening
+
+	* Record
+
+<hr>
