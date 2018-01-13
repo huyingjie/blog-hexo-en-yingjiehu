@@ -308,3 +308,24 @@ I resumed recording anti-depressant behavior activation for depression. Though t
 	* Record
 
 <hr>
+
+### Day 15: 2018-01-12 Friday
+
+**Time, Events, Thoughts and Emotions:**
+
+* Morning
+	* get up
+* Afternoon
+	* Made decision I worked on Udacity tutorial for only one hour. 
+
+		I use willpower to convince myself that I should not compare with other students. Some students start to do the 11th section, almost end of the Udacity course. Their fast progress give me a lot of pressure.
+		
+		I won't be happy if I spend the whole day to learn one tutorial.
+		
+	* makeup
+
+		I did not want to do makeup. I used the method to push me to do it.
+		
+* Evening
+	* I overdid programming for R package. I planned one hour. It's over two hours.  The method stopped me.
+<hr>

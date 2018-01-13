@@ -193,3 +193,17 @@ I forced myself to review at least 100 cards.
 **Thoughts and Emotions:**
 
 I missed 17 days in a row because my Japanese class was over and motivation disappeared. My friend and I decided to take private Japanese class. Yesterday I said the class could begin next week and my motivation is back 😂
+
+### Day 13: 2018-01-13 Friday
+
+**No. of Anki Cards**: 268
+
+**Time spent**: 27 minutes
+
+**Thoughts and Emotions:**
+
+I have too many challenges to do every day.
+
+<hr>
+
+

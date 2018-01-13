@@ -177,4 +177,16 @@ The sky becomes darker around 3:30 p.m.. It motivated to makeup today.
 After reading tutorials on Udacity (Grow with Google Challenge scholarship), I used makeup as a rest. Then I will do excercise on Udacity.
 
 <hr>
+
+### Day 8: 2018-01-12 Friday
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Applied makeup around 3 p.m.
+
+**Thoughts and Emotions:**
+
+I did not want to do makeup. I used the CBT method to push me to do it.
+
+<hr>
 **Future plan**

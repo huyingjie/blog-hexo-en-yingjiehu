@@ -42,9 +42,9 @@ A companion project to [100 Days of Reading Paper](100-Days-Of-Reading-Paper-Rou
 
 I had read some R books in the past. At that time, I input the knowledge into [Anki](https://apps.ankiweb.net/) and hoped that I could remember it in the future. 
 
-My goal of reading books changes. I made some big tables of programming languages and input the R syntax into the table. There are some other programming languages in it, such as Python and JavaScript. 
+My goal of reading books changes. I made some big tables of programming languages and input the R syntax into the tables. There are some other programming languages in it, such as Python and JavaScript. 
 
-I will not memorize any R syntax anymore. Every time I want to use something, the table is the first place to check. Besides, it is convenient to compare different languages.
+I will not memorize any R syntax anymore. Every time I want to use something, the tables are the first place to check. Besides, it is convenient to compare different languages.
 
 It is tough to memorize syntax if multiple programming languages are used in the same period.
 
@@ -69,7 +69,8 @@ If you can memorize details of all programming languages you have learned, you a
 
 ## Books
 
-1. [An R Companion to Applied Regression 2nd Edition](http://links.yingjiehu.com/R-Companion-Applied-Regression-2nd-ed)
+1. [An R Companion to Applied Regression 2nd Edition](http://amzn.to/2DmDISd)
+2. [Using R and RStudio for Data Management, Statistical Analysis, and Graphics (second edition)](http://amzn.to/2CRckuJ)
 
 ## Milestone
 
@@ -159,7 +160,47 @@ R converts a vector of a mix of string and integer into a vector of string autom
 ```
 
 **Tomorrow's plan**
-
+																		
 * [ ]Read Chapter 1
+
+<hr>
+
+### Day 3: 2018-01-11 Thursday 
+
+**Book**: [Using R and RStudio for Data Management, Statistical Analysis, and Graphics (second edition)](http://amzn.to/2CRckuJ)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Chapter 1: page 1-6
+
+**Thoughts and Emotions**
+
+The book is like a dictionary but is worse than a dictionary. 
+
+It is not suitable for beginners. I am not a beginner and can try it. 
+
+I spent most of taking notes: input the functions into my large programming language sheet.
+
+**Tomorrow's plan**
+
+* [x]Chapter 1
+
+<hr>
+
+### Day 4: 2018-01-12 Friday
+
+**Book**: [Using R and RStudio for Data Management, Statistical Analysis, and Graphics (second edition)](http://amzn.to/2CRckuJ)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Page 7-14
+
+**Thoughts and Emotions**
+
+Most of time I did copy and paste from the book to my big sheet.
+
+**Tomorrow's plan**
+
+* [ ]Chapter 2
 
 <hr>

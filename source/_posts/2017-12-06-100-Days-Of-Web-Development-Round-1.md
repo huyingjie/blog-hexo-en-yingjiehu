@@ -1199,12 +1199,46 @@ Solution:
 
 **Tomorrow's plan**
 
-* [ ]Study tutorials on Udacity for 1 hour (not count towards the challenge)
+* [x]Study tutorials on Udacity for 1 hour (not count towards the challenge)
 * [ ]Do JavaScript part of [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
-	* [ ]Look for API
-	* [ ]Read on the forum how to solve the error.
+	* [x]Look for API
+	* [x]Read on the forum how to solve the error.
 
 <hr>
+
+### Day 35: 2018-01-12 Friday 
+
+**Link**: [Github Repo](https://github.com/huyingjie/wikipediaViewer) | [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Udacity
+	* the rest of "CSS Syntax"
+	* part of "CSS Syntax Problem set"
+
+* Project 5
+
+	* [x]Look for API
+	* [x]Read on the forum how to solve the error.
+
+**Thoughts and Emotions:**
+
+Big progression on Wikipedia Viewer! 
+
+This was the second time that I felt I can not know how to code. I would not implement it forever. 
+
+Persisting on working for one hour a day controls the level of stress. If I work more than 3 hours on one project and do not make progress, I won't be happy to do it again.
+
+**Tomorrow's plan**
+
+* [ ]Study tutorials on Udacity for 1 hour (not count towards the challenge)
+* [ ]Do JavaScript part of [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
+	* [ ]Add square border outside search result
+	* [ ]Add border effect
+	* [ ]Add JS for search text
+
+<hr>
+
 **Future plan**
 
 * Read tutorials

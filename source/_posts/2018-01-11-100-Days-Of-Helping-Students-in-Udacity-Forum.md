@@ -8,7 +8,7 @@ tags:
 	- google
 	- udacity
 categories: 
-	- 100 Days Challenge
+	- [100 Days Challenge, Dumped]
 	- Web Development
 permalink: 100-Days-Of-Helping-Students-in-Udacity-Forum
 ---

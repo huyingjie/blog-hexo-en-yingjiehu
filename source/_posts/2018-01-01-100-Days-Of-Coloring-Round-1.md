@@ -36,7 +36,7 @@ I bought a [color me weekly desk pad](http://links.yingjiehu.com/ColorMeWeeklyDe
 ## Milestones
 
 1. 1 Day 1 ([2018-01-01 Monday](#Day-1-2018-01-01-Monday))
-2. 7 Days
+2. 7 Days ([2018-01-12 Friday](#Day-7-2018-01-12-Friday))
 3. 30 Days
 4. 52 Days
 
@@ -183,6 +183,28 @@ A color Scheme made me feel Calm.
 **Tomorrow's plan**
 
 * [ ] Analogous Color Scheme + white
+
+<hr>
+
+### Day 7: 2018-01-12 Friday
+
+![](2018-01-12-monochromatic-red.png)
+
+![](2018-01-12-monochromatic-red-coloring.png)
+**Today's Progress (achievements and frustrations)**: 
+
+* Monocharomatic
+	* 5 red
+
+**Thoughts and Emotions:**
+
+The 2nd [milestone](#Milestones) achieved: 7 days.
+
+White is needed to balance.
+
+**Tomorrow's plan**
+
+* [ ]Add white
 
 <hr>
 
