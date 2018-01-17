@@ -328,4 +328,59 @@ I resumed recording anti-depressant behavior activation for depression. Though t
 		
 * Evening
 	* I overdid programming for R package. I planned one hour. It's over two hours.  The method stopped me.
+
+<hr>
+
+### Day 16: 2018-01-13 Saturday
+
+**Time, Events, Thoughts and Emotions:**
+
+* Morning
+    * I did not wake up until 11 a.m.. There is no morning
+* Afternoon
+    * Even though I knew that grocery shopping would disrupt the rhythm of my life, I had to do it because soical interaction took time.
+* Evening
+    * I started 100-day challenge around 10 p.m.. I forgave myself for being late and just began to do it.
+
+<hr>
+
+### Day 17: 2018-01-14 Sunday
+
+**Time, Events, Thoughts and Emotions:**
+
+* Morning
+	* nothing
+* Afternoon
+	* I did not need this technique to start working on 100-day challenge. But thanks for it to help me at the beginning.
+* Evening
+	* I regretted watching Zhihu and musci MV, and ate chocolates.
+
+<hr>
+
+### Day 18: 2018-01-15 Monday
+
+**Time, Events, Thoughts and Emotions:**
+
+* Morning
+	* nothing
+* Afternoon
+	* Just do it.
+* Evening
+	* Crashed because of pressure.
+
+	I do not feel happy even if I finished the course provided by Grow with Google Challenge Scholarship.
+<hr>
+
+### Day 19: 2018-01-16 Tuesday
+
+**Time, Events, Thoughts and Emotions:**
+
+* Morning
+	* Did data analysis until 4 a.m.
+* Afternoon
+	* If there is no timer to work for one hour per subject. Recalling the past made me feel I was wasting time at that time.
+* Evening
+
+	* I noticed my doing things slow because I am absorbed in my mind. I did not use the technique but started doing one of the challenges. I wanted me to do more because I will decrease the pressure when I recall today's life.
+
 <hr>

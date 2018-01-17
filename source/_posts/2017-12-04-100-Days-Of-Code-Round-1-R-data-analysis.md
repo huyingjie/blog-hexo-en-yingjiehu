@@ -59,66 +59,6 @@ A companion project to [100 Days of Reading Paper](100-Days-Of-Reading-Paper-Rou
 
 * Don't skip two days in a row, and try not to skip more than 1 day in 2 weeks.
 
-## Reference
-[How to effectively scope your software projects from planning to execution](https://medium.freecodecamp.org/how-to-effectively-scope-your-software-projects-from-planning-to-execution-e96cbcac54b9)
-
-### The planning phase
-
-* Define very specific goals for the project
-
-	example: improve X by adding unit tests, supporting 20K queries per second, and reducing capped mean of user latency to <= 200ms
-	
-* Explicitly define anti-goals, and separating must-haves and nice-to-haves.
-* Minimize the batch size of the project by
-
-	1. set up clear milestones and checkpoints for the project
-	1. make it easy to launch only part of the project. 
-
-		Not only does this help break down the project, but it will also allow the team to pause or cut the project early if another, higher priority task comes up.
-		
-* De-risk the project as soon as possible. 
-
-	Two common ways of de-risking a project include
-	
-	1. working on the riskiest parts upfront
-	1. prototyping the riskiest parts using dummy data and/or scaffolding. 
-
-	Whenever a new open-source system or external service is used, that usually represents a big risk.
-* Don’t optimize for the total amount of work done. Instead, optimize for the total amount of impact over time. Once you’ve gotten the riskiest part out of the way, prioritize working on the part of the project that would result in the highest amount of impact immediately.
-	
-	Here’s one way to think about this: plot the impact of a project over time, where the Y-axis is impact, and the X axis is time. At the start of the project, the impact is 0%, and at the end of the project, the impact is 100%. You want to maximize the area under the curve by doing high ROI tasks first.
-
-* Try to avoid rewriting big systems from scratch as much as possible. When doing a rewrite, we tend to 
-
-	1. underestimate how much work it would be
-	1. be tempted to add new features and improvements
-	1. build an overly complicated system because we are too focused on all the shortcomings of the first system.
-
-	Instead of doing a big rewrite, consider incrementally replacing subsystems. Have good abstraction layers that support swapping out one part of the old system at a time, so you don’t need to wait for everything to be done to test the new system.
-	
-### The scoping phase
-
-1. Divide the project into small tasks, **each taking two days or less**. 
-1. Define measurable milestones to get to the project goal. Schedule each with a specific calendar date representing when you expect this milestone to be reached. Then, establish some sort of external accountability on these milestones by, for example, committing them to your manager and setting up milestone check-ins.
-1. Think of project time estimates as probability distributions, not best-case scenarios. Instead of telling someone that a feature will be finished in 6 weeks, tell them something like “there’s a 50% likelihood of finishing the feature in 4 weeks, and a 90% chance we’d finish it in 8 weeks.” This tends to force people to be more realistic.
-1. Add buffer to account for: (1) Dev time != calendar time, due to meetings, interviews, and holidays. I usually multiply the dev time by 1.5 to get to the calendar time. (2) Unexpected project tasks time, since there are always tasks that you didn’t realize you need to do until much later. These tasks could include refactoring old code, debugging strange behaviors, or adding tests. The more experienced you are at scoping, the smaller this multiplier will get.
-1. Resist the temptation to under-scope. Be honest about how long tasks will take, not how long you or someone else (such as your manager or the Go To Market team) wants them to take.
-1. Use historical data. Keep track of whether you’ve tended to over scope or under scope projects in the past (most people tend to under scope). Adjust your scoping accordingly.
-1. Consider timeboxing open-ended parts of the project. Instead of “find the best stream processing framework for this system,” which can take months of research and prototyping, timebox it to “find a suitable streaming processing framework in a week.” Use your judgment here to balance this against incurring long-term operational overhead.
-
-### The execution phase
-* Re-scope regularly during the project execution. 
-
-	For each task, track how much time you estimated the task would take, then how long it actually took you to complete it. 
-	
-	Do this for every measurable milestone. 
-	
-	If your scoping is off by 50% for the first parts of the project, odds are your scoping will also be off by 50% for the rest of the project.
-
-* Use milestones to answer “how’s the project going?” 
-
-	As engineers, it’s tempting to answer “it’ll be done by next week” or “until end of this month.” But these types of vague answers tend to create projects that are always 2 weeks away from being finished. Instead, use the (re-scoped) milestones to give a concrete answer based on how much work is left.
-
 ## Template for Log
 ```
 ### Day : 
@@ -323,6 +263,98 @@ I feel bad that they were supposed to take less time.
 * [ ]Make descriptive data of variables left in the cleaned data
 * [ ]Write report
 * [ ]Run simple logistic analysis of batch effect and `Reasons`
+
+<hr>
+
+### Day 5: 2018-01-15 Monday 
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Data analysis for over 3 hours.
+
+**Thoughts and Emotions**
+
+The most accomplished thing is to find how to reduce variables required to be created or reduce the number of global variables.
+
+When fitting each model, I have to create intermediate variables, such as a variable `fit` to keep the information of fitted models. Every time, I have to think hard to give each variable a different name, or make sure I run all code if the same variable names are reused.
+
+The intermediate variables are all global variables. It is the user's responsibility to delete unused variables. 
+
+It is worse that variables like `i` or `j` created at the beginning of the loop are not temporary variables! 
+
+Now I found a solution: use `with` function.
+
+Let me use `iris` dataset as an example. By the way, `iris` is a global variable name for the dataset. Very bad practice.
+
+```r
+> head(iris)
+  Sepal.Length Sepal.Width Petal.Length Petal.Width Species
+1          5.1         3.5          1.4         0.2  setosa
+2          4.9         3.0          1.4         0.2  setosa
+3          4.7         3.2          1.3         0.2  setosa
+4          4.6         3.1          1.5         0.2  setosa
+5          5.0         3.6          1.4         0.2  setosa
+6          5.4         3.9          1.7         0.4  setosa
+```
+For example, I want to fit two logistic models. They include different independent variables. Model 1 uses `length` and `width` while Model 2 uses `width` only. 
+
+```r
+# Model 1
+fit <- glm(Species ~ Sepal.Length + Sepal.Width, 
+	family=binomial(link='logit'), 
+	data = iris,
+	control = list(maxit = 50))
+summary(fit)
+
+# Model 2
+fit <- glm(Species ~  Sepal.Width, 
+	family=binomial(link='logit'), 
+	data = iris, 
+	control = list(maxit = 50))
+summary(fit)
+```
+
+Two models used the same variable to `fit` to save the information from `glm`. `fit` is a global variable. In fact, `fit` is an intermediate variable and is not useful at the end of data analysis. This is also the reason to reuse it in a different model. It is a poor coding style. I have several choices.
+
+1. Use a different name for `fit` for different models. 
+
+    Usually, I will fit a lot of models during data analysis. Keeping track of the model fit requires patience.
+    
+2. Set `fit` as a local variable in a function
+    
+    Write a function for each model? The same problem exists as above: keeping track of the function requires patience.
+    
+3. Set `fit` as a local variable within `with` function.
+
+    My choice.
+    
+Let me rewrite the code.
+
+```r
+with(iris, {
+  fit <- glm(Species ~ Sepal.Length + Sepal.Width, 
+  	family=binomial(link='logit'), 
+  	data = iris, 
+  	control = list(maxit = 50))
+  print(summary(fit))
+}
+)
+
+with(iris, {
+  fit <- glm(Species ~  Sepal.Width, 
+  	family=binomial(link='logit'), 
+  	data = iris, 
+  	control = list(maxit = 50))
+  print(summary(fit))
+})
+```	
+
+The `fit` variable in each `with` function will not affect each other. It will disappear when `with` ends. Excellent!
+
+**Tomorrow's plan**
+
+* [ ]Meeting
+* [ ]Refine
 
 <hr>
 

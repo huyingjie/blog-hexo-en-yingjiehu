@@ -76,4 +76,23 @@ I feel lucky that FreeCodeCamp helped me learn HTML, CSS, and Javascript. It is 
 
 * [ ]Write documentation for the toy package
 
+### Day 2: 2018-01-14 Sunday 
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Decide the name of the new package
+* Read others' packages
+
+**Thoughts and Emotions**
+
+I worked one hour for the project today since I thought my rule was one hour instead of 30 minutes.
+
+It is hard to understand other people's code because there are so many functions I do not know. It is like reading an English article (My native language is Chinese) full of words I don't know.
+
+It is discouraging.
+
+<hr>
+
 **Future's plan**
+
+

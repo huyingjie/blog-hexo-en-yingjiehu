@@ -1231,17 +1231,137 @@ Persisting on working for one hour a day controls the level of stress. If I work
 
 **Tomorrow's plan**
 
+* [x]Study tutorials on Udacity for 1 hour (not count towards the challenge)
+* [ ]Do JavaScript part of [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
+	* [x]Add square border outside search result
+	* [x]Add border effect
+	* [ ]Add JS for search text
+
+<hr>
+
+### Day 36: 2018-01-14 Saturday
+
+**Link**: [CodePen: animal trading cards](https://codepen.io/yingjiehu/pen/opZRaq) 
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Udacity tutorial
+	* "CSS Syntax Problem set"
+	* How to write code faster
+* Projects
+	* [CodePen: animal trading cards](https://codepen.io/yingjiehu/pen/opZRaq) 
+	* [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
+
+**Thoughts and Emotions:**
+
+[Animal trading cards](https://codepen.io/yingjiehu/pen/opZRaq) is the first Udacity project to be counted towards the challenge. It looks like a toy. Its quality is not as good as FreeCodeCamp's projects. I will not include it in my [portfolio page](http://projects.yingjiehu.com).
+
+So far, the fastest progress is the questions from Lesson 12 in the forum. I am studying Lesson 11. I feel relieved. 
+
+**Tomorrow's plan**
+
+* [x]Study tutorials on Udacity for 1 hour (not count towards the challenge)
+* [ ]Do JavaScript part of [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
+	* [ ]Add JS for search text
+
+
+<hr>
+
+### Day 37: 2018-01-14 Sunday 
+
+**Link**: [Github Repo](https://github.com/huyingjie/wikipediaViewer) | [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Udacity Tutorial
+	* What is JavaScript?
+	* Data Types & Variables
+	* Part of "Conditionals"
+
+**Thoughts and Emotions:**
+
+I made a JavaScript form project before: [Github Repo](https://github.com/huyingjie/gumroad-plan-calculator) | [Project 13: Gumroad Plan Calculator](http://gumroadplancalculator.yingjiehu.com/). I thought I understood how to transfer data from the form to JavaScript code. 
+
+It is wrong.
+
+jQuery used different syntax. I do not know how data is transferred between JavaScript style and `$(document).ready()`. I used search terms naively to search on Google and did not find good tutorials.
+
+FreeCodeCamp tutorials do not teach how to submit the form. It is disappointing.
+
+**Tomorrow's plan**
+
 * [ ]Study tutorials on Udacity for 1 hour (not count towards the challenge)
 * [ ]Do JavaScript part of [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
-	* [ ]Add square border outside search result
-	* [ ]Add border effect
+	* [ ]Ask help on the gitter
 	* [ ]Add JS for search text
+
+<hr>
+
+### Day 38: 2018-01-15 Monday 
+
+**Link**: [pixel art maker](https://codepen.io/yingjiehu/pen/KZxgMm)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Finished "Grow with Google Scholarship: Front-End Web Dev"
+
+**Thoughts and Emotions:**
+
+I am procrastinating other stuff and insisted on doing "Grow with Google Scholarship: Front-End Web Dev" the whole day. Then I finished it. 
+
+Finishing the Udacity course does not give me a feeling of fulfillment.
+
+**Tomorrow's plan**
+
+Rest. I will have a rest for a day.
+<hr>
+
+### Day 39: 2018-01-16 Tuesday 
+
+**Link**: [Github Repo](https://github.com/huyingjie/wikipediaViewer) | [Project 5: A Wikipedia Viewer](http://wikipediaviewer.yingjiehu.com)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Finished Project 5!!!
+
+**Thoughts and Emotions:**
+
+I planned to have a day off today. Just now I finished today's challenge 🤣
+
+The Wikipedia View took me so much time that I lost confidence to finish it. I had difficult in the event of the form. FreeCodeCamp doesn't provide the related tutorial, and reading a whole jQuery book is daunting. Udacity provided the content luckily. It was in the second half of the course. I was so impatient that I overworked yesterday to learn it.
+
+Udacity tutorial and persistence on working one hour per day help me finish another challenging project.
+
+What is difficult:
+
+1. Using Bootstrap will make my own css style unpredictable and hard to debug.
+2. Adding a verticle line before a block when it is hovered.
+
+	Blocks not hovered have transparent left borders.
+
+	```css
+	.search-block{
+  		border-left: 10px solid transparent;
+}
+
+	.search-block:hover {
+	  border-left: 10px solid rgb(212, 99, 44);
+	}
+	```
+3. Wikipedia API
+4. Adding `event.preventDefault();` within `$("#form").submit(function(){});`
+5. Fontawesome icon and the text do not in the same line when the window size becomes small. 
+
+**Tomorrow's plan**
+
+* [ ] Have a rest. 
 
 <hr>
 
 **Future plan**
 
 * Read tutorials
+	* [Learn CSS Flexbox in 5 Minutes](https://medium.freecodecamp.org/learn-css-flexbox-in-5-minutes-b941f0affc34)
 	* [Understanding Flexbox: Everything you need to know](https://medium.freecodecamp.org/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af)
 	* <http://flexboxfroggy.com/>
 	* <http://cssgridgarden.com/>

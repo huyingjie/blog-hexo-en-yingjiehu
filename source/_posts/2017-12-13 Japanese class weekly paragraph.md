@@ -82,15 +82,34 @@ anki里别人根据这本书制作的deck都是hiragana， 这让我觉得很sca
 
 **Japanese**
 
-私は 最近 100日のWeb開発 チャレンジを はじめました。毎日<font color="red">は(no particles after everyday, today, tomorrow)</font>  <font color="red">個人(if it's your own, it's 自分</font>のブログに ログを書いて ツイッターへ 投稿し<font color="red">い(remove)</font>ています。今日は 八日です。たくさん 時間を使[つか]っているから、日本語の勉強が 減少し<font color="red">(てい）</font>ます。
+私は 最近 100日のWeb開発 チャレンジを はじめました。毎日<font color="red">は(no particles after everyday, today, tomorrow)</font>  <font color="red">個人(if it's your own, it's 自分）</font>のブログに ログを書いて ツイッターへ 投稿し<font color="red">い(remove)</font>ています。今日は 八日です。たくさん 時間を使[つか]っているから、日本語の勉強が 減少し<font color="red">(てい）</font>ます。
 
 **Chinese**
 
 最近开始做100Daysof web development Challenge, 每天在个人的blog上记录, 然后发到twitter上. 今天是第8天. 因为这个原因, 每天花在日语上的时间减少.
 
-## 2017/12/20 Describe a trip
+## 2017/12/20 Wednesday Describe a trip
 
 Seattleに　一人で　行きました。
 space needle と　観覧车[かんらんしゃ] と　水族館[すいぞくかん] と　博物館[はくぶつかん] に　訪れました。
 space needleに　Revolving restaurantが　ありました。
 誰かが　ピアノで　中国の歌を弾きました。
+
+## 2018/01/16 Wednesday What did you do during the holiday?
+
+**Japanese:**
+
+去年<font color="red">の</font>１１月<font color="red">に</font><del>は</del>　Grow with Google Challenge Scholarshipに　$\stackrel{\text{おうぼ}}{応募}$⓪ しました。
+
+$\stackrel{\text{ことし}}{今年}$
+
+今月の十日に　Udacityが　私に　メールで　acceptanceを $\stackrel{\text{あた}}{与}$えました。　
+
+もらう
+
+$\stackrel{\text{そくじつ}}{即日}$⓪ 勉強を　初めて、昨日　$\stackrel{\text{すべ}}{全}$て① $\stackrel{\text{しあ}}{仕上}$げ⓪<font color="red"><del>し</del></font>ました。
+
+**Chinese:**
+
+我申请了Grow with Google Challenge Scholarship. 1月10日 收到了邮件通知我被录取了. 超过100,000申请, 15000被录取. 当天开始学习课程, 昨天全部学完.
+2017年12月6日开始100 days of web development challenge, 昨天是第38天.

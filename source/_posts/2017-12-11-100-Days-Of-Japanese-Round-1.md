@@ -7,6 +7,7 @@ tags:
 	- Japanese
 categories: 
 	- [100 Days Challenge, Japanese]
+	- Japanese
 permalink: 100-Days-Of-Japanese-Round-1
 ---
 Main Commitment: I will recite Japanese words with Anki to increase Japanese vocabulary.

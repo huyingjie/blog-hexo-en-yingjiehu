@@ -99,7 +99,7 @@ If you can memorize details of all programming languages you have learned, you a
 
 **Today's Progress (achievements and frustrations)**: 
 
-* Finished Chapter 1
+* Finished Chapter 1 + exercise
 
 **Thoughts and Emotions**
 
@@ -108,6 +108,42 @@ It is more pleasant to read Python books than R books. Because Python books foll
 
 **Tomorrow's plan**
 
-* [ ]Read Chapter 2
+* [x]Read Chapter 2
+
+<hr>
+
+### Day 2: 2018-01-14 Sunday
+
+**Book**: [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](http://amzn.to/2Dqti41)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Finished Chapter 2 + exercise
+
+**Thoughts and Emotions**
+
+I used 30 minutes to scan Chapter 2. 
+
+**Tomorrow's plan**
+
+* [x]Read Chapter 3
+
+<hr>
+
+### Day 3: 2018-01-16 Tuesday
+
+**Book**: [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](http://amzn.to/2Dqti41)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Finished Chapter 3 + exercise
+
+**Thoughts and Emotions**
+
+Reading can be finished within 30 minutes. There are more needed for exercise.
+
+**Tomorrow's plan**
+
+* [ ]Read Chapter 4
 
 <hr>
