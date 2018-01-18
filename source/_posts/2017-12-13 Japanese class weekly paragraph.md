@@ -2,11 +2,11 @@
 layout: post
 title: Japanese Class Weekly Paragraph
 date: 2017-12-13
-tags: 
+tags:
 	- Japanese
 	- Writing
 	- Speaking
-categories: 
+categories:
 	- [Japanese]
 permalink: Japanese-Class-Weekly-Paragraph
 ---
@@ -17,6 +17,7 @@ The paragraphs here were what I prepared for each class. It can be a good record
 
 
 ## Template for Log
+
 ```
 ##
 **Japanese:**
@@ -56,7 +57,7 @@ clinique の　商品[しょうひん]　は２５％を引[ひ]いました。�
 **Chinese:**
 
 在thanksgiving买了一些东西.
-买了一个域名. 
+买了一个域名.
 clinique打75折满65送full size的一个产品. 下了2单. 收到两封邮件, 一单已经发货, 一单的full size产品没有了. 花了一个小时打电话给客服追加新的优惠满65得到额外的6 piece. 昨天收到了发货的包裹, 却没有full size产品.
 在zara网站看中了一条裙子, 第二天去里. 店员说卖完了. 就逛zara, 买了2件衣服. これとこれ。
 打算做一个关于中文和日文的网站。周日周一写了script， 周一晚上做了slides。等制作完成后， 希望大家能看一下
@@ -72,7 +73,7 @@ clinique打75折满65送full size的一个产品. 下了2单. 收到两封邮件
 **Chinese:**
 
 看完动漫kill la kill
-问老师下个学期用什么教科书. 
+问老师下个学期用什么教科书.
 第一本书全部是hiragana,第二本书才开始有kanji. 希望书里还是要有kanji
 "...To reduce the burden on busy learners, vocabulary and grammar has been limited to about a third of that typically introduced in beginners courses..."
 中国人学习有汉字的教科书会更快. 如果学第一本书， 在输入anki之前，所有的词汇都需要重新查online字典， 确定汉字。

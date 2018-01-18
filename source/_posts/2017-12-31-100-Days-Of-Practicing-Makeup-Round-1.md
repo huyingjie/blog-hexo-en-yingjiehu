@@ -2,10 +2,10 @@
 layout: post
 title: "100 Days Of Practicing Makeup (Round 1)"
 date: 2017-12-31
-tags: 
+tags:
 	- 100 Days Challenge
 	- makeup
-categories: 
+categories:
 	- 100 Days Challenge
 	- Personal
 permalink: 100-Days-Of-Practicing-Makeup-Round-1
@@ -14,19 +14,19 @@ permalink: 100-Days-Of-Practicing-Makeup-Round-1
 <img src = "/img/100-Days-of-Practicing-Makeup-Banner.png" style="border:0" >
 
 
-Main Commitment: I will practice makeup. 
+Main Commitment: I will practice makeup.
 
 Start Date: 2017-12-31
 
 
 <!-- more -->
 
-This is a very personal project. Making up is a required skill for women. I thought it was a waste of time and worried about the harmful integridents in makeups. Despite my negative emotion towards makeup, I have to think about one method to push myself to learn it. This is the inspiration of the challenge. 
+This is a very personal project. Making up is a required skill for women. I thought it was a waste of time and worried about the harmful integridents in makeups. Despite my negative emotion towards makeup, I have to think about one method to push myself to learn it. This is the inspiration of the challenge.
 
-"100 Days of Challenge" can be extended to any skill that you do not enjoy but is required to be learned. 
+"100 Days of Challenge" can be extended to any skill that you do not enjoy but is required to be learned.
 
 ## Rules
-1. I will try to practice makeup once per day. 
+1. I will try to practice makeup once per day.
 2. I will track my progress here and push to GitHub.
 3. Watching makeup tutorials will not count towards the challenge.
 5. I will only skip a day if something important comes up. And when I resume, I won’t count the day I skipped as one of my 100 days.
@@ -45,10 +45,11 @@ This is a very personal project. Making up is a required skill for women. I thou
 6. 100 Days
 
 ## Template for Log
+
 ```
 ### Day :
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 **Thoughts and Emotions:**
 
@@ -63,9 +64,9 @@ This is a very personal project. Making up is a required skill for women. I thou
 	* [Makeup for acne skin (Chinese)](https://www.bilibili.com/video/av11757660/)
 
 ## LOG
-### Day 1: 2017-12-31 Sunday 
+### Day 1: 2017-12-31 Sunday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * Practice based on [Makeup for acne skin (Chinese)](https://www.bilibili.com/video/av11757660/)
 
@@ -85,9 +86,9 @@ My roommate said the foundation is much lighter than my skin. I will try differe
 
 ### Day 2: 2018-01-01 Monday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
-I made up before going out. 
+I made up before going out.
 
 **Thoughts and Emotions:**
 
@@ -101,13 +102,13 @@ I applied both the new foundation and old foundation. I looked whiter. Tomorrow,
 
 ### Day 3: 2018-01-02 Tuesday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
-I used the foundation stick only. It does not cover dark spot well. 
+I used the foundation stick only. It does not cover dark spot well.
 
 **Thoughts and Emotions:**
 
-I am not sure whether the foundation stick not well or my technique is not good. I got the foundation sticks from Clinique's Black Friday sales one month ago. There is no foundation stick from other brand as a control group. 
+I am not sure whether the foundation stick not well or my technique is not good. I got the foundation sticks from Clinique's Black Friday sales one month ago. There is no foundation stick from other brand as a control group.
 
 **Tomorrow's plan**
 
@@ -118,7 +119,7 @@ I am not sure whether the foundation stick not well or my technique is not good.
 
 ### Day 4: 2018-01-03 Wednesday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 Makeup before going to work. This is the first time I did it.
 
@@ -136,7 +137,7 @@ Little liquid foundation cannot cover dark spot. I think it is ok to have dark s
 
 ### Day 5: 2018-01-08 Monday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * Applied makeup before going to the department
 
@@ -154,7 +155,7 @@ No plan. If I continue to do it tomorrow, it will be great.
 
 ### Day 6: 2018-01-10 Wednesday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * Applied makeup around 3:30 p.m.
 
@@ -168,7 +169,7 @@ The sky becomes darker around 3:30 p.m.. It motivated to makeup today.
 
 ### Day 7: 2018-01-11 Thursday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * Applied makeup around 3 p.m.
 
@@ -180,7 +181,7 @@ After reading tutorials on Udacity (Grow with Google Challenge scholarship), I u
 
 ### Day 8: 2018-01-12 Friday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * Applied makeup around 3 p.m.
 

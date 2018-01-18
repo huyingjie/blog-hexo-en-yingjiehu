@@ -2,9 +2,9 @@
 layout: post
 title: "Project: Awesome Checklist Checklist"
 date: 2017-12-27
-tags: 
+tags:
 	- gulp
-categories: 
+categories:
 	- [Projects]
 permalink: awesome-checklist-checklist
 
@@ -13,7 +13,8 @@ permalink: awesome-checklist-checklist
 <a href="http://checklist.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Checklist-ff69b4.svg" style="border:0px;"></a>
 
 <!-- more -->
-![](/img/project-Awesome-Checklist-Checklist.png)
+
+<img src="/img/project-Awesome-Checklist-Checklist.png"> 
 This project was done in the middle of [100 Days of Web Develpoment challenge](/100-Days-Of-Web-Development-Round-1/).
 
 [Github Repo](https://github.com/huyingjie/Checklist-Checklist) | [Project 11: Awesome Checklist Checklist](http://checklist.yingjiehu.com/)
@@ -45,9 +46,9 @@ The site is auto-deployed. Changing README.md will change the site.
 
 When I waked up this morning, I was astonished at the number of stars on GitHub, over 300. This is the first repo I got over 30 stars. I guess this open source project can be considered as a hit.
 
-During the day, I was so excited and checked the statistics several times per hour. 
+During the day, I was so excited and checked the statistics several times per hour.
 
-Around midnight, there are over 500 people who have starred the projects. 
+Around midnight, there are over 500 people who have starred the projects.
 
 I am satisfied: 500 stars in one day.
 
@@ -69,5 +70,3 @@ Over 1000 stars!!
 Over 1500 stars!!
 
 ![](2018-01-08-1500-stars.png)
-
-

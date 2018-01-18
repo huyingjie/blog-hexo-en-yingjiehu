@@ -82,6 +82,7 @@ If you can memorize details of all programming languages you have learned, you a
 * 100 Days
 	
 ## Template for Log
+
 ```
 ### Day : 
 

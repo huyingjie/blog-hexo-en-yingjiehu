@@ -2,10 +2,10 @@
 layout: post
 title: 100 Days Of Japanese (Round 1)
 date: 2017-12-10
-tags: 
+tags:
 	- 100 Days Challenge
 	- Japanese
-categories: 
+categories:
 	- [100 Days Challenge, Japanese]
 	- Japanese
 permalink: 100-Days-Of-Japanese-Round-1
@@ -18,11 +18,11 @@ Start Date: 2017-12-10
 
 ## Background
 
-I learned Japanese once per week for one semester at a night school around 10 years ago in China. 
+I learned Japanese once per week for one semester at a night school around 10 years ago in China.
 
-I started learning Japanese this July. One day my friend asked me out to have lunch. During the meal, she said her Japanese first class of a session would begin at night. I was curious about how Americans learned Japanese, then audited the class. I was impressed by the teacher's experience. Her native language is Chinese, the same with me. She had been lived in Japanese for 10 years and spoke English so fluently that American employees in the night school did not recognize that she was a foreigner. She is a talented and easy-going person. I enjoyed the class and decided to register one session. Each session has 10 classes, one class per week. I already finished one session with her and currently am taking the second session. 
+I started learning Japanese this July. One day my friend asked me out to have lunch. During the meal, she said her Japanese first class of a session would begin at night. I was curious about how Americans learned Japanese, then audited the class. I was impressed by the teacher's experience. Her native language is Chinese, the same with me. She had been lived in Japanese for 10 years and spoke English so fluently that American employees in the night school did not recognize that she was a foreigner. She is a talented and easy-going person. I enjoyed the class and decided to register one session. Each session has 10 classes, one class per week. I already finished one session with her and currently am taking the second session.
 
-Since August, I have been using Anki to recite Japanese words. Hence, the 100-day challenge should be easy for me. 
+Since August, I have been using Anki to recite Japanese words. Hence, the 100-day challenge should be easy for me.
 
 ## Rules
 
@@ -31,7 +31,7 @@ Since August, I have been using Anki to recite Japanese words. Hence, the 100-da
 3. I will encourage and support at least two people each day in the `#Anki #Japanese` challenge on Twitter. I can read at most 5 tweets about `#Anki #Japanese` each day. Less is more. Don't spend more than enough time on the social networking website.
 
 	3 Options
-	
+
 	* Like tweets
 	* Leave a comment
 4. I will track my progress here and push to GitHub.
@@ -52,8 +52,9 @@ Since August, I have been using Anki to recite Japanese words. Hence, the 100-da
 6. 100 Days
 
 ## Template for Log
+
 ```
-### Day : 
+### Day :
 **No. of Anki Cards**:
 
 **Time spent**:
@@ -72,7 +73,7 @@ Since August, I have been using Anki to recite Japanese words. Hence, the 100-da
 
 **Thoughts and Emotions:**
 
-I cannot concentrate on review Anki cards. A probable reason is a worry about whether I can get positive feedback. 
+I cannot concentrate on review Anki cards. A probable reason is a worry about whether I can get positive feedback.
 
 There are only 4 tweets under `#100DaysOfJapanese`. Too few people. Then I searched weibo, which is Chinese version counterpart of Twitter. People there either posted a picture to show their completion without showing process or stopped within 30 days.
 
@@ -87,7 +88,7 @@ It is a little bit discouraging. I am not sure whether I should incorporate soci
 
 **Thoughts and Emotions:**
 
-I am happy that I found the community in the twitter. `#100DaysOfJapanese` is not a right hashtag. People use `#Anki #Japanese` to indicate they use Anki to learn Japanese. 
+I am happy that I found the community in the twitter. `#100DaysOfJapanese` is not a right hashtag. People use `#Anki #Japanese` to indicate they use Anki to learn Japanese.
 
 <hr>
 ### Day 3: 2017-12-12 Tuesday
@@ -131,7 +132,7 @@ Unhappy
 
 <hr>
 ### Day 7: 2017-12-16 Saturday
-**No. of Anki Cards**: 335 
+**No. of Anki Cards**: 335
 
 **Time spent**: 40 minutes
 
@@ -141,7 +142,7 @@ I am stressed out recently.
 <hr>
 
 ### Day 8: 2017-12-18 Monday
-**No. of Anki Cards**: 407 
+**No. of Anki Cards**: 407
 
 **Time spent**: 41 minutes
 
@@ -186,7 +187,7 @@ I forced myself to review at least 100 cards.
 
 <hr>
 
-### Day 12: 2018-01-08 Monday 
+### Day 12: 2018-01-08 Monday
 **No. of Anki Cards**: 216
 
 **Time spent**: 21 minutes
@@ -206,5 +207,3 @@ I missed 17 days in a row because my Japanese class was over and motivation disa
 I have too many challenges to do every day.
 
 <hr>
-
-

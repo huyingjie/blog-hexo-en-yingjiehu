@@ -2,16 +2,16 @@
 layout: post
 title: "Awesome Lifehack Calculators"
 date: 2018-01-08
-tags: 
+tags:
 	- calculator
 	- awesome
 	- gulp
-categories: 
+categories:
 	- [Projects]
 permalink: awesome-Lifehack-Calculators
 ---
 
-![](../img/Awesome-Lifehack-Calculators.png)
+<img src="../img/Awesome-Lifehack-Calculators.png"> 
 <!-- more -->
 
 This project was done in the middle of [100 Days of Web Develpoment challenge](/100-Days-Of-Web-Development-Round-1/).
@@ -37,4 +37,3 @@ Link: [http://lifehackcalculators.yingjiehu.com/](http://lifehackcalculators.yin
 ## 2018-01-09 Tuesday
 
 I spent 3 hours on the project today. I planned to do it for one hour per day, but cannot stop coding. 🤣
-

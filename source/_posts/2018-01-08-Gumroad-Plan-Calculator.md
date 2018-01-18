@@ -2,16 +2,16 @@
 layout: post
 title: "Gumroad Plan Calculator"
 date: 2018-01-08
-tags: 
+tags:
 	- calculator
 	- gumroad
 	- javascript
-categories: 
+categories:
 	- [Projects]
 permalink: Gumroad-Plan-Calculator
 ---
 
-![](../img/Gumroad-Plan-Calculator.png)
+<img src="../img/Gumroad-Plan-Calculator.png"> 
 <!-- more -->
 
 This project was done in the middle of [100 Days of Web Develpoment challenge](/100-Days-Of-Web-Development-Round-1/).
@@ -22,14 +22,14 @@ Link: [http://gumroadplancalculator.yingjiehu.com/](http://gumroadplancalculator
 
 ## Motivation
 
-Gumroad is a website to sell digital products or give out for free. The design of sales pages is convenient for customers to purchase products and the appearence of pages are comfortable to eyes. 
+Gumroad is a website to sell digital products or give out for free. The design of sales pages is convenient for customers to purchase products and the appearence of pages are comfortable to eyes.
 
 Gumroad has two plans, free plan and premium plan.
 
 * Free plan: 8.5% + 30 cents per sale
 * Premium plan: 3.5% + 30 cents per sale
 
-Gumroad did a trick on their website. 
+Gumroad did a trick on their website.
 
 Here is the [pricing page](https://gumroad.com/features/pricing).
 
@@ -43,7 +43,7 @@ Here is the [pricing page](https://gumroad.com/features/pricing).
 
 ![](gumroad-billing-ties.png)
 
-It is not a good premium plan. For example, you create a game and allow other people to download for free. If there are over 5,000 downloads, your premium monthly fee is at least $\$75$. (It is easy to pass 5,000 downloads for a free game.) Then you create another game and charge fees before downloading. You have to calculate which plan will charge less. 
+It is not a good premium plan. For example, you create a game and allow other people to download for free. If there are over 5,000 downloads, your premium monthly fee is at least $\$75$. (It is easy to pass 5,000 downloads for a free game.) Then you create another game and charge fees before downloading. You have to calculate which plan will charge less.
 
 The calculation is not hard. However, it is nice if there exists a calculator we can use immediately.
 
@@ -60,4 +60,3 @@ P.S.: The other solution: You can create two Gumroad accounts, one for free stuf
 ## 2018-01-08 Monday
 
 I spent 3 hours on the project today. I planned to do it for one hour per day, but cannot stop coding. 🤣
-

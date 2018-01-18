@@ -2,14 +2,14 @@
 layout: post
 title: "Grow with Google Challenge Scholarship Acceptance Letter"
 date: 2018-01-10
-tags: 
+tags:
 	- awards
-categories: 
+categories:
 	- [Awards]
 permalink: Grow-with-Google-Challenge-Scholarship-Acceptance-letter
 ---
 
-![](../img/2018-01-10-Grow-with-Google-Challenge-Scholarship-acceptance-letter.png)
+<img src="../img/2018-01-10-Grow-with-Google-Challenge-Scholarship-acceptance-letter.png"> 
 
 <!-- more -->
 
@@ -32,7 +32,7 @@ The excitement to receive Grow with Google Challenge Scholarship disappears!
 
 There is a big difference between Udacity and FreeCodeCamp: projects.
 
-Projects on FreeCodeCamp requires students to finish complete websites. In the future, you can show your websites to other people. Here are the first two FreeCodeCamp projects made by me: 
+Projects on FreeCodeCamp requires students to finish complete websites. In the future, you can show your websites to other people. Here are the first two FreeCodeCamp projects made by me:
 
 * [Github Repo](https://github.com/huyingjie/tribute-zhugeliang) | [Project 1: Tribue](http://zhugeliang.yingjiehu.com/)
 * [Github Repo](https://github.com/huyingjie/projects-page) | [Project 2: Personal Portfolio](http://projects.yingjiehu.com/)
@@ -56,9 +56,9 @@ This is the reason I used the strikethrough: <del>**Link**: Github Repo| Project
 
 **I feel guilty of counting the Udacity project into the challenge.**
 
-Usually, I study tutorials for an hour and code for an hour every day. 
+Usually, I study tutorials for an hour and code for an hour every day.
 
-Solution: 
+Solution:
 
 * Count anything on Udacity into the tutorial part.
 * Continue to do FreeCodeCamp projects.
@@ -81,16 +81,13 @@ I read the AMA record and here are my thoughts.
 2. Emphyasis on social networking increases my stress level of learning.
 
 	I am not the fan of spending so much on social networking or collaborating. If I want to be active on either of channels, I have to use willpower to do so. This does not belong to my learning goal. As an introvert, I am reluctant to waste willpower this way.
-	
+
 3. Projects will not be graded. I am disappointed.
 
-	Thanks to FreeCodeCamp. I finally achieve learning and doing projects at the same time. All projects can be contributed to 100 Days of Code challenge. 
-	
+	Thanks to FreeCodeCamp. I finally achieve learning and doing projects at the same time. All projects can be contributed to 100 Days of Code challenge.
+
 	Udacity does not emphyasize on the projects at all. I realize that there will be few projects made by students at the end of the course. It is not a good way to track progress during study.
-	
+
 	It reminded me of my previous course on Udacity, making iOS apps. After learning that course, I cannot make an app from start to end.
 
-4. The order of importance: Finishing the course -> Forum activity -> Slack activity. 
-
-	
-	
+4. The order of importance: Finishing the course -> Forum activity -> Slack activity.

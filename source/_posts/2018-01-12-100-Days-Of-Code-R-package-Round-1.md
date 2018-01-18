@@ -2,10 +2,10 @@
 layout: post
 title: "100 Days Of Code: R package (Round 1)"
 date: 2018-01-12
-tags: 
+tags:
 	- 100 Days Challenge
 	- R
-categories: 
+categories:
 	- [100 Days Challenge, Data Science]
 	- [Programming Language, R]
 permalink: 100-Days-Of-Code-R-package-Round-1
@@ -39,12 +39,13 @@ A companion project to [100 Days of Reading Paper](100-Days-Of-Reading-Paper-Rou
 6. 100 Days
 
 ## Template for Log
+
 ```
-### Day : 
+### Day :
 
 **Link**: [Github Repo]() | [Project :]()
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 **Thoughts and Emotions**
 
@@ -54,21 +55,21 @@ A companion project to [100 Days of Reading Paper](100-Days-Of-Reading-Paper-Rou
 ```
 
 ## LOG
-### Day 1: 2018-01-12 Friday 
+### Day 1: 2018-01-12 Friday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * I created R documentation website using a R package [pkgdown](https://github.com/r-lib/pkgdown)
 
 **Thoughts and Emotions**
 
-I feel nervous. 
+I feel nervous.
 
 `pkgdown` can quickly build a documentation site but it is hard to change styles.
 
 These happen to all packages made by RStudio.
 
-People in my field care less about presentations. I felt frustrated in the past. Statisticians complain machine learning people taking more credits for data analysis work. Appearance is important. If machine learning field produces better websites than statistics, I will go for machine learning. 
+People in my field care less about presentations. I felt frustrated in the past. Statisticians complain machine learning people taking more credits for data analysis work. Appearance is important. If machine learning field produces better websites than statistics, I will go for machine learning.
 
 I feel lucky that FreeCodeCamp helped me learn HTML, CSS, and Javascript. It is doable to customize part of the style. Thanks to having learned JavaScript. I can customize the footer with jQuery. `pkgdown` package does not supply a way to customize footer with templates because the author said he might reconstruct the whole package later!!!! It upsets me.
 
@@ -76,9 +77,9 @@ I feel lucky that FreeCodeCamp helped me learn HTML, CSS, and Javascript. It is 
 
 * [ ]Write documentation for the toy package
 
-### Day 2: 2018-01-14 Sunday 
+### Day 2: 2018-01-14 Sunday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * Decide the name of the new package
 * Read others' packages
@@ -94,5 +95,3 @@ It is discouraging.
 <hr>
 
 **Future's plan**
-
-

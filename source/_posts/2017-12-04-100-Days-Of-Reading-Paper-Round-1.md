@@ -2,11 +2,11 @@
 layout: post
 title: 100 Days Of Reading Paper (Round 1)
 date: 2017-12-04
-tags: 
+tags:
 	- 100 Days Challenge
 	- Data Science
 	- academic
-categories: 
+categories:
 	- 100 Days Challenge
 	- Data Science
 permalink: 100-Days-Of-Reading-Paper-Round-1
@@ -32,11 +32,12 @@ Reference: [How to effectively scope your software projects from planning to exe
 * Don't skip two days in a row, and try not to skip more than 1 day in 2 weeks.
 
 ## Template for Log
+
 ```
-### Day : 
+### Day :
 **Paper: []()**
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 **Thoughts and Emotions**
 
@@ -47,17 +48,17 @@ Reference: [How to effectively scope your software projects from planning to exe
 ## Milestones
 
 1. [1 Day (Day 1: 2017-12-18 Monday )](#Day-1-2017-12-18-Monday)
-2. 7 Days 
+2. 7 Days
 3. 30 Days
 4. 60 Days
 5. 90 Days
 6. 100 Days
 
 ## LOG
-### Day 1: 2017-12-18 Monday 
+### Day 1: 2017-12-18 Monday
 **Paper: [Adaptive design methods in clinical trials – a review](https://www.ncbi.nlm.nih.gov/pubmed/18454853)**
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * Started reading paper: Adaptive design methods in clinical trials – a review
 * Created powerpoint to represent the paper in tomorrow's seminar
@@ -75,13 +76,13 @@ And restarted writing in this blog which was abandoned in 2014. Three years have
 Thank you for 100 Days Challenge project. I found the way to use the blog with joy. Writing blog posts were suffering, but it is fun to use it to track progress. I add new contents every day even if no new posts are created except 4 posts about challenges. Besides, it helps me practice English writing (I am Chinese).
 
 Back to paper, it is a pain to read paper. However, I found myself enjoy creating powerpoints. Better, I copied the small section of paper into note part of slides then read it. This decreases stress to read a paper over 10 pages.
- 
+
 <hr>
 
-### Day 2: 2018-01-06 
+### Day 2: 2018-01-06
 **Paper: [Relaxed Lasso](http://stat.ethz.ch/~nicolai/relaxo.pdf)** by Nicolai Meinshausen
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * Started to read paper again. 😂
 

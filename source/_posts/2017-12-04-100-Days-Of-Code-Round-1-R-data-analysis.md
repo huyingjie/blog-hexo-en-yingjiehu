@@ -60,6 +60,7 @@ A companion project to [100 Days of Reading Paper](100-Days-Of-Reading-Paper-Rou
 * Don't skip two days in a row, and try not to skip more than 1 day in 2 weeks.
 
 ## Template for Log
+
 ```
 ### Day : 
 
@@ -296,9 +297,11 @@ Let me use `iris` dataset as an example. By the way, `iris` is a global variable
 5          5.0         3.6          1.4         0.2  setosa
 6          5.4         3.9          1.7         0.4  setosa
 ```
+
 For example, I want to fit two logistic models. They include different independent variables. Model 1 uses `length` and `width` while Model 2 uses `width` only. 
 
 ```r
+
 # Model 1
 fit <- glm(Species ~ Sepal.Length + Sepal.Width, 
 	family=binomial(link='logit'), 

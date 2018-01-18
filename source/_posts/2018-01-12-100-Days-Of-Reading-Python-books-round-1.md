@@ -2,11 +2,11 @@
 layout: post
 title: "100 Days Of Reading Python books (Round 1)"
 date: 2018-01-12
-tags: 
+tags:
 	- 100 Days Challenge
 	- python
 	- data analysis
-categories: 
+categories:
 	- [100 Days Challenge, Data Science]
 	- [Programming Language, Python]
 permalink: 100-Days-Of-Reading-Python-books-Round-1
@@ -26,7 +26,7 @@ Start Date: 2018-01-12
 4. I will encourage and support at least two people each day in the `#100DaysOfReading` challenge on Twitter. I can read at most 5 tweets about `#100DaysOfReading` each day. Less is more. Don't spend more than enough time on the social networking website.
 
 	3 Options
-	
+
 	* Like tweets
 	* Leave a comment
 	* (optional) Looking at their projects and giving them feedback (no more than 10 minutes per day)
@@ -38,9 +38,9 @@ Start Date: 2018-01-12
 
 ## Motivations
 
-I had read some programming books in the past. At that time, I input the knowledge into [Anki](https://apps.ankiweb.net/) and hoped that I could remember it in the future. 
+I had read some programming books in the past. At that time, I input the knowledge into [Anki](https://apps.ankiweb.net/) and hoped that I could remember it in the future.
 
-My goal of reading books changes. I made some big tables and input syntax of all programming languages into the tables. There are some other programming languages in it, such as Python and JavaScript. 
+My goal of reading books changes. I made some big tables and input syntax of all programming languages into the tables. There are some other programming languages in it, such as Python and JavaScript.
 
 I will not memorize any syntax anymore. Every time I want to use something, the tables are the first place to check. Besides, it is convenient to compare different languages.
 
@@ -68,6 +68,7 @@ If you can memorize details of all programming languages you have learned, you a
 ## Books
 
 1. [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](http://amzn.to/2Dqti41)
+
 ## Milestone
 
 * 1 Day: [2018-01-12 Friday](#Day-1-2018-01-12-Friday)
@@ -76,14 +77,15 @@ If you can memorize details of all programming languages you have learned, you a
 * 60 Days
 * 90 Days
 * 100 Days
-	
+
 ## Template for Log
+
 ```
-### Day : 
+### Day :
 
 **Book**: []()
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 **Thoughts and Emotions**
 
@@ -97,7 +99,7 @@ If you can memorize details of all programming languages you have learned, you a
 
 **Book**: [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](http://amzn.to/2Dqti41)
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * Finished Chapter 1 + exercise
 
@@ -116,13 +118,13 @@ It is more pleasant to read Python books than R books. Because Python books foll
 
 **Book**: [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](http://amzn.to/2Dqti41)
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * Finished Chapter 2 + exercise
 
 **Thoughts and Emotions**
 
-I used 30 minutes to scan Chapter 2. 
+I used 30 minutes to scan Chapter 2.
 
 **Tomorrow's plan**
 
@@ -134,13 +136,65 @@ I used 30 minutes to scan Chapter 2.
 
 **Book**: [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](http://amzn.to/2Dqti41)
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * Finished Chapter 3 + exercise
 
 **Thoughts and Emotions**
 
 Reading can be finished within 30 minutes. There are more needed for exercise.
+
+**Tomorrow's plan**
+
+* [x]Read Chapter 4
+
+<hr>
+
+### Day 4: 2018-01-17 Wednesday
+
+**Book**: [[Automate the Boring Stuff with Python: Practical Programming for Total Beginners](http://amzn.to/2Dqti41)
+
+**Today's Progress (achievements and frustrations)**:
+
+* Part of Chapter 4
+
+**Thoughts and Emotions**
+
+Chapter 4 teaches lists. It slows me down.
+
+Lists, tuples, and sets are 3 Python data types which can contain multiple values. The concept will be confusing every time I do not use it for a while.
+
+Also, different languages have similar data types like these. Each language has different functions/properties to achieve same basic operations.
+
+For example: concatenate two lists
+
+* Python
+
+	```python
+	l1 = [1, 2]
+	l2 = [3]
+
+	l1 + l2
+	```
+
+* R
+
+	```r
+	l1 = list(1, 2)
+	l2 = list(3)
+
+	c(l1, l2)
+	```
+* JavaScript
+
+	```js
+	var l1 = [1, 2]
+	var l2 = [3]
+
+	l1.concat(l2)
+	```
+
+After one day, can you remember which language uses which syntax?
 
 **Tomorrow's plan**
 
