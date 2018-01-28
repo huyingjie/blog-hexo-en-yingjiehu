@@ -157,6 +157,7 @@ Reading can be finished within 30 minutes. There are more needed for exercise.
 **Today's Progress (achievements and frustrations)**:
 
 * Part of Chapter 4
+* At night, I finished Chapter 4
 
 **Thoughts and Emotions**
 
@@ -198,6 +199,6 @@ After one day, can you remember which language uses which syntax?
 
 **Tomorrow's plan**
 
-* [ ]Read Chapter 4
+* [ ]Read Chapter 5
 
 <hr>

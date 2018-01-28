@@ -85,8 +85,9 @@ menu:
   categories: /categories/ || th
   Resources: /resources ||heart
   archives: /archives/ || archive
+  Archives Streaming: /archive_streaming_data_science || archive
   tags: /tags/ || tags
-  projects: http://projects.yingjiehu.com || line-chart
+  Projects: http://projects.yingjiehu.com || line-chart
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat

@@ -1,6 +1,7 @@
 ---
 title: Resources
 date: 2017-09-13 12:24:43
+layout: page
 ---
 
 Below are some resources that are helpful in learning.

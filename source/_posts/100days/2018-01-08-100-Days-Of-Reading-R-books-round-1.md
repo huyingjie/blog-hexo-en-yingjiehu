@@ -71,6 +71,7 @@ If you can memorize details of all programming languages you have learned, you a
 
 1. [An R Companion to Applied Regression 2nd Edition](http://amzn.to/2DmDISd)
 2. [Using R and RStudio for Data Management, Statistical Analysis, and Graphics (second edition)](http://amzn.to/2CRckuJ)
+3. [R in Action: Data Analysis and Graphics with R 2nd Edition](http://amzn.to/2DLB2xX)
 
 ## Milestone
 
@@ -203,5 +204,23 @@ Most of time I did copy and paste from the book to my big sheet.
 **Tomorrow's plan**
 
 * [ ]Chapter 2
+
+<hr>
+
+### Day 5: 2018-01-18 Wednesday 
+
+**Book**: [R in Action: Data Analysis and Graphics with R 2nd Edition](http://amzn.to/2DLB2xX)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Page ~ 9
+
+**Thoughts and Emotions**
+
+I spent most of time taking notes; I input syntax into my big programming sheet.
+
+**Tomorrow's plan**
+
+* [ ]Chapter 1
 
 <hr>

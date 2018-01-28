@@ -79,6 +79,7 @@ Start Date: 2017-12-06
 * 2018-01-05 [Github Repo](https://github.com/huyingjie/rsnippets) | [Project 12: RSnippets.com](http://rsnippets.com/)
 * 2018-01-08 [Github Repo](https://github.com/huyingjie/gumroad-plan-calculator) | [Project 13: Gumroad Plan Calculator](http://gumroadplancalculator.yingjiehu.com/)
 * 2018-01-09 [Github Repo](https://github.com/huyingjie/awesome-lifehack-calculators) | [Project 14: Awesome Lifehack Calculators](http://lifehackcalculators.yingjiehu.com/)
+* 2018-01-24 [Github Repo](https://github.com/huyingjie/hexo-theme-A-RSnippet) | [Project 15: Hexo theme A-RSnippet](http://arsnippet.yingjiehu.com/)
 
 ## Template for Log
 
@@ -1359,6 +1360,35 @@ What is difficult:
 
 <hr>
 
+### Day 40: 2018-01-18 Thursday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Draw a line graph with Chartjs
+
+**Thoughts and Emotions:**
+
+There is no easy way to build a JavaScript graph that can accept users' input and can be showed online. 
+
+R has a web app called Shiny App to generate what I want. But it requires back-end server. 
+
+1. I do not have a server to run Shiny Apps.
+2. It requires me to learn how to code for Shiny Apps.
+
+I don't want to buy a server and to learn it.
+
+The solution is to choose a JavaScript framework to draw graphs. 
+
+Compared with R, all of them are not fast to draw graphs.
+
+It always has a trade-off. No perfect solution now.
+
+**Tomorrow's plan**
+
+* [ ]Continue to draw the line graph with Chartjs 
+
+<hr>
+
 **Future plan**
 
 * Read tutorials
@@ -1366,3 +1396,245 @@ What is difficult:
 	* [Understanding Flexbox: Everything you need to know](https://medium.freecodecamp.org/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af)
 	* <http://flexboxfroggy.com/>
 	* <http://cssgridgarden.com/>
+
+### Day 41: 2018-01-19 Friday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Chose a Hugo theme
+* Edit the Hugo theme
+* Chose a Hexo theme
+* Edit the Hexo theme
+
+**Thoughts and Emotions:**
+
+I wanted to build/customize a theme for saving my solution to leetcode algorithm challenges. 
+
+First, I chose Hugo because of its speed. There is a big drawback that made me gave it up. Hugo will updates automatically when users write posts; it deploys constantly. To achieve this, Hugo saves the contents in the memory. It is the best choice for people who write posts only. It becomes a big pain for developers since Hugo will delay to update if files of themes are changed. I cannot tell immediately whether my code is working or not and have to wait for Hugo for an unknown length of time.
+
+Then I tried Hexo. My blog was made from Hexo and I like it very much. After hours of searching, I finally chose [hexo-theme-Anisina](https://github.com/haojen/hexo-theme-Anisina).
+
+I thought it would be quick to edit a mature theme. In fact, I spent **the whole day and did not complete**. 😰
+
+**Tomorrow's plan**
+
+* [ ] Finish editing the theme
+
+<hr>
+
+
+### Day 42: 2018-01-20 Saturday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Edited the A-RSnippet theme
+
+**Thoughts and Emotions:**
+
+I was a little bit mad at [hexo-theme-Anisina](https://github.com/haojen/hexo-theme-Anisina). The design is beautiful, but the code is messy. There is a lot of code not used.
+
+Based on my experience of choosing WordPress themes, Hexo themes, and Hugo themes for 10 years, you can only know whether a theme is really good or not after trying it.
+
+Again, an entire day.
+
+**Tomorrow's plan**
+
+* [ ] Finish editing the theme
+
+<hr>
+
+
+### Day 43: 2018-01-21 Sunday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Edited the A-RSnippet theme
+
+**Thoughts and Emotions:**
+
+
+Oh... I continue adjust the theme. 
+
+Thanks for having been taking courses on FreeeCodeCamp and Udacity. I can understand more code than before.
+
+In the past, I read CSS file and did not understand why the style was not right. Now I figured out that past me would never why because CSS was changed by JavaScript and I knew nothing about JS at that time.
+
+**Tomorrow's plan**
+
+* [x] Finish editing the theme
+
+<hr>
+
+
+### Day 44: 2018-01-22 Monday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Edit the A-Rsnippet theme
+* Read around 90 Hexo themes
+
+**Thoughts and Emotions:**
+
+Oh... I continue adjust the theme. It is the fourth day.
+
+I finally reach a point that the current theme is almost satisfying.
+
+I need more appearance design to make it unique before publishing to the official Hexo website.
+
+A little bit discouraging. It seems there is more needed to learn to build a blog theme. Hexo can use `styl` and `ejs`. Javascript taught by FreeCodeCamp and Udacity is a small portion of the knowledge. 
+
+Bootstrap used by the theme is version 3, not version 4 that I learned last month. I spent a lot of time on making a navigation bar. It is the hardest part of Bootstrap whatever version it is.
+
+The icon of Patreon is provided by fontawesome 5 and not by fontawesome 4. The theme used version 4. Version 4 and 5 are so different that I cannot afford to take more time to transfer.
+
+I thought I can finish reading themes today. I overestimated my ability.
+
+I overworked for four days. I feel tired. My life is broken.
+
+**Tomorrow's plan**
+ 
+* [x] Read Hex themes
+
+
+<hr>
+
+
+### Day 45: 2018-01-23 Tuesday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Finished reading 184 themes on [Hexo Theme page](https://hexo.io/themes/index.html). 
+
+**Thoughts and Emotions:**
+
+* Yesertday: 12 a.m. - 4 a.m.
+* Today: 12 a.m. - 8p.m.
+
+I spent 12 hours 😵 (eating time included) to read 184 themes one by one. There are some features I put in my future's todo list.
+
+Some theme authors used their blogs as demo. They are young. A lot of them are in the universities or just graduated. I have to confess that this made me sad. I am older but knew web development less than them.
+
+I am preparing to publish it to the Hexo theme page.
+
+Hugo has much better list of tags to show the characteristics of themes. I read the list and chose which tag to add 😃 .
+
+I was wrapping up the files to release. In the process, there are bugs and inconsistency showing up. It is great. It cannot be finished until I completed the documentation.
+
+I thought I can finish submitting the theme. I overestimated my ability.
+
+**Tomorrow's plan**
+
+* [x] Write a documentation to be placed in the README.md file on GitHub
+* [x] Move files to the example website folder
+* [x] Build a brand new website to test the example website
+* [x] Upload to GitHub
+* [x] Use Netlify
+* [x] Add a subdomain name
+* [x] Create a patreon page
+* [x] Create a cover photo for the theme
+* [x] Submit the theme to Hexo
+* [x] Google site verification
+* [ ] Create a forum
+* [ ] Summarize future features
+
+After that, I will do data analysis
+
+<hr>
+
+### Day 46: 2018-01-24 Wednesday
+
+**Link**: [Github Repo](https://github.com/huyingjie/hexo-theme-A-RSnippet) | [Project 15: Hexo theme A-RSnippet](http://arsnippet.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**:
+
+* Wrote documentation
+* Found more bugs when writing documentation
+* Adjusted the example site
+* Created a Discord Channel
+* Created a Patreon page
+* Connected Patreon to Discord
+* Released a version for the first time!!!!
+* [Pulled request to Hexo website](https://github.com/hexojs/site/pull/643) This is my first time to pull a request!!!
+* Created a picture for the theme
+
+![](/img/2018-01-24-A-RSnippet.png)
+**Thoughts and Emotions:**
+
+During making the theme, I learned
+
+* ejs
+* practicing CSS, bootstrap, JavaScript, and jQuery
+* writing documentation
+* write a list of pages to test each function
+* thinking about how to maintain a small but not easy open-source project
+	* create a community: a forum
+		Users will ask questions in a forum. GitHub issue section is for issues and future features only. 
+	* get donation: patreon
+		I will charge users based on release, not monthly.
+* I think of one way to organize notes that are impossible to be arranged in the table: create a static generated documentation website. I can access it online and locally. Everybody can see the notes and it reduces the effort for privacy.
+
+	Now I plan to make 4 websites!!! I will not customize the theme. It is time-consuming.
+	
+	1. documentation for R packages I learned and used
+	2. documentation for statistics knowledge. I forgot a lot.
+	3. document for reading paper. This has been never solved. The new method seems promising.
+	4. (private) documentation for doing projects
+
+		* log email
+		* log data
+		* log everyday activity
+		* log my thinking
+
+		I used MarkDown to log email, data, and everyday activity. But it does not seems to be easily read. Becuase the documentation is so long. Most of keywords are the same, and thus it is impossible to search. MarkDown's table of contents are usually at the beginning of the page for all apps. It is hard to use. Documentation websites provide TOC fixed at sidebar. It can be seen all the time.
+		
+**Tomorrow's plan**
+
+* [x] Create a forum
+* [ ] Create a documentation website for the data analysis project
+* [ ] Create a documentation website for R package
+* [ ] Create a documentation website for reading paper
+
+After that, I will do data analysis.
+
+<hr>
+
+### Day 47: 2018-01-25 Thursday
+
+**Link**: [Github Repo](https://github.com/huyingjie/hexo-theme-A-RSnippet) | [Project 15: Hexo theme A-RSnippet](http://arsnippet.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**:
+
+* Created a forum
+
+**Thoughts and Emotions:**
+
+January 19, 20, 21, 22, 23, 24, 25: 7 days to finish the first version of the Hexo A-RSnippet theme.
+
+I searched online and found [flarum](http://flarum.org/). It is a forum app that uses PHP. I like discord and NodeBB. Because both of them require cloud server, I have to pay an additional fee if I use them. 
+
+Luckily, I found a website [freeflarum.com](http://freeflarum.com) that hosts Plarum forum for free. Their business model is to show some ads on the free forums. So far, I do not see any ads and am not sure when and what ads will show.
+
+Making open source project is time-consuming. If there is no sustainable business model, most of the good open-source respositories will not update regularly.
+
+**Tomorrow's plan**
+
+* [x] Made a Hexo layout for streaming data science
+* [ ] multi-language
+
+<hr>
+
+### Day 48: 2018-01-27 Saturday
+
+**Link**: [Github Repo]() | [Project :]()
+
+**Today's Progress (achievements and frustrations)**:
+
+**Thoughts and Emotions:**
+
+**Tomorrow's plan**
+
+<hr>
+
+
+
+
