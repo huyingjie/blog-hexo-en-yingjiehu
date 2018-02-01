@@ -106,7 +106,8 @@ $\stackrel{\text{ことし}}{今年}$
 
 今月の十日に　Udacityが　私に　メールで　acceptanceを $\stackrel{\text{あた}}{与}$えました。　
 
-もらう
+<font color="red">今月の十日に Udacityから　メールで　acceptanceを もらいました。　
+</font>
 
 $\stackrel{\text{そくじつ}}{即日}$⓪ 勉強を　初めて、昨日　$\stackrel{\text{すべ}}{全}$て① $\stackrel{\text{しあ}}{仕上}$げ⓪<font color="red"><del>し</del></font>ました。
 
@@ -114,3 +115,12 @@ $\stackrel{\text{そくじつ}}{即日}$⓪ 勉強を　初めて、昨日　$\s
 
 我申请了Grow with Google Challenge Scholarship. 1月10日 收到了邮件通知我被录取了. 超过100,000申请, 15000被录取. 当天开始学习课程, 昨天全部学完.
 2017年12月6日开始100 days of web development challenge, 昨天是第38天.
+
+## 2018/02/01 Thursday
+
+**Japanese:**
+
+去年に　友達と　$\stackrel{\text{いいあらそ}}{言い争}$って　残念でした。金曜日は　一緒に　晩御飯を　食べて、$\stackrel{\text{なかなお}}{仲直}$りで、楽しかたです。
+
+週末は　twitchで live steamingを　しました。話を　たくさん　して、$\stackrel{\text{つか}}{疲}$れりました。
+ほとんどの人は　コーディングが　好きじゃないですから、あまり streamingを　見ませんでした。一人が　私に　$\stackrel{\text{はげ}}{励}$まして　楽しかたです。

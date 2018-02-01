@@ -196,6 +196,8 @@ I forced myself to review at least 100 cards.
 
 I missed 17 days in a row because my Japanese class was over and motivation disappeared. My friend and I decided to take private Japanese class. Yesterday I said the class could begin next week and my motivation is back 😂
 
+<hr>
+
 ### Day 13: 2018-01-13 Friday
 
 **No. of Anki Cards**: 268
@@ -207,3 +209,34 @@ I missed 17 days in a row because my Japanese class was over and motivation disa
 I have too many challenges to do every day.
 
 <hr>
+
+### Day 14: 2018-01-28 Sunday
+
+**No. of Anki Cards**: 155
+
+**Time spent**: 24 minutes
+
+<hr>
+
+### Day 15: 2018-01-29 Monday
+**No. of Anki Cards**: 264
+
+**Time spent**: 36 minutes
+
+**Thoughts and Emotions:**
+
+I used the microphone and can hear my own voice.
+
+<hr>
+
+### Day 16: 2018-01-31
+**No. of Anki Cards**: 500
+
+**Time spent**: 55 minutes
+
+**Thoughts and Emotions:**
+
+1 hour timer 
+
+<hr>
+

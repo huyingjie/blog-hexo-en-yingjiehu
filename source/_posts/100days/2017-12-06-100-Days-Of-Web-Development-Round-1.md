@@ -1625,16 +1625,54 @@ Making open source project is time-consuming. If there is no sustainable busines
 
 ### Day 48: 2018-01-27 Saturday
 
-**Link**: [Github Repo]() | [Project :]()
+**Link**: <http://yingjiehu.com/archive_streaming_data_science/>
 
 **Today's Progress (achievements and frustrations)**:
 
+* Live Streaming on twitch
+* Added a new template to show streaming for data science
+
 **Thoughts and Emotions:**
 
+I streamed for data science in the afternoon. At night, I planned to stream for one hour, but I talked to several persons and had to talk during coding. The speed of coding is very slow. I did not know whether I will do it or not. I cannot find the bugs during streaming and finished quickly after it. Though I can practice English, the length of time spent concerns me.
+
+<iframe width="560" height="315" src="https://youtube.com/embed/cDL9YJj1-_Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://youtube.com/embed/7pj3_G8RL8g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://youtube.com/embed/Wcdf1QApOWE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BVCWVNdH-qc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 **Tomorrow's plan**
+
+* [x] Internationalization for A-RSnippet theme
+	* [x] Edit templates
+	* [x] Create one file for simplified Chinese
+	* [x] Check bugs
 
 <hr>
 
 
+### Day 49: 2018-01-28 
 
+**Link**: [Github Repo](https://github.com/huyingjie/hexo-theme-A-RSnippet) | [Project 15: Hexo theme A-RSnippet](http://arsnippet.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**:
+
+* Create a post if title is empty
+* Delete website subtitle
+
+**Thoughts and Emotions:**
+
+I finished my goal today: add internalization for Hexo A-RSnippet theme.
+
+I was streaming while I was coding. Yesterday, I talked along the way. Today I kept quiet and coding. No new followers. It is normal.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Amy3lj3D-4U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+**Tomorrow's plan**
+[ ] Start freecodecamp Twitchtv JSON API
+
+<hr>
 

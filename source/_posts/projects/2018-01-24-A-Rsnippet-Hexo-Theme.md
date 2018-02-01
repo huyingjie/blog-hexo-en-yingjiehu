@@ -215,3 +215,36 @@ I copied some guidelines from official flarum forum and added instructions for e
 	
 	  [1]: https://www.patreon.com/arsnippet
 	  [2]: http://arsnippet.yingjiehu.com/tutorial/
+
+## 2018-01-28 Sunday
+
+* Add Internationalization for A-RSnippet theme
+   * en
+   * cn-Hans
+* Create a test post when title is empty
+* Delete the website subtitle
+* Release [v0.1.1](https://github.com/huyingjie/hexo-theme-A-RSnippet/releases/tag/v0.1.1)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Amy3lj3D-4U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+You can see how I added the feature on Youtube video.
+
+## 2018-01-30 Tuesday
+
+1. The bug was solved. It was deleted from the [tutorial](http://arsnippet.yingjiehu.com/tutorial/) and  README.md on GitHub.
+	
+	```
+	Existing Bugs
+	
+	-* list-category-leetcode layout
+	
+		I used `site.categories.findOne({name: page["search_word"]}).posts.sort('title', 1).each(function(post) {}` to get the posts for a specified categories. There are two bugs that I don't know how to solve.
+	
+		* You must use `["language", "python"]` format for the `categories` in the front matter. Otherwise, the post does not appear in the list.
+		* Hyphen (`-`) cannot be included in the category names.
+	
+	```
+2. Use `sort_by_update` in `_config` file to decide how to sort posts on homepage, by publish date or by update date.
+
+![](2018-01-30-sort-post-by-update-date-on-homepage.png)
+
