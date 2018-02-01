@@ -93,7 +93,8 @@
 <meta property="og:image" content="http://huyingjie.github.io/blog-hexo-en-yingjiehu/a-rsnippet-hexo-theme/2018-01-24-A-RSnippet-hexo-official-website.png">
 <meta property="og:image" content="http://huyingjie.github.io/blog-hexo-en-yingjiehu/a-rsnippet-hexo-theme/2018-01-25-first-star.png">
 <meta property="og:image" content="http://huyingjie.github.io/blog-hexo-en-yingjiehu/a-rsnippet-hexo-theme/2018-01-25-forum.png">
-<meta property="og:updated_time" content="2018-01-29T03:27:09.941Z">
+<meta property="og:image" content="http://huyingjie.github.io/blog-hexo-en-yingjiehu/a-rsnippet-hexo-theme/2018-01-30-sort-post-by-update-date-on-homepage.png">
+<meta property="og:updated_time" content="2018-01-31T03:10:16.341Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="A-RSnippet Hexo Theme">
 <meta name="twitter:image" content="http://huyingjie.github.io/img/2018-01-24-A-RSnippet.png">
@@ -505,7 +506,7 @@
 
           <br>
           Updated on 
-                2018-01-28  
+                2018-01-30  
           
 
         </div>
@@ -681,6 +682,14 @@ Our moderators may edit or delete any content that is offensive or disruptive to
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Amy3lj3D-4U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <p>You can see how I added the feature on Youtube video.</p>
+<h2 id="2018-01-30-Tuesday"><a href="#2018-01-30-Tuesday" class="headerlink" title="2018-01-30 Tuesday"></a>2018-01-30 Tuesday</h2><ol>
+<li><p>The bug was solved. It was deleted from the <a href="http://arsnippet.yingjiehu.com/tutorial/" target="_blank" rel="noopener">tutorial</a> and  README.md on GitHub.</p>
+ <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">Existing Bugs</span><br><span class="line"></span><br><span class="line">-* list-category-leetcode layout</span><br><span class="line"></span><br><span class="line">	I used `site.categories.findOne(&#123;name: page[&quot;search_word&quot;]&#125;).posts.sort(&apos;title&apos;, 1).each(function(post) &#123;&#125;` to get the posts for a specified categories. There are two bugs that I don&apos;t know how to solve.</span><br><span class="line"></span><br><span class="line">	* You must use `[&quot;language&quot;, &quot;python&quot;]` format for the `categories` in the front matter. Otherwise, the post does not appear in the list.</span><br><span class="line">	* Hyphen (`-`) cannot be included in the category names.</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>Use <code>sort_by_update</code> in <code>_config</code> file to decide how to sort posts on homepage, by publish date or by update date.</p>
+</li>
+</ol>
+<p><img src="2018-01-30-sort-post-by-update-date-on-homepage.png" alt=""></p>
 
 
         
@@ -963,7 +972,7 @@ Our moderators may edit or delete any content that is offensive or disruptive to
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Motivation"><span class="nav-number">1.</span> <span class="nav-text">Motivation</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#A-RSnippet-Theme-community"><span class="nav-number">2.</span> <span class="nav-text">A-RSnippet Theme community</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Milestone"><span class="nav-number">3.</span> <span class="nav-text">Milestone</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2018-01-24-Wednesday"><span class="nav-number">4.</span> <span class="nav-text">2018-01-24 Wednesday</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2018-01-25-Thursday"><span class="nav-number">5.</span> <span class="nav-text">2018-01-25 Thursday</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#the-first-star"><span class="nav-number">5.1.</span> <span class="nav-text">the first star</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Setup-a-new-forum"><span class="nav-number">5.2.</span> <span class="nav-text">Setup a new forum</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Create-guidelines-on-the-forum"><span class="nav-number">5.3.</span> <span class="nav-text">Create guidelines on the forum</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2018-01-28-Sunday"><span class="nav-number">6.</span> <span class="nav-text">2018-01-28 Sunday</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Motivation"><span class="nav-number">1.</span> <span class="nav-text">Motivation</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#A-RSnippet-Theme-community"><span class="nav-number">2.</span> <span class="nav-text">A-RSnippet Theme community</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Milestone"><span class="nav-number">3.</span> <span class="nav-text">Milestone</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2018-01-24-Wednesday"><span class="nav-number">4.</span> <span class="nav-text">2018-01-24 Wednesday</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2018-01-25-Thursday"><span class="nav-number">5.</span> <span class="nav-text">2018-01-25 Thursday</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#the-first-star"><span class="nav-number">5.1.</span> <span class="nav-text">the first star</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Setup-a-new-forum"><span class="nav-number">5.2.</span> <span class="nav-text">Setup a new forum</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Create-guidelines-on-the-forum"><span class="nav-number">5.3.</span> <span class="nav-text">Create guidelines on the forum</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2018-01-28-Sunday"><span class="nav-number">6.</span> <span class="nav-text">2018-01-28 Sunday</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2018-01-30-Tuesday"><span class="nav-number">7.</span> <span class="nav-text">2018-01-30 Tuesday</span></a></li></ol></div>
             
 
           </div>
