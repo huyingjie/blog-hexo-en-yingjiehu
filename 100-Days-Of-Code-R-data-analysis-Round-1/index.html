@@ -94,7 +94,7 @@
 <meta property="og:image" content="http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Code-R-data-analysis-Round-1/location%20affects%20coefficients%20linear2.png">
 <meta property="og:image" content="http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Code-R-data-analysis-Round-1/location%20affects%20coefficients%20quadratic.png">
 <meta property="og:image" content="http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Code-R-data-analysis-Round-1/location%20affects%20coefficients%20quadratic2.png">
-<meta property="og:updated_time" content="2018-01-17T22:45:07.473Z">
+<meta property="og:updated_time" content="2018-02-02T22:31:07.734Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="100 Days Of Data Challenge (Round 1)">
 <meta name="twitter:description" content="Main Commitment: I will code to do data analysis for at least an hour every day for the next 100 days. Start Date: 2017-12-11 A companion project to 100 Days of Reading Paper.">
@@ -540,7 +540,7 @@
 
           <br>
           Updated on 
-                2018-01-17  
+                2018-02-02  
           
 
         </div>
@@ -758,7 +758,46 @@ with(iris, {
 <ul>
 <li style="list-style: none"><input type="checkbox"> Read source code of Relaxed Lasso’s R package</li>
 </ul>
+<h3 id="Day-6-2018-01-29-Monday"><a href="#Day-6-2018-01-29-Monday" class="headerlink" title="Day 6: 2018-01-29 Monday"></a>Day 6: 2018-01-29 Monday</h3><p><strong>Today’s Progress (achievements and frustrations)</strong>: </p>
+<ul>
+<li>data analysis</li>
+</ul>
+<p><strong>Thoughts and Emotions</strong></p>
+<p>I am happy that I created <a href="http://notebook.yingjiehu.com/" target="_blank" rel="noopener">a website</a> for my statistical notes. One drawback is that any knowledge whatever how small it is will take time to write.</p>
+<p>When I copy the code from the notebook to do data analysis, I feel the time spent is worthwhile.</p>
+<p>It is a delimma. People usually think we should write functions to reduce the reduandancy code. A lot of code in data analysis is used only once or will be different a little bit every time. </p>
+<p><strong>Tomorrow’s plan</strong></p>
+<ul>
+<li style="list-style: none"><input type="checkbox" checked> meeting</li>
+</ul>
+<hr>
 
+<h3 id="Day-7-2018-02-01-Thursday"><a href="#Day-7-2018-02-01-Thursday" class="headerlink" title="Day 7: 2018-02-01 Thursday"></a>Day 7: 2018-02-01 Thursday</h3><p><strong>Today’s Progress (achievements and frustrations)</strong>: </p>
+<ul>
+<li>data analysis</li>
+</ul>
+<p><strong>Thoughts and Emotions</strong></p>
+<p>In recent years, I paid attention to reproducible research, i.e, reproducible report. Or it means whether the code can produce the same result after several years. The answer usually is “No”. There is only one reason: we cannot know whether the future packages/R version used now will be modified to be so differently from the current version or whether they stop maintainence and cannot be compatible with future version of other packages.</p>
+<p>Let me simplify the problem. Assume the failure rate of each package follows binomial distribution with probability of $p$. $p$ is the same for all packages. </p>
+<p>If I use n packages in a data analysis project, the probability of code can be reproduced in the future is $(1-p)^n$. R itself can be considered as a package, too.</p>
+<p>$(1-p)^n$ becomes smaller if $n$ increases; more packages in the research decrease the possibility of reproducibility.</p>
+<p><strong>Tomorrow’s plan</strong></p>
+<ul>
+<li style="list-style: none"><input type="checkbox" checked> meeting</li>
+</ul>
+<hr>
+
+<h3 id="Day-8-2018-02-02-Friday"><a href="#Day-8-2018-02-02-Friday" class="headerlink" title="Day 8: 2018-02-02 Friday"></a>Day 8: 2018-02-02 Friday</h3><p><strong>Today’s Progress (achievements and frustrations)</strong>: </p>
+<ul>
+<li>data analysis</li>
+</ul>
+<p><strong>Thoughts and Emotions</strong></p>
+<p>To reduce the number of packages used, I plan to write some small snippets code in <code>with()</code> function to create characteristic table.</p>
+<p><strong>Tomorrow’s plan</strong></p>
+<ul>
+<li style="list-style: none"><input type="checkbox"> Take notes</li>
+</ul>
+<hr>
 
         
         
@@ -1073,7 +1112,7 @@ with(iris, {
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Rules"><span class="nav-number">1.</span> <span class="nav-text">Rules</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Some-important-additional-considerations"><span class="nav-number">2.</span> <span class="nav-text">Some important additional considerations</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Template-for-Log"><span class="nav-number">3.</span> <span class="nav-text">Template for Log</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#LOG"><span class="nav-number">4.</span> <span class="nav-text">LOG</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-1-2017-12-17-Sunday"><span class="nav-number">4.1.</span> <span class="nav-text">Day 1: 2017-12-17 Sunday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-2-2018-01-03-Wednesday"><span class="nav-number">4.2.</span> <span class="nav-text">Day 2: 2018-01-03 Wednesday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-3-2018-01-05-Friday"><span class="nav-number">4.3.</span> <span class="nav-text">Day 3: 2018-01-05 Friday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-4-2018-01-06-Saturday"><span class="nav-number">4.4.</span> <span class="nav-text">Day 4: 2018-01-06 Saturday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-5-2018-01-15-Monday"><span class="nav-number">4.5.</span> <span class="nav-text">Day 5: 2018-01-15 Monday</span></a></li></ol></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Rules"><span class="nav-number">1.</span> <span class="nav-text">Rules</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Some-important-additional-considerations"><span class="nav-number">2.</span> <span class="nav-text">Some important additional considerations</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Template-for-Log"><span class="nav-number">3.</span> <span class="nav-text">Template for Log</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#LOG"><span class="nav-number">4.</span> <span class="nav-text">LOG</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-1-2017-12-17-Sunday"><span class="nav-number">4.1.</span> <span class="nav-text">Day 1: 2017-12-17 Sunday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-2-2018-01-03-Wednesday"><span class="nav-number">4.2.</span> <span class="nav-text">Day 2: 2018-01-03 Wednesday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-3-2018-01-05-Friday"><span class="nav-number">4.3.</span> <span class="nav-text">Day 3: 2018-01-05 Friday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-4-2018-01-06-Saturday"><span class="nav-number">4.4.</span> <span class="nav-text">Day 4: 2018-01-06 Saturday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-5-2018-01-15-Monday"><span class="nav-number">4.5.</span> <span class="nav-text">Day 5: 2018-01-15 Monday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-6-2018-01-29-Monday"><span class="nav-number">4.6.</span> <span class="nav-text">Day 6: 2018-01-29 Monday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-7-2018-02-01-Thursday"><span class="nav-number">4.7.</span> <span class="nav-text">Day 7: 2018-02-01 Thursday</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Day-8-2018-02-02-Friday"><span class="nav-number">4.8.</span> <span class="nav-text">Day 8: 2018-02-02 Friday</span></a></li></ol></li></ol></div>
             
 
           </div>
