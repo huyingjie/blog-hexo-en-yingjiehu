@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Code-R-data-analysis-Round-1/</loc>
+    
+    <lastmod>2018-02-07T03:58:54.055Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Reading-R-books-Round-1/</loc>
     
-    <lastmod>2018-02-07T03:36:10.276Z</lastmod>
+    <lastmod>2018-02-07T03:45:51.572Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/Streaming-on-Twitch/</loc>
+    
+    <lastmod>2018-02-07T03:41:47.670Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/Streaming/2018-01-27-Streaming-Data-Science-2018-01-27-2018-02-03/</loc>
+    
+    <lastmod>2018-02-07T03:41:39.020Z</lastmod>
     
   </url>
   
@@ -19,27 +40,6 @@
     <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Reading-Statistics-books-Round-1/</loc>
     
     <lastmod>2018-02-05T22:21:02.776Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/Streaming/2018-01-27-Streaming-Data-Science-2018-01-27-2018-02-03/</loc>
-    
-    <lastmod>2018-02-05T21:50:08.089Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/Streaming-on-Twitch/</loc>
-    
-    <lastmod>2018-02-05T21:49:47.056Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Code-R-data-analysis-Round-1/</loc>
-    
-    <lastmod>2018-02-05T21:44:20.482Z</lastmod>
     
   </url>
   
@@ -219,14 +219,7 @@
   </url>
   
   <url>
-    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/its-a-correct-choice-to-buy-mac-pro/</loc>
-    
-    <lastmod>2017-11-19T01:03:12.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/how-to-uninstall-r-under-mac-os-x/</loc>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/How-long-to-write-a-book/</loc>
     
     <lastmod>2017-11-19T01:03:12.000Z</lastmod>
     
@@ -240,7 +233,14 @@
   </url>
   
   <url>
-    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/How-long-to-write-a-book/</loc>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/how-to-uninstall-r-under-mac-os-x/</loc>
+    
+    <lastmod>2017-11-19T01:03:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/its-a-correct-choice-to-buy-mac-pro/</loc>
     
     <lastmod>2017-11-19T01:03:12.000Z</lastmod>
     
