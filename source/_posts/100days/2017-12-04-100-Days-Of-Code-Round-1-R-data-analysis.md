@@ -365,3 +365,154 @@ The `fit` variable in each `with` function will not affect each other. It will d
 **Future's plan**
 
 * [ ]Read source code of Relaxed Lasso's R package
+
+### Day 6: 2018-01-29 Monday 
+
+**Today's Progress (achievements and frustrations)**: 
+
+* data analysis
+
+**Thoughts and Emotions**
+
+I am happy that I created [a website](http://notebook.yingjiehu.com/) for my statistical notes. One drawback is that any knowledge whatever how small it is will take time to write.
+
+When I copy the code from the notebook to do data analysis, I feel the time spent is worthwhile.
+
+It is a delimma. People usually think we should write functions to reduce the reduandancy code. A lot of code in data analysis is used only once or will be different a little bit every time. 
+
+**Tomorrow's plan**
+
+* [x] meeting
+
+<hr>
+
+### Day 7: 2018-02-01 Thursday 
+
+**Today's Progress (achievements and frustrations)**: 
+
+* data analysis
+
+**Thoughts and Emotions**
+
+In recent years, I paid attention to reproducible research, i.e, reproducible report. Or it means whether the code can produce the same result after several years. The answer usually is "No". There is only one reason: we cannot know whether the future packages/R version used now will be modified to be so differently from the current version or whether they stop maintainence and cannot be compatible with future version of other packages.
+
+Let me simplify the problem. Assume the failure rate of each package follows binomial distribution with probability of $p$. $p$ is the same for all packages. 
+
+If I use n packages in a data analysis project, the probability of code can be reproduced in the future is $(1-p)^n$. R itself can be considered as a package, too.
+
+$(1-p)^n$ becomes smaller if $n$ increases; more packages in the research decrease the possibility of reproducibility.
+
+**Tomorrow's plan**
+
+* [x] meeting
+
+<hr>
+
+### Day 8: 2018-02-02 Friday 
+
+**Today's Progress (achievements and frustrations)**: 
+
+* data analysis
+
+**Thoughts and Emotions**
+
+To reduce the number of packages used, I plan to write some small snippets code in `with()` function to create characteristic table.
+
+**Tomorrow's plan**
+
+* [x] Take notes
+
+<hr>
+
+### Day 9: 2018-02-04 Sunday 
+
+**Today's Progress (achievements and frustrations)**: 
+
+* data analysis
+
+**Thoughts and Emotions**
+
+It is hard to get started. 
+
+I start reading the textbook [Applied Linear Statistical Models 5th ed](http://amzn.to/2BbcwXB) which is the book for my master program. I feel warm from the book and optimistic about the statistics study.
+
+I used the table template from my first published paper and constructed the table on the current project. It gave me a lot of encouragement because it seemed close to publication if the same amount time was spent.
+
+<hr>
+
+### Day 10: 2018-02-06 Monday 
+
+
+**Today's Progress (achievements and frustrations)**: 
+
+* data analysis
+
+**Thoughts and Emotions**
+
+I was absorbed in doing data analysis + making tables.
+
+Making a satisfying table is time-consuming. It can take as much time as creating models with R.
+
+I am annoyed by the repeated boring work, such as making tables. The solution is to play music in the background. 
+
+Background music is a must for the mind to be absorbed in data analysis because there is a lot of tedious stuff in the process.
+
+**Tomorrow's plan**
+
+* [x]Copy output from RStudio to excel to make 3 tables
+
+<hr>
+
+### Day 11: 2018-02-06 Tuesday 
+
+**Today's Progress (achievements and frustrations)**: 
+
+* data analysis
+* Made 3 tables
+* Rereead a paper from others
+* Reread a paper from the cooperators
+
+**Thoughts and Emotions**
+
+I cleaned over 300 emails on medical center's email inbox. It is boring work. As I said yesterday, the background music is a must for the scenario. Otherwise, "impatience" and intolerable emotion arose.
+
+I was amazed that I finished the things planned yesterday. These two days, I am in the zone though depression sometimes attacked me. 
+
+**Tomorrow's plan**
+
+* [ ]Meet advisor
+* [ ]Hopefully I can start write the "Method" part of the paper
+
+<hr>
+
+### Day 12: 2018-02-22 Thursday
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Ran and edited code one year ago
+
+**Thoughts and Emotions**
+
+The old code missed two functions. I have to rewrite. 
+
+**Tomorrow's plan**
+
+* [x]Continue
+
+<hr>
+
+### Day 13: 2018-02-23 Friday
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Found the mistakes why the old code did not work
+
+**Thoughts and Emotions**
+
+One typo caused error!
+
+**Tomorrow's plan**
+
+* [ ]Rerun the code and write code to achieve the latest need based on the old code
+
+<hr>

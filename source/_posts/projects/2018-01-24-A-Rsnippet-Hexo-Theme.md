@@ -248,3 +248,39 @@ You can see how I added the feature on Youtube video.
 
 ![](2018-01-30-sort-post-by-update-date-on-homepage.png)
 
+## 2018-02-02 Friday
+
+I am working on adding related posts.
+
+`hexo-related-popular-posts` module was used. 
+
+There is one problem. 
+
+````
+I want to hide the text "Related Posts" if no posts are returned.
+
+When there is no posts matched, `popular_posts( {} , page )`  returns 
+```
+<ul class="popular-posts"><li class="popular-posts-item"><div class="popular-posts-title"><h3><a href="/untitled/" title="" rel="bookmark"></a></h3></div></li></ul>
+```
+It makes me impossible to write `if` statement to judge whether there exists at least related post  or not.
+
+I think `popular_posts( {} , page )` should return empty string or any value equivalent to empty if no posts are related to the current post.
+````
+
+I opened [the issue on the module's GitHub](https://github.com/tea3/hexo-related-popular-posts/issues/9).
+
+**Plan**
+
+* [x] Wait for reply from [the issue on the module's GitHub](https://github.com/tea3/hexo-related-popular-posts/issues/9).  
+
+## 2018-02-09 Friday
+
+![](2018-02-09-copyright.png)
+
+* Add copyright information at the end of the post. 
+
+I set the timer to work for one hour and did not have time to add styling.
+
+* [ ] Add styling for copyright
+

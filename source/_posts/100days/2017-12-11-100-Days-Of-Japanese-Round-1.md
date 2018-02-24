@@ -229,7 +229,7 @@ I used the microphone and can hear my own voice.
 
 <hr>
 
-### Day 16: 2018-01-31
+### Day 16: 2018-01-31 Wednesday
 **No. of Anki Cards**: 500
 
 **Time spent**: 55 minutes
@@ -240,3 +240,143 @@ I used the microphone and can hear my own voice.
 
 <hr>
 
+### Day 17: 2018-02-01 Thursday
+**No. of Anki Cards**: 148
+
+**Time spent**: 19 minutes
+
+**Thoughts and Emotions:**
+
+Review when I took subway.
+
+<hr>
+
+### Day 18: 2018-02-02 Friday
+**No. of Anki Cards**: 44
+
+**Time spent**: 388 minutes
+
+**Thoughts and Emotions:**
+
+Review when I took subway.
+
+<hr>
+
+### Day 19: 2018-02-03 Saturday
+**No. of Anki Cards**: 700
+
+**Time spent**: 85 minutes
+
+**Thoughts and Emotions:**
+
+Imagination is a good to memorize words.
+
+<hr>
+
+### Day 20: 2018-02-04 Sunday
+**No. of Anki Cards**: 704
+
+**Time spent**: 85 minutes
+
+**Thoughts and Emotions:**
+
+* New 100 Anki cards
+* Review 500 cards
+
+Today's new cards are harder than yesterday's.
+
+<hr>
+
+### Day 21: 2018-02-05 Monday
+**No. of Anki Cards**: 186
+
+**Time spent**: 21 minutes
+
+**Thoughts and Emotions:**
+
+It's 12 am. The rate of correctness is low. I decide to give up.
+
+<hr>
+
+### Day 22: 2018-02-06 Monday
+**No. of Anki Cards**: 444
+
+**Time spent**: 59 minutes
+
+**Thoughts and Emotions:**
+
+Yesterday Anki did not provide previous new words. I cannot recall most of them today.
+
+<hr>
+
+### Day 23: 2018-02-06 Tuesday
+
+**No. of Anki Cards**: 132
+
+**Time spent**: 19 minutes
+
+**Thoughts and Emotions:**
+
+Yesterday Anki did not provide previous new words. I cannot recall most of them today.
+
+<hr>
+
+
+### Day 24: 2018-02-10 Friday
+
+**No. of Anki Cards**: 234
+
+**Time spent**: 29 minutes
+
+<hr>
+
+### Day 25: 2018-02-12 Monday
+
+**No. of Anki Cards**: > 100
+
+**Time spent**: unkown minutes
+
+<hr>
+
+
+### Day 26: 2018-02-14 Wednesday
+**No. of Anki Cards**: 560
+
+**Time spent**: 65 minutes
+<hr>
+
+### Day 27: 2018-02-15 Thursday
+**No. of Anki Cards**: 115
+
+**Time spent**: 13 minutes
+<hr>
+
+### Day 28: 2018-02-19 Monday
+**No. of Anki Cards**: 763
+
+**Time spent**: 85 minutes
+<hr>
+
+### Day 29: 2018-02-20 Tuesday
+**No. of Anki Cards**: 445
+
+**Time spent**: 46 minutes
+<hr>
+
+### Day 30: 2018-02-21 Wednesday
+**No. of Anki Cards**: 424
+
+**Time spent**: 43 minutes
+<hr>
+
+### Day 31: 2018-02-22 Thursday
+**No. of Anki Cards**: 238
+
+**Time spent**: 33 minutes
+<hr>
+
+### Day 32: 2018-02-23 Friday
+**No. of Anki Cards**: 427
+
+**Time spent**: 46 minutes
+<hr>

@@ -80,7 +80,7 @@ Start Date: 2017-12-06
 * 2018-01-08 [Github Repo](https://github.com/huyingjie/gumroad-plan-calculator) | [Project 13: Gumroad Plan Calculator](http://gumroadplancalculator.yingjiehu.com/)
 * 2018-01-09 [Github Repo](https://github.com/huyingjie/awesome-lifehack-calculators) | [Project 14: Awesome Lifehack Calculators](http://lifehackcalculators.yingjiehu.com/)
 * 2018-01-24 [Github Repo](https://github.com/huyingjie/hexo-theme-A-RSnippet) | [Project 15: Hexo theme A-RSnippet](http://arsnippet.yingjiehu.com/)
-
+* 2018-02-19 Make a website for comics Insanely Reasonable Reasonably Insane
 ## Template for Log
 
 ```
@@ -1676,3 +1676,58 @@ I was streaming while I was coding. Yesterday, I talked along the way. Today I k
 
 <hr>
 
+### Day 50: 2018-02-02 Friday
+
+**Link**: [Github Repo](https://github.com/huyingjie/hexo-theme-A-RSnippet) | [Project 15: Hexo theme A-RSnippet](http://arsnippet.yingjiehu.com/)
+
+**Today's Progress (achievements and frustrations)**:
+
+* Added related post to the theme
+* Started to learn back-end on FreeCodeCamp.
+
+**Thoughts and Emotions:**
+
+I do not feel fulfillment to use `npm` modules to add features to the theme.
+
+I feel frustrated. FreeCodeCamp does not teach all `JavaScript` and `AJAX`. I need to learn outside. I feel worried about learning books and watching video tutorials without projects. In addition, I do not have time to reading more books.
+
+**Tomorrow's plan**
+
+No plan.
+
+<hr>
+
+### Day 51: 2018-02-18 Saturday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Made a sample website without backend
+* Added backend
+
+**Thoughts and Emotions:**
+
+It is hard. I did it little by little and was happy that I can make it using the knowledge learned from FreeCodeCamp and Hexo.
+
+**Tomorrow's plan**
+
+* Add backend
+
+<hr>
+
+### Day 52: 2018-02-19 Sunday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Added backend
+* Uploaded to GitLab
+* Used Netlify to auto deploy 
+
+**Thoughts and Emotions:**
+
+I finished the website. 
+
+**Tomorrow's plan**
+
+* Add backend
+
+<hr>

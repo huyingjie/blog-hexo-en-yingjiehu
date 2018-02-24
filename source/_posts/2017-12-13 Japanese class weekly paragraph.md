@@ -120,7 +120,28 @@ $\stackrel{\text{そくじつ}}{即日}$⓪ 勉強を　初めて、昨日　$\s
 
 **Japanese:**
 
-去年に　友達と　$\stackrel{\text{いいあらそ}}{言い争}$って　残念でした。金曜日は　一緒に　晩御飯を　食べて、$\stackrel{\text{なかなお}}{仲直}$りで、楽しかたです。
+去年に　友達と　$\stackrel{\text{いいあらそ}}{言い争}$って　残念でした。金曜日は　一緒に　晩御飯を　食べて、$\stackrel{\text{なかなお}}{仲直}$り<font color="red">し</font>で、楽しかたです。
 
-週末は　twitchで live steamingを　しました。話を　たくさん　して、$\stackrel{\text{つか}}{疲}$れりました。
-ほとんどの人は　コーディングが　好きじゃないですから、あまり streamingを　見ませんでした。一人が　私に　$\stackrel{\text{はげ}}{励}$まして　楽しかたです。
+週末は　twitchで live steamingを　しました。話を　たくさん　して、$\stackrel{\text{つか}}{疲}$れ　<del>り</del>　ました。
+ほとんどの人は　コーディングが　好きじゃないですから、あまり streamingを　見ませんでした。一人が　私<font color="red"><del>に</del>を</font>　$\stackrel{\text{はげ}}{励}$まして　楽しかたです。
+
+## 2018/02/15 Thursday
+
+**Japanese:**
+
+少し<font color="red">の</font>　知識[ちしき]①<font color="red">だけで</font><del>を　勉強して</del>　面白い　プロジェクトを　作ります。先年の１２月から　１００日のchallengeを　はじめた。freecodecampは　HTMlとCSSとJavascriptとjQueryを　<font color="red">教えるている<del>覚える</del></font>けど JavascriptのDOMや　aJaxや　CSSのanimationなど<font color="red">强调用は<del>が</del></font>ありませんでした。でも、私は　少し　知識で　いくつか①のfont-end websitesを　作りました。
+
+私は毎日　一時間の練習<font color="red">が<del>に</del></font>　適[てき]する③ と思います。blogで　記録[きろく]するので、　blogの使用[しよう]⓪<font color="red"><del>の 惯用语句</del></font>回数[かいすう]③が 増加[ぞうか]しいます。たくさん人が　記録を賞賛[しょうさん]⓪して　とても楽しいです。３人が　私<font color="red"><del>から</del>に因为是被动， 方向改变</font>　１００日のchallengeを始めるのを吹<font color="red"><del>き込[ふきこ]まれる</de>触発され</font>　と言っていました。
+
+A is suitable for B
+(Aが)　(Bに)　適[てき]する
+毎日　一時間の練習は　私に　適[てき]する③ と思います。
+
+**Chinese:**
+
+少量的知识足够完成有意思的作品。去年12月开始做100天chanllenge。 freecodecamp教HTMl，CSS，Javascript和jQuery。 但是教得不深。没有说明aJax.没有教css的animation.但我能用所学的一点点知识做出虽然style不好,但是符合我想法的front-end网站.
+
+从中觉得每天限制1h的练习很适合我.每天记录在blog中也增加了我使用blog的频率.
+好多人在网上对我的blog发出赞扬. 超过3个人问我inspire他们开始做100天的challenge. 很开心.
+
+学校的思维影响了我. 老师和知乎都会说牛人学知识系统.我们这些平凡人为了学知识而学知识.

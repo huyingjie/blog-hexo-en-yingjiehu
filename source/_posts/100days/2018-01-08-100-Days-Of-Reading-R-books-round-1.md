@@ -217,10 +217,136 @@ Most of time I did copy and paste from the book to my big sheet.
 
 **Thoughts and Emotions**
 
-I spent most of time taking notes; I input syntax into my big programming sheet.
+I spent most of the time taking notes; I input syntax into my big programming sheet.
 
 **Tomorrow's plan**
 
 * [ ]Chapter 1
+
+<hr>
+
+### Day 6: 2018-02-03 Saturday 
+
+**Book**: [R in Action: Data Analysis and Graphics with R 2nd Edition](http://amzn.to/2DLB2xX)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Page 12, 13
+
+**Thoughts and Emotions**
+
+I spent most of the time taking notes; I input syntax into my big programming sheet.
+
+No choice. If notes are not taken now, I will spend more time to search online to find them.
+
+It is the choice between spending time now or spending more time in the future.
+
+**Tomorrow's plan**
+
+* [ ]Chapter 1
+
+<hr>
+
+### Day 7: 2018-02-04 Sunday 
+
+**Book**: [R in Action: Data Analysis and Graphics with R 2nd Edition](http://amzn.to/2DLB2xX)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Page 13-16
+
+**Thoughts and Emotions**
+
+Page 15 recommended several good functions to list packages installed on the computer and loaded in the session, and so on.
+
+They are useful if I want to clean packages. One drawback of all R books I read so far is that none of them provide functions how to uninstall and unloaded packages.
+
+I guess most of the R users do not uninstall packages after installing them. The same thing happened to load packages.
+
+**Tomorrow's plan**
+
+* [ ]Chapter 1
+
+<hr>
+
+### Day 8: 2018-02-06 Tuesday 
+
+**Book**: [R in Action: Data Analysis and Graphics with R 2nd Edition](http://amzn.to/2DLB2xX)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* page 17 - 22
+* Finished Chapter 1
+
+**Thoughts and Emotions**
+
+Page 18 
+
+There are 7 steps in the example on "Section 1.8 Working through an example". I remember when I read the Chapter first time, I did not know how to do
+
+```
+3. List the functions and datasets available in the package
+6. Run the example that comes with the Arthritis dataset
+```
+
+This time, I took notes during the reading and knew why this happened.
+
+For the question 3, the book said you could find the functions of packages using the function `help(package="packageName"). The book used the different language between the content and the question
+
+For the question 6, the book never said `example()` could accept a dataset name as the argument. It mentioned that examples of packages could be run by `example()`. Maybe the author hoped readers looked for answers by themselves by using `?example`.
+
+**Tomorrow's plan**
+
+* [ ] Chapter 2
+
+<hr>
+
+### Day 9: 2018-02-14 Wednesday 
+
+**Book**: [R in Action: Data Analysis and Graphics with R 2nd Edition](http://amzn.to/2DLB2xX)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Page 23 - 29
+
+**Thoughts and Emotions**
+
+* vector
+* matrix
+* array
+* data frame
+* factor
+
+These were the most friction when I learned R at the beginning. R has the biggest number of data type among programming languages I learned so far. It is tough to change the mindset from C to R.
+
+**Tomorrow's plan**
+
+* [ ] Chapter 2
+
+<hr>
+
+### Day 10: 2018-02-16 Friday 
+
+**Book**: [R in Action: Data Analysis and Graphics with R 2nd Edition](http://amzn.to/2DLB2xX)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Page 30 - 38
+
+**Thoughts and Emotions**
+
+There are a lot of types datasets. Each one has a different way. I am happy that inputting these into the programming language syntax table.
+
+I input a lot of methods before. R in Action provided more. It is frustrating when every book gives a different subset of all possible types of datasets. 
+
+Importing `xlsx` files requires `Java`. I used package `XLConnect` several years. I re-ran the code again last year, and there were some errors with `Java`. Searching online did not give me an effective solution. 
+
+Again, the more stuff one package depends on, the less possibility of code that can be reproduced in the future.
+
+Reducing dependencies is the key to reproducibility. The importance of reproducible reports is much lower than dependencies.
+
+**Tomorrow's plan**
+
+* [ ] Chapter 2
 
 <hr>
