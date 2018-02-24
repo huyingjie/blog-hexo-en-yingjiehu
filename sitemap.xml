@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Reading-R-books-Round-1/</loc>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Code-R-data-analysis-Round-1/</loc>
     
-    <lastmod>2018-02-16T22:13:24.445Z</lastmod>
+    <lastmod>2018-02-24T02:27:00.135Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Japanese-Round-1/</loc>
     
-    <lastmod>2018-02-16T06:16:50.676Z</lastmod>
+    <lastmod>2018-02-24T02:19:09.105Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Web-Development-Round-1/</loc>
+    
+    <lastmod>2018-02-20T03:16:56.679Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Reading-R-books-Round-1/</loc>
+    
+    <lastmod>2018-02-16T22:13:24.445Z</lastmod>
     
   </url>
   
@@ -37,13 +51,6 @@
   </url>
   
   <url>
-    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Code-R-data-analysis-Round-1/</loc>
-    
-    <lastmod>2018-02-07T03:58:54.055Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/Streaming-on-Twitch/</loc>
     
     <lastmod>2018-02-07T03:41:47.670Z</lastmod>
@@ -54,13 +61,6 @@
     <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/Streaming/2018-01-27-Streaming-Data-Science-2018-01-27-2018-02-03/</loc>
     
     <lastmod>2018-02-07T03:41:39.020Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Web-Development-Round-1/</loc>
-    
-    <lastmod>2018-02-03T05:16:17.183Z</lastmod>
     
   </url>
   
@@ -219,7 +219,7 @@
   </url>
   
   <url>
-    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/its-a-correct-choice-to-buy-mac-pro/</loc>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/How-long-to-write-a-book/</loc>
     
     <lastmod>2017-11-19T01:03:12.000Z</lastmod>
     
@@ -240,7 +240,7 @@
   </url>
   
   <url>
-    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/How-long-to-write-a-book/</loc>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/its-a-correct-choice-to-buy-mac-pro/</loc>
     
     <lastmod>2017-11-19T01:03:12.000Z</lastmod>
     
