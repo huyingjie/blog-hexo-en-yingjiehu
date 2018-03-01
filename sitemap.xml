@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Fitness-Round-1/</loc>
+    
+    <lastmod>2018-03-01T04:28:33.992Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Japanese-Round-1/</loc>
     
-    <lastmod>2018-02-27T00:27:20.832Z</lastmod>
+    <lastmod>2018-02-28T06:03:19.140Z</lastmod>
     
   </url>
   
@@ -219,13 +226,6 @@
   </url>
   
   <url>
-    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/how-to-uninstall-r-under-mac-os-x/</loc>
-    
-    <lastmod>2017-11-19T01:03:12.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/its-a-correct-choice-to-buy-mac-pro/</loc>
     
     <lastmod>2017-11-19T01:03:12.000Z</lastmod>
@@ -234,6 +234,13 @@
   
   <url>
     <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/tags/index.html</loc>
+    
+    <lastmod>2017-11-19T01:03:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/how-to-uninstall-r-under-mac-os-x/</loc>
     
     <lastmod>2017-11-19T01:03:12.000Z</lastmod>
     
