@@ -46,7 +46,7 @@ Since August, I have been using Anki to recite Japanese words. Hence, the 100-da
 
 1. [1 Day (Day 1: 2017-12-10 Sunday)](#Day-1-2017-12-10-Sunday)
 2. [7 Days (Day 7: 2017-12-16 Saturday)](#Day-7-2017-12-16-Saturday)
-3. 30 Days
+3. [30 Days (Day 30: 2018-02-21 Wednesday)](#Day-30-2018-02-21-Wednesday)
 4. 60 Days
 5. 90 Days
 6. 100 Days
@@ -379,4 +379,130 @@ Yesterday Anki did not provide previous new words. I cannot recall most of them 
 **No. of Anki Cards**: 427
 
 **Time spent**: 46 minutes
+<hr>
+
+### Day 33: 2018-02-24 Saturday
+**No. of Anki Cards**: 472
+
+**Time spent**: 57 minutes
+<hr>
+
+### Day 34: 2018-02-25 Sunday
+**No. of Anki Cards**: 463
+
+**Time spent**: 49 minutes
+<hr>
+
+### Day 35: 2018-02-26 Monday
+**No. of Anki Cards**: 490
+
+**Time spent**: 54 minutes
+<hr>
+
+### Day 36: 2018-02-27 Tuesday
+**No. of Anki Cards**: 153
+
+**Time spent**: 20 minutes
+<hr>
+
+### Day 37: 2018-02-28 Wednesday
+**No. of Anki Cards**: 521
+
+**Time spent**: 65 minutes
+<hr>
+
+### Day 38: 2018-03-01 Thursday
+**No. of Anki Cards**: 341
+
+**Time spent**: 44 minutes
+<hr>
+
+### Day 39: 2018-03-02 Friday
+**No. of Anki Cards**: 255
+
+**Time spent**: 29 minutes
+<hr>
+
+### Day 40: 2018-03-03 Saturday
+**No. of Anki Cards**: 441
+
+**Time spent**: 51 minutes
+<hr>
+
+### Day 41: 2018-03-05 Monday
+**No. of Anki Cards**: 565
+
+**Time spent**: 85 minutes
+<hr>
+
+### Day 42: 2018-03-07 Wednesday
+**No. of Anki Cards**: 685
+
+**Time spent**: 67 minutes
+<hr>
+
+### Day 43: 2018-03-08 Thursday
+**No. of Anki Cards**: 119
+
+**Time spent**: 13 minutes
+<hr>
+
+### Day 44: 2018-03-10 Saturday
+**No. of Anki Cards**: 428
+
+**Time spent**: 39 minutes
+<hr>
+
+### Day 45: 2018-03-11 Sunday
+**No. of Anki Cards**: 554
+
+**Time spent**: 54 minutes
+<hr>
+
+### Day 46: 2018-03-13 Tuesday
+**No. of Anki Cards**: 437
+
+**Time spent**: 42 minutes
+<hr>
+
+### Day 47: 2018-03-14 Wednesday
+**No. of Anki Cards**: 436
+
+**Time spent**: 46 minutes
+<hr>
+
+### Day 48: 2018-03-15 Thursday
+**No. of Anki Cards**: 593
+
+**Time spent**: 65 minutes
+<hr>
+
+### Day 49: 2018-03-16 Friday
+**No. of Anki Cards**: 379
+
+**Time spent**: 37 minutes
+<hr>
+
+### Day 50: 2018-03-19 Monday
+**No. of Anki Cards**: 397
+
+**Time spent**: 40 minutes
+<hr>
+
+### Day 51: 2018-03-20 Tuesday
+**No. of Anki Cards**: 500
+
+**Time spent**: 60 minutes
+<hr>
+
+### Day 52: 2018-03-21 Wednesday
+**No. of Anki Cards**: 489
+
+**Time spent**: 52 minutes
+<hr>
+
+### Day 53: 2018-03-22 Thursday
+**No. of Anki Cards**: 576
+
+**Time spent**: 58 minutes
 <hr>

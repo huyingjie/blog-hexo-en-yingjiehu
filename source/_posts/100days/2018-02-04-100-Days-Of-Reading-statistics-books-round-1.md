@@ -129,7 +129,7 @@ I like the book. It is easy to read. The disadvantage is that it is toooooooo th
 
 <hr>
 
-### Day : 
+### Day 3: 2018-02-07 Wednesday
 
 **Book**: [Applied Linear Statistical Models 5th ed](http://amzn.to/2BbcwXB)
 
@@ -145,6 +145,18 @@ In short, "Important Features of Model" can be summarized with one line formula:
 
 I understand that why the book used verbose language to describe this: the book is for the beginners. Again, different statistics books use different terms. It becomes readers' responsibility to connect all of them. It is hard though.
 
-**Tomorrow's plan**
+<hr>
+
+### Day 4: 2018-03-22 Thursday 
+
+**Book**: [Applied Linear Statistical Models 5th ed](http://amzn.to/2BbcwXB)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* page 12-16
+
+**Thoughts and Emotions**
+
+Easy to understand.
 
 <hr>

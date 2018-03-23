@@ -513,6 +513,47 @@ One typo caused error!
 
 **Tomorrow's plan**
 
-* [ ]Rerun the code and write code to achieve the latest need based on the old code
+* [x]Rerun the code and write code to achieve the latest need based on the old code
+
+<hr>
+
+### Day 14: 2018-02-26 Sunday
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Run code
+* Found another error 
+
+**Thoughts and Emotions**
+
+I was so happy that code could run again. All models produced the same with results in the last year's report, except the previous model. The anxiety increased because of fear that I cannot find the bug.
+
+**Tomorrow's plan**
+
+* [x] Look for the reason why the last model gives different result.
+
+<hr>
+
+### Day 15: 2018-03-01 Thursday
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Found the error why parts of code generated different results
+* Met supervisor
+
+**Thoughts and Emotions**
+
+This week is so busy.
+
+After rereading the code, I found the reason was the data deleted by `complete.cases` function in R. 
+
+If we use only 3 variables, then `complete.cases` function should be applied to the dataset containing 3 variables, not to the whole data. 
+
+After correcting, happily, the result is the same as last year's report.
+
+**Tomorrow's plan**
+
+* [ ]Format tables
+* [ ]Transform data with `logarithm` and run
 
 <hr>

@@ -76,7 +76,7 @@ If you can memorize details of all programming languages you have learned, you a
 ## Milestone
 
 * [1 Day: 2018-01-08 Monday](#Day-1-2018-01-08-Monday)
-* 7 Days
+* [7 Days: 2018-02-04 Sunday](#Day-7-2018-02-04-Sunday)
 * 30 Days
 * 60 Days
 * 90 Days
@@ -347,6 +347,42 @@ Reducing dependencies is the key to reproducibility. The importance of reproduci
 
 **Tomorrow's plan**
 
-* [ ] Chapter 2
+* [x] Chapter 2
 
 <hr>
+
+### Day 11: 2018-03-07 Wednesday
+
+**Book**: [R in Action: Data Analysis and Graphics with R 2nd Edition](http://amzn.to/2DLB2xX)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Finished Chapter 2
+* Page 39-49
+
+**Thoughts and Emotions**
+
+Slow progress. I hope I do not need to read again.
+
+**Tomorrow's plan**
+
+* [ ] Chapter 3
+
+<hr>
+
+### Day 12: 2018-03-22 Thursday
+
+**Book**: [R in Action: Data Analysis and Graphics with R 2nd Edition](http://amzn.to/2DLB2xX)
+
+**Today's Progress (achievements and frustrations)**: 
+
+* Finished Chapter 2
+* Page 50-55
+
+**Thoughts and Emotions**
+
+I did not find a good way to arrange graph options.
+
+**Tomorrow's plan**
+
+* [ ] Chapter 3

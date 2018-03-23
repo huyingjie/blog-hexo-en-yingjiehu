@@ -81,6 +81,7 @@ Start Date: 2017-12-06
 * 2018-01-09 [Github Repo](https://github.com/huyingjie/awesome-lifehack-calculators) | [Project 14: Awesome Lifehack Calculators](http://lifehackcalculators.yingjiehu.com/)
 * 2018-01-24 [Github Repo](https://github.com/huyingjie/hexo-theme-A-RSnippet) | [Project 15: Hexo theme A-RSnippet](http://arsnippet.yingjiehu.com/)
 * 2018-02-19 Make a website for comics Insanely Reasonable Reasonably Insane
+
 ## Template for Log
 
 ```
@@ -1729,5 +1730,30 @@ I finished the website.
 **Tomorrow's plan**
 
 * Add backend
+
+<hr>
+
+### Day 53: 2018-03-19 Monday
+
+**Link**: [Github Repo](https://github.com/huyingjie/twitch-streamer) | [Project 16: Twitch Streamer]()
+
+**Today's Progress (achievements and frustrations)**:
+
+* One-hour Javascript algorithm
+* One-hour programming for CSS and HTML of Twitch Streamer project
+
+**Thoughts and Emotions:**
+
+It is a one-month rest. It is easy to think if I did not rest for one month, today would be around the 83rd day.
+
+Face the truth and restart the challenge.
+
+My therapist said it could be a good practice.
+
+I was discouraged by the Javascript algorithm problems. Exact Change was hard to solve. It was amazing that I finished today. It remains true that if I work on the front-end projects for an hour every day without depression, in a limited number of days, I can solve the challenging problems.
+
+**Tomorrow's plan**
+
+* [ ] CSS and HTML of Twitch Streamer project
 
 <hr>
