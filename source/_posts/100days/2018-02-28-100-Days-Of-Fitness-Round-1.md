@@ -309,3 +309,103 @@ Laundry requires more time than expected. Even if ten minutes late, I can workou
 I was in the 3rd row. I emerged in exercise.
 
 <hr>
+
+### Day 16: 2018-03-24 Saturday
+
+**Class**: Yoga
+
+**Today's Progress (achievements and frustrations)**:
+
+45-min yoga
+
+<hr>
+
+### Day 17: 2018-03-25 Sunday
+
+**Class**: Zumba toning
+
+**Today's Progress (achievements and frustrations)**:
+
+* 1 hour zumba toning
+
+**Thoughts and Emotions**
+
+I liked the teacher but she was temporarily here. 
+
+We danced for several songs and lifted the dumbell for 1 song. It is like HIIT. 
+
+<hr>
+
+
+### Day 18: 2018-03-26 Monday
+
+**Class**: Zumba
+
+**Today's Progress (achievements and frustrations)**:
+
+* 1 hour zumba
+
+<hr>
+
+
+### Day 19: 2018-04-02 Monday
+
+**Class**: Zumba
+
+**Today's Progress (achievements and frustrations)**:
+
+* 1 hour zumba
+
+<hr>
+
+### Day 20: 2018-04-03 Tuesday
+
+**Class**: Zumba toning
+
+**Today's Progress (achievements and frustrations)**:
+
+* 1 hour zumba toning
+
+<hr>
+
+### Day 21: 2018-04-08 Sunday
+
+**Class**: Zumba toning
+
+**Today's Progress (achievements and frustrations)**:
+
+* 1 hour zumba toning
+
+**Thoughts and Emotions**
+
+I don't like the music. I asked two persons and they said if I didn't like it, then it is not necessary to force myself to attend the class any more.
+
+<hr>
+
+
+### Day 22: 2018-04-12 Thursday
+
+**Class**: BollyX
+
+**Today's Progress (achievements and frustrations)**:
+
+* 45 min BollyX
+
+**Thoughts and Emotions**
+
+Very intensive workout. I like it. Sad. The teacher only teached once.
+
+<hr>
+
+
+### Day 23: 2018-04-17 Tuesday
+
+**Class**: Zumba toning
+
+**Today's Progress (achievements and frustrations)**:
+
+* 1 hour zumba toning
+
+<hr>
+
+

@@ -47,7 +47,7 @@ Since August, I have been using Anki to recite Japanese words. Hence, the 100-da
 1. [1 Day (Day 1: 2017-12-10 Sunday)](#Day-1-2017-12-10-Sunday)
 2. [7 Days (Day 7: 2017-12-16 Saturday)](#Day-7-2017-12-16-Saturday)
 3. [30 Days (Day 30: 2018-02-21 Wednesday)](#Day-30-2018-02-21-Wednesday)
-4. 60 Days
+4. [60 Days (Day 60: 2018-04-09 Monday)](#Day-60-2018-04-09-Monday)
 5. 90 Days
 6. 100 Days
 
@@ -505,4 +505,60 @@ Yesterday Anki did not provide previous new words. I cannot recall most of them 
 **No. of Anki Cards**: 576
 
 **Time spent**: 58 minutes
+<hr>
+
+### Day 54: 2018-03-23 Friday
+**No. of Anki Cards**: 449
+
+**Time spent**: 47 minutes
+<hr>
+
+### Day 55: 2018-03-24 Saturday
+**No. of Anki Cards**: 386
+
+**Time spent**: 37 minutes
+<hr>
+
+### Day 56: 2018-03-26 Monday
+**No. of Anki Cards**: 379
+
+**Time spent**: 30 minutes
+<hr>
+
+### Day 57: 2018-03-27 Tuesday
+**No. of Anki Cards**: 346
+
+**Time spent**: 43 minutes
+<hr>
+
+### Day 58: 2018-03-28 Wednesday
+**No. of Anki Cards**: 391
+
+**Time spent**: 48 minutes
+<hr>
+
+### Day 59: 2018-03-29 Wednesday
+**No. of Anki Cards**: 600
+
+**Time spent**: 67 minutes
+<hr>
+
+### Day 60: 2018-04-09 Monday
+**No. of Anki Cards**: 112
+
+**Time spent**: 12 minutes
+
+This is the first 100-day challenge to achieve 60 days.
+<hr>
+
+### Day 61: 2018-04-12 Thursday
+**No. of Anki Cards**: 118
+
+**Time spent**: 12 minutes
+<hr>
+
+### Day 62: 2018-04-16 Monday
+**No. of Anki Cards**: 605
+
+**Time spent**: 63 minutes
 <hr>

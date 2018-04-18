@@ -242,3 +242,7 @@ I am bored with reading Python syntax and decided to skip Chapter 1 first.
 * [ ] Chapter 2
 <hr>
 
+
+
+2018-03-24 page 53
+
