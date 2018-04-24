@@ -11,7 +11,7 @@ categories:
 permalink: awesome-Lifehack-Calculators
 ---
 
-<img src="../img/Awesome-Lifehack-Calculators.png"> 
+<img src="/img/Awesome-Lifehack-Calculators.png"> 
 <!-- more -->
 
 This project was done in the middle of [100 Days of Web Develpoment challenge](/100-Days-Of-Web-Development-Round-1/).

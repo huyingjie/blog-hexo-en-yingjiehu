@@ -9,7 +9,7 @@ categories:
 permalink: rsnippets
 ---
 
-<img src="../img/rsnippets.png"> 
+<img src="/img/rsnippets.png"> 
 <!-- more -->
 
 This project was done in the middle of [100 Days of Web Develpoment challenge](/100-Days-Of-Web-Development-Round-1/).

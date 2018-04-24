@@ -129,9 +129,9 @@ $\stackrel{\text{そくじつ}}{即日}$⓪ 勉強を　初めて、昨日　$\s
 
 **Japanese:**
 
-少し<font color="red">の</font>　知識[ちしき]①<font color="red">だけで</font><del>を　勉強して</del>　面白い　プロジェクトを　作ります。先年の１２月から　１００日のchallengeを　はじめた。freecodecampは　HTMlとCSSとJavascriptとjQueryを　<font color="red">教えるている<del>覚える</del></font>けど JavascriptのDOMや　aJaxや　CSSのanimationなど<font color="red">强调用は<del>が</del></font>ありませんでした。でも、私は　少し　知識で　いくつか①のfont-end websitesを　作りました。
+少し<font color="red">の</font>　知識[ちしき]①<font color="red">だけで</font><del>を　勉強して</del>　面白い　プロジェクトを　作ります。先年の１２月から　１００日のchallengeを　はじめた。freecodecampは　HTMlとCSSとJavascriptとjQueryを　<font color="red">教えるている<del>覚える</del></font>けど JavascriptのDOMや　aJaxや　CSSのanimationなど<font color="red">强调用は<del>が</del></font>ありませんでした。でも、私は　少し　知識で　いくつか①のfont-end websitesを　作りました。
 
-私は毎日　一時間の練習<font color="red">が<del>に</del></font>　適[てき]する③ と思います。blogで　記録[きろく]するので、　blogの使用[しよう]⓪<font color="red"><del>の 惯用语句</del></font>回数[かいすう]③が 増加[ぞうか]しいます。たくさん人が　記録を賞賛[しょうさん]⓪して　とても楽しいです。３人が　私<font color="red"><del>から</del>に因为是被动， 方向改变</font>　１００日のchallengeを始めるのを吹<font color="red"><del>き込[ふきこ]まれる</de>触発され</font>　と言っていました。
+私は毎日　一時間の練習<font color="red">が<del>に</del></font>　適[てき]する③ と思います。blogで　記録[きろく]するので、　blogの使用[しよう]⓪<font color="red"><del>の 惯用语句</del></font>回数[かいすう]③が 増加[ぞうか]しいます。たくさん人が　記録を賞賛[しょうさん]⓪して　とても楽しいです。３人が　私<font color="red"><del>から</del>に因为是被动， 方向改变</font>　１００日のchallengeを始めるのを吹<font color="red"><del>き込[ふきこ]まれる</de>触発され</font>　と言っていました。
 
 A is suitable for B
 
@@ -204,6 +204,7 @@ visitor center[ビジターセンター]前で　乗リました。visitor cente
 U Pen的建筑风格与哥大和哈佛一样, 我猜是不是所有Ivy League都是一个建筑风格.在网上查了下,8所学校建于1636-1764年间, 他们的年龄比中华人名共和国的年龄长多了. 哈佛是最老的, 建于清号初期皇太极时期. U Pen建于1740年, 乾隆时期.
 
 差点误了上车地点, 跑了10分钟到车站.
+
 
 ## 2018/03/15 Thursday
 

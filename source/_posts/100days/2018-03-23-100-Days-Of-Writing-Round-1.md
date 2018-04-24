@@ -76,3 +76,36 @@ I should write the methodology paper this time last year. Today meeting with the
 * [ ] 30-min writing of the 1st draft of a methodology paper
 
 <hr>
+
+### Day 2: 2018-04-20 Friday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 2-hour writing
+
+**Thoughts and Emotions**
+
+I wrote from 10:30 pm and 1:30 am. Before writing, stress initiated headache. After writing, I felt delighted.
+
+**Tomorrow's plan**
+
+* continue to write
+
+<hr>
+
+### Day 3: 2018-04-23 Monday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 3-hour writing
+* Finished the soft draft paper
+
+**Thoughts and Emotions**
+
+My customized planning book gave me a lot of courage.
+
+**Tomorrow's plan**
+
+* continue to write another paper
+
+<hr>

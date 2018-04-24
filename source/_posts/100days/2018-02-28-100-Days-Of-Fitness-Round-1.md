@@ -408,4 +408,13 @@ Very intensive workout. I like it. Sad. The teacher only teached once.
 
 <hr>
 
+### Day 24: 2018-04-23 Monday
+
+**Class**: Zumba
+
+**Today's Progress (achievements and frustrations)**:
+
+* 1 hour zumba
+
+<hr>
 

@@ -11,7 +11,7 @@ categories:
 permalink: Gumroad-Plan-Calculator
 ---
 
-<img src="../img/Gumroad-Plan-Calculator.png"> 
+<img src="/img/Gumroad-Plan-Calculator.png"> 
 <!-- more -->
 
 This project was done in the middle of [100 Days of Web Develpoment challenge](/100-Days-Of-Web-Development-Round-1/).

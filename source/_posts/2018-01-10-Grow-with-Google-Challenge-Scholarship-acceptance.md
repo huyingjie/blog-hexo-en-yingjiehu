@@ -6,10 +6,11 @@ tags:
 	- awards
 categories:
 	- [Awards]
+	- Web Development
 permalink: Grow-with-Google-Challenge-Scholarship-Acceptance-letter
 ---
 
-<img src="../img/2018-01-10-Grow-with-Google-Challenge-Scholarship-acceptance-letter.png"> 
+<img src="/img/2018-01-10-Grow-with-Google-Challenge-Scholarship-acceptance-letter.png"> 
 
 <!-- more -->
 
@@ -91,3 +92,9 @@ I read the AMA record and here are my thoughts.
 	It reminded me of my previous course on Udacity, making iOS apps. After learning that course, I cannot make an app from start to end.
 
 4. The order of importance: Finishing the course -> Forum activity -> Slack activity.
+
+### 2018-04-17 Tuesday Phase II was rewarded!
+
+I was happy to be selected for the full Udacity GrowWithGoogle Scholarship Front End Developer Nanodegree program! It was phase II, i.e., **I am in the top 1.5% of all applicants. **
+
+<img src="/img/2018-04-23-Grow-with-Google-Challenge-Scholarship-acceptance.png"> 
