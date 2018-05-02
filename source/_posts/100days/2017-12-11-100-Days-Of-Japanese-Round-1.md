@@ -322,7 +322,7 @@ Yesterday Anki did not provide previous new words. I cannot recall most of them 
 <hr>
 
 
-### Day 24: 2018-02-10 Friday
+### Day 24: 2018-02-09 Friday
 
 **No. of Anki Cards**: 234
 
@@ -562,3 +562,41 @@ This is the first 100-day challenge to achieve 60 days.
 
 **Time spent**: 63 minutes
 <hr>
+
+### Day 63: 2018-04-23 Monday
+**No. of Anki Cards**: 235
+
+**Time spent**: 29 minutes
+<hr>
+
+### Day 64: 2018-04-24 Tuesday
+**No. of Anki Cards**: 300
+
+**Time spent**: 30 minutes
+<hr>
+
+### Day 65: 2018-04-25 Wednesday
+**No. of Anki Cards**: 546
+
+**Time spent**: 58 minutes
+<hr>
+
+### Day 66: 2018-04-26 Thursday
+**No. of Anki Cards**: 204
+
+**Time spent**: 25 minutes
+<hr>
+
+### Day 67: 2018-04-30 Monday
+**No. of Anki Cards**: 216
+
+**Time spent**: 20 minutes
+<hr>
+
+
+### Day 68: 2018-05-02 Wednesday
+**No. of Anki Cards**: 757
+
+**Time spent**: 77 minutes
+<hr>
+

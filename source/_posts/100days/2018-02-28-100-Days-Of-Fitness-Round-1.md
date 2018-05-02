@@ -418,3 +418,17 @@ Very intensive workout. I like it. Sad. The teacher only teached once.
 
 <hr>
 
+### Day 25: 2018-04-24 Tuesday
+
+**Class**: Zumba toning
+
+**Today's Progress (achievements and frustrations)**:
+
+* 1 hour zumba toning
+
+**Thoughts and Emotions**
+
+The class today has fewer students than normal. I was on the 3rd row and was blocked by students in the front rows not to see the mirror. It took more effort to see the teacher and the mirror from the crowd.
+
+Writing a detailed plan of a day is helpful.
+<hr>

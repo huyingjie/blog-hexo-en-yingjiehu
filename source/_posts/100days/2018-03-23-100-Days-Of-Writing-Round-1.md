@@ -109,3 +109,19 @@ My customized planning book gave me a lot of courage.
 * continue to write another paper
 
 <hr>
+
+### Day 4: 2018-04-25 Wednesday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 1-hour writing
+
+**Thoughts and Emotions**
+
+I see the hope to finish the project. It is a big move.
+
+**Tomorrow's plan**
+
+* correct the paper based on today's meeting
+
+<hr>
