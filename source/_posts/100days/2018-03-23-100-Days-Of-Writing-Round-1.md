@@ -7,6 +7,7 @@ tags:
 	- writing
 categories:
 	- [100 Days Challenge, Data Science]
+	- Data Science
 permalink: 100-Days-Of-Writing-Round-1
 ---
 Main Commitment: I will write every day for the next 100 days.

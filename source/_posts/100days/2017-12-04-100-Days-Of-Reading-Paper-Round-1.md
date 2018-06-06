@@ -7,7 +7,7 @@ tags:
 	- Data Science
 	- academic
 categories:
-	- 100 Days Challenge
+	- [100 Days Challenge, Data Science]
 	- Data Science
 permalink: 100-Days-Of-Reading-Paper-Round-1
 ---

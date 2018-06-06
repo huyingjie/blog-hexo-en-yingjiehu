@@ -598,5 +598,83 @@ This is the first 100-day challenge to achieve 60 days.
 **No. of Anki Cards**: 757
 
 **Time spent**: 77 minutes
+
+**Thoughts and Emotions:**
+
+A catchup day. Words are harder and harder to be memorized.
 <hr>
+
+
+### Day 69: 2018-05-03 Thursday
+**No. of Anki Cards**: 293
+
+**Time spent**: 33 minutes
+<hr>
+
+### Day 70: 2018-05-04 Friday
+**No. of Anki Cards**: 677
+
+**Time spent**: 70 minutes
+<hr>
+
+### Day 71: 2018-05-05 Saturday
+**No. of Anki Cards**: 272
+
+**Time spent**: 30 minutes
+<hr>
+
+### Day 72: 2018-05-06 Sunday
+**No. of Anki Cards**: 760
+
+**Time spent**: 79 minutes
+
+**Thoughts and Emotions:**
+
+After a long time, I finished 100 new cards again.
+<hr>
+
+### Day 73: 2018-05-30 Wednesday
+**No. of Anki Cards**: 208
+
+**Time spent**: 15 minutes
+
+<hr>
+
+### Day 74: 2018-05-31 Thursday
+**No. of Anki Cards**: 280
+
+**Time spent**: 33 minutes
+
+<hr>
+
+### Day 75: 2018-06-01 Friday
+**No. of Anki Cards**: 169
+
+**Time spent**: 19 minutes
+
+<hr>
+
+
+### Day 76: 2018-06-04 Monday
+**No. of Anki Cards**: 373
+
+**Time spent**: 35 minutes
+
+<hr>
+
+### Day 77: 2018-06-05 Tuesday
+**No. of Anki Cards**: 387
+
+**Time spent**: 40 minutes
+
+<hr>
+
+### Day 78: 2018-06-06 Wednesday
+**No. of Anki Cards**: 518
+
+**Time spent**: 52 minutes
+
+<hr>
+
+
 

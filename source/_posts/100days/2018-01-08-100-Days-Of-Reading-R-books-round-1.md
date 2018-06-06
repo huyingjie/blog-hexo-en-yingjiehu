@@ -9,6 +9,7 @@ tags:
 categories: 
 	- [100 Days Challenge, Data Science]
 	- [Programming Language, R]
+	- Data Science
 permalink: 100-Days-Of-Reading-R-books-Round-1
 ---
 Main Commitment: I will read books about R at least 30 minutes per day for the next 100 days.

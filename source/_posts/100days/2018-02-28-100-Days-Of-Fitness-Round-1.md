@@ -432,3 +432,69 @@ The class today has fewer students than normal. I was on the 3rd row and was blo
 
 Writing a detailed plan of a day is helpful.
 <hr>
+
+### Day 26: 2018-05-03 Friday
+
+**Class**: Zumba
+
+**Today's Progress (achievements and frustrations)**:
+
+* 45 min zumba
+
+**Thoughts and Emotions**
+
+It is very very extensive. I asked myself to focus on 5 senses to keep up.
+<hr>
+
+### Day 27: 2018-05-14 Monday
+
+**Class**: Zumba
+
+**Today's Progress (achievements and frustrations)**:
+
+* 1 hour zumba
+
+**Thoughts and Emotions**
+
+Not an intensive workout.
+
+It was hard to focus on workout.
+
+<hr>
+
+### Day 28: 2018-05-21 Monday
+
+**Class**: BollyX
+
+**Today's Progress (achievements and frustrations)**:
+
+* 1 hour BollyX
+
+**Thoughts and Emotions**
+
+The first half course was very intensive because of fast speed.
+<hr>
+
+### Day 29: 2018-05-22 Tuesday
+
+**Class**: Zumba toning
+
+**Today's Progress (achievements and frustrations)**:
+
+* 1 hour zumba toning
+
+**Thoughts and Emotions**
+
+The gym discarded lots of 2 lb dumbbells and provided new 10 lb dumbbells. Luckily, I found a pair of 2 lb dumbbells. Zumba toning has a long period of lifting dumbbells. 3 lb is too heavy for me.
+<hr>
+
+
+### Day 30: 2018-05-30 Wednesday
+
+**Class**: Power Yoga
+
+**Today's Progress (achievements and frustrations)**:
+
+* 45-min power yoga
+
+<hr>

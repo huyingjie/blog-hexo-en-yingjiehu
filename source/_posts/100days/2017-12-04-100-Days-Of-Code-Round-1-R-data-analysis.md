@@ -9,6 +9,7 @@ tags:
 categories: 
 	- [100 Days Challenge, Data Science]
 	- [Programming Language, R]
+	- Data Science
 permalink: 100-Days-Of-Code-R-data-analysis-Round-1
 ---
 Main Commitment: I will code to do data analysis for at least an hour every day for the next 100 days.
@@ -555,5 +556,28 @@ After correcting, happily, the result is the same as last year's report.
 
 * [ ]Format tables
 * [ ]Transform data with `logarithm` and run
+
+<hr>
+
+### Day 16: 2018-06-04 Monday
+
+**Today's Progress (achievements and frustrations)**: 
+
+2 hour coding
+**Thoughts and Emotions**
+
+Before doing things, thinking increased anxiety. Thinking more, more anxiety. When doing, it was not that difficult.
+
+<hr>
+
+### Day 17: 2018-06-05 Tuesday 
+
+**Today's Progress (achievements and frustrations)**: 
+
+2 and half coding and writing
+
+**Thoughts and Emotions**
+
+Today has a good state. I can fully focus on doing things.
 
 <hr>

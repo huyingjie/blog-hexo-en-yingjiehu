@@ -8,6 +8,7 @@ tags:
 categories:
 	- [100 Days Challenge, Data Science]
 	- [Programming Language, R]
+	- Data Science
 permalink: 100-Days-Of-Code-R-package-Round-1
 ---
 Main Commitment: I will code to make R package for at least 30 minutes every day for the next 100 days.
