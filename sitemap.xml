@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Writing-Round-1/</loc>
+    
+    <lastmod>2018-08-13T20:50:31.892Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Japanese-Round-1/</loc>
     
     <lastmod>2018-08-12T17:18:09.968Z</lastmod>
@@ -68,13 +75,6 @@
     <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Code-R-package-Round-1/</loc>
     
     <lastmod>2018-05-02T22:59:48.854Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/100-Days-Of-Writing-Round-1/</loc>
-    
-    <lastmod>2018-05-02T22:59:23.573Z</lastmod>
     
   </url>
   
@@ -247,7 +247,14 @@
   </url>
   
   <url>
-    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/its-a-correct-choice-to-buy-mac-pro/</loc>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/how-to-uninstall-r-under-mac-os-x/</loc>
+    
+    <lastmod>2017-11-19T01:03:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/How-long-to-write-a-book/</loc>
     
     <lastmod>2017-11-19T01:03:12.000Z</lastmod>
     
@@ -261,14 +268,7 @@
   </url>
   
   <url>
-    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/how-to-uninstall-r-under-mac-os-x/</loc>
-    
-    <lastmod>2017-11-19T01:03:12.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/How-long-to-write-a-book/</loc>
+    <loc>http://huyingjie.github.io/blog-hexo-en-yingjiehu/its-a-correct-choice-to-buy-mac-pro/</loc>
     
     <lastmod>2017-11-19T01:03:12.000Z</lastmod>
     
