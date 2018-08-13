@@ -676,5 +676,52 @@ After a long time, I finished 100 new cards again.
 
 <hr>
 
+### Day 79: 2018-06-07 Thursday
+**No. of Anki Cards**: 195
 
+**Time spent**: 22 minutes
+
+<hr>
+
+
+### Day 80: 2018-06-14 Wednesday
+**No. of Anki Cards**: 192
+
+**Time spent**: 19 minutes
+
+<hr>
+
+### Day 81: 2018-07-05 Thursday
+**No. of Anki Cards**: 269
+
+**Time spent**: 25 minutes
+
+<hr>
+
+### Day 82: 2018-08-08 Wednesday
+**No. of Anki Cards**: 103
+
+**Time spent**: 8 minutes
+
+<hr>
+
+
+### Day 83: 2018-08-10 Friday
+**No. of Anki Cards**: 319
+
+**Time spent**: 34 minutes
+
+<hr>
+
+### Day 84: 2018-08-12 Friday
+**No. of Anki Cards**: 1062
+
+**Time spent**: 92 minutes
+
+
+**Thoughts and Emotions:**
+
+I am happy that I finally catched up. 💪
+
+<hr>
 

@@ -18,7 +18,7 @@ Start Date: 2018-03-23
 
 ## Rules
 
-1. I will go to the gym to take classes every day. My focus is on yoga. But not every day has a class suitable for my schedule.
+1. I will write every day. My focus is to write academic paper or related literature or notes.
 2. I will [tweet my progress every day](https://twitter.com/yingjieYJH), with the hashtag `#100DaysOfWriting #100DaysOfX #academicwriting #writing` and note which day of the challenge I’m on.
 2. I will track my progress here and push to GitHub.
 3. I will only skip a day if something important comes up. And when I resume, I won’t count the day I skipped as one of my 100 days.
@@ -124,5 +124,26 @@ I see the hope to finish the project. It is a big move.
 **Tomorrow's plan**
 
 * correct the paper based on today's meeting
+
+<hr>
+
+### Day 5: 2018-08-13 Monday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 3-hour writing
+* Edited a paper and sent to my advisor
+* Wrote new contents for a paper
+
+**Thoughts and Emotions**
+
+I felt more relaxed today than before to write paper. 
+
+Last Friday our department was moved from 650 Frist Ave. to 140 Madison. I like the new space very very much. I did not have any struggle or delay to start editing and writing. It was a productive day.
+
+**Tomorrow's plan**
+
+* Wait for my advisor's email to schedule a meeting to review the paper
+* Continue to write the methodology paper
 
 <hr>

@@ -38,7 +38,7 @@ Today I decided to buy one second-hand gym membership because I was encouraged b
 
 * 1 Day: [2018-02-28 Wednesday](#Day-1-2018-02-28-Wednesday)
 * 7 Days: [2018-03-10 Saturday](#Day-7-2018-03-10-Saturday)
-* 30 Days
+* 30 Days: 2[018-05-30 Wednesday](#Day-30-2018-05-30-Wednesday)
 * 60 Days
 * 90 Days
 * 100 Days
@@ -496,5 +496,69 @@ The gym discarded lots of 2 lb dumbbells and provided new 10 lb dumbbells. Lucki
 **Today's Progress (achievements and frustrations)**:
 
 * 45-min power yoga
+
+<hr>
+
+### Day 31: 2018-06-06 Wednesday
+
+**Class**: Power Yoga
+
+**Today's Progress (achievements and frustrations)**:
+
+* 45-min power yoga
+
+<hr>
+
+
+### Day 32: 2018-06-07 Thursday
+
+**Class**: Zumba
+
+**Today's Progress (achievements and frustrations)**:
+
+* 45 min Zumba
+
+<hr>
+
+### Day 33: 2018-06-11 Monday
+
+**Class**: Zumba
+
+**Today's Progress (achievements and frustrations)**:
+
+* 60 minutes Zumba
+
+<hr>
+
+### Day 34: 2018-06-14 Tuesday
+
+**Class**: Zumba toning
+
+**Today's Progress (achievements and frustrations)**:
+
+* 1 hour zumba toning
+
+
+## Day 35: 2018-06-25 Sunday
+
+**Class**: Yoga
+
+**Today's Progress (achievements and frustrations)**:
+
+* 1-hour yoga
+
+**Thoughts and Emotions**
+
+The pace is so slow that I do not like it.
+
+<hr>
+
+### Day 36: 2018-07-05 Thursday
+
+**Class**: BollyX
+
+**Today's Progress (achievements and frustrations)**:
+
+* 45 min BollyX
 
 <hr>

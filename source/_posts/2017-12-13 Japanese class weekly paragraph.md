@@ -355,3 +355,36 @@ $\stackrel{\text{げんざい}}{現在}$にいたほうがいいです。世界�
 因为我不觉得自己能活到80岁, 我对80岁的生活没有任何的期待.
 
 会预测到时自己会住在养老院或者医院里. 若能有朋友住在同一家公司就好了。
+
+
+## 2018/06/14 Thursday
+
+先週は　何かの事をする　つもりでしたが、週末にパートを　やりました。
+
+火曜日に　markdownに senteでの$\stackrel{\text{しょうせつ}}{小説}$を$\stackrel{\text{にゅうりょく}}{入力}$しました。
+
+ankiで　新しい単語を　覚えなっかたで、quipとAnkiに　日本語の教科書の中のノートを$\stackrel{\text{にゅうりょく}}{入力}$しなかった。
+
+nvaltsの中の２８５個ノートを$\stackrel{\text{さくじょ}}{削除}$しまして　よかったです。
+
+今月は　私の誕生日の月です。火曜日に banana republicが 与える　＄１５　gift cardで　ソックスを　買いましたて　sephoraに　プレゼントを　貰いました。
+
+月曜日は　facebookのストックを $\stackrel{\text{う}}{売}$りまして　$\$$196.2 (20.5%) を$\stackrel{\text{かせ}}{稼}$ぎまして 今日は　Etsyのストックを　買いました。
+
+**drafts**
+
+上周订了计划,虽然没有在周末完成, 却在本周完成了部分.
+
+把sente里所有的小说网上找到文件, 输入markdown file.
+
+打算anki背新的单词, 没有成功.
+
+日语书上的notes输入quip&Anki, 没有做
+
+nvalts里的notes删掉285个
+
+周二使用banana republic赠送的$15的gift card买了袜子.领取sephora的礼物
+
+周一卖了facebook股票, 赚了196.2. 20.5% profit
+
+今天买了Etsy的股票。

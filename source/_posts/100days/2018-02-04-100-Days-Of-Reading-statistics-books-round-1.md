@@ -161,3 +161,20 @@ I understand that why the book used verbose language to describe this: the book 
 Easy to understand.
 
 <hr>
+
+### Day 5: 2018-06-15 Friday 
+
+Udacity Data Science Scholarship Program Powered by Bertelsmann
+
+**Today's Progress (achievements and frustrations)**: 
+
+1 hour study
+
+**Thoughts and Emotions**
+
+Udacity gives different definition terms with the academic. I never saw these terms before. I decided not to memorize it because of lack of use in real life.
+
+**Tomorrow's plan**
+
+* [ ]Study 1 hour
+<hr>
