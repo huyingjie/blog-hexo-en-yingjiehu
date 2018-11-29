@@ -4,6 +4,7 @@ title: 100 Days Of Japanese (Round 1)
 date: 2017-12-10
 tags:
 	- 100 Days Challenge
+		- Completed
 	- Japanese
 categories:
 	- [100 Days Challenge, Japanese]
@@ -48,8 +49,20 @@ Since August, I have been using Anki to recite Japanese words. Hence, the 100-da
 2. [7 Days (Day 7: 2017-12-16 Saturday)](#Day-7-2017-12-16-Saturday)
 3. [30 Days (Day 30: 2018-02-21 Wednesday)](#Day-30-2018-02-21-Wednesday)
 4. [60 Days (Day 60: 2018-04-09 Monday)](#Day-60-2018-04-09-Monday)
-5. 90 Days
-6. 100 Days
+5. [90 Days (Day 90: 2018-08-14 Tuesday)](#Day-90-2018-08-14-Tuesday)
+6. [100 Days (Day 100: 2018-09-03 Monday)](#Day-100-2018-09-03-Monday)
+
+## Thoughts after Completion
+
+Today is 2018-09-10. I usually take a picture of Anki result by iPhone. After a while, I record several days in a batch. Hence, today is not the last day of 100 days, 2018-09-03. 
+
+First, I am proud that this is the first 100-day challenge I finished. Even if I do not follow the rule strictly, it is still a fantastic achievement.
+
+Second, I have a lot of off-wagon time during this challenge and more off-wagon time in other challenges. In fact, the unwritten rule is that if I can resume doing what supposed to be done, the challenge continues to be effective. The rule is applied to all other challenges. 
+
+One of the biggest off-time according to milestones is between Day 60: 2018-04-09 and Day 90: 2018-08-14. Four months (120 days) finished only 30 days. 
+
+It is not good to focus on goals but focus on process. I hope I can get used to reciting more Japanese.
 
 ## Template for Log
 
@@ -633,21 +646,29 @@ A catchup day. Words are harder and harder to be memorized.
 After a long time, I finished 100 new cards again.
 <hr>
 
-### Day 73: 2018-05-30 Wednesday
+### Day 73: 2018-05-21 Wednesday
+**No. of Anki Cards**: 113
+
+**Time spent**: 12 minutes
+
+<hr>
+
+
+### Day 74: 2018-05-30 Wednesday
 **No. of Anki Cards**: 208
 
 **Time spent**: 15 minutes
 
 <hr>
 
-### Day 74: 2018-05-31 Thursday
+### Day 75: 2018-05-31 Thursday
 **No. of Anki Cards**: 280
 
 **Time spent**: 33 minutes
 
 <hr>
 
-### Day 75: 2018-06-01 Friday
+### Day 76: 2018-06-01 Friday
 **No. of Anki Cards**: 169
 
 **Time spent**: 19 minutes
@@ -655,50 +676,71 @@ After a long time, I finished 100 new cards again.
 <hr>
 
 
-### Day 76: 2018-06-04 Monday
+### Day 77: 2018-06-04 Monday
 **No. of Anki Cards**: 373
 
 **Time spent**: 35 minutes
 
 <hr>
 
-### Day 77: 2018-06-05 Tuesday
+### Day 78: 2018-06-05 Tuesday
 **No. of Anki Cards**: 387
 
 **Time spent**: 40 minutes
 
 <hr>
 
-### Day 78: 2018-06-06 Wednesday
+### Day 79: 2018-06-06 Wednesday
 **No. of Anki Cards**: 518
 
 **Time spent**: 52 minutes
 
 <hr>
 
-### Day 79: 2018-06-07 Thursday
+### Day 80: 2018-06-07 Thursday
 **No. of Anki Cards**: 195
 
 **Time spent**: 22 minutes
 
 <hr>
 
+### Day 81: 2018-06-13 Tuesday
+**No. of Anki Cards**: 149
 
-### Day 80: 2018-06-14 Wednesday
+**Time spent**: 13 minutes
+
+<hr>
+
+
+### Day 82: 2018-06-14 Wednesday
 **No. of Anki Cards**: 192
 
 **Time spent**: 19 minutes
 
 <hr>
 
-### Day 81: 2018-07-05 Thursday
+### Day 83: 2018-06-15 Thursday
+**No. of Anki Cards**: 40
+
+**Time spent**: 9 minutes
+
+<hr>
+
+### Day 84: 2018-07-05 Thursday
 **No. of Anki Cards**: 269
 
 **Time spent**: 25 minutes
 
 <hr>
 
-### Day 82: 2018-08-08 Wednesday
+### Day 85: 2018-07-26 Thursday
+**No. of Anki Cards**: 147
+
+**Time spent**: 19 minutes
+
+<hr>
+
+### Day 86: 2018-08-08 Wednesday
 **No. of Anki Cards**: 103
 
 **Time spent**: 8 minutes
@@ -706,14 +748,14 @@ After a long time, I finished 100 new cards again.
 <hr>
 
 
-### Day 83: 2018-08-10 Friday
+### Day 87: 2018-08-10 Friday
 **No. of Anki Cards**: 319
 
 **Time spent**: 34 minutes
 
 <hr>
 
-### Day 84: 2018-08-12 Friday
+### Day 88: 2018-08-12 Friday
 **No. of Anki Cards**: 1062
 
 **Time spent**: 92 minutes
@@ -725,3 +767,91 @@ I am happy that I finally catched up. 💪
 
 <hr>
 
+### Day 89: 2018-08-13 Monday
+**No. of Anki Cards**: 506
+
+**Time spent**: 43 minutes
+
+
+**Thoughts and Emotions:**
+
+I did not finish all cards. I will try hard tomorrow.
+
+<hr>
+
+### Day 90: 2018-08-14 Tuesday
+**No. of Anki Cards**: 176
+
+**Time spent**: 16 minutes
+
+**Thoughts and Emotions:**
+
+I have had a headache since afternoon.
+<hr>
+
+### Day 91: 2018-08-15 Wednesday
+**No. of Anki Cards**: 177
+
+**Time spent**: 15 minutes
+
+
+<hr>
+
+### Day 92: 2018-08-16 Thursday
+**No. of Anki Cards**: 321
+
+**Time spent**: 29 minutes
+
+
+<hr>
+
+### Day 93: 2018-08-23 Thursday
+**No. of Anki Cards**: 618
+
+**Time spent**: 56 minutes
+<hr>
+
+### Day 94: 2018-08-24 Thursday
+**No. of Anki Cards**: 1071
+
+**Time spent**:104 minutes
+<hr>
+
+### Day 95: 2018-08-26 Sunday
+**No. of Anki Cards**: 440
+
+**Time spent**:41 minutes
+<hr>
+
+### Day 96: 2018-08-27 Monday
+**No. of Anki Cards**: 421
+
+**Time spent**:39 minutes
+<hr>
+
+### Day 97: 2018-08-29 Wednesday
+**No. of Anki Cards**: 233
+
+**Time spent**:21 minutes
+<hr>
+
+### Day 98: 2018-08-31 Friday
+**No. of Anki Cards**: 184
+
+**Time spent**:16 minutes
+<hr>
+
+
+### Day 99: 2018-09-01 Saturday
+**No. of Anki Cards**: 138
+
+**Time spent**: 15 minutes
+
+<hr>
+
+### Day 100: 2018-09-03 Monday
+**No. of Anki Cards**: 786
+
+**Time spent**: 67 minutes
+
+<hr>

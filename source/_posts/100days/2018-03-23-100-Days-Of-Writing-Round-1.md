@@ -147,3 +147,252 @@ Last Friday our department was moved from 650 Frist Ave. to 140 Madison. I like 
 * Continue to write the methodology paper
 
 <hr>
+
+### Day 6: 2018-08-14 Tuesday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 3-hour writing
+* Continued to add new contents to the methodology paper
+* Started a new applicaiton paper
+
+**Thoughts and Emotions**
+
+Not as productive as yesterday. The difficulty level of contents increases.
+
+I started a paper for application instead of methodology paper.
+
+**Tomorrow's plan**
+
+* [x] Continue to write the application paper
+
+<hr>
+
+### Day 7: 2018-08-16 Thursday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 2-hour writing
+
+**Thoughts and Emotions**
+
+I felt upset and the productivity was low.
+
+**Tomorrow's plan**
+
+* Edit the paper
+* Continue to write the application paper
+
+<hr>
+
+### Day 8: 2018-08-27 Monday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 4-hour writing
+* Edit the paper
+* Continue to write the application paper
+
+**Thoughts and Emotions**
+
+It can be considered a productive day.
+
+I reached a limit to continue to write the application paper. I tried playing games to have a rest and then resume to write. Though the work is not deep work (editing tables in the paper), I at least was doing something and finished a little.
+
+I procrastinated to do things since 2018-08-17. My advisor said it had been 10 days and the work can be done in one afternoon. I know. I will try changing the behavior.
+
+**Tomorrow's plan**
+
+* [x] Continue to write the application paper
+
+<hr>
+
+### Day 9: 2018-08-28 Tuesday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Continue to write the application paper
+
+**Thoughts and Emotions**
+
+After yesterday's meeting, I edited part of paper. Today I finished the rest of it.
+
+**Tomorrow's plan**
+
+* [x] Continue to write the application paper
+
+<hr>
+
+### Day 10: 2018-08-29 Wednesday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Continue to write the application paper
+* Edit paper
+
+**Thoughts and Emotions**
+
+I felt it was hard to concentrate. If I felt nervous, I would play games or recite Japanese words on Duolingo app on my iPhone.
+
+**Tomorrow's plan**
+
+* [x] Continue to write the application paper
+* [x] Meet with advisor
+
+<hr>
+
+### Day 11: 2018-08-30 Thursday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Continue to write the application paper
+* Edit paper
+* Meet with advisor
+* Send out the edited paper
+
+**Thoughts and Emotions**
+
+Finally, my advisor said it was ok to send to doctors. A milestone!
+
+I will attend a baby shower on Saturday. I will leave on Friday afternoon and will be back on Saturday. I am not sure whether I can work tomorrow and definitely cannot work on Saturday.
+
+It is a good week. I work every day this week. Even if I cannot concentrate all the time, small progress is being made all the time.
+
+** Tomorrow's plan**
+
+* [ ] Continue to write the application paper
+
+<hr>
+
+### Day 12: 2018-09-04 Tuesday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 3-hour writing
+
+**Thoughts and Emotions**
+
+Though I didn't feel passion for writing the result, the progress was made.
+
+**Tomorrow's plan**
+
+* [ ] Continue to write the application paper
+
+<hr>
+
+### Day 13: 2018-11-07 Wednesday
+
+**Today's Progress (achievements and frustrations)**: 
+
+* 1 hour 49 mininutes editing paper
+
+**Thoughts and Emotions**
+
+After a long break, resume working
+
+I start to use Toggl to track time.
+
+<hr>
+
+### Day 14: 2018-11-13 Tuesday
+
+**Today's Progress (achievements and frustrations)**: 
+
+* 39 min editing paper
+
+**Thoughts and Emotions**
+
+It is hard to resume if I stop working.
+
+<hr>
+
+### Day 15: 2018-11-14 Wednesday
+
+**Today's Progress (achievements and frustrations)**: 
+
+* 2 hour 45 minutes 
+
+**Thoughts and Emotions**
+
+A long hour work
+
+<hr>
+
+### Day 16: 2018-11-15 Thursday
+
+* 1 hour 53 minutes editing paper
+
+<hr>
+
+### Day 17: 2018-11-19 Monday
+
+**Today's Progress (achievements and frustrations)**: 
+
+* 1 hour 5 minutes editing paper
+
+**Thoughts and Emotions**
+
+Monday is difficult to start working.
+
+<hr>
+
+### Day 18: 2018-11-20 Tuesday
+
+**Today's Progress (achievements and frustrations)**: 
+
+* 2-hour editing paper
+
+**Thoughts and Emotions**
+
+The paper was sent to cooperators for review. I do not need to edit the paper until I get the response.
+
+<hr>
+
+### Day 19: 2018-11-26 Monday
+
+**Today's Progress (achievements and frustrations)**: 
+
+* 1 hour 3 minutes editing paper
+
+**Thoughts and Emotions**
+
+I got feedback on Friday afternoon and start editing again.
+
+<hr>
+
+### Day 20: 2018-11-27 Tuesday
+
+**Today's Progress (achievements and frustrations)**: 
+
+* 1 hour 14 minutes editing paper
+
+**Thoughts and Emotions**
+
+I sent the paper to cooperators again and hope it is the end.
+
+<hr>
+
+### Day 21: 2018-11-28 Wednesday
+
+**Today's Progress (achievements and frustrations)**: 
+
+* 1 hour editing paper
+
+**Thoughts and Emotions**
+
+Cooperators sent a final version back and I read it.
+
+<hr>
+
+
+### Day 22: 2018-11-29 Thursday
+
+**Today's Progress (achievements and frustrations)**: 
+
+* 6 minutes editing paper
+
+**Thoughts and Emotions**
+
+Read the edited paper from the Supervisor
+
+<hr>
