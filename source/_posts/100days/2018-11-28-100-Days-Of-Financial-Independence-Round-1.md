@@ -4,10 +4,9 @@ title: 100 Days Of Financial Independence (Round 1)
 date: 2018-11-28
 tags:
 	- 100 Days Challenge
-	- Japanese
+	- Finance Independence
 categories:
 	- [100 Days Challenge, Financial Independence]
-	- Japanese
 permalink: 100-Days-Of-Financial-Independence-Round-1
 ---
 Main Commitment: I will learn or practice trading stocks and options to get dividend.
@@ -40,7 +39,8 @@ This challenge will help me develop the routine to follow stock market closely a
 
 1. [1 Day (Day 1: 2018-10-28 Sunday)](#Day-1-2018-10-28-Sunday)
 2. [7 Days (Day 7: 2018-11-03 Saturday)](#Day-7-2018-11-03-Saturday)
-3. 30 Days 
+3. [30 Days (Day 30: 2018-11-27 Tuesday)](#Day-30-2018-11-27-Tuesday
+) 
 4. 60 Days 
 5. 90 Days 
 6. 100 Days 
@@ -534,5 +534,145 @@ The work is longer than I expected.
 * Edit stocks' goal @OmniFocus
 * Collect stocks of weekly options
 * Write post
+
+<hr>
+
+### Day 32: 2018-11-29 Thursday
+
+**Time spent**: 7 hours 13 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Check interactive broker|0:06:13|
+Consider to buy options |0:18:20
+Consider to sell stock|0:12:22
+Edit Google Sheets: summary sheet|0:28:44
+Edit milestone progress|0:11:54
+Edit weekly options|0:13:29
+Read FI blog|0:38:20
+Search for Weekly Options|2:09:30
+Style Google Sheet contribution page|0:11:15
+Draw|0:36:25
+Draw|2:06:33
+
+<hr>
+
+
+### Day 33: 2018-11-30 Friday
+
+**Time spent**: 4 hours 52 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to buy options |0:29:50
+Consider to buy stock|0:06:09
+Input stock transaction|0:21:11
+Learn closer fund|1:23:53
+Read FI blog|0:16:18
+Read Google Sheet|0:39:02
+Search: reduce cost basis of stock|0:17:43
+Draw|1:18:33
+
+<hr>
+
+### Day 34: 2018-12-01 Saturday
+
+**Time spent**: 3 hours 34 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Edit Google Sheets|0:28:49
+Read FI blog|1:42:41
+Style Google Sheet|0:04:18
+Write post|0:13:30
+Draw|1:05:19
+
+<hr>
+
+### Day 35: 2018-12-02 Sunday
+
+**Time spent**: 8 hours 15 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to buy stock|1:48:12
+Edit Google Sheets|0:09:55
+Input Vanguard dividend|0:31:09
+Read FI blog|0:23:24
+Read The DRiP Investing Resource|Center|0:19:16
+Search stocks|1:10:12
+Learning Chan|0:15:04
+Draw|3:00:42
+Draw|0:37:13
+
+<hr>
+
+### Day 36: 2018-12-03 Monday
+
+**Time spent**:
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to buy options|0:11:47
+Consider to buy stock|0:29:23
+Draw database for stocks in Google Sheets|0:35:49
+Input stock transaction|0:25:11
+Read FI blog|0:03:47
+Search stocks|1:40:05
+Select stocks according to 11 sections|1:38:06
+画笔|0:24:04
+
+**Thoughts and Emotions:**
+
+I finally had an idea how to diversify a portfolio. There are 11 sections in the U.S. stock markets. Each section will have 10 stocks. Each stock will produce $400 annual forward dividend.
+
+The total annual forward dividend will be
+
+$\$400 \times 11 \times 10 = \$44000$ 
+
+**Tomorrow's plan**
+
+* Continue to select stocks
+
+<hr>
+
+
+### Day 37: 2018-12-04 Tuesday
+
+**Time spent**: 9 hours
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Clean saved stocks|4:16:46
+Consider to buy options|0:08:21
+Consider to buy stock|0:39:26
+Draw database for stocks in Google Sheets|0:07:08
+Edit goal|0:13:23
+Edit Google Sheets|0:06:06
+Input stock transaction|0:18:32
+Read FI blog|0:49:53
+Select stocks according to 11 sections|0:16:19
+Write dividend post|0:01:42
+Learn Chan|0:29:22
+Draw|0:12:28
+Draw|1:20:37
+
+In summary, the biggest achievements were to select stocks in 11 sections and to calculate how many shares needed to generate $\$400$ annual forward dividend.
+
+**Thoughts and Emotions:**
+
+Time-consuming and tired. I am happy that I figured out how to achieve diversification. However, I am still confused when to buy stocks to acquire sufficient shares. 
 
 <hr>
