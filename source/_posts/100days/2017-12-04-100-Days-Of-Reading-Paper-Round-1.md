@@ -48,7 +48,7 @@ Reference: [How to effectively scope your software projects from planning to exe
 ## Milestones
 
 1. [1 Day (Day 1: 2017-12-18 Monday )](#Day-1-2017-12-18-Monday)
-2. 7 Days
+2. [7 Days (Day 7: 2018-11-19 Monday)](#Day-7-2018-11-19-Monday)
 3. 30 Days
 4. 60 Days
 5. 90 Days
@@ -95,3 +95,67 @@ Reading paper is on the top list. Then I did it. I feel a little bit relief. But
 **Tomorrow's plan**
 
 * [ ] Read "Relaxed Lasso"
+
+### Day 3: 2018-11-12 Monday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Read 54 minutes
+
+<hr>
+
+### Day 4: 2018-11-13 Tuesday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Read 19 minutes
+
+<hr>
+
+### Day 5: 2018-11-15 Thursday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Read 4 minutes
+
+<hr>
+
+### Day 6: 2018-11-16 Friday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Read 9 minutes
+
+<hr>
+
+### Day 7: 2018-11-19 Monday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Read 15 minutes
+
+<hr>
+
+### Day 8: 2018-11-21 Wednesday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Read 53 minutes
+
+<hr>
+
+
+### Day 9: 2018-11-30 Friday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Read 20 minutes
+
+<hr>
+
+### Day 10: 2018-12-03 Monday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Read paper and write proposal 2 hours
+<hr>

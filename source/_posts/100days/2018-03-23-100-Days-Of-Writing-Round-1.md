@@ -396,3 +396,27 @@ Cooperators sent a final version back and I read it.
 Read the edited paper from the Supervisor
 
 <hr>
+
+
+### Day 23: 2018-11-30 Friday
+
+**Today's Progress (achievements and frustrations)**: 
+
+* 20 minutes editing paper
+
+<hr>
+
+### Day 24: 2018-12-05 Wednesday
+
+**Today's Progress (achievements and frustrations)**: 
+
+* 51 minutes editing paper
+	* Reread the paper
+
+**Thoughts and Emotions**
+
+Reread, edit, reread, edit,...
+
+It seems no end.
+
+<hr>

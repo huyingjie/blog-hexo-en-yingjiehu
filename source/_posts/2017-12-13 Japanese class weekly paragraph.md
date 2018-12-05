@@ -4,7 +4,7 @@ title: Japanese Class Weekly Paragraph
 date: 2017-12-13
 tags:
 	- Japanese
-	- Writing
+	- writing
 	- Speaking
 categories:
 	- [Japanese]
