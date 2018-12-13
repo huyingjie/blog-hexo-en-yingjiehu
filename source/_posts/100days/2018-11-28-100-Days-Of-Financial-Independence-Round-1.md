@@ -30,8 +30,6 @@ This challenge will help me develop the routine to follow stock market closely a
 ## Rules
 
 1. I will study/practice/write trading/draw lines for stocks every day.
-2. I will tweet my progress every day, with the hashtag `#100DaysOfFinancialIndependence` and note which day of the challenge I’m on.
-3. I am the first person to start the challenge `#100DaysOfFinancialIndependence` in Twitter, I cannot encourage and support other people by liking tweets. Comments on their blogs can be a good alternative. Don't spend more than enough time on the social networking website.
 4. I will track my progress here and push to GitHub.
 5. I will only skip a day if something important comes up. And when I resume, I won’t count the day I skipped as one of my 100 days.
 
@@ -634,7 +632,7 @@ Select stocks according to 11 sections|1:38:06
 
 **Thoughts and Emotions:**
 
-I finally had an idea how to diversify a portfolio. There are 11 sections in the U.S. stock markets. Each section will have 10 stocks. Each stock will produce $400 annual forward dividend.
+I finally had an idea how to diversify a portfolio. There are 11 sections in the U.S. stock markets. Each section will have 10 stocks. Each stock will produce $\$$400 annual forward dividend.
 
 The total annual forward dividend will be
 
@@ -676,3 +674,149 @@ In summary, the biggest achievements were to select stocks in 11 sections and to
 Time-consuming and tired. I am happy that I figured out how to achieve diversification. However, I am still confused when to buy stocks to acquire sufficient shares. 
 
 <hr>
+
+### Day 38: 2018-12-05 Wednesday
+
+**Time spent**: 3 hours 37 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Clean saved stocks|0:42:28
+Search social security tax|0:12:14
+Set mailchimp to send new updates|0:11:17
+Draw|0:20:56
+Draw|2:11:48
+
+<hr>
+
+### Day 39: 2018-12-06 Thursday
+
+**Time spent**: 4 hours 11 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Check interactive broker|0:04:12
+Clean saved stocks|0:28:39
+Edit goal|0:08:38
+Input stock transaction|0:07:50
+Read FI blog|0:20:57
+Search stocks|0:17:53
+Select stocks according to 11 sections|2:04:33
+Draw|0:39:03
+
+**Thoughts and Emotions:**
+
+It has been a week that Interactive Broker did not finish reviewing my application.
+
+Because of Meng Wanzhou's arrest in Canada, the stock market dropped a lot. Luckily, I did not buy much.
+
+I am worried about whether the sold put option of T (AT&T) and BBBY (Bed Bath&Beyond) would be executed.
+
+**Tomorrow's plan**
+
+The limit order to sell stocks have setup. I can do nothing but wait.
+
+<hr>
+
+### Day 40: 2018-12-07 Friday
+
+**Time spent**: 3 hours 26 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Clean saved stocks|0:11:52
+Consider to buy stock|0:06:38
+Edit Google Sheets|0:12:23
+Input stock transaction|0:37:26
+Read FI blog|0:11:45
+画笔|2:06:55
+
+**Thoughts and Emotions:**
+
+In the morning, ET was sold automatically because of a limit order. In the afternoon, I decided to buy back because the whole stock market fell again.
+
+It made the basis cost of 100 shares of ET reduced from 14.25 to 13.98. Awesome!
+
+**Tomorrow's plan**
+
+Think about a plan to reduce the basis cost of stocks.
+
+<hr>
+
+### Day 41: 2018-12-08 Saturday
+
+**Time spent**: 1 hour 36 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+* Read FI blog
+* Draw
+
+<hr>
+
+### Day 42: 2018-12-10 Monday
+
+**Time spent**: 9 hours 27 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to buy stock|0:10:58
+Edit Google Sheets|1:10:46
+Input stock transaction|0:28:30
+Read FI blog|0:29:12
+Draw|7:08:23
+
+**Thoughts and Emotions:**
+
+A long time of the drawing.
+
+I calmed myself to draw.
+
+<hr>
+
+### Day 43: 2018-12-11 Tuesday
+
+**Time spent**: 4 hours 1 minute
+
+**Today's Progress (achievements and frustrations)**:
+
+Continued to draw!!!!
+
+Progress|Length of Time
+---|---
+Apply for options in Interactive Broker|0:20:56
+Consider to buy stock|0:42:57
+Input stock transaction|0:06:42
+Read FI blog|0:06:38
+Draw|2:44:06
+
+<hr>
+
+### Day 44: 2018-12-12 Wednesday
+
+**Time spent**: 9 hours 18 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to buy stock|0:41:29
+Input stock transaction|0:13:38
+Draw 中枢|0:30:53
+Draw 段|2:10:52
+Draw 笔|5:41:16
+
+**Thoughts and Emotions:**
+
+Finally, I finished drawing over 100 graphs!!!!
+
+<hr>
+

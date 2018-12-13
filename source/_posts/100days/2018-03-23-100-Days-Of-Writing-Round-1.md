@@ -19,7 +19,7 @@ Start Date: 2018-03-23
 ## Rules
 
 1. I will write every day. My focus is to write academic paper or related literature or notes.
-2. I will [tweet my progress every day](https://twitter.com/yingjieYJH), with the hashtag `#100DaysOfWriting #100DaysOfX #academicwriting #writing` and note which day of the challenge I’m on.
+2. I will [tw˜eet my progress every day](https://twitter.com/yingjieYJH), with the hashtag `#100DaysOfWriting #100DaysOfX #academicwriting #writing` and note which day of the challenge I’m on.
 2. I will track my progress here and push to GitHub.
 3. I will only skip a day if something important comes up. And when I resume, I won’t count the day I skipped as one of my 100 days.
 4. I will encourage and support at least two people each day in the `#100DaysOfWriting` challenge on Twitter. I can read at most 5 tweets about `#100DaysOfWriting` each day. Less is more. Don't spend more than enough time on the social networking website.
@@ -410,8 +410,8 @@ Read the edited paper from the Supervisor
 
 **Today's Progress (achievements and frustrations)**: 
 
-* 51 minutes editing paper
-	* Reread the paper
+* 51 minutes Reread the paper
+* 32 minutes Edited paper
 
 **Thoughts and Emotions**
 
