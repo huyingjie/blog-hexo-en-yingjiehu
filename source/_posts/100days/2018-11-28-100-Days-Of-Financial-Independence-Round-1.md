@@ -543,7 +543,7 @@ The work is longer than I expected.
 
 Progress|Length of Time
 ---|---
-Check interactive broker|0:06:13|
+Check interactive broker|0:06:13
 Consider to buy options |0:18:20
 Consider to sell stock|0:12:22
 Edit Google Sheets: summary sheet|0:28:44
@@ -605,7 +605,7 @@ Consider to buy stock|1:48:12
 Edit Google Sheets|0:09:55
 Input Vanguard dividend|0:31:09
 Read FI blog|0:23:24
-Read The DRiP Investing Resource|Center|0:19:16
+Read The DRiP Investing Resource|0:19:16
 Search stocks|1:10:12
 Learning Chan|0:15:04
 Draw|3:00:42
@@ -820,3 +820,132 @@ Finally, I finished drawing over 100 graphs!!!!
 
 <hr>
 
+### Day 45: 2018-12-13 Thursday
+
+**Time spent**: 5 hours 56 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Input financial statements |2:20:59
+Input stock transaction|0:07:15
+Learn Numbers & Input ET 10-Q|2:17:45
+Read FI blog|0:09:42
+Search stocks|0:25:31
+Draw|0:35:09
+
+<hr>
+
+### Day 46: 2018-12-14 Friday
+
+**Time spent**: 3 hours 6 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Input stock transaction|0:04:53
+Read book: the Intelligent Investor|1:57:46
+Read FI blog|0:10:13
+Draw|0:54:02
+
+<hr>
+
+### Day 47: 2018-12-15 Saturday
+
+**Time spent**: 3 hours 19 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Read book: the Intelligent Investor
+
+<hr>
+
+### Day 48: 2018-12-17 Monday
+
+**Time spent**: 3 hours 8 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Input stock transaction|0:15:56
+Read book: the Intelligent Investor|2:02:30
+Read FI blog|0:01:21
+Search stocks on watchlist|0:10:54
+Draw|0:37:42
+<hr>
+
+### Day 49: 2018-12-19 Wednesday
+
+**Time spent**: 5 hours 48 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Apply for options in Interactive Broker|1:02:13
+Consider to sell options|0:03:33
+Search 1929 股灾|0:18:44
+Search stocks|0:07:46
+Search 缠中说禅2019年美股会暴跌|0:22:09
+Draw|3:53:54
+<hr>
+
+### Day 50: 2018-12-20 Thursday
+
+**Time spent**: 3 hours 26 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Input stock transaction|0:25:10
+Read FI blog|0:02:43
+Draw|2:58:12
+
+<hr>
+
+### Day 51: 2018-12-21 Friday
+
+**Time spent**: 5 hours 55 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Draw|1:22:59
+Draw|4:32:14
+
+
+<hr>
+
+### Day 52: 2018-12-22 Saturday
+
+**Time spent**: 6 hours 9 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog|0:06:15
+Search stocks|0:07:12
+Select stocks|4:05:44
+Write google sheet function for Yahoo Finance xml|1:50:43
+
+<hr>
+
+### Day 53: 2018-12-23 Sunday
+
+**Time spent**: 5 hours 33 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Draw|0:14:27
+Draw|5:19:00
+
+
+<hr>
