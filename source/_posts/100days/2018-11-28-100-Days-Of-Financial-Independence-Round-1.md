@@ -39,7 +39,7 @@ This challenge will help me develop the routine to follow stock market closely a
 2. [7 Days (Day 7: 2018-11-03 Saturday)](#Day-7-2018-11-03-Saturday)
 3. [30 Days (Day 30: 2018-11-27 Tuesday)](#Day-30-2018-11-27-Tuesday
 ) 
-4. 60 Days 
+4. [60 Days (Day 60: 2018-12-31 Monday)](#Day-60-2018-12-31-Monday) 
 5. 90 Days 
 6. 100 Days 
 
@@ -949,3 +949,384 @@ Draw|5:19:00
 
 
 <hr>
+
+
+### Day 54: 2018-12-24 Monday
+
+**Time spent**: 50 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog|0:7:37
+Draw|7:00
+
+<hr>
+
+### Day 55: 2018-12-26 Wednesday
+
+**Time spent**: 1 hour 6 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog|0:6:44
+Draw|41:00
+Read|19:01
+
+<hr>
+
+### Day 56: 2018-12-27 Thursday
+
+**Time spent**: 27 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Draw|5:54
+Read|21:43
+
+<hr>
+
+### Day 57: 2018-12-28 Friday
+
+**Time spent**: 4 hours 52 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell options|2:08:28
+Input stock transaction|0:45:05
+Read articles related covered call|0:12:02
+Read FI blog|0:19:58
+Search meetup for options|0:08:53
+Draw|1:17:35
+
+<hr>
+
+### Day 58: 2018-12-29 Saturday
+
+**Time spent**: 18 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog|0:6:11
+Draw|0:12:12
+
+<hr>
+
+### Day 59: 2018-12-30 Sunday
+
+**Time spent**: 3 hours 17 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell options|0:19:25
+Read FI blog|0:19:33
+Youtube: covered call|2:38:08
+
+<hr>
+
+### Day 60: 2018-12-31 Monday
+
+**Time spent**: 3 hours 34 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell options|0:03:40
+Input stock transaction|0:06:31
+Read FI blog|0:13:51
+Read Poor Man's Covered Calls|0:59:11
+Youtube: covered call|1:15:51
+Draw|0:55:15
+
+<hr>
+
+### Day 61: 2019-01-01 Tuesday
+
+**Time spent**: 49 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog|0:49:07
+
+<hr>
+
+### Day 62: 2019-01-02 Wednesday
+
+**Time spent**: 2 hours 16 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog|1:06:38
+Search stocks|0:24:54
+Draw|0:44:47
+
+<hr>
+
+### Day 63: 2019-01-03 Thursday
+
+**Time spent**: 1 hours 31 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog|0:22:49
+Draw|1:08:46
+
+<hr>
+
+### Day 64: 2019-01-04 Friday
+
+**Time spent**: 10 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog|0:10:04
+
+<hr>
+
+### Day 65: 2019-01-07 Monday
+
+**Time spent**: 4 hours 26 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to buy stocks|0:35:35
+Consider to sell options|0:08:02
+Input stock transaction|0:10:42
+Read FI blog|0:08:27
+xueqiu:leverage|0:33:17
+zhihu: leverage|1:27:19
+Draw|1:23:00
+
+<hr>
+
+### Day 66: 2019-01-08 Tuesday
+
+**Time spent**: 10 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog|0:10:51
+
+<hr>
+
+### Day 67: 2019-01-17 Thursday
+
+**Time spent**: 37 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read feedly about finance|0:27:58
+Read FI blog|0:09:10
+
+<hr>
+
+### Day 68: 2019-01-23 Wednesday
+
+**Time spent**: 5 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog|0:05:58
+
+<hr>
+
+### Day 69: 2019-01-25 Friday
+
+**Time spent**: 30 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog|0:30:52
+
+<hr>
+
+### Day 70: 2019-01-27 Sunday
+
+**Time spent**: 3 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog|0:03:19
+
+<hr>
+
+### Day 71: 2019-01-28 Monday
+
+**Time spent**: 45 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog|0:012:28
+Draw|0:33:22
+
+<hr>
+
+### Day 72: 2019-01-29 Tuesday
+
+**Time spent**: 1 hour 4 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to buy|0:03:49
+Read FI blog|0:03:18
+Draw|0:56:56
+
+<hr>
+
+### Day 73: 2019-01-30 Wednesday
+
+**Time spent**: 22 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog|0:22:49
+
+<hr>
+
+### Day 74: 2019-01-31 Wednesday
+
+**Time spent**: 3 hours 34 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Create google sheet for Robinhood dividend|0:31:13
+Create picture|0:52:47
+Read FI blog|0:11:12
+Wordpress: add google adsense|0:45:02
+Write monthly post|0:20:04
+Write option post|0:54:25
+
+<hr>
+
+### Day 75: 2019-02-01 Friday
+
+**Time spent**: 4 hours 31 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Create google sheet for Roth IRA|3:12:42
+Read FI blog|0:28:02
+Draw|0:51:10
+
+<hr>
+
+### Day 76: 2019-02-07 Thursday
+
+**Time spent**: 11 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Input transaction|0:11:20
+
+<hr>
+
+### Day 77: 2019-02-11 Monday
+
+**Time spent**: 35 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Check vanguard option level|0:03:08
+Consider to sell options|0:11:33
+Input transaction|0:05:26
+Read FI blog|0:15:39
+
+<hr>
+
+### Day 78: 2019-02-13 Wednesday
+
+**Time spent**: 11 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Input transaction|0:09:20
+
+<hr>
+
+### Day 79: 2019-02-14 Thursday
+
+**Time spent**: 1 hour 12 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Check vanguard's cancelled transaction|0:03:50
+Consider to sell stocks|0:17:10
+Input transaction|0:29:31
+Read FI blog|0:16:28
+Search interactive broker notification|0:05:59
+
+<hr>
+
+### Day 80: 2019-02-25 Monday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Input transaction
+* Consider to buy stocks
+* Draw graphs
+
+<hr>
+
+### Day 81: 2019-02-26 Tuesday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Input transaction
+* Consider to buy stocks
+* Read FI blog
+
+<hr>
+
+
+
+
