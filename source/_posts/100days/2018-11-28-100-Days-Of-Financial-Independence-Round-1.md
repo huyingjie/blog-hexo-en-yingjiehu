@@ -1327,6 +1327,17 @@ Search interactive broker notification|0:05:59
 
 <hr>
 
+### Day 82: 2019-02-27 Wednesday
+
+**Time spent**: 53 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Input transaction|0:08:05
+Read FI blog|0:28:14
+Write 100 Days of Financial Independence (Round 1)|0:17:24
 
 
 
