@@ -1339,5 +1339,22 @@ Input transaction|0:08:05
 Read FI blog|0:28:14
 Write 100 Days of Financial Independence (Round 1)|0:17:24
 
+### Day 82: 2019-03-01 Friday
+
+**Time spent**: 6 hours 30 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Adjust menu|0:04:07
+Input side hustle cash out|0:16:08
+Input transaction|0:14:32
+Read FI blog|1:02:35
+Search ABBV information|0:01:06
+Search KO information|0:10:58
+Write 100 Days of Financial Independence (Round 1)|0:05:38
+Write monthly dividend post|0:31:19
+Write Side Hustle post|4:04:00
 
 
