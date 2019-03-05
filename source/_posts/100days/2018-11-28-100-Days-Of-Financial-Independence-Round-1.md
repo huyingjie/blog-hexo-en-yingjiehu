@@ -17,7 +17,7 @@ Start Date: 2018-10-28
 
 ## Background
 
-I finished reading the book Rich Dad and Poor Dady on 2018-10-28, and suddenly wondered how much money was needed to get enough stock dividend to cover living cost. 
+I finished reading the book Rich Dad and Poor Dady on 2018-10-28, and suddenly wondered how much money was needed to get enough stock dividend to cover living cost.
 
 After extensive research online, some blogs tracking the progress of accumulating dividend convinced me that the idea was doable.
 
@@ -38,10 +38,10 @@ This challenge will help me develop the routine to follow stock market closely a
 1. [1 Day (Day 1: 2018-10-28 Sunday)](#Day-1-2018-10-28-Sunday)
 2. [7 Days (Day 7: 2018-11-03 Saturday)](#Day-7-2018-11-03-Saturday)
 3. [30 Days (Day 30: 2018-11-27 Tuesday)](#Day-30-2018-11-27-Tuesday
-) 
-4. [60 Days (Day 60: 2018-12-31 Monday)](#Day-60-2018-12-31-Monday) 
-5. 90 Days 
-6. 100 Days 
+)
+4. [60 Days (Day 60: 2018-12-31 Monday)](#Day-60-2018-12-31-Monday)
+5. 90 Days
+6. 100 Days
 
 ## Some important additional considerations
 
@@ -99,7 +99,7 @@ This is a milestone. Today is the first day to search stock dividend.
 	2:55:07
 * Searched information about stock dividend
 	1:52:41
-	
+
 **Thoughts and Emotions:**
 
 The second day to search. I collected a lot of information yesterday and need to synthesized the information.
@@ -116,7 +116,7 @@ The second day to search. I collected a lot of information yesterday and need to
 
 **Thoughts and Emotions:**
 
-Synthesizing information requires more brain power to read and collect information. 
+Synthesizing information requires more brain power to read and collect information.
 
 <hr>
 
@@ -160,9 +160,9 @@ Using R to analysis stock information is connecting with what I learned about R.
 **Today's Progress (achievements and frustrations)**:
 
 * Read 100 dividend blogs
-* Wrote R code to calculate the yearly/monthly cost basis of stocks 
+* Wrote R code to calculate the yearly/monthly cost basis of stocks
 * Selected dividend stocks and input into OmniFocus
-* Built a wordpress blog to track progress [http://dsfi.yingjiehu.com](http://dsfi.yingjiehu.com) 
+* Built a wordpress blog to track progress [http://dsfi.yingjiehu.com](http://dsfi.yingjiehu.com)
 
 **Thoughts and Emotions:**
 
@@ -281,7 +281,7 @@ The work is longer than I expected.
 
 **Time spent**: 8 hours 56 minutes
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * Created Google Sheet for Roth
 * Read FI blogs
@@ -636,7 +636,7 @@ I finally had an idea how to diversify a portfolio. There are 11 sections in the
 
 The total annual forward dividend will be
 
-$\$400 \times 11 \times 10 = \$44000$ 
+$\$400 \times 11 \times 10 = \$44000$
 
 **Tomorrow's plan**
 
@@ -671,7 +671,7 @@ In summary, the biggest achievements were to select stocks in 11 sections and to
 
 **Thoughts and Emotions:**
 
-Time-consuming and tired. I am happy that I figured out how to achieve diversification. However, I am still confused when to buy stocks to acquire sufficient shares. 
+Time-consuming and tired. I am happy that I figured out how to achieve diversification. However, I am still confused when to buy stocks to acquire sufficient shares.
 
 <hr>
 
@@ -1339,7 +1339,7 @@ Input transaction|0:08:05
 Read FI blog|0:28:14
 Write 100 Days of Financial Independence (Round 1)|0:17:24
 
-### Day 82: 2019-03-01 Friday
+### Day 83: 2019-03-01 Friday
 
 **Time spent**: 6 hours 30 minutes
 
@@ -1357,4 +1357,28 @@ Write 100 Days of Financial Independence (Round 1)|0:05:38
 Write monthly dividend post|0:31:19
 Write Side Hustle post|4:04:00
 
+### Day 84: 2019-03-02 Saturday
 
+**Time spent**: 1 hours 23 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog|0:13:04
+Read: How To Make Money From Mergers And Acquisitions|0:05:09
+Transfer money from Robinhood to bank|0:01:27
+Write 100 Days of Financial Independence (Round 1)|0:08:29
+Write Side Hustle post|0:55:32
+
+
+### Day 85: 2019-03-03 Sunday
+
+**Time spent**: 2 hours 13 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to buy stocks|0:41:47
+画线|1:31:19
