@@ -40,7 +40,7 @@ This challenge will help me develop the routine to follow stock market closely a
 3. [30 Days (Day 30: 2018-11-27 Tuesday)](#Day-30-2018-11-27-Tuesday
 ) 
 4. [60 Days (Day 60: 2018-12-31 Monday)](#Day-60-2018-12-31-Monday) 
-5. 90 Days 
+5. [90 Days (Day 90: 2019-03-08 Friday)](#Day-90-2019-03-08-Friday)
 6. 100 Days 
 
 ## Some important additional considerations
@@ -1339,7 +1339,7 @@ Input transaction|0:08:05
 Read FI blog|0:28:14
 Write 100 Days of Financial Independence (Round 1)|0:17:24
 
-### Day 82: 2019-03-01 Friday
+### Day 83: 2019-03-01 Friday
 
 **Time spent**: 6 hours 30 minutes
 
@@ -1357,4 +1357,114 @@ Write 100 Days of Financial Independence (Round 1)|0:05:38
 Write monthly dividend post|0:31:19
 Write Side Hustle post|4:04:00
 
+### Day 84: 2019-03-02 Saturday
+
+**Time spent**: 1 hours 23 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog | 0:13:04
+Read: How To Make Money From Mergers And Acquisitions |0:05:09
+Transfer money from Robinhood to bank | 0:01:27
+Write 100 Days of Financial Independence (Round 1) | 0:08:29
+Write Side Hustle post | 0:55:32
+
+### Day 85: 2019-03-03 Sunday
+
+**Time spent**: 2 hours 13 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to buy stocks | 0:41:47
+Draw | 1:31:19
+
+### Day 86: 2019-03-04 Monday
+
+**Time spent**: 5 hours 10 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock | 1:23:05
+Consider to sell stock | 0:52:48
+Input transaction | 0:16:04
+Install trade journal | 2:14:37
+Search hexo theme for trade journal | 0:16:42
+Write 100 Days of Financial Independence (Round 1) | 0:07:38
+
+### Day 87: 2019-03-05 Tuesday
+
+**Time spent**: 1 hours 4 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock | 0:01:16
+Input transaction | 0:17:16
+Read FI blog | 0:45:44
+
+### Day 88: 2019-03-06 Wednesday
+
+**Time spent**: 3 hours 46 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock | 2:51:11
+Input transaction | 0:12:27
+Read FI blog | 0:43:08
+
+### Day 89: 2019-03-07 Thursday
+
+**Time spent**: 1 hours 08 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock | 0:34:38
+Draw | 0:33:46
+
+### Day 90: 2019-03-08 Friday
+
+**Time spent**: 2 hours 18 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock | 1:38:38
+Input transaction | 0:02:43
+Read FI blog | 0:37:17
+
+### Day 91: 2019-03-10 Sunday
+
+**Time spent**: 39 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock | 0:33:23
+Input transaction | 0:01:26
+Read FI blog | 0:04:49
+
+### Day 92: 2019-03-12 Tuesday
+
+**Time spent**: 52 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Input side hustle cash out | 0:05:15
+Input transaction | 0:08:16
+Read FI blog | 0:38:37
 
