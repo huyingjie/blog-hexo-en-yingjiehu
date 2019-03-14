@@ -1466,3 +1466,18 @@ Progress|Length of Time
 Input side hustle cash out | 0:05:15
 Input transaction | 0:08:16
 Read FI blog | 0:38:37
+
+
+### Day 93: 2019-03-13 Wednesday
+
+**Time spent**: 1 hour 51 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock | 0:51:56
+Input transaction | 0:07:26
+Read FI blog | 0:09:37
+Write 100 Days of Financial Independence (Round 1) | 0:18:12
+Draw | 0:24:46
