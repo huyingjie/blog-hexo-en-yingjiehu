@@ -1481,3 +1481,15 @@ Input transaction | 0:07:26
 Read FI blog | 0:09:37
 Write 100 Days of Financial Independence (Round 1) | 0:18:12
 Draw | 0:24:46
+
+### Day 94: 2019-03-14 Thursday
+
+**Time spent**: 34 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock | 0:12:29
+Read FI blog | 0:14:20
+Write 100 Days of Financial Independence (Round 1) | 0:05:17
