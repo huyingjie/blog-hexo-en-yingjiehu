@@ -1493,3 +1493,14 @@ Progress|Length of Time
 Consider to sell and buy stock | 0:12:29
 Read FI blog | 0:14:20
 Write 100 Days of Financial Independence (Round 1) | 0:05:17
+
+### Day 95: 2019-03-15 Friday
+
+**Time spent**: 2 hours 1 minute
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Write 100 Days of Financial Independence (Round 1) | 0:04:44
+Write posts for Roth | 1:57:01
