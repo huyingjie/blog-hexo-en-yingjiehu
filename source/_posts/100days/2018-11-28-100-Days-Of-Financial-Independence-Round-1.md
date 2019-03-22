@@ -1504,3 +1504,19 @@ Progress|Length of Time
 ---|---
 Write 100 Days of Financial Independence (Round 1) | 0:04:44
 Write posts for Roth | 1:57:01
+
+
+### Day 96: 2019-03-20 Wednesday
+
+
+**Time spent**: 1 hours 40 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock | 0:32:29
+Input transaction | 0:07:51
+Read FI blog | 0:36:10
+Write 100 Days of Financial Independence (Round 1) | 0:08:57
+Draw | 0:14:46
