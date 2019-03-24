@@ -16,16 +16,16 @@ Start Date: 2019-02-03
 
 ## Background
 
-I want to train diffused attention to decrease stress level. I do not want to focus more because narrow-focus increases a lot of stress I cannot tolerate. Another goal is to absorbed myself in the surrounding. 
+I want to train diffused attention to decrease stress level. I do not want to focus more because narrow-focus increases a lot of stress I cannot tolerate. Another goal is to absorbed myself in the surrounding.
 
 ## Milestones
 
 1. [1 Day (Day 1: 2019-02-03 Sunday)](#Day-1-2019-02-03-Sunday)
-2. 7 Days 
-3. 30 Days 
-4. 60 Days 
-5. 90 Days 
-6. 100 Days 
+2. 7 Days
+3. 30 Days
+4. 60 Days
+5. 90 Days
+6. 100 Days
 
 ## Some important additional considerations
 
@@ -59,7 +59,7 @@ I want to train diffused attention to decrease stress level. I do not want to fo
 
 **Thoughts and Emotions:**
 
-I like RelaxMeditation and Oak apps. 
+I like RelaxMeditation and Oak apps.
 
 RelaxMeditation has very long music.
 
@@ -80,3 +80,14 @@ Initially, when using RelaxMeditation as background music, I felt good. After ve
 
 <hr>
 
+### Day 3: 2019-03-24 Sunday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Meditation in bed
+
+**Thoughts and Emotions:**
+
+Recently, I read several books about neuroscience. I am motivated by the goal of improving the brain.
+
+Most of the activity of a person in one day is controlled by unconsciousness, i.e., habit. I want to develop meditation to be a habit. I waked up for one hour this morning and resumed sleeping. During the wake-up time, the brain produced alpha brainwave, which contains both conscious and unconscious stages. It is easier to develop habits to be that stage. I made use of this stage to make meditation a habit this morning
