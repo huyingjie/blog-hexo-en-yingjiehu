@@ -91,3 +91,15 @@ Initially, when using RelaxMeditation as background music, I felt good. After ve
 Recently, I read several books about neuroscience. I am motivated by the goal of improving the brain.
 
 Most of the activity of a person in one day is controlled by unconsciousness, i.e., habit. I want to develop meditation to be a habit. I waked up for one hour this morning and resumed sleeping. During the wake-up time, the brain produced alpha brainwave, which contains both conscious and unconscious stages. It is easier to develop habits to be that stage. I made use of this stage to make meditation a habit this morning
+
+<hr>
+
+### Day 4: 2019-03-25 Monday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Meditation in bed
+
+**Thoughts and Emotions:**
+
+Continue to develope a habit of meditation.
