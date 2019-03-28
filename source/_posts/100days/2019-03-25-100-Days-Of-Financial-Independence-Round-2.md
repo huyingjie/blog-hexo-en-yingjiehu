@@ -1,0 +1,113 @@
+---
+layout: post
+title: 100 Days Of Financial Independence (Round 2)
+date: 2019-03-25
+tags:
+	- 100 Days Challenge
+	- Finance Independence
+categories:
+	- [100 Days Challenge, Financial Independence]
+permalink: 100-Days-Of-Financial-Independence-Round-2
+---
+Main Commitment: I will keep trading stocks to gain capital.
+
+Start Date: 2019-03-25
+
+<!-- more -->
+
+## Background
+
+I finished reading the book Rich Dad and Poor Dady on 2018-10-28, and suddenly wondered how much money was needed to get enough stock dividend to cover living cost.
+
+After extensive research online, some blogs tracking the progress of accumulating dividend convinced me that the idea was doable.
+
+Ultimate long-term financial goal: Finance Independence
+
+This challenge will help me develop the routine to follow stock market closely and train myself to trade insanely reasonably.
+
+[http://dsfi.yingjiehu.com](http://dsfi.yingjiehu.com) tracks dividend progress.
+
+I finished [the first round of the 100-day-challenge on 2019-03-25](/100-Days-Of-Financial-Independence-Round-1/). It helped me a lot.
+## Rules
+
+1. I will study/practice/write trading/draw lines for stocks every day.
+4. I will track my progress here and push to GitHub.
+5. I will only skip a day if something important comes up. And when I resume, I won’t count the day I skipped as one of my 100 days.
+
+## Milestones
+
+1. [1 Day: 2019-03-25 Monday](#Day-1-2019-03-25-Monday) 
+2. 7 Days
+3. 30 Days
+4. 60 Days
+5. 90 Days
+6. 100 Days
+
+## Some important additional considerations
+
+* Don't skip two days in a row, and try not to skip more than 1 day in 2 weeks.
+
+## Template for Log
+
+```
+### Day :
+
+**Time spent**:
+
+**Today's Progress (achievements and frustrations)**:
+
+**Thoughts and Emotions:**
+
+**Tomorrow's plan**
+
+<hr>
+```
+
+
+<hr>
+
+## Log
+
+### Day 1: 2019-03-25 Monday
+
+**Time spent**: 40 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock | 0:21:09
+Input transaction | 0:16:00
+Read FI blog | 0:03:32
+
+<hr>
+
+### Day 2: 2019-03-26 Tuesday
+
+**Time spent**: 1 hour 14 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock | 0:41:32
+Input transaction | 0:22:49
+Read FI blog | 0:04:43
+Draw | 0:05:00
+
+<hr>
+
+### Day 3: 2019-03-27 Wednesday
+
+**Time spent**: 27 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock | 0:15:19
+Input transaction | 0:04:48
+Read FI blog | 0:03:25
+Draw | 0:03:55
+
+

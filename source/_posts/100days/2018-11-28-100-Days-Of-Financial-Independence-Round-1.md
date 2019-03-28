@@ -40,7 +40,7 @@ This challenge will help me develop the routine to follow stock market closely a
 3. [30 Days (Day 30: 2018-11-27 Tuesday)](#Day-30-2018-11-27-Tuesday)
 4. [60 Days (Day 60: 2018-12-31 Monday)](#Day-60-2018-12-31-Monday)
 5. [90 Days (Day 90: 2019-03-08 Friday)](#Day-90-2019-03-08-Friday)
-6. 100 Days
+6. [100 Days (Day 100: 2019-03-24 Sunday)](#Day-100-2019-03-24-Sunday)
 
 ## Some important additional considerations
 
@@ -62,6 +62,19 @@ This challenge will help me develop the routine to follow stock market closely a
 <hr>
 ```
 
+## Review
+
+This is the second 100-day-challenge I have finished. It is from 2018-10-28 to 2019-03-24.
+
+Unlike other challenges, I love stocking market. It is easier for me to keep on working every day towards my ultimate goal -- Financial Independence. 
+
+During the process, I realized
+
+* Options are suitable for my trading style. I can make more without trading.
+* In my current situation, the dividend should not be the primary cash flow even though my ultimate goal is to earn enough dividend to cover living expense. 
+* Earning capital by trading within a range is the most suitable way for me.
+
+I earned more than $\$$1000 from BILI via the trading style used and am very satisfied with this result. It is twice the dividend earned for the 2018 entire year
 <hr>
 
 ## Log
@@ -1337,6 +1350,7 @@ Progress|Length of Time
 Input transaction|0:08:05
 Read FI blog|0:28:14
 Write 100 Days of Financial Independence (Round 1)|0:17:24
+<hr>
 
 ### Day 83: 2019-03-01 Friday
 
@@ -1356,6 +1370,8 @@ Write 100 Days of Financial Independence (Round 1)|0:05:38
 Write monthly dividend post|0:31:19
 Write Side Hustle post|4:04:00
 
+<hr>
+
 ### Day 84: 2019-03-02 Saturday
 
 **Time spent**: 1 hours 23 minutes
@@ -1370,6 +1386,8 @@ Transfer money from Robinhood to bank | 0:01:27
 Write 100 Days of Financial Independence (Round 1) | 0:08:29
 Write Side Hustle post | 0:55:32
 
+<hr>
+
 ### Day 85: 2019-03-03 Sunday
 
 **Time spent**: 2 hours 13 minutes
@@ -1380,6 +1398,9 @@ Progress|Length of Time
 ---|---
 Consider to buy stocks | 0:41:47
 Draw | 1:31:19
+
+<hr>
+
 
 ### Day 86: 2019-03-04 Monday
 
@@ -1396,6 +1417,8 @@ Install trade journal | 2:14:37
 Search hexo theme for trade journal | 0:16:42
 Write 100 Days of Financial Independence (Round 1) | 0:07:38
 
+<hr>
+
 ### Day 87: 2019-03-05 Tuesday
 
 **Time spent**: 1 hours 4 minutes
@@ -1407,6 +1430,8 @@ Progress|Length of Time
 Consider to sell and buy stock | 0:01:16
 Input transaction | 0:17:16
 Read FI blog | 0:45:44
+
+<hr>
 
 ### Day 88: 2019-03-06 Wednesday
 
@@ -1420,6 +1445,8 @@ Consider to sell and buy stock | 2:51:11
 Input transaction | 0:12:27
 Read FI blog | 0:43:08
 
+<hr>
+
 ### Day 89: 2019-03-07 Thursday
 
 **Time spent**: 1 hours 08 minutes
@@ -1430,6 +1457,9 @@ Progress|Length of Time
 ---|---
 Consider to sell and buy stock | 0:34:38
 Draw | 0:33:46
+
+<hr>
+
 
 ### Day 90: 2019-03-08 Friday
 
@@ -1443,6 +1473,9 @@ Consider to sell and buy stock | 1:38:38
 Input transaction | 0:02:43
 Read FI blog | 0:37:17
 
+<hr>
+
+
 ### Day 91: 2019-03-10 Sunday
 
 **Time spent**: 39 minutes
@@ -1454,6 +1487,9 @@ Progress|Length of Time
 Consider to sell and buy stock | 0:33:23
 Input transaction | 0:01:26
 Read FI blog | 0:04:49
+
+<hr>
+
 
 ### Day 92: 2019-03-12 Tuesday
 
@@ -1467,6 +1503,7 @@ Input side hustle cash out | 0:05:15
 Input transaction | 0:08:16
 Read FI blog | 0:38:37
 
+<hr>
 
 ### Day 93: 2019-03-13 Wednesday
 
@@ -1482,6 +1519,8 @@ Read FI blog | 0:09:37
 Write 100 Days of Financial Independence (Round 1) | 0:18:12
 Draw | 0:24:46
 
+<hr>
+
 ### Day 94: 2019-03-14 Thursday
 
 **Time spent**: 34 minutes
@@ -1494,6 +1533,8 @@ Consider to sell and buy stock | 0:12:29
 Read FI blog | 0:14:20
 Write 100 Days of Financial Independence (Round 1) | 0:05:17
 
+<hr>
+
 ### Day 95: 2019-03-15 Friday
 
 **Time spent**: 2 hours 1 minute
@@ -1505,6 +1546,7 @@ Progress|Length of Time
 Write 100 Days of Financial Independence (Round 1) | 0:04:44
 Write posts for Roth | 1:57:01
 
+<hr>
 
 ### Day 96: 2019-03-20 Wednesday
 
@@ -1520,3 +1562,64 @@ Input transaction | 0:07:51
 Read FI blog | 0:36:10
 Write 100 Days of Financial Independence (Round 1) | 0:08:57
 Draw | 0:14:46
+
+<hr>
+
+### Day 97: 2019-03-21 Thursday
+
+**Time spent**: 1 hours 09 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock | 0:51:00
+Input transaction | 0:03:02
+Read FI blog | 0:12:20
+Write 100 Days of Financial Independence (Round 1) | 0:03:04
+
+<hr>
+
+### Day 98: 2019-03-22 Friday
+
+
+**Time spent**: 14 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+onsider to sell and buy stock | 0:06:42
+Input transaction | 0:06:54
+Read FI blog | 0:00:43
+
+<hr>
+
+### Day 99: 2019-03-23 Saturday
+
+**Time spent**: 1 hour 9 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock | 0:52:37
+Input side hustle cash out | 0:03:01
+Input transaction | 0:08:30
+Read FI blog | 0:00:33
+Write 100 Days of Financial Independence (Round 1) | 0:05:13
+
+<hr>
+
+### Day 100: 2019-03-24 Sunday
+
+**Time spent**: 2 hour 14 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock | 1:30:00
+Read FI blog | 0:01:21
+Write 100 Days of Financial Independence (Round 1) | 0:01:25
+Draw | 0:41:54

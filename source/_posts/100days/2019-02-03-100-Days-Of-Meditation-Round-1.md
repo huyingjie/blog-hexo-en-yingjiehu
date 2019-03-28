@@ -103,3 +103,4 @@ Most of the activity of a person in one day is controlled by unconsciousness, i.
 **Thoughts and Emotions:**
 
 Continue to develope a habit of meditation.
+
