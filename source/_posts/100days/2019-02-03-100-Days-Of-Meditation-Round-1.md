@@ -104,3 +104,36 @@ Most of the activity of a person in one day is controlled by unconsciousness, i.
 
 Continue to develope a habit of meditation.
 
+<hr>
+
+
+### Day 5: 2019-03-26 Tuesday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Meditation in bed
+* Meditation in the elevator
+
+**Thoughts and Emotions:**
+
+Continue to develope a habit of meditation.
+
+<hr>
+
+
+### Day 6: 2019-03-27 Wednesday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Meditation in bed
+* Meditation in the elevator
+
+**Thoughts and Emotions:**
+
+Continue to develope a habit of meditation.
+
+I realized how I developed meditation in middle school.
+
+I have to recite knowledge in middle school. While lying in bed, I recalled the things in the mind. When distracted, I gently move the attention back. 
+
+The same thing happened to think about difficult mathematics problems lying in bed before sleep in college.
