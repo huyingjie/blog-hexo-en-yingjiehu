@@ -74,7 +74,7 @@ During the process, I realized
 * In my current situation, the dividend should not be the primary cash flow even though my ultimate goal is to earn enough dividend to cover living expense. 
 * Earning capital by trading within a range is the most suitable way for me.
 
-I earned more than $\$$1000 from BILI via the trading style used and am very satisfied with this result. It is twice the dividend earned for the 2018 entire year
+I earned more than $\$$1000 from BILI via the trading style used and am very satisfied with this result. It is twice the dividend earned for the 2018 entire year.
 <hr>
 
 ## Log

@@ -111,3 +111,17 @@ Read FI blog | 0:03:25
 Draw | 0:03:55
 
 
+<hr>
+
+### Day 4: 2019-03-28 Thursday
+
+**Time spent**: 27 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog | 0:07:13
+Write 100 Days of Financial Independence (Round 1) | 0:24:02
+Write monthly post | 0:21:51
+Write quarterly post | 0:36:04
