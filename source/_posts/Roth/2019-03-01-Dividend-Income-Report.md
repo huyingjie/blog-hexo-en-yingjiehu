@@ -22,9 +22,9 @@ VMMXX|$\$$1	|$\$$0.00209|4,821|$\$$4,821	|	$\$$8.55|$\$$21.89|-61%|2.3%
 AAPL|$\$$87.46|$\$$0.73|10|$\$$874.6|$\$$7.3|$\$$6.3|16%|3.3%
 **Total**||||$\$$5695.6|$\$$15.91|$\$$28.19|-44%|2.3%
 
-Last year, much money was used to set limit buy orders. However, the orders were never executed. Hence, Vanguard automatical put the unused money in the VMMXX and generated monthly dividends. Purchases of stocks of BILI and DBX were made and little money was left in the money market. It led to less dividend in 2019
+Last year, much money was used to set limit buy orders. However, the orders were never executed. Hence, Vanguard automatical put the unused money in the VMMXX and generated monthly dividends. Purchases of stocks of BILI and DBX were made and little money was left in the money market. It led to less dividend in 2019.
 
-## Goal Review: 7%
+## Goal Review: 7% Completion
 
 Goal for 2019: Earn $\$$343 in dividend income
 

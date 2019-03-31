@@ -4,6 +4,7 @@ title: 100 Days Of Meditation (Round 1)
 date: 2019-02-03
 tags:
 	- 100 Days Challenge
+	- Meditation
 categories:
 	- [100 Days Challenge, Meditation]
 permalink: 2019-02-03-100-Days-Of-Meditation-Round-1
@@ -21,7 +22,7 @@ I want to train diffused attention to decrease stress level. I do not want to fo
 ## Milestones
 
 1. [1 Day (Day 1: 2019-02-03 Sunday)](#Day-1-2019-02-03-Sunday)
-2. 7 Days
+2. [7 Days (Day 7: 2019-03-28 Thursday)](#Day-7-2019-03-28-Thursday)
 3. 30 Days
 4. 60 Days
 5. 90 Days
@@ -134,6 +135,43 @@ Continue to develope a habit of meditation.
 
 I realized how I developed meditation in middle school.
 
-I have to recite knowledge in middle school. While lying in bed, I recalled the things in the mind. When distracted, I gently move the attention back. 
+I have to recite knowledge in middle school. While lying in bed, I recalled the things in the mind. When distracted, I gently move the attention back.
 
 The same thing happened to think about difficult mathematics problems lying in bed before sleep in college.
+
+<hr>
+
+### Day 7: 2019-03-28 Thursday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Meditation in bed
+* Recite the prefrontal cortex in the brain in bed
+
+<hr>
+
+### Day 8: 2019-03-29 Friday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Meditation in bed
+* Meditation in the elevator
+* Recite the limbic system in the brain in bed
+* Recite the limbic system in the brain while walking
+
+**Thoughts and Emotions:**
+
+I meditated in a new elevator.
+
+<hr>
+
+### Day 9: 2019-03-30 Saturday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Meditation in bed
+* Meditation in the elevator
+
+**Thoughts and Emotions:**
+
+I can think of meditation automatically when I take an elevator. It can means I develop the habit of meditation in elevators.
