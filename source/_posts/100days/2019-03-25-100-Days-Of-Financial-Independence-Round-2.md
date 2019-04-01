@@ -37,7 +37,7 @@ I finished [the first round of the 100-day-challenge on 2019-03-25](/100-Days-Of
 ## Milestones
 
 1. [1 Day: 2019-03-25 Monday](#Day-1-2019-03-25-Monday)
-2. 7 Days
+2. [7 Days: 2019-03-31 Sunday](#Day-7-2019-03-31-Sunday)
 3. 30 Days
 4. 60 Days
 5. 90 Days
@@ -156,3 +156,19 @@ Consider to sell and buy stock | 1:35:57
 Correct monthly option post | 0:17:23
 Input transaction | 0:26:47
 Read FI blog | 0:06:52
+
+<hr>
+
+### Day 7: 2019-03-31 Sunday
+
+**Time spent**: 1 hours 15 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Input side hustle cash out | 0:04:05
+Input transaction | 0:01:57
+Read FI blog | 0:08:58
+Write 100 Days of Financial Independence (Round 2) | 0:04:25
+Write monthly post | 0:56:03
