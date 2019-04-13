@@ -175,3 +175,35 @@ I meditated in a new elevator.
 **Thoughts and Emotions:**
 
 I can think of meditation automatically when I take an elevator. It can means I develop the habit of meditation in elevators.
+
+<hr>
+
+### Day 10: 2019-04-10 Wednesday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Meditation in bed
+* Meditation in the elevator
+* Meditation of recitation
+
+**Thoughts and Emotions:**
+
+Recitation is one kind of meditations.
+
+<hr>
+
+### Day 11: 2019-04-11 Thursday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Meditation in bed
+* Meditation of recitation
+
+<hr>
+
+### Day 12: 2019-04-12 Friday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Meditation in bed
+* Meditation of recitation
