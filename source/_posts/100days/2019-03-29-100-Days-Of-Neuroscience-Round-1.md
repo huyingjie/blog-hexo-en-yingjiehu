@@ -80,3 +80,123 @@ Take notes: the Upward Spiral | 2:43:44
 I didn't finish one chapter to take notes for the book the Upward Spiral. I found it was difficult for me to visualize each part in the brain, such as the amygdala, hippocampus, hypothalamus. I spent time searching for pictures to help me visualization in mind. I will buy some physical brain models in the future. 
 
 <hr>
+
+### Day 2: 2019-04-01 Monday
+
+**Time spent**: 4 hours 55 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+* Review
+	* frontal cortex
+	* limbic system
+		* hippocampus
+		* hypothalamus
+		* amygdala
+		* cingulate cortex
+
+* Finished taking notes of Chapter 2 in the book the Upward Spiral
+* Read the book The Diving Bell and the Butterfly
+
+**Thoughts and Emotions:**
+
+I hate writes use metaphor as their primary writing style. The Diving Bell and the Butterfly is like that. A lot of memories and metaphors and very few neuroscience stuff. I am only interested in neuroscience. Thus I gave up. 
+
+**Tomorrow's plan**
+
+* [x] Review notes
+
+<hr>
+
+### Day 3: 2019-04-02 Tuesday
+
+**Time spent**: 4 hours 55 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: The Diving Bell and the Butterfly: A Memoir of Life in Death | 0:49:47
+Review | 0:49:57
+Review today's new notes | 0:08:33
+Search for good neuroscience blogs | 0:55:36
+Take notes: the Upward Spiral | 1:46:49
+Write 100 Days of Neuroscience | 0:25:05
+
+**Thoughts and Emotions:**
+
+The Diving Bell and the Butterfly: A Memoir of Life in Death is not my type. Very few contents related to the disease itself.
+
+**Tomorrow's plan**
+
+* [ ] Read habits in the Upward Spiral
+
+
+<hr>
+
+### Day 4: 2019-04-03 Wednesday
+
+**Time spent**: 1 hours 31 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Take notes: the Upward Spiral | 1:31:00
+
+
+
+<hr>
+
+### Day 5: 2019-04-04 Thursday
+
+**Time spent**: 2 hours 35 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Review | 0:24:48
+Review today's new notes | 0:13:16
+Take notes: the Upward Spiral | 1:57:05
+
+<hr>
+
+### Day 6: 2019-04-05 Friday
+
+**Time spent**: 2 hours 28 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Take notes: the Willpower Instinct | 2:28:28
+
+**Thoughts and Emotions:**
+
+This is the second time I read the Willpower Instinct. There are 2 goals
+
+1. Taking notes
+2. Relating the contents of the book to the book The Upward Spiral
+
+Most of the contents of the Willpower Instinct is the subset of the Upward Spiral.
+
+<hr>
+
+### Day 7: 2019-04-06 Saturday
+
+**Time spent**: 3 hours 32 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: the brain changes itself  | 1:01:35
+Take notes: the Willpower Instinct | 
+2:30:28 
+
+**Thoughts and Emotions:**
+
+The book the Brain Changes Itself  talked about neuroplasticity. It doesn't focus on growing new neurons in the hippocampus, which is great for me. I care about how to enhance prefrontal cortex. Having new neurons does not train the prefrontal cortex. 
+
+
