@@ -17,11 +17,11 @@ Start Date: 2019-03-29
 
 ## Background
 
-After having met different therapists for two years, I finally found something motivating to learn and practice, neuroscience. When I was in the middle school, I adopted the idea of neuroplasticity. The meaning of neuroplasticity for me was that studying and practicing knowledge required by the school can develop the connections in the neurons. Whenever I met difficult tasks or things I did not like to do, I would visualize the growing of connections of neurons in the brain to keep myself motivated. It was working! I can see the effect after practicing for 4 years. 
+After having met different therapists for two years, I finally found something motivating to learn and practice, neuroscience. When I was in the middle school, I adopted the idea of neuroplasticity. The meaning of neuroplasticity for me was that studying and practicing knowledge required by the school can develop the connections in the neurons. Whenever I met difficult tasks or things I did not like to do, I would visualize the growing of connections of neurons in the brain to keep myself motivated. It was working! I can see the effect after practicing for 4 years.
 
-Depression makes me feel doing any deep work or studying hard. But deep work and studying are the keys to do research. I want to learn and practice neuroscience at my own pace. The reading speed of the book will be slow. The goal is not finishing the book. The goal is focusing on progress instead of the final results. The practice of neuroscience every day in daily life is the outcome I wish to achieve.  
+Depression makes me feel doing any deep work or studying hard. But deep work and studying are the keys to do research. I want to learn and practice neuroscience at my own pace. The reading speed of the book will be slow. The goal is not finishing the book. The goal is focusing on progress instead of the final results. The practice of neuroscience every day in daily life is the outcome I wish to achieve.
 
-I already read a lot for over 1 month before the challenge. It shows my passion and keen interest in neuroscience. 
+I already read a lot for over 1 month before the challenge. It shows my passion and keen interest in neuroscience.
 
 ## Rules
 
@@ -77,7 +77,7 @@ Take notes: the Upward Spiral | 2:43:44
 
 **Thoughts and Emotions:**
 
-I didn't finish one chapter to take notes for the book the Upward Spiral. I found it was difficult for me to visualize each part in the brain, such as the amygdala, hippocampus, hypothalamus. I spent time searching for pictures to help me visualization in mind. I will buy some physical brain models in the future. 
+I didn't finish one chapter to take notes for the book the Upward Spiral. I found it was difficult for me to visualize each part in the brain, such as the amygdala, hippocampus, hypothalamus. I spent time searching for pictures to help me visualization in mind. I will buy some physical brain models in the future.
 
 <hr>
 
@@ -100,7 +100,7 @@ I didn't finish one chapter to take notes for the book the Upward Spiral. I foun
 
 **Thoughts and Emotions:**
 
-I hate writes use metaphor as their primary writing style. The Diving Bell and the Butterfly is like that. A lot of memories and metaphors and very few neuroscience stuff. I am only interested in neuroscience. Thus I gave up. 
+I hate writes use metaphor as their primary writing style. The Diving Bell and the Butterfly is like that. A lot of memories and metaphors and very few neuroscience stuff. I am only interested in neuroscience. Thus I gave up.
 
 **Tomorrow's plan**
 
@@ -192,11 +192,40 @@ Most of the contents of the Willpower Instinct is the subset of the Upward Spira
 Progress|Length of Time
 ---|---
 Read book: the brain changes itself  | 1:01:35
-Take notes: the Willpower Instinct | 
-2:30:28 
+Take notes: the Willpower Instinct |
+2:30:28
 
 **Thoughts and Emotions:**
 
-The book the Brain Changes Itself  talked about neuroplasticity. It doesn't focus on growing new neurons in the hippocampus, which is great for me. I care about how to enhance prefrontal cortex. Having new neurons does not train the prefrontal cortex. 
+The book the Brain Changes Itself  talked about neuroplasticity. It doesn't focus on growing new neurons in the hippocampus, which is great for me. I care about how to enhance prefrontal cortex. Having new neurons does not train the prefrontal cortex.
 
+<hr>
 
+### Day 8: 2019-04-11 Thursday
+
+**Time spent**: 3 hours 30 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+* Hooked
+* Atomic Habits
+
+**Thoughts and Emotions:**
+
+Atomic Habits is a very pratical book. I will try practicing later.
+
+<hr>
+
+### Day 9: 2019-04-13 Saturday
+
+**Time spent**: 39 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Search neuroplasticity books|0:39:32
+
+**Thoughts and Emotions:**
+
+I have a lot of books in the reading list but I cannot help searching more.

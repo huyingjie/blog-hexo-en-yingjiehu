@@ -174,7 +174,7 @@ I meditated in a new elevator.
 
 **Thoughts and Emotions:**
 
-I can think of meditation automatically when I take an elevator. It can means I develop the habit of meditation in elevators.
+I can think of meditation automatically when I take an eluevator. It can means I develop the habit of meditation in elevators.
 
 <hr>
 
@@ -219,3 +219,51 @@ I started a 16-min meditation program. I fell asleep in the middle. It is so gre
 **Thoughts and Emotions:**
 
 I started a 16-min meditation program. I fell asleep in the middle. It is so great.
+
+<hr>
+
+### Day 14: 2019-04-10 Wednesday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Meditation in bed
+* Meditation in the elevator
+* Meditation of recitation
+
+**Thoughts and Emotions:**
+
+Recitation is one kind of meditations.
+
+<hr>
+
+### Day 15: 2019-04-11 Thursday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Meditation in bed
+* Meditation of recitation
+
+<hr>
+
+### Day 16: 2019-04-12 Friday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Meditation in bed
+* Meditation of recitation
+
+<hr>
+
+### Day 17: 2019-04-14 Sunday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Meditation of recitation
+	* 故天将降大任于斯人也，必先苦其心志，劳其筋骨，饿其体肤，空乏其身，行拂乱其所为，所以动心忍性，曾益其所不能。
+	* 积土成山，风雨兴焉；积水成渊，蛟龙生焉；积善成德，而神明自得，圣心备焉。故不积跬步，无以至千里；不积小流，无以成江海。骐骥一跃，不能十步；驽马十驾，功在不舍。锲而舍之，朽木不折；锲而不舍，金石可镂。蚓无爪牙之利，筋骨之强，上食埃土，下饮黄泉，用心一也。蟹六跪而二螯，非蛇鳝之穴无可寄托者，用心躁也。
+
+**Thoughts and Emotions:**
+
+These are two of my favorite old chinese sentences. I recited them a lot in mind. Today I recited in a written form.
+
+<hr>

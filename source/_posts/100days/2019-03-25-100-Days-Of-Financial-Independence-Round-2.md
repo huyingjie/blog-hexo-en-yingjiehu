@@ -243,6 +243,8 @@ Progress|Length of Time
 ---|---
 Draw| 0:05:35
 
+<hr>
+
 ### Day 13: 2019-04-09 Tuesday
 
 **Time spent**: 1 hour 17 minutes
@@ -255,3 +257,43 @@ Consider to sell and buy stock | 0:42:42
 Input transaction | 0:12:48
 Read FI blog | 0:08:37
 Draw | 0:12:56
+
+<hr>
+
+### Day 14: 2019-04-10 Wednesday
+
+**Time spent**: 1 hour 17 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock  | 0:01:03
+Read FI blog | 0:18:12
+Write 100 Days of Financial Independence (Round 2) | 0:07:29
+<hr>
+
+### Day 15: 2019-04-12 Friday
+
+**Time spent**: 1 hour 2 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock | 1:07:16
+Input transaction | 0:06:25
+Draw | 0:09:18
+
+<hr>
+
+### Day 16: 2019-04-13 Saturday
+
+**Time spent**: 1 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog | 0:00:28
+Write 100 Days of Financial Independence (Round 2) | 0:00:59
