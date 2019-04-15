@@ -83,6 +83,7 @@ menu:
   home: / || home
   about: /about/ || user
   categories: /categories/ || th
+  My Other Blogs: /other-blogs || fire
   Resources: /resources ||heart
   archives: /archives/ || archive
   Archives Streaming: /archive_streaming_data_science || archive
