@@ -297,3 +297,31 @@ Progress|Length of Time
 ---|---
 Read FI blog | 0:00:28
 Write 100 Days of Financial Independence (Round 2) | 0:00:59
+
+<hr>
+
+### Day 17: 2019-04-14 Sunday
+
+**Time spent**: 53 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog | 0:28:44
+Think about a way to calculate profit and required profit | 0:20:56
+Write 100 Days of Financial Independence (Round 2) | 0:03:39
+
+<hr>
+
+### Day 18: 2019-04-15 Monday
+
+**Time spent**: 53 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock | 1:05:20
+Input transaction | 0:06:01
+Draw | 0:10:08
