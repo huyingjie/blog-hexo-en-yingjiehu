@@ -93,3 +93,11 @@ I am happy that finally there is a website for Literary Chinese for myself.
 * 饿其体肤, 困乏其身
 
 <hr>
+
+### Day 2: 2019-04-19 Friday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 行, 拂乱其所为, 所以动心忍性, 曾益其所不能
+* recite Classical Chinese
+<hr>

@@ -316,7 +316,7 @@ Write 100 Days of Financial Independence (Round 2) | 0:03:39
 
 ### Day 18: 2019-04-15 Monday
 
-**Time spent**: 53 minutes
+**Time spent**: 1 hour 21 minutes
 
 **Today's Progress (achievements and frustrations)**:
 
@@ -325,3 +325,46 @@ Progress|Length of Time
 Consider to sell and buy stock | 1:05:20
 Input transaction | 0:06:01
 Draw | 0:10:08
+
+<hr>
+
+### Day 19: 2019-04-16 Tuesday
+
+**Time spent**: 41 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock | 0:11:47
+Input transaction | 0:08:52
+Read FI blog | 0:06:57
+Write 100 Days of Financial Independence (Round 2) | 0:03:57
+Draw | 0:10:02
+
+<hr>
+
+### Day 20: 2019-04-18 Thursday
+
+**Time spent**: 1 hour 33 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock | 0:57:03
+Correct table | 0:01:54
+Input transaction | 0:09:57
+Draw | 0:24:42
+
+<hr>
+
+### Day 21: 2019-04-19 Friday
+
+**Time spent**: 22 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog | 0:22:28

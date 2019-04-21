@@ -230,44 +230,6 @@ Search neuroplasticity books|0:39:32
 
 I have a lot of books in the reading list but I cannot help searching more.
 
-<hr>
-
-### Day 10: 2019-04-14 Sunday
-
-**Time spent**: 3 hours 38 minutes
-
-**Today's Progress (achievements and frustrations)**:
-
-Progress|Length of Time
----|---
-Download books | 0:13:59
-Read book: Atomic Habit | 1:00:54
-Read book: Fundamentals of Computational Neuroscience | 0:13:31
-Read book: Neuroplasticity: The Secret behind Brain Plasticit | 0:02:21
-Read book: Nonlinear Dynamics in Computational Neuroscience | 0:01:59
-Read book: the Science of Introvert | 1:45:12
-Read book:Brain Training | 0:16:10
-Write 100 Days of Neuroscience | 0:04:35
-
-### Day 9: 2019-04-13 Saturday
-
-**Time spent**: 7 hours 34 minutes
-
-**Today's Progress (achievements and frustrations)**:
-
-Progress|Length of Time
----|---
-Read book: Hungry Brain | 0:32:33
-Read book: Neuroplasticity | 0:53:32
-Read book: the Power of Habit | 3:32:58
-Read book: The Power of Neuroplasticity | 2:35:23
-Read book:the Power of Habit | 0:00:26
-
-**Thoughts and Emotions:**
-
-This is the longest hour I have worked on neuroscience. Reading consumes less energy than taking notes.
-
-<hr>
 
 ### Day 10: 2019-04-14 Sunday
 
@@ -302,6 +264,9 @@ Read book: the Power of Habit | 3:32:58
 Read book: The Power of Neuroplasticity | 2:35:23
 Read book:the Power of Habit | 0:00:26
 
+**Thoughts and Emotions:**
+
+This is the longest hour I have worked on neuroscience. Reading consumes less energy than taking notes.
 <hr>
 
 ### Day 12: 2019-04-16 Tuesday
