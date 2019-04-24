@@ -35,7 +35,7 @@ The meaning of words are collect on <http://chinese-words.yingjiehu.com/>.
 ## Milestones
 
 1. [1 Day: 2019-04-14 Sunday](#Day-1-2019-04-14-Sunday)
-2. 7 Days
+2. [7 Days: 2019-04-22 Monday](#Day-7-2019-04-22-Monday)
 3. 30 Days
 4. 60 Days
 5. 90 Days
@@ -86,7 +86,7 @@ I am happy that finally there is a website for Literary Chinese for myself.
 
 <hr>
 
-### Day 2: 2019-04-18 Thursday
+### Day 3: 2019-04-18 Thursday
 
 **Today's Progress (achievements and frustrations)**:
 
@@ -94,10 +94,38 @@ I am happy that finally there is a website for Literary Chinese for myself.
 
 <hr>
 
-### Day 2: 2019-04-19 Friday
+### Day 4: 2019-04-19 Friday
 
 **Today's Progress (achievements and frustrations)**:
 
 * 行, 拂乱其所为, 所以动心忍性, 曾益其所不能
 * recite Classical Chinese
+<hr>
+
+### Day 5: 2019-04-20 Saturday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 积土成山，风雨兴焉
+<hr>
+
+### Day 6: 2019-04-21 Sunday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 积水成渊, 蛟龙生焉
+<hr>
+
+### Day 7: 2019-04-22 Monday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 积善成德, 而神明自得, 而圣心备焉
+<hr>
+
+### Day 8: 2019-04-23 Tuesday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 故不积跬步,无以至千里
 <hr>
