@@ -310,3 +310,141 @@ Progress|Length of Time
 ---|---
 Read book: The Mind and the Brain | 0:48:31
 <hr>
+
+### Day 15: 2019-04-19 Friday
+
+**Time spent**: 1 hour 28 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Neuroscience|1:28:29
+Read book: The Mind and the Brain|0:54:30
+Read paper: Cognitive neuroscience of self-regulation failure|0:23:18
+Write 100 Days of Neuroscience|0:10:41
+<hr>
+
+### Day 16: 2019-04-20 Saturday
+
+**Time spent**: 5 hour 5 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Input books to website|0:12:54
+Read book: Build a Better Brain|4:08:15
+Read book: Never Enough|0:07:29
+Read book: Stress-proof brain|0:11:19
+Read book: The Creating Brain|0:25:53
+<hr>
+
+### Day 17: 2019-04-21 Sunday
+
+**Time spent**: 5 hour 26 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: Habits of a Happy brain|4:36:12
+Read book: The Creating Brain|0:50:03
+<hr>
+
+### Day 18: 2019-04-22 Monday
+
+**Time spent**: 6 hour 02 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: Change Your Brain, Change Your Life|6:02:14
+
+<hr>
+
+### Day 19: 2019-04-23 Tuesday
+
+**Time spent**: 2 hour 14 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: Consciousness and the Brain|0:17:04
+Read book: the Talent Code|1:57:43
+<hr>
+
+
+### Day 20: 2019-04-24 Wednesday
+
+**Time spent**: 2 hour 50 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Input books to website|0:35:26
+Read book: Average|0:19:05
+Read book: Notes on a Nervous Planet|1:11:50
+Read book: the Craving Mind|0:07:06
+Read book: The Disordered Mind|0:06:32
+Read book: the Leading Brain|0:26:24
+Read book: the Whole-Brain Child|0:04:20
+
+<hr>
+
+### Day 20: 2019-04-25 Thursday
+
+**Time spent**: 6 hour 19 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Input books to website|0:10:17
+Read book: the Brain and Emotional Intelligence|0:11:31
+Read book: the Happiness Trap|2:51:19
+Read book: Your Brain at Work|1:20:18
+Take notes: The Happiness Trap|1:46:10
+
+<hr>
+
+### Day 21: 2019-04-26 Friday
+
+**Time spent**: 4 hour 50 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: A Mind for Numbers|1:43:43
+Read book: Change Your Brain, Change Your Life|1:31:16
+Read book: the Now Habit|0:26:28
+Read book: Your Brain at Work|0:56:22
+Read book: Your Daily Brain|0:13:06
+<hr>
+
+### Day 22: 2019-04-27 Saturday
+
+**Time spent**: 4 hour 6 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: Change Your Brain, Change Your Life|2:57:02
+Read book: Your Daily Brain|1:09:35
+<hr>
+
+### Day 23: 2019-04-28 Sunday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Your Daily Brain
+* A Mind for Numbers
+* the Now Habit
+* Your Brain at Work
+* the Happiness Trap
+<hr>

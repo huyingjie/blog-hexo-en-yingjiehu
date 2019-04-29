@@ -368,3 +368,99 @@ Draw | 0:24:42
 Progress|Length of Time
 ---|---
 Read FI blog | 0:22:28
+
+<hr>
+
+### Day 21: 2019-04-20 Saturday
+
+**Time spent**: 9 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog|0:03:39
+Write 100 Days of Financial Independence (Round 2)|0:05:28
+
+<hr>
+
+### Day 22: 2019-04-21 Sunday
+
+**Time spent**: 1 hour 3 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: Mutual Funds For Dummies|1:02:17
+Read FI blog|0:01:25
+
+<hr>
+
+### Day 23: 2019-04-22 Monday
+
+**Time spent**: 15 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:02:27
+Input transaction|0:07:10
+Read book: Mutual Funds For Dummies|0:06:00
+
+<hr>
+
+### Day 24: 2019-04-23 Tuesday
+
+**Time spent**: 4 hours 47 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:51:44
+Input transaction|0:22:59
+Read book: Mutual Funds For Dummies|3:24:34
+Draw|0:08:07
+
+<hr>
+
+### Day 25: 2019-04-24 Wednesday
+
+**Time spent**: 4 hours 47 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:46:08
+Input transaction|0:08:00
+Write 100 Days of Financial Independence (Round 2)|0:04:50
+Draw|0:10:07
+
+<hr>
+
+### Day 26: 2019-04-25 Thursday
+
+**Time spent**: 4 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Input transaction|0:04:47
+<hr>
+
+### Day 27: 2019-04-27 Saturday
+
+**Time spent**: 1 hour 40 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|1:29:22
+Draw|0:11:21
+
+<hr>

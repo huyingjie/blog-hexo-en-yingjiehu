@@ -129,3 +129,24 @@ I am happy that finally there is a website for Literary Chinese for myself.
 
 * 故不积跬步,无以至千里
 <hr>
+
+### Day 9: 2019-04-24 Wednesday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 不积小流，无以成江海。
+<hr>
+
+### Day 10: 2019-04-25 Thursday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 骐骥一跃,不能十步.驽马十驾,功在不舍
+<hr>
+
+### Day 11: 2019-04-26 Monday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 锲而舍之, 朽木不折; 锲而不舍,金石可镂.
+<hr>
