@@ -395,7 +395,7 @@ Read book: the Whole-Brain Child|0:04:20
 
 <hr>
 
-### Day 20: 2019-04-25 Thursday
+### Day 21: 2019-04-25 Thursday
 
 **Time spent**: 6 hour 19 minutes
 
@@ -411,7 +411,7 @@ Take notes: The Happiness Trap|1:46:10
 
 <hr>
 
-### Day 21: 2019-04-26 Friday
+### Day 22: 2019-04-26 Friday
 
 **Time spent**: 4 hour 50 minutes
 
@@ -426,7 +426,7 @@ Read book: Your Brain at Work|0:56:22
 Read book: Your Daily Brain|0:13:06
 <hr>
 
-### Day 22: 2019-04-27 Saturday
+### Day 23: 2019-04-27 Saturday
 
 **Time spent**: 4 hour 6 minutes
 
@@ -438,7 +438,7 @@ Read book: Change Your Brain, Change Your Life|2:57:02
 Read book: Your Daily Brain|1:09:35
 <hr>
 
-### Day 23: 2019-04-28 Sunday
+### Day 24: 2019-04-28 Sunday
 
 **Today's Progress (achievements and frustrations)**:
 
@@ -447,4 +447,68 @@ Read book: Your Daily Brain|1:09:35
 * the Now Habit
 * Your Brain at Work
 * the Happiness Trap
+<hr>
+
+### Day 25: 2019-04-29 Monday
+
+**Time spent**: 25 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Input books to website|0:17:36
+Write 100 Days of Neuroscience|0:07:28
+
+<hr>
+
+
+### Day 26: 2019-05-01 Wednesday
+
+**Time spent**: 14 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: A Mind for Numbers|0:14:05
+Read book: the brain changes itself|0:00:41
+
+<hr>
+
+### Day 27: 2019-05-02 Thursday
+
+**Time spent**: 3 hours 23 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Input books to website|1:18:23
+Read book: A Mind for Numbers|2:05:03
+
+<hr>
+
+### Day 28: 2019-05-03 Wednesday
+
+**Time spent**: 3 hours 23 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: innercise|0:47:59
+
+<hr>
+
+### Day 29: 2019-05-04 Thursday
+
+**Time spent**: 1 hours 30 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: innercise|1:30:42
+
 <hr>

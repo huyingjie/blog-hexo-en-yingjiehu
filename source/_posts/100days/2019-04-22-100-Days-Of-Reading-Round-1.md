@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 100 Days Of Reading (Round 1)
+title: 100 Days Of Reading Skills(Round 1)
 date: 2019-04-22
 tags:
 	- 100 Days Challenge
-	- Speed Reading
+	- Reading Skills
 categories:
-	- [100 Days Challenge, Speed Reading]
-permalink: 100-Days-Of-Reading-Round-1
+	- [100 Days Challenge, Reading Skills]
+permalink: 100-Days-Of-Reading-Skills-Round-1
 ---
-Main Commitment: I will practice skills of speed reading every day
+Main Commitment: I will practice skills of reading skills every day
 
 Start Date: 2019-04-22
 
@@ -17,11 +17,11 @@ Start Date: 2019-04-22
 
 ## Background
 
-I read several books for speed reading in the past. However, there are no systematic ways for me to practice the techniques mentioned in the book.
+I read several books for reading skills in the past. However, there are no systematic ways for me to practice the techniques mentioned in the book.
 
-Recently, inspiration came that 100-Days-of-Challenge can be an excellent way to track the process of training in speed reading.
+Recently, inspiration came that 100-Days-of-Challenge can be an excellent way to track the process of training in reading skills.
 
-The ultimate goal is that speed reading can be one of my habits and all skills of reading become a chunk.
+The ultimate goal is that reading skills can be one of my habits and all skills of reading become a chunk.
 
 Skills to be practiced
 
@@ -32,7 +32,7 @@ Skills to be practiced
 
 ## Rules
 
-1. I will do anything related to Speed Reading every day.
+1. I will do anything related to Reading Skills every day.
 4. I will track my progress here and push to GitHub.
 5. I will only skip a day if something important comes up. And when I resume, I won’t count the day I skipped as one of my 100 days.
 
@@ -164,7 +164,7 @@ It is a big milestone. In the past, I feared to summarize. Initially, I tried to
 
 <hr>
 
-### Day 7: 2019-04-27 Saturday
+### Day 6: 2019-04-27 Saturday
 
 **Time spent**: 4 hours 6 minutes
 
@@ -185,16 +185,85 @@ Summarizing paragraphs requires more mental energy.
 <hr>
 
 
-### Day 8: 2019-04-28 Sunday
+### Day 7: 2019-04-28 Sunday
 
 **Today's Progress (achievements and frustrations)**:
 
 * 2 times per line
 * summarize each paragraph
 
-	* Your Daily Brain
-	* A Mind for Numbers
-	* the Now Habit
-	* Your Brain at Work
-	* the Happiness Trap
+* Your Daily Brain
+* A Mind for Numbers
+* the Now Habit
+* Your Brain at Work
+* the Happiness Trap
+<hr>
+
+### Day 8: 2019-05-01 Wednesday
+
+**Time spent**: 30 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+* 2 times per line
+* summarize each paragraph
+
+Progress|Length of Time
+---|---
+Read book: A Mind for Numbers|0:14:05
+Read book: the brain changes itself|0:00:41
+Read book: how to read a book|0:15:18
+
+<hr>
+
+### Day 9: 2019-05-02 Thursday
+
+**Time spent**: 2 hours 16 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+* 2 times per line
+* summarize each paragraph
+
+Progress|Length of Time
+---|---
+Read book: A Mind for Numbers|2:05:03
+Read book: how to read a book|0:11:20
+
+<hr>
+
+### Day 10: 2019-05-03 Friday
+
+**Time spent**: 2 hours 16 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+* 2 times per line
+* summarize each paragraph
+
+Progress|Length of Time
+---|---
+Read book: innercise|0:47:59
+
+<hr>
+
+### Day 11: 2019-05-04 Saturday
+
+**Time spent**: 5 hours 18 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+* innercise
+	* 2 times per line
+	* summarize each paragraph
+* Inspectional Reading
+
+Progress|Length of Time
+---|---
+Read book: innercise|1:30:42
+Inspectional Reading: paper|3:47:37
+
+**Thoughts and Emotions:**
+
+Inspectional Reading is tough for me. There are lots of information I did not know in the paper. I have to use willpower to resist searching unknown stuff and to try to focus on known materials.
 <hr>

@@ -38,7 +38,7 @@ I finished [the first round of the 100-day-challenge on 2019-03-25](/100-Days-Of
 
 1. [1 Day: 2019-03-25 Monday](#Day-1-2019-03-25-Monday)
 2. [7 Days: 2019-03-31 Sunday](#Day-7-2019-03-31-Sunday)
-3. 30 Days
+3. [30 Days: 2019-04-29 Monday](#Day-30-2019-04-29-Monday)
 4. 60 Days
 5. 90 Days
 6. 100 Days
@@ -371,7 +371,7 @@ Read FI blog | 0:22:28
 
 <hr>
 
-### Day 21: 2019-04-20 Saturday
+### Day 22: 2019-04-20 Saturday
 
 **Time spent**: 9 minutes
 
@@ -384,7 +384,7 @@ Write 100 Days of Financial Independence (Round 2)|0:05:28
 
 <hr>
 
-### Day 22: 2019-04-21 Sunday
+### Day 23: 2019-04-21 Sunday
 
 **Time spent**: 1 hour 3 minutes
 
@@ -397,7 +397,7 @@ Read FI blog|0:01:25
 
 <hr>
 
-### Day 23: 2019-04-22 Monday
+### Day 24: 2019-04-22 Monday
 
 **Time spent**: 15 minutes
 
@@ -411,7 +411,7 @@ Read book: Mutual Funds For Dummies|0:06:00
 
 <hr>
 
-### Day 24: 2019-04-23 Tuesday
+### Day 25: 2019-04-23 Tuesday
 
 **Time spent**: 4 hours 47 minutes
 
@@ -426,7 +426,7 @@ Draw|0:08:07
 
 <hr>
 
-### Day 25: 2019-04-24 Wednesday
+### Day 26: 2019-04-24 Wednesday
 
 **Time spent**: 4 hours 47 minutes
 
@@ -441,7 +441,7 @@ Draw|0:10:07
 
 <hr>
 
-### Day 26: 2019-04-25 Thursday
+### Day 27: 2019-04-25 Thursday
 
 **Time spent**: 4 minutes
 
@@ -452,7 +452,7 @@ Progress|Length of Time
 Input transaction|0:04:47
 <hr>
 
-### Day 27: 2019-04-27 Saturday
+### Day 28: 2019-04-27 Saturday
 
 **Time spent**: 1 hour 40 minutes
 
@@ -463,4 +463,104 @@ Progress|Length of Time
 Consider to sell and buy stock|1:29:22
 Draw|0:11:21
 
+<hr>
+
+### Day 29: 2019-04-27 Saturday
+
+**Time spent**: 1 hour 40 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|1:29:22
+Draw|0:11:21
+
+<hr>
+
+### Day 30: 2019-04-29 Monday
+
+**Time spent**: 22 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Input transaction |0:04:34
+Read FI blog|0:13:23
+Write 100 Days of Financial Independence (Round 2)|0:04:28
+
+<hr>
+
+### Day 31: 2019-04-30 Tuesday
+
+**Time spent**: 4 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:01:56
+Input transaction|0:02:51
+
+<hr>
+
+### Day 32: 2019-05-01 Wednesday
+
+**Time spent**: 1 hour 36 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:09:09
+Input transaction|0:10:02
+Read FI blog|0:06:40
+Search how to transfer money from Vanguard to IB|0:21:44
+Write 100 Days of Financial Independence (Round 2)|0:02:33
+Write monthly post|0:32:07
+Draw|0:14:32
+
+<hr>
+
+### Day 33: 2019-05-02 Tuesday
+
+**Time spent**: 1 hour 33 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Ask IB how to deactivate verification|0:09:26
+Consider to sell and buy stock|0:56:49
+Input transaction|0:07:32
+Read FI blog||:01:46
+Search why IB is unsuccessfully transferred|0:07:04
+Write 100 Days of Financial Independence (Round 2)|0:02:02
+Draw|0:09:11
+
+<hr>
+
+### Day 34: 2019-05-03 Wednesday
+
+**Time spent**: 14 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Input transaction|0:02:34
+Draw|0:12:21
+
+<hr>
+
+### Day 35: 2019-05-04 Thursday
+
+**Time spent**: 55 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:55:23
 <hr>

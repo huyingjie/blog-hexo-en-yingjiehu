@@ -144,9 +144,44 @@ I am happy that finally there is a website for Literary Chinese for myself.
 * 骐骥一跃,不能十步.驽马十驾,功在不舍
 <hr>
 
-### Day 11: 2019-04-26 Monday
+### Day 11: 2019-04-29 Monday
 
 **Today's Progress (achievements and frustrations)**:
 
 * 锲而舍之, 朽木不折; 锲而不舍,金石可镂.
+<hr>
+
+### Day 12: 2019-04-30 Tuesday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 蚓无爪牙之利，筋骨之强
+<hr>
+
+### Day 13: 2019-05-01 Wednesday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 上食埃土,下饮黄泉, 用心一也
+<hr>
+
+### Day 14: 2019-05-02 Thursday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 蟹八跪而二螯，非蛇鳝之穴
+<hr>
+
+### Day 15: 2019-05-04 Saturday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 无可寄托者，用心躁也。
+<hr>
+
+### Day 16: 2019-05-05 Sunday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 孙子曰：兵者，国之大事，死生之地，存亡之道，不可不察也。
 <hr>
