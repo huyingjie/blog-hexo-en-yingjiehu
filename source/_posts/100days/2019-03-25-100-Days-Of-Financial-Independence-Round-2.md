@@ -523,7 +523,7 @@ Draw|0:14:32
 
 <hr>
 
-### Day 33: 2019-05-02 Tuesday
+### Day 33: 2019-05-02 Thursday
 
 **Time spent**: 1 hour 33 minutes
 
@@ -541,7 +541,7 @@ Draw|0:09:11
 
 <hr>
 
-### Day 34: 2019-05-03 Wednesday
+### Day 34: 2019-05-03 Friday
 
 **Time spent**: 14 minutes
 
@@ -554,7 +554,7 @@ Draw|0:12:21
 
 <hr>
 
-### Day 35: 2019-05-04 Thursday
+### Day 35: 2019-05-04 Saturday
 
 **Time spent**: 55 minutes
 
@@ -563,4 +563,153 @@ Draw|0:12:21
 Progress|Length of Time
 ---|---
 Consider to sell and buy stock|0:55:23
+<hr>
+
+### Day 36: 2019-05-05 Sunday
+
+**Time spent**: 24 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:04:08
+Read FI blog|0:12:40
+Write 100 Days of Financial Independence (Round 2)|0:07:42
+<hr>
+
+### Day 37: 2019-05-06 Monday
+
+**Time spent**: 1 hour 43 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|1:02:57
+Input transaction|0:28:10
+Draw|0:11:59
+
+<hr>
+
+### Day 38: 2019-05-07 Tuesday
+
+**Time spent**: 1 hour 43 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:53:19
+Input transaction|0:11:33
+Read FI blog|0:08:15
+Draw|0:13:47
+
+<hr>
+
+### Day 39: 2019-05-08 Wednesday
+
+**Time spent**: 1 hour 15 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:49:55
+Input transaction|0:15:55
+Draw|0:10:05
+
+<hr>
+
+### Day 40: 2019-05-09 Thursday
+
+**Time spent**: 1 hour 15 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy |1:31:23
+Draw|0:12:38
+
+<hr>
+
+### Day 41: 2019-05-10 Friday
+
+**Time spent**: 59 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:29:03
+Input transaction|0:11:50
+Read FI blog|0:04:00
+Draw|0:15:06
+<hr>
+
+### Day 42: 2019-05-11 Saturday
+
+**Time spent**: 39 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:39:53
+
+<hr>
+
+### Day 43: 2019-05-13 Monday
+
+**Time spent**: 39 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:42:52
+Input transaction|0:07:55
+Draw|0:15:56
+
+<hr>
+
+### Day 44: 2019-05-14 Thursday
+
+**Time spent**: 39 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|1:18:38
+Input transaction|0:05:06
+Draw|0:08:45
+<hr>
+
+### Day 45: 2019-05-17 Friday
+
+**Time spent**: 1 hour 27 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog|0:17:06
+Draw|1:10:18
+
+<hr>
+
+### Day 46: 2019-05-18 Saturday
+
+**Time spent**: 1 hour 27 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|1:15:52
+Read FI blog|0:00:56
+Draw|0:30:13
+
 <hr>

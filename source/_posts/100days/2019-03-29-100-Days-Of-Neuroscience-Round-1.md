@@ -32,8 +32,8 @@ I already read a lot for over 1 month before the challenge. It shows my passion 
 ## Milestones
 
 1. [1 Day: 2019-03-29 Friday](#Day-1-2019-03-29-Friday)
-2. 7 Days
-3. 30 Days
+2. [7 Days: 2019-04-06 Saturday](#Day-7-2019-04-06-Saturday)
+3. [30 Days: 2019-05-05 Sunday](#Day-30-2019-05-05-Sunday)
 4. 60 Days
 5. 90 Days
 6. 100 Days
@@ -489,9 +489,9 @@ Read book: A Mind for Numbers|2:05:03
 
 <hr>
 
-### Day 28: 2019-05-03 Wednesday
+### Day 28: 2019-05-03 Friday
 
-**Time spent**: 3 hours 23 minutes
+**Time spent**: 47 minutes
 
 **Today's Progress (achievements and frustrations)**:
 
@@ -501,7 +501,7 @@ Read book: innercise|0:47:59
 
 <hr>
 
-### Day 29: 2019-05-04 Thursday
+### Day 29: 2019-05-04 Saturday
 
 **Time spent**: 1 hours 30 minutes
 
@@ -510,5 +510,102 @@ Read book: innercise|0:47:59
 Progress|Length of Time
 ---|---
 Read book: innercise|1:30:42
+
+<hr>
+
+### Day 30: 2019-05-05 Sunday
+
+**Time spent**: 6 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Write 100 Days of Neuroscience|0:06:48
+
+<hr>
+
+### Day 31: 2019-05-06 Monday
+
+**Time spent**: 6 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: innercise|0:13:02
+
+<hr>
+
+### Day 32: 2019-05-07 Tuesday
+
+**Time spent**: 6 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: innercise|0:07:50
+
+<hr>
+
+### Day 33: 2019-05-08 Wednesday
+
+**Time spent**: 6 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: innercise|0:21:07
+Read book: Myelin: The Brain's Supercharger|1:14:00
+
+<hr>
+
+### Day 34: 2019-05-09 Thursday
+
+**Time spent**: 5 hours 14 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: Myelin: The Brain's Supercharger|5:14:49
+
+<hr>
+
+### Day 35: 2019-05-10 Friday
+
+**Time spent**: 5 hours 14 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: Myelin: The Brain's Supercharger|0:14:03
+
+<hr>
+
+### Day 36: 2019-05-11 Saturday
+
+**Time spent**: 5 hours 14 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: innercise|0:18:24
+
+<hr>
+
+### Day 37: 2019-05-13 Monday
+
+**Time spent**: 22 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: Neurosciece for dummies|0:22:06
 
 <hr>

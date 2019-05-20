@@ -66,12 +66,12 @@ This challenge will help me develop the routine to follow stock market closely a
 
 This is the second 100-day-challenge I have finished. It is from 2018-10-28 to 2019-03-24.
 
-Unlike other challenges, I love stocking market. It is easier for me to keep on working every day towards my ultimate goal -- Financial Independence. 
+Unlike other challenges, I love stocking market. It is easier for me to keep on working every day towards my ultimate goal -- Financial Independence.
 
 During the process, I realized
 
 * Options are suitable for my trading style. I can make more without trading.
-* In my current situation, the dividend should not be the primary cash flow even though my ultimate goal is to earn enough dividend to cover living expense. 
+* In my current situation, the dividend should not be the primary cash flow even though my ultimate goal is to earn enough dividend to cover living expense.
 * Earning capital by trading within a range is the most suitable way for me.
 
 I earned more than $\$$1000 from BILI via the trading style used and am very satisfied with this result. It is twice the dividend earned for the 2018 entire year.

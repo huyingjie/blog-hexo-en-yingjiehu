@@ -185,3 +185,17 @@ I am happy that finally there is a website for Literary Chinese for myself.
 
 * 孙子曰：兵者，国之大事，死生之地，存亡之道，不可不察也。
 <hr>
+
+### Day 17: 2019-05-06 Monday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 故经之以五事，校之以计，而索其情
+<hr>
+
+### Day 18: 2019-05-09 Thursday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 一曰道，二曰天，三曰地，四曰将、五曰法。
+<hr>

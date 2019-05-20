@@ -39,7 +39,7 @@ Skills to be practiced
 ## Milestones
 
 1. [1 Day: 2019-04-22 Monday](#Day-1-2019-04-22-Monday)
-2. 7 Days
+2. [7 Days: 2019-04-28 Sunday](#Day-7-2019-04-28-Sunday)
 3. 30 Days
 4. 60 Days
 5. 90 Days
@@ -266,4 +266,136 @@ Inspectional Reading: paper|3:47:37
 **Thoughts and Emotions:**
 
 Inspectional Reading is tough for me. There are lots of information I did not know in the paper. I have to use willpower to resist searching unknown stuff and to try to focus on known materials.
+<hr>
+
+### Day 12: 2019-05-06 Monday
+
+**Time spent**: 1 hours 14 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: innercise|0:13:02
+2.1 Inspectional Reading: paper|1:01:11
+
+<hr>
+
+### Day 13: 2019-05-07 Tuesday
+
+**Time spent**: 7 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: innercise|0:07:50
+
+<hr>
+
+### Day 14: 2019-05-08 Wednesday
+
+**Time spent**: 1 hour 35 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: innercise|0:21:07
+Read book: Myelin: The Brain's Supercharger|1:14:00
+<hr>
+
+### Day 15: 2019-05-09 Thursday
+
+**Time spent**: 5 hour 14 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: Myelin: The Brain's Supercharger|5:14:49
+
+<hr>
+
+### Day 16: 2019-05-10 Friday
+
+**Time spent**: 14 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: Myelin: The Brain's Supercharger|0:14:03
+
+<hr>
+
+### Day 17: 2019-05-11 Saturday
+
+**Time spent**: 18 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: innercise|0:18:24
+
+<hr>
+
+### Day 18: 2019-05-13 Monday
+
+**Time spent**: 22 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: Neurosciece for dummies|0:22:06
+<hr>
+
+### Day 19: 2019-05-14 Tuesday
+
+**Time spent**: 36 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: the gene|0:36:12
+<hr>
+
+### Day 20: 2019-05-15 Wednesday
+
+**Time spent**: 36 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: Genetics 101|0:17:40
+
+<hr>
+
+### Day 21: 2019-05-16 Thursday
+
+**Time spent**: 24 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: Genetics 101|0:03:42
+Read book: signature in the cell|0:21:08
+
+<hr>
+
+### Day 22: 2019-05-17 Friday
+
+**Time spent**: 24 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: Lenin’s genes 7th ed|0:17:38
+
 <hr>
