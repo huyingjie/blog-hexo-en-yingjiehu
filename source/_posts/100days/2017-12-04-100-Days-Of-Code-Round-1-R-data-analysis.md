@@ -2,11 +2,12 @@
 layout: post
 title: "100 Days Of Data Challenge (Round 1)"
 date: 2017-12-11
-tags: 
+tags:
 	- 100 Days Challenge
 	- R
 	- data analysis
-categories: 
+	- Data Science
+categories:
 	- [100 Days Challenge, Data Science]
 	- [Programming Language, R]
 	- Data Science
@@ -47,7 +48,7 @@ A companion project to [100 Days of Reading Paper](100-Days-Of-Reading-Paper-Rou
 6. I will encourage and support at least two people each day in the `#100DaysOfDataScience` challenge on Twitter. I can read at most 5 tweets about `#100DaysOfDataScience` every day. Less is more. Don't spend more than enough time on the social networking website.
 
     3 Options
-    
+
     * Like tweets
     * Leave a comment
     * (optional) Looking at their projects and giving them feedback (no more than 10 minutes per day)
@@ -63,11 +64,11 @@ A companion project to [100 Days of Reading Paper](100-Days-Of-Reading-Paper-Rou
 ## Template for Log
 
 ```
-### Day : 
+### Day :
 
 **Link**: [Github Repo]() | [Project :]()
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 **Thoughts and Emotions**
 
@@ -78,7 +79,7 @@ A companion project to [100 Days of Reading Paper](100-Days-Of-Reading-Paper-Rou
 
 ## LOG
 ### Day 1: 2017-12-17 Sunday
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * import data into R
 
@@ -92,16 +93,16 @@ Today I learned parts of `tidyverse` package in Lynda.com. I thought it was a go
 <hr>
 
 ### Day 2: 2018-01-03 Wednesday
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 One hour work
 
-* Cleaned the dataset column by column 
+* Cleaned the dataset column by column
 * Wrote a Markdown table to record
 
 **Thoughts and Emotions**
 
-I did not finish the cleaning. I know cleaning is faster if I use SAS. 
+I did not finish the cleaning. I know cleaning is faster if I use SAS.
 
 I know the one hour work is not productive. But it gave me less pressure.
 
@@ -118,7 +119,7 @@ Every time I work long hour until burning out, it will make it harder to start w
 
 ### Day 3: 2018-01-05 Friday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 I created [a R package project for beginners](http://rsnippets.com/r/create-a-package-of-personal-toolbox/) on RSnippets.com. It is to build a utility package for personal usage.
 
@@ -128,7 +129,7 @@ I started to make one.
 
 I did not do this challenge again. The small project can get me started. This is the reason I did a project for beginners, not a big project.
 
-I feel good at the end of one-hour session. 
+I feel good at the end of one-hour session.
 
 **Tomorrow's plan**
 
@@ -142,12 +143,12 @@ I feel good at the end of one-hour session.
 
 ### Day 4: 2018-01-06 Saturday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * Read the post about how changing location will affect the linear regression result.
 * Reproduce the example from `Sean`
 
-I created 2 toy examples: 
+I created 2 toy examples:
 
 1. $y = 0.2x$
 1. $y = 0.2x+x^2$
@@ -156,27 +157,27 @@ $x$ is uniform(-0.5,0.5). $x$ in the program means uniform(0,1).
 
 * If the true model is linear
 	![](location affects coefficients linear.png)
-		
+
 	The above graph shows fitted models look almost the same when the location of $x$ is changed.
-	
+
 	![](location affects coefficients linear2.png)
-	
+
 	The above graph shows the intercept will decrease when the location of $x$ becomes bigger. This conforms to the mathematical proof.
-	
-	$$y = 0.2x = (0.2-0.2a) + (x+0.2a)$$ 
-	
-	$0.2-0.2a$ is the intercepts after $x$ moves. It has the linear relationship with $a$. 
-	
+
+	$$y = 0.2x = (0.2-0.2a) + (x+0.2a)$$
+
+	$0.2-0.2a$ is the intercepts after $x$ moves. It has the linear relationship with $a$.
+
 	However, in theory, the coefficient of $x$ remains the same. In fact, it changes a little bit.
 
 * If the true model is non-linear
 	![](location affects coefficients quadratic.png)
 
 	![](location affects coefficients quadratic2.png)
-	
+
 	The above two graphs show that the location has big impact on cofficients for non-linear models.
-	
-	1. Around 800 and -800, `lm` fails to estimate a coefficient for the quadratic term, & gives a warning about a singular design matrix. 
+
+	1. Around 800 and -800, `lm` fails to estimate a coefficient for the quadratic term, & gives a warning about a singular design matrix.
 	2. The relationship between intercept and location is not linear anymore.
 
 In summary, if the scale of predictors is big, such as over 800, it is a good choice to center them first before performing any data analysis.
@@ -268,9 +269,9 @@ I feel bad that they were supposed to take less time.
 
 <hr>
 
-### Day 5: 2018-01-15 Monday 
+### Day 5: 2018-01-15 Monday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * Data analysis for over 3 hours.
 
@@ -280,9 +281,9 @@ The most accomplished thing is to find how to reduce variables required to be cr
 
 When fitting each model, I have to create intermediate variables, such as a variable `fit` to keep the information of fitted models. Every time, I have to think hard to give each variable a different name, or make sure I run all code if the same variable names are reused.
 
-The intermediate variables are all global variables. It is the user's responsibility to delete unused variables. 
+The intermediate variables are all global variables. It is the user's responsibility to delete unused variables.
 
-It is worse that variables like `i` or `j` created at the beginning of the loop are not temporary variables! 
+It is worse that variables like `i` or `j` created at the beginning of the loop are not temporary variables!
 
 Now I found a solution: use `with` function.
 
@@ -299,59 +300,59 @@ Let me use `iris` dataset as an example. By the way, `iris` is a global variable
 6          5.4         3.9          1.7         0.4  setosa
 ```
 
-For example, I want to fit two logistic models. They include different independent variables. Model 1 uses `length` and `width` while Model 2 uses `width` only. 
+For example, I want to fit two logistic models. They include different independent variables. Model 1 uses `length` and `width` while Model 2 uses `width` only.
 
 ```r
 
 # Model 1
-fit <- glm(Species ~ Sepal.Length + Sepal.Width, 
-	family=binomial(link='logit'), 
+fit <- glm(Species ~ Sepal.Length + Sepal.Width,
+	family=binomial(link='logit'),
 	data = iris,
 	control = list(maxit = 50))
 summary(fit)
 
 # Model 2
-fit <- glm(Species ~  Sepal.Width, 
-	family=binomial(link='logit'), 
-	data = iris, 
+fit <- glm(Species ~  Sepal.Width,
+	family=binomial(link='logit'),
+	data = iris,
 	control = list(maxit = 50))
 summary(fit)
 ```
 
 Two models used the same variable to `fit` to save the information from `glm`. `fit` is a global variable. In fact, `fit` is an intermediate variable and is not useful at the end of data analysis. This is also the reason to reuse it in a different model. It is a poor coding style. I have several choices.
 
-1. Use a different name for `fit` for different models. 
+1. Use a different name for `fit` for different models.
 
     Usually, I will fit a lot of models during data analysis. Keeping track of the model fit requires patience.
-    
+
 2. Set `fit` as a local variable in a function
-    
+
     Write a function for each model? The same problem exists as above: keeping track of the function requires patience.
-    
+
 3. Set `fit` as a local variable within `with` function.
 
     My choice.
-    
+
 Let me rewrite the code.
 
 ```r
 with(iris, {
-  fit <- glm(Species ~ Sepal.Length + Sepal.Width, 
-  	family=binomial(link='logit'), 
-  	data = iris, 
+  fit <- glm(Species ~ Sepal.Length + Sepal.Width,
+  	family=binomial(link='logit'),
+  	data = iris,
   	control = list(maxit = 50))
   print(summary(fit))
 }
 )
 
 with(iris, {
-  fit <- glm(Species ~  Sepal.Width, 
-  	family=binomial(link='logit'), 
-  	data = iris, 
+  fit <- glm(Species ~  Sepal.Width,
+  	family=binomial(link='logit'),
+  	data = iris,
   	control = list(maxit = 50))
   print(summary(fit))
 })
-```	
+```
 
 The `fit` variable in each `with` function will not affect each other. It will disappear when `with` ends. Excellent!
 
@@ -367,9 +368,9 @@ The `fit` variable in each `with` function will not affect each other. It will d
 
 * [ ]Read source code of Relaxed Lasso's R package
 
-### Day 6: 2018-01-29 Monday 
+### Day 6: 2018-01-29 Monday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * data analysis
 
@@ -379,7 +380,7 @@ I am happy that I created [a website](http://notebook.yingjiehu.com/) for my sta
 
 When I copy the code from the notebook to do data analysis, I feel the time spent is worthwhile.
 
-It is a delimma. People usually think we should write functions to reduce the reduandancy code. A lot of code in data analysis is used only once or will be different a little bit every time. 
+It is a delimma. People usually think we should write functions to reduce the reduandancy code. A lot of code in data analysis is used only once or will be different a little bit every time.
 
 **Tomorrow's plan**
 
@@ -387,9 +388,9 @@ It is a delimma. People usually think we should write functions to reduce the re
 
 <hr>
 
-### Day 7: 2018-02-01 Thursday 
+### Day 7: 2018-02-01 Thursday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * data analysis
 
@@ -397,7 +398,7 @@ It is a delimma. People usually think we should write functions to reduce the re
 
 In recent years, I paid attention to reproducible research, i.e, reproducible report. Or it means whether the code can produce the same result after several years. The answer usually is "No". There is only one reason: we cannot know whether the future packages/R version used now will be modified to be so differently from the current version or whether they stop maintainence and cannot be compatible with future version of other packages.
 
-Let me simplify the problem. Assume the failure rate of each package follows binomial distribution with probability of $p$. $p$ is the same for all packages. 
+Let me simplify the problem. Assume the failure rate of each package follows binomial distribution with probability of $p$. $p$ is the same for all packages.
 
 If I use n packages in a data analysis project, the probability of code can be reproduced in the future is $(1-p)^n$. R itself can be considered as a package, too.
 
@@ -409,9 +410,9 @@ $(1-p)^n$ becomes smaller if $n$ increases; more packages in the research decrea
 
 <hr>
 
-### Day 8: 2018-02-02 Friday 
+### Day 8: 2018-02-02 Friday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * data analysis
 
@@ -425,15 +426,15 @@ To reduce the number of packages used, I plan to write some small snippets code 
 
 <hr>
 
-### Day 9: 2018-02-04 Sunday 
+### Day 9: 2018-02-04 Sunday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * data analysis
 
 **Thoughts and Emotions**
 
-It is hard to get started. 
+It is hard to get started.
 
 I start reading the textbook [Applied Linear Statistical Models 5th ed](http://amzn.to/2BbcwXB) which is the book for my master program. I feel warm from the book and optimistic about the statistics study.
 
@@ -441,10 +442,10 @@ I used the table template from my first published paper and constructed the tabl
 
 <hr>
 
-### Day 10: 2018-02-06 Monday 
+### Day 10: 2018-02-06 Monday
 
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * data analysis
 
@@ -454,7 +455,7 @@ I was absorbed in doing data analysis + making tables.
 
 Making a satisfying table is time-consuming. It can take as much time as creating models with R.
 
-I am annoyed by the repeated boring work, such as making tables. The solution is to play music in the background. 
+I am annoyed by the repeated boring work, such as making tables. The solution is to play music in the background.
 
 Background music is a must for the mind to be absorbed in data analysis because there is a lot of tedious stuff in the process.
 
@@ -464,9 +465,9 @@ Background music is a must for the mind to be absorbed in data analysis because 
 
 <hr>
 
-### Day 11: 2018-02-06 Tuesday 
+### Day 11: 2018-02-06 Tuesday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * data analysis
 * Made 3 tables
@@ -477,7 +478,7 @@ Background music is a must for the mind to be absorbed in data analysis because 
 
 I cleaned over 300 emails on medical center's email inbox. It is boring work. As I said yesterday, the background music is a must for the scenario. Otherwise, "impatience" and intolerable emotion arose.
 
-I was amazed that I finished the things planned yesterday. These two days, I am in the zone though depression sometimes attacked me. 
+I was amazed that I finished the things planned yesterday. These two days, I am in the zone though depression sometimes attacked me.
 
 **Tomorrow's plan**
 
@@ -488,13 +489,13 @@ I was amazed that I finished the things planned yesterday. These two days, I am 
 
 ### Day 12: 2018-02-22 Thursday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * Ran and edited code one year ago
 
 **Thoughts and Emotions**
 
-The old code missed two functions. I have to rewrite. 
+The old code missed two functions. I have to rewrite.
 
 **Tomorrow's plan**
 
@@ -504,7 +505,7 @@ The old code missed two functions. I have to rewrite.
 
 ### Day 13: 2018-02-23 Friday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * Found the mistakes why the old code did not work
 
@@ -520,10 +521,10 @@ One typo caused error!
 
 ### Day 14: 2018-02-26 Sunday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * Run code
-* Found another error 
+* Found another error
 
 **Thoughts and Emotions**
 
@@ -537,7 +538,7 @@ I was so happy that code could run again. All models produced the same with resu
 
 ### Day 15: 2018-03-01 Thursday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * Found the error why parts of code generated different results
 * Met supervisor
@@ -546,9 +547,9 @@ I was so happy that code could run again. All models produced the same with resu
 
 This week is so busy.
 
-After rereading the code, I found the reason was the data deleted by `complete.cases` function in R. 
+After rereading the code, I found the reason was the data deleted by `complete.cases` function in R.
 
-If we use only 3 variables, then `complete.cases` function should be applied to the dataset containing 3 variables, not to the whole data. 
+If we use only 3 variables, then `complete.cases` function should be applied to the dataset containing 3 variables, not to the whole data.
 
 After correcting, happily, the result is the same as last year's report.
 
@@ -561,7 +562,7 @@ After correcting, happily, the result is the same as last year's report.
 
 ### Day 16: 2018-06-04 Monday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 2 hour coding
 **Thoughts and Emotions**
@@ -570,9 +571,9 @@ Before doing things, thinking increased anxiety. Thinking more, more anxiety. Wh
 
 <hr>
 
-### Day 17: 2018-06-05 Tuesday 
+### Day 17: 2018-06-05 Tuesday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 2 and half coding and writing
 
@@ -584,7 +585,7 @@ Today has a good state. I can fully focus on doing things.
 
 ### Day 18: 2018-06-28 Wednesday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 Coding and writing
 
@@ -596,24 +597,24 @@ Redo the analysis and hate typing the results into the word document because of 
 
 ### Day 19: 2018-07-05 Thursday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 Coding and writing
 
 **Thoughts and Emotions**
 
-I have big progress today. 
+I have big progress today.
 
 Foward and backward stepwise logistic regression is usually used to select variables. The odds ratio are in the results. However, there are variables which are not significant in the final model. The reason is that stepwise uses AIC and fitting models use loglikelihood.
 
-All people in stackexchange recommended to use Lasso instead of stepwise. **However, the coefficient generated by Lasso cannot be interpreted as odds ration.** 
+All people in stackexchange recommended to use Lasso instead of stepwise. **However, the coefficient generated by Lasso cannot be interpreted as odds ration.**
 
 My conclusion: there is no perfect answer so far.
 <hr>
 
 ### Day 20: 2018-11-28 Thursday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * Wrote R code to download dividend
 
@@ -630,9 +631,9 @@ A lot of functions of Google Finance in Google sheets are broken. I have to use 
 
 ### Day 21: 2018-11-04 Sunday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
-*  Wrote R code to calcluate ratio and order by ratio decreasingly. 
+*  Wrote R code to calcluate ratio and order by ratio decreasingly.
 
 **Thoughts and Emotions**
 
@@ -640,28 +641,28 @@ A milestone to achieve financial independence!
 
 ### Day 22: 2018-11-05 Monday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * Edited R code because dataset is changed
 
 ### Day 23: 2018-11-10 Friday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * Wrote R code to get beta
 
 
 ### Day 24: 2018-11-16 Friday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
 * Edited R code for transaction
 
-### Day 22: 2018-11-27 Monday
+### Day 25: 2018-11-27 Monday
 
-**Today's Progress (achievements and frustrations)**: 
+**Today's Progress (achievements and frustrations)**:
 
-* Reran the code 
+* Reran the code
 * Checked results
 * Edited code to change graphs
 
@@ -673,3 +674,45 @@ I started to use Toggl to track time. It is a fantastic tool.
 
 <hr>
 
+### Day 26: 2019-05-13 Monday
+
+**Time spent**: 33 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+* Coding
+
+**Thoughts and Emotions**
+
+I like `with()`. It is easier to modify for new purposes.
+<hr>
+
+### Day 27: 2019-05-14 Tuesday
+
+**Time spent**: 1 hour 3 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+* Coding
+
+<hr>
+
+### Day 28: 2019-05-16 Thursday
+
+**Time spent**: 23 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+* Coding
+
+<hr>
+
+### Day 29: 2019-05-17 Friday
+
+**Time spent**: 1 hour 3 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+* Coding
+
+<hr>

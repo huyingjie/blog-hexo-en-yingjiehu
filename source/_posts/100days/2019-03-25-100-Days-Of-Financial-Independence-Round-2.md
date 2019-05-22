@@ -713,3 +713,33 @@ Read FI blog|0:00:56
 Draw|0:30:13
 
 <hr>
+
+### Day 47: 2019-05-20 Monday
+
+**Time spent**: 1 hour 14 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:44:03
+Input transaction|0:06:47
+Read FI blog|0:00:31
+Write 100 Days of Financial Independence (Round 2)|0:13:34
+Draw|0:09:50
+
+<hr>
+
+### Day 48: 2019-05-21 Tuesday
+
+**Time spent**: 1 hour 14 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:22:10
+Input transaction|0:02:38
+Draw|0:25:02
+
+<hr>

@@ -609,3 +609,28 @@ Progress|Length of Time
 Read book: Neurosciece for dummies|0:22:06
 
 <hr>
+
+### Day 38: 2019-05-20 Monday
+
+**Time spent**: 35 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: the brain changes itself|0:30:18
+Write 100 Days of Neuroscience|0:05:14
+
+<hr>
+
+### Day 39: 2019-05-21 Tuesday
+
+**Time spent**: 1 hour 10 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: the brain changes itself|1:10:27
+
+<hr>

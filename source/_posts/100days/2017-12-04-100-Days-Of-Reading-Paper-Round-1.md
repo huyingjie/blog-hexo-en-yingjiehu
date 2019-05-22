@@ -159,3 +159,53 @@ Reading paper is on the top list. Then I did it. I feel a little bit relief. But
 
 * Read paper and write proposal 2 hours
 <hr>
+
+### Day 11: 2019-05-04 Saturday
+
+**Time spent**: 3 hours 47 minutes
+<hr>
+
+### Day 12: 2019-05-05 Sunday
+
+**Time spent**: 1 hours 35 minutes
+<hr>
+
+### Day 13: 2019-05-06 Monday
+
+**Time spent**: 1 hours 1 minute
+<hr>
+
+### Day 14: 2019-05-11 Saturday
+
+**Time spent**: 4 hours 23 minutes
+<hr>
+
+### Day 15: 2019-05-12 Sunday
+
+**Time spent**: 6 hours 33 minutes
+<hr>
+
+### Day 16: 2019-05-13 Monday
+
+**Time spent**: 3 hours 15 minutes
+<hr>
+
+### Day 17: 2019-05-14 Tuesday
+
+**Time spent**: 1 hours 55 minutes
+<hr>
+
+### Day 18: 2019-05-15 Wednesday
+
+**Time spent**: 5 hours 58 minutes
+<hr>
+
+### Day 19: 2019-05-16 Thursday
+
+**Time spent**: 7 minutes
+<hr>
+
+### Day 20: 2019-05-17 Friday
+
+**Time spent**: 47 minutes
+<hr>

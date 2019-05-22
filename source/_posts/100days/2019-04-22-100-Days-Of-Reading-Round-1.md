@@ -399,3 +399,27 @@ Progress|Length of Time
 Read book: Lenin’s genes 7th ed|0:17:38
 
 <hr>
+
+### Day 23: 2019-05-20 Monday
+
+**Time spent**: 30 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: the brain changes itself|0:30:18
+
+<hr>
+
+### Day 24: 2019-05-21 Tuesday
+
+**Time spent**: 1 hour 10 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: the brain changes itself|1:10:27
+
+<hr>
