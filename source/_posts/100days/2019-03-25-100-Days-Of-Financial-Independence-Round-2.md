@@ -743,3 +743,425 @@ Input transaction|0:02:38
 Draw|0:25:02
 
 <hr>
+
+### Day 49: 2019-05-22 Wednesday
+
+**Time spent**: 1 hour 47 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|1:00:06
+Input transaction|0:02:32
+Read FI blog|0:11:40
+Write 100 Days of Financial Independence (Round 2)|0:01:36
+Draw|0:31:11
+
+<hr>
+
+### Day 50: 2019-05-23 Thursday
+
+**Time spent**: 6 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Input transaction|0:06:15
+
+<hr>
+
+### Day 51: 2019-05-24 Friday
+
+**Time spent**: 1 hour 6 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:47:19
+Input transaction|0:03:47
+Draw|0:15:02
+
+<hr>
+
+### Day 52: 2019-05-29 Wednesday
+
+**Time spent**: 55 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:01:25
+Input transaction|0:03:00
+Read FI blog|0:18:39
+Draw|0:32:38
+
+<hr>
+
+### Day 53: 2019-05-30 Thursday
+
+**Time spent**: 20 seconds
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog|0:00:20
+
+<hr>
+
+### Day 54: 2019-06-04 Tuesday
+
+**Time spent**: 0:29:04
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:06:44
+Input transaction|0:12:18
+Write 100 Days of Financial Independence (Round 2)|0:10:02
+
+<hr>
+
+### Day 55: 2019-06-05 Wednesday
+
+**Time spent**: 0:05:43
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Input transaction|0:01:04
+Read FI blog|0:04:39
+
+<hr>
+
+### Day 56: 2019-06-14 Friday
+
+**Time spent**: 0:05:22
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Input transaction
+0:05:22
+
+<hr>
+
+### Day 57: 2019-06-19 Wednesday
+
+**Time spent**: 0:14:13
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:04:14
+Input transaction|0:09:59
+
+<hr>
+
+### Day 58: 2019-06-20 Thursday
+
+**Time spent**: 0:54:56
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Input transaction|0:39:15
+Read FI blog|0:15:41
+
+
+<hr>
+
+### Day 59: 2019-06-20 Thursday
+
+**Time spent**: 0:33:39
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog|0:33:39
+
+<hr>
+
+### Day 60: 2019-06-21 Friday
+
+**Time spent**: 0:33:39
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog|0:33:39
+
+<hr>
+
+### Day 61: 2019-06-22 Saturday
+
+**Time spent**: 0:19:46
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog|0:15:26
+Draw|0:04:20
+
+<hr>
+
+### Day 62: 2019-06-23 Sunday
+
+**Time spent**: 1:16:33
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:39:10
+Input transaction|0:18:18
+Read FI blog|0:03:55
+Write monthly post|0:15:10
+
+<hr>
+
+### Day 63: 2019-06-24 Monday
+
+**Time spent**: 0:58:47
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Input transaction|0:16:43
+Read FI blog|0:42:04
+
+<hr>
+
+### Day 64: 2019-06-26 Wednesday
+
+**Time spent**: 0:48:32
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:24:12
+Input transaction|0:07:55
+Read FI blog|0:16:25
+
+
+<hr>
+
+### Day 65: 2019-06-28 Friday
+
+**Time spent**: 0:35:50
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:04:18
+Input transaction|0:22:08
+Read FI blog|0:09:24
+
+
+<hr>
+
+### Day 66: 2019-07-02 Tuesday
+
+**Time spent**: 0:08:03
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Input transaction|0:08:03
+
+
+<hr>
+
+### Day 67: 2019-07-02 Tuesday
+
+**Time spent**: 0:03:59
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Input transaction|0:03:59
+
+
+<hr>
+
+### Day 68: 2019-07-24 Wednesday
+
+**Time spent**: 0:33:59
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:33:59
+
+<hr>
+
+### Day 69: 2019-07-24 Wednesday
+
+**Time spent**: 0:33:59
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:33:59
+
+<hr>
+
+### Day 70: 2019-07-25 Thursday
+
+**Time spent**: 0:10:16
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:10:16
+
+<hr>
+
+### Day 71: 2019-08-04 Sunday
+
+**Time spent**: 1:18:48
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:23:33
+Read FI blog|0:55:15
+
+<hr>
+
+### Day 72: 2019-08-05 Monday
+
+**Time spent**: 1:47:36
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:09:36
+Input transaction|0:59:14
+Read FI blog|0:38:46
+
+<hr>
+
+### Day 73: 2019-08-07 Wednesday
+
+**Time spent**: 0:52:12
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:05:44
+Input transaction|0:39:49
+Read FI blog|0:06:39
+
+<hr>
+
+### Day 74: 2019-08-08 Thursday
+
+**Time spent**: 1:24:38
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:07:28
+Input transaction|0:02:30
+Draw|1:14:40
+
+<hr>
+
+### Day 75: 2019-08-09 Friday
+
+**Time spent**: 2:00:25
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Input transaction|0:07:03
+Read FI blog|0:06:15
+Write 100 Days of Financial Independence (Round 2)|0:23:57
+Write monthly post|1:09:57
+Draw|0:13:13
+
+<hr>
+
+### Day 76: 2019-08-10 Saturday
+
+**Time spent**: 0:08:13
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog|0:06:01
+Write 100 Days of Financial Independence (Round 2)|0:02:12
+
+<hr>
+
+### Day 77: 2019-08-12 Monday
+
+**Time spent**: 0:11:14
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog|0:11:14
+
+<hr>
+
+### Day 78: 2019-08-16 Friday
+
+**Time spent**: 0:11:09
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read FI blog|0:11:09
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

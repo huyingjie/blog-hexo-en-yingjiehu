@@ -634,3 +634,62 @@ Progress|Length of Time
 Read book: the brain changes itself|1:10:27
 
 <hr>
+
+### Day 40: 2019-05-22 Wednesday
+
+**Time spent**: 42 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: the brain changes itself|0:40:30
+Write 100 Days of Neuroscience|0:02:17
+
+<hr>
+
+### Day 41: 2019-05-23 Thursday
+
+**Time spent**: 32 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: the brain changes itself|0:32:41
+
+<hr>
+
+### Day 42: 2019-05-25 Saturday
+
+**Time spent**: 1 hour 13 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: the brain changes itself|1:13:13
+
+<hr>
+
+### Day 43: 2019-05-26 Sunday
+
+**Time spent**: 1 hour 13 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: the brain changes itself|0:14:20
+
+<hr>
+
+### Day 44: 2019-05-31 Friday
+
+**Time spent**: 9 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Read book: Neurosciece for dummies|0:09:52

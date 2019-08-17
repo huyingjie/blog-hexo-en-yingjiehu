@@ -4,7 +4,7 @@ title: "Dividend Income Report | March 2019 | $67.65 | 24.47%"
 date: 2019-04-01
 tags:
 - VMMXX
-- VFIAX
+- VFINX
 - VOO
 categories:
 - [Financial Independence, Dividend Income Report]

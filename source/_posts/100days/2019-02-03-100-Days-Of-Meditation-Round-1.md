@@ -318,3 +318,11 @@ If I do not meditate when waking up during the night, then I will play video gam
 
 Even if I meditate when waking up during the night, I still sleep until 11 a.m. My sleep cycle is still not satisfying.
 <hr>
+
+<hr>
+
+### Day 22 2019-08-15 Thursday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Meditation in bed
