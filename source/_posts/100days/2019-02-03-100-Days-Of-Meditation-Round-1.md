@@ -308,7 +308,7 @@ The freqency of recalling the sentences increases. I am very happy to notice it.
 If I do not meditate when waking up during the night, then I will play video games. It is bad.
 <hr>
 
-### Day 21 2019-05-05 Sunday
+### Day 21: 2019-05-05 Sunday
 
 **Today's Progress (achievements and frustrations)**:
 
@@ -319,10 +319,33 @@ If I do not meditate when waking up during the night, then I will play video gam
 Even if I meditate when waking up during the night, I still sleep until 11 a.m. My sleep cycle is still not satisfying.
 <hr>
 
-<hr>
-
-### Day 22 2019-08-15 Thursday
+### Day 22: 2019-08-15 Thursday
 
 **Today's Progress (achievements and frustrations)**:
 
 * Meditation in bed
+
+<hr>
+
+### Day 23: 2019-08-19 Monday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 30-miniute Meditation in bed
+
+**Thoughts and Emotions:**
+
+30 minutes in the morning. Then I slept for a while. It seemed to be a good sleep.
+
+
+<hr>
+
+### Day 24: 2019-08-20 Tuesday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 45-miniute Meditation in bed
+
+**Thoughts and Emotions:**
+
+Meditation was divided into two sections, 28 minutes, and 17 minutes. I did not like both audios. It is hard to imagine "exhale stress."

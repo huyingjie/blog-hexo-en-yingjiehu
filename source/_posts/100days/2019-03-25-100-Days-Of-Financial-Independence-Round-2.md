@@ -1143,25 +1143,15 @@ Progress|Length of Time
 ---|---
 Read FI blog|0:11:09
 
+<hr>
 
+### Day 79: 2019-08-17 Saturday
 
+**Time spent**: 0:06:13
 
+**Today's Progress (achievements and frustrations)**:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Progress|Length of Time
+---|---
+Write 100 Days of Financial Independence (Round 2)|0:06:13
 
