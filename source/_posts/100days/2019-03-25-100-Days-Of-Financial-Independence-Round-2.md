@@ -1155,3 +1155,21 @@ Progress|Length of Time
 ---|---
 Write 100 Days of Financial Independence (Round 2)|0:06:13
 
+<hr>
+
+### Day 80: 2019-08-18 Sunday
+
+**Time spent**: 1:16:33
+
+**Today's Progress (achievements and frustrations)**:
+
+Progress|Length of Time
+---|---
+Consider to sell and buy stock|0:10:07
+Create table|0:41:47
+Input transaction|0:09:42
+Read FI blog|0:13:23
+Write 100 Days of Financial Independence (Round 2)|0:01:34
+
+
+

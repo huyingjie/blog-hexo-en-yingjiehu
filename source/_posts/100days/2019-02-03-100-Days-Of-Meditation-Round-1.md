@@ -349,3 +349,15 @@ Even if I meditate when waking up during the night, I still sleep until 11 a.m. 
 **Thoughts and Emotions:**
 
 Meditation was divided into two sections, 28 minutes, and 17 minutes. I did not like both audios. It is hard to imagine "exhale stress."
+
+<hr>
+
+### Day 25: 2019-08-21 Wednesday
+
+**Today's Progress (achievements and frustrations)**:
+
+* 15-miniute Meditation in bed
+
+**Thoughts and Emotions:**
+
+I slept from 1pm to 5pm tonight. It was a nice long sleep. Recent days, I sleep 1.5-2 hours then wake up. It is hard to resume sleeping.
