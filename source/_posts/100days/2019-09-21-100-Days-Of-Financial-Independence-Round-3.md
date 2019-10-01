@@ -1,17 +1,17 @@
 ---
 layout: post
-title: 100 Days Of Financial Independence (Round 2)
-date: 2019-03-25
+title: 100 Days Of Financial Independence (Round 3)
+date: 2019-09-21
 tags:
 	- 100 Days Challenge
 	- Finance Independence
 categories:
 	- [100 Days Challenge, Financial Independence]
-permalink: 100-Days-Of-Financial-Independence-Round-2
+permalink: 100-Days-Of-Financial-Independence-Round-3
 ---
 Main Commitment: I will keep trading stocks to gain capital.
 
-Start Date: 2019-03-25
+Start Date: 2019-09-21
 
 <!-- more -->
 
@@ -27,7 +27,7 @@ This challenge will help me develop the routine to follow stock market closely a
 
 [http://dsfi.yingjiehu.com](http://dsfi.yingjiehu.com) tracks dividend progress.
 
-I finished [the first round of the 100-day-challenge on 2019-03-25](/100-Days-Of-Financial-Independence-Round-1/). It helped me a lot.
+I finished [the first round of the 100-day-challenge on 2019-03-25](/100-Days-Of-Financial-Independence-Round-1/) and [the second round on 2019-09-20](/100-Days-Of-Financial-Independence-Round-2/). It helped me a lot.
 ## Rules
 
 1. I will study/practice/write trading/draw lines for stocks every day.

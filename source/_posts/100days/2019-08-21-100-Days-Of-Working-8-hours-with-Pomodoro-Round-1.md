@@ -81,3 +81,20 @@ It is easy to start the first Pomodoro. However, it is hard for me to restart if
 * try to finish more Pomodoro
 <hr>
 
+
+### Day 2: 2019-08-29 Thursday
+
+**Time spent**:
+
+**Today's Progress (achievements and frustrations)**:
+
+I read half of The Automatic Millionaire. 
+
+**Thoughts and Emotions:**
+
+I thought it was another book full of cliche. It provided some amazing information and finding.
+
+**Tomorrow's plan**
+
+Finish reading the book. 
+<hr>

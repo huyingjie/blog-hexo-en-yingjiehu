@@ -423,3 +423,14 @@ Progress|Length of Time
 Read book: the brain changes itself|1:10:27
 
 <hr>
+
+
+### Day 25: 2019-08-29 Thursday
+
+**Today's Progress (achievements and frustrations)**:
+
+I read half of The Automatic Millionaire. I thought it was another book full of cliche. It provided some fantastic information and findings.
+
+I did not practice reading skills for a long time. The habit of summarizing each paragraph faded.
+
+<hr>

@@ -21,9 +21,9 @@ I want to train diffused attention to decrease stress level. I do not want to fo
 
 ## Milestones
 
-1. [1 Day (Day 1: 2019-02-03 Sunday)](#Day-1-2019-02-03-Sunday)
-2. [7 Days (Day 7: 2019-03-28 Thursday)](#Day-7-2019-03-28-Thursday)
-3. 30 Days
+1. [Day 1: 2019-02-03 Sunday](#Day-1-2019-02-03-Sunday)
+2. [Day 7: 2019-03-28 Thursday](#Day-7-2019-03-28-Thursday)
+3. [Day 30: 2019-08-30 Friday](#Day-30:-2019-08-30-Friday)
 4. 60 Days
 5. 90 Days
 6. 100 Days
@@ -337,7 +337,6 @@ Even if I meditate when waking up during the night, I still sleep until 11 a.m. 
 
 30 minutes in the morning. Then I slept for a while. It seemed to be a good sleep.
 
-
 <hr>
 
 ### Day 24: 2019-08-20 Tuesday
@@ -361,3 +360,264 @@ Meditation was divided into two sections, 28 minutes, and 17 minutes. I did not 
 **Thoughts and Emotions:**
 
 I slept from 1pm to 5pm tonight. It was a nice long sleep. Recent days, I sleep 1.5-2 hours then wake up. It is hard to resume sleeping.
+
+<hr>
+
+### Day 26: 2019-08-26 Monday
+
+**Time spent**: 60 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+Open Focus|Time (min)
+---|---
+`1 Open_Focus_Practice`|27
+`2 Head_and_Hands_Intro1`|4
+`2 Head_and_Hands_Intro2`|1
+`2 Head_and_Hands_Practice`|28
+
+**Thoughts and Emotions:**
+
+It is the first time to try Open Focus seriously after procrastination for several days.
+
+**Tomorrow's plan**
+
+Try `6 Dissolving_Physical_Emotional_Pain` because I want to relieve emotional pain.
+<hr>
+
+
+### Day 27: 2019-08-27 Tuesday
+
+**Time spent**: 28 minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+`6 Dissolving_Physical_Emotional_Pain`
+
+**Thoughts and Emotions:**
+
+I tried `6 Dissolving_Physical_Emotional_Pain`. I felt sleepy after 10 minutes meditation. 
+
+**Tomorrow's plan**
+
+Try to not sleep
+
+<hr>
+
+### Day 28: 2019-08-28 Wednesday
+
+**Time spent**: 2 hours (including sleep)
+
+**Today's Progress (achievements and frustrations)**:
+
+Open Focus|Time (min)
+---|---
+`1 Open_Focus_Practice`|27
+`2 Head_and_Hands_Intro1`|4
+`2 Head_and_Hands_Intro2`|1
+`2 Head_and_Hands_Practice`|28
+
+**Thoughts and Emotions:**
+
+I tried to open eyes while meditating. I cannot help feeling sleepy. Then the audios were playing while I was sleeping.
+
+**Tomorrow's plan**
+
+Meditate 10 minutes without sleeping
+
+<hr>
+
+### Day 29: 2019-08-29 Thursday
+
+**Time spent**: at least 2 hours
+
+**Today's Progress (achievements and frustrations)**:
+
+* `2 Head_and_Hands_Practice` at least twice
+
+**Thoughts and Emotions:**
+
+For the first time, I can complete one audio without sleep. 
+
+I have tension on the scalp when I have a narrow focus. I am looking for ways to alleviate.
+
+Today I meditated several times. In the morning, after meditation, I didn't fall asleep. In the afternoon, I practiced meditation again. I tended to wake up several times at night. Then I tried to mediate after waking up.
+
+**Tomorrow's plan**
+
+Persist in practice. Progress will be made.
+
+<hr>
+
+
+### Day 30: 2019-08-30 Friday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Meditation in bed
+
+<hr>
+
+### Day 31: 2019-08-31 Saturday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Meditation in bed
+
+<hr>
+
+### Day 32: 2019-09-01 Sunday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Meditation in bed
+
+<hr>
+
+### Day 33: 2019-09-02 Monday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Meditation in bed
+
+<hr>
+
+### Day 34: 2019-09-03 Tuesday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Meditation in bed
+
+<hr>
+
+### Day 35: 2019-09-04 Wednesday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Meditation in bed
+
+<hr>
+
+### Day 36: 2019-09-05 Thursday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Meditation in bed
+
+<hr>
+
+### Day 37: 2019-09-06 Friday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Meditation in bed
+
+<hr>
+
+### Day 38: 2019-09-07 Saturday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Meditation in bed
+
+<hr>
+
+### Day 39: 2019-09-08 Sunday
+
+**Today's Progress (achievements and frustrations)**:
+
+* Meditation in bed
+
+<hr>
+
+
+### Day 40: 2019-09-09 Monday
+
+**Time spent**: at least 1 hour
+
+**Today's Progress (achievements and frustrations)**:
+
+* `2 Head_and_Hands_Practice` twice
+* half of `6 Dissolving_Physical_Emotional_Pain`
+
+**Thoughts and Emotions:**
+
+I did `2 Head_and_Hands_Practice` for the first time and fell asleep. I did again after waking up. 
+
+**Tomorrow's plan**
+
+Persist in practice. Progress will be made.
+
+<hr>
+
+### Day 41: 2019-09-19 Thursday
+
+**Time spent**: several minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+* `2 Head_and_Hands_Practice`
+
+**Thoughts and Emotions:**
+
+I did not sleep well recently and missed meditation for several days. I tried meditating to resume the track. Then I fell asleep within 10 minutes....
+
+**Tomorrow's plan**
+
+`2 Head_and_Hands_Practice`
+
+<hr>
+
+### Day 42: 2019-09-20 Friday
+
+**Time spent**: several minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+`2 Head_and_Hands_Practice` twice
+
+**Thoughts and Emotions:**
+
+In the afternoon, I did `2 Head_and_Hands_Practice` twice and fell asleep within minutes twice.
+
+**Tomorrow's plan**
+
+`2 Head_and_Hands_Practice` twice
+
+<hr>
+
+### Day 43: 2019-09-21 Saturday
+
+**Time spent**: several minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+`2 Head_and_Hands_Practice` twice
+
+**Thoughts and Emotions:**
+
+In the morning, I did `2 Head_and_Hands_Practice` twice and fell asleep within minutes twice.
+
+**Tomorrow's plan**
+
+`2 Head_and_Hands_Practice` twice
+
+<hr>
+
+### Day 44: 2019-09-22 Sunday
+
+**Time spent**: several minutes
+
+**Today's Progress (achievements and frustrations)**:
+
+`2 Head_and_Hands_Practice` twice
+
+**Thoughts and Emotions:**
+
+In the afternoon, I did `2 Head_and_Hands_Practice` twice and fell asleep within minutes twice.
+
+**Tomorrow's plan**
+
+`2 Head_and_Hands_Practice` twice
+
+<hr>
