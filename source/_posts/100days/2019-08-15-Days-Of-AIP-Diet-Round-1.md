@@ -1089,9 +1089,52 @@ Blue texts mean the food or ingredients are not included in the AIP diet.
 	* 饭
 	* 韭黃
 * 晚餐
+	* 饭
+	* 韭黃
+
 
 **Thoughts and Emotions:**
 
 橘子好酸, 还不到吃橘子的时候
+
+<hr>
+
+### Day 40: 2019-10-06 Sunday
+
+**Today's meal (achievements and frustrations)**:
+
+* 早餐
+	* 黄瓜
+	* 枣糕
+	* 香蕉
+	* 泡饭
+* 中餐
+	* 饭
+	* 鸡脚
+	* 萝卜, 猪肉
+* 晚餐
+	* 饭
+	* 鸡脚
+	* 冬瓜, 猪肉
+
+**Thoughts and Emotions:**
+
+枣糕好难吃
+
+<hr>
+
+### Day 41: 2019-10-09 Wednesday
+
+**Today's meal (achievements and frustrations)**:
+
+* 早餐
+	* 泡饭
+	* 橄榄菜
+	* 柚子
+	* 香蕉
+* 中餐
+* 晚餐
+
+**Thoughts and Emotions:**
 
 <hr>

@@ -9,7 +9,7 @@ categories:
 permalink: Dividend-Income-Report-July-2019
 ---
 
-One paid dividends in June.
+One paid dividends in July.
 
 <!-- more -->
 
@@ -25,7 +25,7 @@ I got a 21% YoY increase in dividend in July. The increase is contributed to DRI
 Goal for 2019: Earn $\$$343 in dividend income
 
 1|2|3|4|5|6|7|Total|Completion ratio
----|---|---|
+---|---|---|---|---|---|---|---|---
 $\$$8.55|$\$$15.91|$\$$67.65|$\$$12.32|$\$$7.7|$\$$26.2|$\$$29.43|$\$$167.76|48.9%
 
 ![](Dividend2019.07.png)
